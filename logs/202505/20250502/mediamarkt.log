@@ -1,0 +1,2052 @@
+2025-05-02 12:26:34,721 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 12:26:34,722 [mediamarkt] INFO: 🔄 Proxy Manager: Enabled
+2025-05-02 12:26:34,722 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 12:26:34,908 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider
+2025-05-02 12:26:34,912 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 12:26:34,913 [mediamarkt] INFO: ⏱️ Using sleep time range: 1-5 seconds
+2025-05-02 12:26:34,913 [mediamarkt] INFO: ⏱️ Between products delay: 2 seconds
+2025-05-02 12:26:34,913 [mediamarkt] INFO: ⏱️ Between retries delay: 1 seconds
+2025-05-02 12:26:34,914 [mediamarkt] INFO: Using proxy manager with your own proxy first
+2025-05-02 12:26:34,914 [mediamarkt] INFO: 🔄 Getting proxies from https://free-proxy-list.net/
+2025-05-02 12:26:35,432 [mediamarkt] INFO: 🔍 Found 53 HTTPS proxies out of 300 total proxies
+2025-05-02 12:26:35,432 [mediamarkt] INFO:   Proxy #1: 13.126.79.133:3128 (HTTPS)
+2025-05-02 12:26:35,432 [mediamarkt] INFO:   Proxy #2: 52.73.224.54:3128 (HTTPS)
+2025-05-02 12:26:35,432 [mediamarkt] INFO:   Proxy #3: 44.219.175.186:80 (HTTPS)
+2025-05-02 12:26:35,432 [mediamarkt] INFO:   Proxy #4: 67.43.236.20:17379 (HTTPS)
+2025-05-02 12:26:35,432 [mediamarkt] INFO:   Proxy #5: 65.1.244.232:80 (HTTPS)
+2025-05-02 12:26:35,432 [mediamarkt] INFO:   ... and 48 more
+2025-05-02 12:26:35,432 [mediamarkt] INFO: Added your own proxy + 53 public proxies (limited to 100 total)
+2025-05-02 12:26:35,432 [mediamarkt] INFO: 🔄 Starting with your own proxy: 192.168.101.27:8080 (1/54)
+2025-05-02 12:26:35,448 [mediamarkt] INFO: Using proxy URL: http://192.168.101.27:8080
+2025-05-02 12:26:36,932 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:26:36,932 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 13.126.79.133:3128 (2/54)
+2025-05-02 12:26:42,385 [mediamarkt] ERROR: ❌ Error [unknown]: TunnelError occurred with https://13.126.79.133:3128: Could not open CONNECT tunnel with proxy 13.126.79.133:3128 [{'status': 502, 'reason': b'Bad Gateway'}]
+2025-05-02 12:26:42,385 [mediamarkt] INFO: 🔄 Moving to next proxy (2/54)
+2025-05-02 12:26:42,385 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 12:26:43,399 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 52.73.224.54:3128
+2025-05-02 12:26:45,266 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:26:45,266 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 44.219.175.186:80 (4/54)
+2025-05-02 12:26:46,715 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:26:46,715 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 67.43.236.20:17379 (5/54)
+2025-05-02 12:26:50,140 [mediamarkt] ERROR: ❌ Error [unknown]: ConnectionRefusedError occurred with https://67.43.236.20:17379: Connection was refused by other side: 10061: No connection could be made because the target machine actively refused it..
+2025-05-02 12:26:50,140 [mediamarkt] INFO: 🔄 Moving to next proxy (5/54)
+2025-05-02 12:26:50,140 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 12:26:51,144 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 65.1.244.232:80
+2025-05-02 12:26:53,466 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:26:53,467 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 44.195.247.145:80 (7/54)
+2025-05-02 12:26:54,634 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:26:54,634 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 137.184.174.32:4857 (8/54)
+2025-05-02 12:27:03,085 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:27:03,086 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 67.43.236.19:26025 (9/54)
+2025-05-02 12:27:06,463 [mediamarkt] ERROR: ❌ Error [unknown]: ConnectionRefusedError occurred with https://67.43.236.19:26025: Connection was refused by other side: 10061: No connection could be made because the target machine actively refused it..
+2025-05-02 12:27:06,463 [mediamarkt] INFO: 🔄 Moving to next proxy (9/54)
+2025-05-02 12:27:06,463 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 12:27:07,465 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 15.223.105.115:3128
+2025-05-02 12:27:08,683 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:27:08,683 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 34.102.48.89:8080 (11/54)
+2025-05-02 12:27:19,476 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:27:19,477 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 8.219.97.248:80 (12/54)
+2025-05-02 12:27:26,018 [mediamarkt] ERROR: ❌ Error [unknown]: ResponseNeverReceived occurred with https://8.219.97.248:80: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+2025-05-02 12:27:26,019 [mediamarkt] INFO: 🔄 Moving to next proxy (12/54)
+2025-05-02 12:27:26,019 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 12:27:27,035 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 9.223.187.19:3128
+2025-05-02 12:27:57,147 [mediamarkt] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://9.223.187.19:3128: User timeout caused connection failure: Getting https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html took longer than 30.0 seconds..
+2025-05-02 12:27:57,147 [mediamarkt] INFO: 🔄 Moving to next proxy (13/54)
+2025-05-02 12:27:57,148 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 12:27:58,154 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 72.10.160.174:4129
+2025-05-02 12:28:28,268 [mediamarkt] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://72.10.160.174:4129: User timeout caused connection failure: Getting https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html took longer than 30.0 seconds..
+2025-05-02 12:28:28,269 [mediamarkt] INFO: 🔄 Moving to next proxy (14/54)
+2025-05-02 12:28:28,270 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 12:28:29,272 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 57.128.37.47:3128
+2025-05-02 12:28:31,606 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:28:31,606 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 4.149.210.210:3128 (16/54)
+2025-05-02 12:29:17,374 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 12:29:17,375 [mediamarkt] INFO: 🔄 Proxy Manager: Enabled
+2025-05-02 12:29:17,376 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 12:29:17,525 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider
+2025-05-02 12:29:17,525 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 12:29:17,526 [mediamarkt] INFO: ⏱️ Using sleep time range: 1-5 seconds
+2025-05-02 12:29:17,527 [mediamarkt] INFO: ⏱️ Between products delay: 2 seconds
+2025-05-02 12:29:17,527 [mediamarkt] INFO: ⏱️ Between retries delay: 1 seconds
+2025-05-02 12:29:17,527 [mediamarkt] INFO: Using proxy manager with your own proxy first
+2025-05-02 12:29:17,527 [mediamarkt] INFO: 🔄 Getting proxies from https://free-proxy-list.net/
+2025-05-02 12:29:18,541 [mediamarkt] INFO: 🔍 Found 53 HTTPS proxies out of 300 total proxies
+2025-05-02 12:29:18,541 [mediamarkt] INFO:   Proxy #1: 13.126.79.133:3128 (HTTPS)
+2025-05-02 12:29:18,541 [mediamarkt] INFO:   Proxy #2: 13.59.242.56:50000 (HTTPS)
+2025-05-02 12:29:18,548 [mediamarkt] INFO:   Proxy #3: 89.187.185.88:3128 (HTTPS)
+2025-05-02 12:29:18,548 [mediamarkt] INFO:   Proxy #4: 47.90.205.231:33333 (HTTPS)
+2025-05-02 12:29:18,550 [mediamarkt] INFO:   Proxy #5: 89.163.242.72:8118 (HTTPS)
+2025-05-02 12:29:18,550 [mediamarkt] INFO:   ... and 48 more
+2025-05-02 12:29:18,552 [mediamarkt] INFO: Added your own proxy + 53 public proxies (limited to 100 total)
+2025-05-02 12:29:18,552 [mediamarkt] INFO: 🔄 Starting with your own proxy: 192.168.101.27:8080 (1/54)
+2025-05-02 12:29:18,557 [mediamarkt] INFO: Using proxy URL: http://192.168.101.27:8080
+2025-05-02 12:29:19,726 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:29:19,727 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 13.126.79.133:3128 (2/54)
+2025-05-02 12:29:20,673 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:29:20,673 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 13.59.242.56:50000 (3/54)
+2025-05-02 12:29:23,711 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:29:23,712 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 89.187.185.88:3128 (4/54)
+2025-05-02 12:29:33,742 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:29:33,742 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 47.90.205.231:33333 (5/54)
+2025-05-02 12:29:52,797 [mediamarkt] ERROR: ❌ Error [unknown]: TunnelError occurred with https://47.90.205.231:33333: Could not open CONNECT tunnel with proxy 47.90.205.231:33333 [{'status': 502, 'reason': b'Bad Gateway'}]
+2025-05-02 12:29:52,797 [mediamarkt] INFO: 🔄 Moving to next proxy (5/54)
+2025-05-02 12:29:52,798 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 12:29:53,809 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 89.163.242.72:8118
+2025-05-02 12:29:59,388 [mediamarkt] ERROR: ❌ Error [unknown]: TunnelError occurred with https://89.163.242.72:8118: Could not open CONNECT tunnel with proxy 89.163.242.72:8118 [{'status': 404, 'reason': b'No such domain'}]
+2025-05-02 12:29:59,388 [mediamarkt] INFO: 🔄 Moving to next proxy (6/54)
+2025-05-02 12:29:59,388 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 12:30:00,392 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 13.234.24.116:1080
+2025-05-02 12:30:01,144 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:30:01,144 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 155.138.223.151:3128 (8/54)
+2025-05-02 12:30:05,826 [mediamarkt] ERROR: ❌ Error [unknown]: ConnectError occurred with https://155.138.223.151:3128: An error occurred while connecting: 10053: An established connection was aborted by the software in your host machine..
+2025-05-02 12:30:05,828 [mediamarkt] INFO: 🔄 Moving to next proxy (8/54)
+2025-05-02 12:30:05,828 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 12:30:06,830 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 43.156.38.109:988
+2025-05-02 12:30:37,533 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 12:30:37,533 [mediamarkt] INFO: 🔄 Proxy Manager: Disabled
+2025-05-02 12:30:37,534 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 12:30:37,627 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider
+2025-05-02 12:30:37,627 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 12:30:37,628 [mediamarkt] INFO: ⏱️ Using sleep time range: 3-10 seconds
+2025-05-02 12:30:37,628 [mediamarkt] INFO: Using direct requests without proxy manager
+2025-05-02 12:30:37,629 [mediamarkt] INFO: 😴 Sleeping for 7.70 seconds before request 1/285
+2025-05-02 12:30:45,345 [mediamarkt] INFO: 🚀 Sending request 1/285 for BN2007402
+2025-05-02 12:30:47,172 [mediamarkt] INFO: 😴 Sleeping for 4.43 seconds before request 2/285
+2025-05-02 12:30:51,612 [mediamarkt] INFO: 🚀 Sending request 2/285 for BN2008152
+2025-05-02 12:30:52,835 [mediamarkt] INFO: 😴 Sleeping for 8.40 seconds before request 3/285
+2025-05-02 12:31:18,306 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 12:31:18,307 [mediamarkt] INFO: 🔄 Proxy Manager: Disabled
+2025-05-02 12:31:18,307 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 12:31:18,401 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider
+2025-05-02 12:31:18,402 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 12:31:18,402 [mediamarkt] INFO: ⏱️ Using sleep time range: 3-10 seconds
+2025-05-02 12:31:18,403 [mediamarkt] INFO: Using direct requests without proxy manager
+2025-05-02 12:31:18,403 [mediamarkt] INFO: 😴 Sleeping for 9.50 seconds before request 1/285
+2025-05-02 12:31:27,906 [mediamarkt] INFO: 🚀 Sending request 1/285 for BN2007402
+2025-05-02 12:31:29,151 [mediamarkt] INFO: 😴 Sleeping for 7.15 seconds before request 2/285
+2025-05-02 12:31:36,307 [mediamarkt] INFO: 🚀 Sending request 2/285 for BN2008152
+2025-05-02 12:31:37,302 [mediamarkt] INFO: 😴 Sleeping for 7.87 seconds before request 3/285
+2025-05-02 12:31:45,179 [mediamarkt] INFO: 🚀 Sending request 3/285 for BN2008556
+2025-05-02 12:31:46,153 [mediamarkt] INFO: 😴 Sleeping for 5.72 seconds before request 4/285
+2025-05-02 12:31:51,884 [mediamarkt] INFO: 🚀 Sending request 4/285 for BN2008555
+2025-05-02 12:31:52,881 [mediamarkt] INFO: 😴 Sleeping for 8.34 seconds before request 5/285
+2025-05-02 12:32:05,704 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 12:32:05,706 [mediamarkt] INFO: 🔄 Proxy Manager: Disabled
+2025-05-02 12:32:05,707 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 12:32:05,812 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider
+2025-05-02 12:32:05,815 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 12:32:05,815 [mediamarkt] INFO: ⏱️ Using sleep time range: 3-10 seconds
+2025-05-02 12:32:05,816 [mediamarkt] INFO: Using direct requests without proxy manager
+2025-05-02 12:32:05,817 [mediamarkt] INFO: 😴 Sleeping for 8.05 seconds before request 1/285
+2025-05-02 12:32:13,882 [mediamarkt] INFO: 🚀 Sending request 1/285 for BN2007402
+2025-05-02 12:32:15,109 [mediamarkt] INFO: 😴 Sleeping for 6.52 seconds before request 2/285
+2025-05-02 12:32:21,633 [mediamarkt] INFO: 🚀 Sending request 2/285 for BN2008152
+2025-05-02 12:32:22,618 [mediamarkt] INFO: 😴 Sleeping for 8.12 seconds before request 3/285
+2025-05-02 12:32:30,764 [mediamarkt] INFO: 🚀 Sending request 3/285 for BN2008556
+2025-05-02 12:32:31,737 [mediamarkt] INFO: 😴 Sleeping for 7.96 seconds before request 4/285
+2025-05-02 12:32:39,707 [mediamarkt] INFO: 🚀 Sending request 4/285 for BN2008555
+2025-05-02 12:32:40,460 [mediamarkt] INFO: 😴 Sleeping for 3.71 seconds before request 5/285
+2025-05-02 12:32:44,170 [mediamarkt] INFO: 🚀 Sending request 5/285 for BN2008834
+2025-05-02 12:32:45,120 [mediamarkt] INFO: 😴 Sleeping for 5.54 seconds before request 6/285
+2025-05-02 12:32:50,670 [mediamarkt] INFO: 🚀 Sending request 6/285 for BN2009333
+2025-05-02 12:32:51,639 [mediamarkt] INFO: 😴 Sleeping for 3.81 seconds before request 7/285
+2025-05-02 12:32:55,465 [mediamarkt] INFO: 🚀 Sending request 7/285 for BN2009357
+2025-05-02 12:32:56,622 [mediamarkt] INFO: 😴 Sleeping for 3.31 seconds before request 8/285
+2025-05-02 12:32:59,938 [mediamarkt] INFO: 🚀 Sending request 8/285 for BN2008728
+2025-05-02 12:33:00,925 [mediamarkt] INFO: 😴 Sleeping for 5.40 seconds before request 9/285
+2025-05-02 12:33:06,339 [mediamarkt] INFO: 🚀 Sending request 9/285 for AN00000007
+2025-05-02 12:33:07,327 [mediamarkt] INFO: 😴 Sleeping for 5.63 seconds before request 10/285
+2025-05-02 12:33:12,965 [mediamarkt] INFO: 🚀 Sending request 10/285 for AN00000008
+2025-05-02 12:33:13,702 [mediamarkt] INFO: 😴 Sleeping for 9.56 seconds before request 11/285
+2025-05-02 12:33:26,942 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 12:33:26,942 [mediamarkt] INFO: 🔄 Proxy Manager: Disabled
+2025-05-02 12:33:26,942 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 12:33:27,041 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider
+2025-05-02 12:33:27,041 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 12:33:27,041 [mediamarkt] INFO: ⏱️ Using sleep time range: 3-10 seconds
+2025-05-02 12:33:27,041 [mediamarkt] INFO: Using direct requests without proxy manager
+2025-05-02 12:33:27,041 [mediamarkt] INFO: 😴 Sleeping for 5.98 seconds before request 1/285
+2025-05-02 12:33:33,036 [mediamarkt] INFO: 🚀 Sending request 1/285 for BN2007402
+2025-05-02 12:33:34,038 [mediamarkt] INFO: 😴 Sleeping for 8.65 seconds before request 2/285
+2025-05-02 12:33:42,691 [mediamarkt] INFO: 🚀 Sending request 2/285 for BN2008152
+2025-05-02 12:33:43,674 [mediamarkt] INFO: 😴 Sleeping for 3.75 seconds before request 3/285
+2025-05-02 12:33:47,427 [mediamarkt] INFO: 🚀 Sending request 3/285 for BN2008556
+2025-05-02 12:33:48,456 [mediamarkt] INFO: 😴 Sleeping for 3.15 seconds before request 4/285
+2025-05-02 12:33:51,615 [mediamarkt] INFO: 🚀 Sending request 4/285 for BN2008555
+2025-05-02 12:33:51,936 [mediamarkt] INFO: 😴 Sleeping for 8.16 seconds before request 5/285
+2025-05-02 12:34:00,112 [mediamarkt] INFO: 🚀 Sending request 5/285 for BN2008834
+2025-05-02 12:34:01,206 [mediamarkt] INFO: 😴 Sleeping for 5.34 seconds before request 6/285
+2025-05-02 12:34:06,562 [mediamarkt] INFO: 🚀 Sending request 6/285 for BN2009333
+2025-05-02 12:34:07,373 [mediamarkt] INFO: 😴 Sleeping for 8.31 seconds before request 7/285
+2025-05-02 12:34:20,497 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 12:34:20,498 [mediamarkt] INFO: 🔄 Proxy Manager: Enabled
+2025-05-02 12:34:20,499 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 12:34:20,591 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider
+2025-05-02 12:34:20,593 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 12:34:20,594 [mediamarkt] INFO: ⏱️ Using sleep time range: 3-10 seconds
+2025-05-02 12:34:20,594 [mediamarkt] INFO: ⏱️ Between products delay: 1 seconds
+2025-05-02 12:34:20,595 [mediamarkt] INFO: ⏱️ Between retries delay: 1 seconds
+2025-05-02 12:34:20,595 [mediamarkt] INFO: Using proxy manager with your own proxy first
+2025-05-02 12:34:20,596 [mediamarkt] INFO: 🔄 Getting proxies from https://free-proxy-list.net/
+2025-05-02 12:34:21,075 [mediamarkt] INFO: 🔍 Found 55 HTTPS proxies out of 300 total proxies
+2025-05-02 12:34:21,075 [mediamarkt] INFO:   Proxy #1: 15.207.35.241:80 (HTTPS)
+2025-05-02 12:34:21,075 [mediamarkt] INFO:   Proxy #2: 172.96.137.143:3128 (HTTPS)
+2025-05-02 12:34:21,075 [mediamarkt] INFO:   Proxy #3: 52.73.224.54:3128 (HTTPS)
+2025-05-02 12:34:21,075 [mediamarkt] INFO:   Proxy #4: 44.195.247.145:80 (HTTPS)
+2025-05-02 12:34:21,075 [mediamarkt] INFO:   Proxy #5: 9.223.187.19:3128 (HTTPS)
+2025-05-02 12:34:21,075 [mediamarkt] INFO:   ... and 50 more
+2025-05-02 12:34:21,075 [mediamarkt] INFO: Added your own proxy + 55 public proxies (limited to 100 total)
+2025-05-02 12:34:21,075 [mediamarkt] INFO: 🔄 Starting with your own proxy: 192.168.101.27:8080 (1/56)
+2025-05-02 12:34:21,075 [mediamarkt] INFO: Using proxy URL: http://192.168.101.27:8080
+2025-05-02 12:34:42,241 [mediamarkt] ERROR: ❌ Error [unknown]: TCPTimedOutError occurred with http://192.168.101.27:8080: TCP connection timed out: 10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond..
+2025-05-02 12:34:42,241 [mediamarkt] INFO: 🔄 Moving to next proxy (1/56)
+2025-05-02 12:34:42,242 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 12:34:43,257 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 15.207.35.241:80
+2025-05-02 12:34:52,024 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:34:52,024 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 172.96.137.143:3128 (3/56)
+2025-05-02 12:35:03,555 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 12:35:03,555 [mediamarkt] INFO: 🔄 Proxy Manager: Enabled
+2025-05-02 12:35:03,555 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 12:35:03,651 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider
+2025-05-02 12:35:03,651 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 12:35:03,652 [mediamarkt] INFO: ⏱️ Using sleep time range: 3-10 seconds
+2025-05-02 12:35:03,652 [mediamarkt] INFO: ⏱️ Between products delay: 1 seconds
+2025-05-02 12:35:03,653 [mediamarkt] INFO: ⏱️ Between retries delay: 1 seconds
+2025-05-02 12:35:03,653 [mediamarkt] INFO: Using proxy manager with your own proxy first
+2025-05-02 12:35:03,653 [mediamarkt] INFO: 🔄 Getting proxies from https://free-proxy-list.net/
+2025-05-02 12:35:04,108 [mediamarkt] INFO: 🔍 Found 55 HTTPS proxies out of 300 total proxies
+2025-05-02 12:35:04,114 [mediamarkt] INFO:   Proxy #1: 154.236.177.102:1977 (HTTPS)
+2025-05-02 12:35:04,114 [mediamarkt] INFO:   Proxy #2: 3.96.92.88:3128 (HTTPS)
+2025-05-02 12:35:04,114 [mediamarkt] INFO:   Proxy #3: 47.90.205.231:33333 (HTTPS)
+2025-05-02 12:35:04,114 [mediamarkt] INFO:   Proxy #4: 67.43.236.19:26025 (HTTPS)
+2025-05-02 12:35:04,114 [mediamarkt] INFO:   Proxy #5: 15.207.35.241:80 (HTTPS)
+2025-05-02 12:35:04,116 [mediamarkt] INFO:   ... and 50 more
+2025-05-02 12:35:04,116 [mediamarkt] INFO: Added your own proxy + 55 public proxies (limited to 100 total)
+2025-05-02 12:35:04,116 [mediamarkt] INFO: 🔄 Starting with your own proxy: 192.168.101.27:8080 (1/56)
+2025-05-02 12:35:04,118 [mediamarkt] INFO: Using proxy URL: http://192.168.101.27:8080
+2025-05-02 12:35:05,208 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:35:05,211 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 154.236.177.102:1977 (2/56)
+2025-05-02 12:35:26,677 [mediamarkt] ERROR: ❌ Error [unknown]: TCPTimedOutError occurred with https://154.236.177.102:1977: TCP connection timed out: 10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond..
+2025-05-02 12:35:26,677 [mediamarkt] INFO: 🔄 Moving to next proxy (2/56)
+2025-05-02 12:35:26,677 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 12:35:27,679 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 3.96.92.88:3128
+2025-05-02 12:35:28,911 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:35:28,911 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 47.90.205.231:33333 (4/56)
+2025-05-02 12:35:49,784 [mediamarkt] ERROR: ❌ Error [unknown]: TunnelError occurred with https://47.90.205.231:33333: Could not open CONNECT tunnel with proxy 47.90.205.231:33333 [{'status': 502, 'reason': b'Bad Gateway'}]
+2025-05-02 12:35:49,784 [mediamarkt] INFO: 🔄 Moving to next proxy (4/56)
+2025-05-02 12:35:49,784 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 12:35:50,801 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 67.43.236.19:26025
+2025-05-02 12:35:54,179 [mediamarkt] ERROR: ❌ Error [unknown]: ConnectionRefusedError occurred with https://67.43.236.19:26025: Connection was refused by other side: 10061: No connection could be made because the target machine actively refused it..
+2025-05-02 12:35:54,179 [mediamarkt] INFO: 🔄 Moving to next proxy (5/56)
+2025-05-02 12:35:54,179 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 12:35:55,181 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 15.207.35.241:80
+2025-05-02 12:36:00,627 [mediamarkt] ERROR: ❌ Error [unknown]: TunnelError occurred with https://15.207.35.241:80: Could not open CONNECT tunnel with proxy 15.207.35.241:80 [{'status': 502, 'reason': b'Bad Gateway'}]
+2025-05-02 12:36:00,627 [mediamarkt] INFO: 🔄 Moving to next proxy (6/56)
+2025-05-02 12:36:00,627 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 12:36:01,628 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 3.97.176.251:3128
+2025-05-02 12:36:02,846 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:36:02,846 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 67.43.236.20:17379 (8/56)
+2025-05-02 12:36:06,395 [mediamarkt] ERROR: ❌ Error [unknown]: ConnectionRefusedError occurred with https://67.43.236.20:17379: Connection was refused by other side: 10061: No connection could be made because the target machine actively refused it..
+2025-05-02 12:36:06,395 [mediamarkt] INFO: 🔄 Moving to next proxy (8/56)
+2025-05-02 12:36:06,396 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 12:36:07,398 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 188.65.95.154:8585
+2025-05-02 12:36:37,511 [mediamarkt] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://188.65.95.154:8585: User timeout caused connection failure: Getting https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html took longer than 30.0 seconds..
+2025-05-02 12:36:37,511 [mediamarkt] INFO: 🔄 Moving to next proxy (9/56)
+2025-05-02 12:36:37,511 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 12:36:38,513 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 13.234.24.116:1080
+2025-05-02 12:36:43,891 [mediamarkt] ERROR: ❌ Error [unknown]: TunnelError occurred with https://13.234.24.116:1080: Could not open CONNECT tunnel with proxy 13.234.24.116:1080 [{'status': 502, 'reason': b'Bad Gateway'}]
+2025-05-02 12:36:43,891 [mediamarkt] INFO: 🔄 Moving to next proxy (10/56)
+2025-05-02 12:36:43,891 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 12:36:44,895 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 52.73.224.54:3128
+2025-05-02 12:36:46,083 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:36:46,084 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 200.174.198.86:8888 (12/56)
+2025-05-02 12:43:27,816 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 12:43:27,816 [mediamarkt] INFO: 🔄 Proxy Manager: Enabled
+2025-05-02 12:43:27,816 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 12:43:27,999 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider
+2025-05-02 12:43:28,000 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 12:43:28,000 [mediamarkt] INFO: ⏱️ Using sleep time range: 1-5 seconds
+2025-05-02 12:43:28,001 [mediamarkt] INFO: ⏱️ Between products delay: 1 seconds
+2025-05-02 12:43:28,001 [mediamarkt] INFO: ⏱️ Between retries delay: 1 seconds
+2025-05-02 12:43:28,002 [mediamarkt] INFO: Using proxy manager with your own proxy first
+2025-05-02 12:43:28,002 [mediamarkt] INFO: 🔄 Getting proxies from https://free-proxy-list.net/
+2025-05-02 12:43:28,495 [mediamarkt] INFO: 🔍 Found 40 HTTPS proxies out of 300 total proxies
+2025-05-02 12:43:28,496 [mediamarkt] INFO:   Proxy #1: 13.59.242.56:50000 (HTTPS)
+2025-05-02 12:43:28,496 [mediamarkt] INFO:   Proxy #2: 66.201.7.151:3128 (HTTPS)
+2025-05-02 12:43:28,496 [mediamarkt] INFO:   Proxy #3: 188.65.95.154:8585 (HTTPS)
+2025-05-02 12:43:28,498 [mediamarkt] INFO:   Proxy #4: 5.78.124.240:40001 (HTTPS)
+2025-05-02 12:43:28,498 [mediamarkt] INFO:   Proxy #5: 3.212.148.199:3128 (HTTPS)
+2025-05-02 12:43:28,498 [mediamarkt] INFO:   ... and 35 more
+2025-05-02 12:43:28,499 [mediamarkt] INFO: Added your own proxy + 40 public proxies (limited to 100 total)
+2025-05-02 12:43:28,500 [mediamarkt] INFO: 🔄 Starting with your own proxy: 192.168.101.27:8080 (1/41)
+2025-05-02 12:43:28,506 [mediamarkt] INFO: Using proxy URL: http://192.168.101.27:8080
+2025-05-02 12:43:29,704 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:43:29,707 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 13.59.242.56:50000 (2/41)
+2025-05-02 12:43:33,788 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:43:33,788 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 66.201.7.151:3128 (3/41)
+2025-05-02 12:43:42,822 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 12:43:42,822 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 188.65.95.154:8585 (4/41)
+2025-05-02 15:37:39,490 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 15:37:39,492 [mediamarkt] INFO: 🔄 Proxy Manager: Enabled
+2025-05-02 15:37:39,492 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 15:37:40,589 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider
+2025-05-02 15:37:40,590 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 15:37:40,591 [mediamarkt] INFO: ⏱️ Using sleep time range: 3-8 seconds
+2025-05-02 15:37:40,591 [mediamarkt] INFO: ⏱️ Between products delay: 2 seconds
+2025-05-02 15:37:40,593 [mediamarkt] INFO: ⏱️ Between retries delay: 3 seconds
+2025-05-02 15:37:40,593 [mediamarkt] INFO: Using proxy manager with your own proxy first
+2025-05-02 15:37:40,594 [mediamarkt] INFO: 🔄 Getting proxies from https://free-proxy-list.net/
+2025-05-02 15:37:41,058 [mediamarkt] INFO: 🔍 Found 31 HTTPS proxies out of 300 total proxies
+2025-05-02 15:37:41,058 [mediamarkt] INFO:   Proxy #1: 78.108.41.124:9111 (HTTPS)
+2025-05-02 15:37:41,058 [mediamarkt] INFO:   Proxy #2: 81.162.242.127:8021 (HTTPS)
+2025-05-02 15:37:41,058 [mediamarkt] INFO:   Proxy #3: 15.223.105.115:3128 (HTTPS)
+2025-05-02 15:37:41,058 [mediamarkt] INFO:   Proxy #4: 3.212.148.199:3128 (HTTPS)
+2025-05-02 15:37:41,058 [mediamarkt] INFO:   Proxy #5: 44.218.183.55:80 (HTTPS)
+2025-05-02 15:37:41,058 [mediamarkt] INFO:   ... and 26 more
+2025-05-02 15:37:41,058 [mediamarkt] INFO: Added your own proxy + 31 public proxies (limited to 100 total)
+2025-05-02 15:37:41,058 [mediamarkt] INFO: 🔄 Starting with your own proxy: 192.168.101.27:8080 (1/32)
+2025-05-02 15:37:41,072 [mediamarkt] INFO: Using proxy URL: http://192.168.101.27:8080
+2025-05-02 15:37:42,290 [mediamarkt] INFO: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:37:49,224 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:37:49,224 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 78.108.41.124:9111 (2/32)
+2025-05-02 15:38:10,397 [mediamarkt] ERROR: ❌ Error [unknown]: TCPTimedOutError occurred with https://78.108.41.124:9111: TCP connection timed out: 10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond..
+2025-05-02 15:38:10,397 [mediamarkt] INFO: 🔄 Moving to next proxy (2/32)
+2025-05-02 15:38:10,397 [mediamarkt] INFO: ⏱️ Waiting 3 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 15:38:13,398 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 81.162.242.127:8021
+2025-05-02 15:38:43,530 [mediamarkt] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://81.162.242.127:8021: User timeout caused connection failure: Getting https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html took longer than 30.0 seconds..
+2025-05-02 15:38:43,530 [mediamarkt] INFO: 🔄 Moving to next proxy (3/32)
+2025-05-02 15:38:43,530 [mediamarkt] INFO: ⏱️ Waiting 3 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 15:38:46,536 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 15.223.105.115:3128
+2025-05-02 15:38:47,761 [mediamarkt] INFO: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:38:52,761 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:38:52,761 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 3.212.148.199:3128 (5/32)
+2025-05-02 15:38:54,111 [mediamarkt] INFO: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:38:58,877 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:38:58,877 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 44.218.183.55:80 (6/32)
+2025-05-02 15:39:00,846 [mediamarkt] INFO: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:39:05,694 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:39:05,696 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 8.219.97.248:80 (7/32)
+2025-05-02 15:39:23,114 [mediamarkt] ERROR: ❌ Error [unknown]: ResponseFailed occurred with https://8.219.97.248:80: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>, <twisted.python.failure.Failure twisted.web.http._DataLoss: Chunked decoder in 'BODY' state, still expecting more data to get to 'FINISHED' state.>]
+2025-05-02 15:39:23,114 [mediamarkt] INFO: 🔄 Moving to next proxy (7/32)
+2025-05-02 15:39:23,114 [mediamarkt] INFO: ⏱️ Waiting 3 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 15:39:26,128 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 137.184.174.32:4857
+2025-05-02 15:39:56,247 [mediamarkt] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://137.184.174.32:4857: User timeout caused connection failure: Getting https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html took longer than 30.0 seconds..
+2025-05-02 15:39:56,249 [mediamarkt] INFO: 🔄 Moving to next proxy (8/32)
+2025-05-02 15:39:56,249 [mediamarkt] INFO: ⏱️ Waiting 3 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 15:39:59,264 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 57.128.37.47:3128
+2025-05-02 15:40:29,383 [mediamarkt] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://57.128.37.47:3128: User timeout caused connection failure: Getting https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html took longer than 30.0 seconds..
+2025-05-02 15:40:29,383 [mediamarkt] INFO: 🔄 Moving to next proxy (9/32)
+2025-05-02 15:40:29,383 [mediamarkt] INFO: ⏱️ Waiting 3 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 15:40:32,389 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 13.59.242.56:50000
+2025-05-02 15:40:33,584 [mediamarkt] INFO: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:40:39,941 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:40:39,942 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 47.74.226.8:5001 (11/32)
+2025-05-02 15:40:40,199 [mediamarkt] ERROR: ❌ Error [unknown]: TunnelError occurred with https://47.74.226.8:5001: Could not open CONNECT tunnel with proxy 47.74.226.8:5001 [{'status': 500, 'reason': b'Internal Server Error'}]
+2025-05-02 15:40:40,199 [mediamarkt] INFO: 🔄 Moving to next proxy (11/32)
+2025-05-02 15:40:40,200 [mediamarkt] INFO: ⏱️ Waiting 3 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 15:40:43,216 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 27.76.212.94:20294
+2025-05-02 15:41:07,020 [mediamarkt] ERROR: ❌ Error [unknown]: TCPTimedOutError occurred with https://27.76.212.94:20294: TCP connection timed out: 10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond..
+2025-05-02 15:41:07,021 [mediamarkt] INFO: 🔄 Moving to next proxy (12/32)
+2025-05-02 15:41:07,022 [mediamarkt] INFO: ⏱️ Waiting 3 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 15:41:10,036 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 15.207.54.63:20201
+2025-05-02 15:41:10,866 [mediamarkt] INFO: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:41:17,068 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:41:17,068 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 40.76.69.94:8080 (14/32)
+2025-05-02 15:41:32,792 [mediamarkt] INFO: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:49:52,389 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 15:49:52,389 [mediamarkt] INFO: 🔄 Proxy Manager: Enabled
+2025-05-02 15:49:52,390 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 15:49:52,544 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider
+2025-05-02 15:49:52,545 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 15:49:52,546 [mediamarkt] INFO: ⏱️ Using sleep time range: 1-5 seconds
+2025-05-02 15:49:52,546 [mediamarkt] INFO: ⏱️ Between products delay: 1 seconds
+2025-05-02 15:49:52,546 [mediamarkt] INFO: ⏱️ Between retries delay: 1 seconds
+2025-05-02 15:49:52,546 [mediamarkt] INFO: Using proxy manager with your own proxy first
+2025-05-02 15:49:52,546 [mediamarkt] INFO: 🔄 Getting proxies from https://free-proxy-list.net/
+2025-05-02 15:49:52,931 [mediamarkt] INFO: 🔍 Found 32 HTTPS proxies out of 300 total proxies
+2025-05-02 15:49:52,933 [mediamarkt] INFO:   Proxy #1: 155.138.223.151:3128 (HTTPS)
+2025-05-02 15:49:52,933 [mediamarkt] INFO:   Proxy #2: 3.110.60.103:80 (HTTPS)
+2025-05-02 15:49:52,934 [mediamarkt] INFO:   Proxy #3: 107.172.208.184:1080 (HTTPS)
+2025-05-02 15:49:52,934 [mediamarkt] INFO:   Proxy #4: 3.97.167.115:3128 (HTTPS)
+2025-05-02 15:49:52,935 [mediamarkt] INFO:   Proxy #5: 52.73.224.54:3128 (HTTPS)
+2025-05-02 15:49:52,936 [mediamarkt] INFO:   ... and 27 more
+2025-05-02 15:49:52,936 [mediamarkt] INFO: Added your own proxy + 32 public proxies (limited to 100 total)
+2025-05-02 15:49:52,937 [mediamarkt] INFO: 🔄 Starting with your own proxy: 192.168.101.27:8080 (1/33)
+2025-05-02 15:49:52,943 [mediamarkt] INFO: Using proxy URL: http://192.168.101.27:8080
+2025-05-02 15:49:54,231 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:49:54,231 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 155.138.223.151:3128 (2/33)
+2025-05-02 15:50:25,550 [mediamarkt] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://155.138.223.151:3128: User timeout caused connection failure: Getting https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html took longer than 30.0 seconds..
+2025-05-02 15:50:25,550 [mediamarkt] INFO: 🔄 Moving to next proxy (2/33)
+2025-05-02 15:50:25,551 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 15:50:26,555 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 3.110.60.103:80
+2025-05-02 15:50:27,885 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:50:27,885 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 107.172.208.184:1080 (4/33)
+2025-05-02 15:50:59,915 [mediamarkt] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://107.172.208.184:1080: User timeout caused connection failure: Getting https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html took longer than 30.0 seconds..
+2025-05-02 15:50:59,915 [mediamarkt] INFO: 🔄 Moving to next proxy (4/33)
+2025-05-02 15:50:59,915 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 15:51:00,918 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 3.97.167.115:3128
+2025-05-02 15:51:03,869 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:51:03,869 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 52.73.224.54:3128 (6/33)
+2025-05-02 15:51:06,503 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:51:06,503 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 44.219.175.186:80 (7/33)
+2025-05-02 15:51:10,087 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:51:10,087 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 47.74.226.8:5001 (8/33)
+2025-05-02 15:51:43,133 [mediamarkt] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://47.74.226.8:5001: User timeout caused connection failure: Getting https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html took longer than 30.0 seconds..
+2025-05-02 15:51:43,133 [mediamarkt] INFO: 🔄 Moving to next proxy (8/33)
+2025-05-02 15:51:43,133 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 15:51:44,136 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 66.201.7.151:3128
+2025-05-02 15:51:46,072 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:51:46,072 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 52.194.186.70:1080 (10/33)
+2025-05-02 15:51:48,922 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:51:48,922 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 15.223.105.115:3128 (11/33)
+2025-05-02 15:51:51,871 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:51:51,871 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 81.162.242.127:8021 (12/33)
+2025-05-02 15:52:14,624 [mediamarkt] ERROR: ❌ Error [unknown]: TCPTimedOutError occurred with https://81.162.242.127:8021: TCP connection timed out: 10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond..
+2025-05-02 15:52:14,624 [mediamarkt] INFO: 🔄 Moving to next proxy (12/33)
+2025-05-02 15:52:14,624 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 15:52:15,639 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 15.207.54.63:20201
+2025-05-02 15:52:16,274 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:52:16,274 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 89.187.185.88:3128 (14/33)
+2025-05-02 15:52:39,091 [mediamarkt] ERROR: ❌ Error [unknown]: TCPTimedOutError occurred with https://89.187.185.88:3128: TCP connection timed out: 10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond..
+2025-05-02 15:52:39,091 [mediamarkt] INFO: 🔄 Moving to next proxy (14/33)
+2025-05-02 15:52:39,091 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 15:52:40,091 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 57.128.37.47:3128
+2025-05-02 15:53:10,224 [mediamarkt] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://57.128.37.47:3128: User timeout caused connection failure: Getting https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html took longer than 30.0 seconds..
+2025-05-02 15:53:10,224 [mediamarkt] INFO: 🔄 Moving to next proxy (15/33)
+2025-05-02 15:53:10,224 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 15:53:11,225 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 47.251.43.115:33333
+2025-05-02 15:53:15,855 [mediamarkt] ERROR: ❌ Error [unknown]: TunnelError occurred with https://47.251.43.115:33333: Could not open CONNECT tunnel with proxy 47.251.43.115:33333 [{'status': 502, 'reason': b'Bad Gateway'}]
+2025-05-02 15:53:15,855 [mediamarkt] INFO: 🔄 Moving to next proxy (16/33)
+2025-05-02 15:53:15,855 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 15:53:16,858 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 8.219.97.248:80
+2025-05-02 15:53:17,121 [mediamarkt] ERROR: ❌ Error [unknown]: TunnelError occurred with https://8.219.97.248:80: Could not open CONNECT tunnel with proxy 8.219.97.248:80 [{'status': 502, 'reason': b'Bad Gateway'}]
+2025-05-02 15:53:17,121 [mediamarkt] INFO: 🔄 Moving to next proxy (17/33)
+2025-05-02 15:53:17,121 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 15:53:18,125 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 3.90.100.12:80
+2025-05-02 15:53:22,227 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:53:22,228 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 3.96.92.88:3128 (19/33)
+2025-05-02 15:53:26,427 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:53:26,428 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 44.218.183.55:80 (20/33)
+2025-05-02 15:53:30,327 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:53:30,329 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 119.156.195.173:3128 (21/33)
+2025-05-02 15:53:33,906 [mediamarkt] ERROR: ❌ Error [unknown]: ResponseNeverReceived occurred with https://119.156.195.173:3128: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+2025-05-02 15:53:33,906 [mediamarkt] INFO: 🔄 Moving to next proxy (21/33)
+2025-05-02 15:53:33,908 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 15:53:34,909 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 40.76.69.94:8080
+2025-05-02 15:53:58,540 [mediamarkt] ERROR: ❌ Error [unknown]: TCPTimedOutError occurred with https://40.76.69.94:8080: TCP connection timed out: 10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond..
+2025-05-02 15:53:58,540 [mediamarkt] INFO: 🔄 Moving to next proxy (22/33)
+2025-05-02 15:53:58,540 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 15:53:59,544 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 27.76.212.94:20294
+2025-05-02 15:54:11,780 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:54:11,781 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 13.59.242.56:50000 (24/33)
+2025-05-02 15:54:13,484 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:54:13,484 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 15.207.35.241:80 (25/33)
+2025-05-02 15:54:22,247 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:54:22,247 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 45.140.143.77:18080 (26/33)
+2025-05-02 15:54:23,648 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:54:23,649 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 137.184.174.32:4857 (27/33)
+2025-05-02 15:54:56,670 [mediamarkt] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://137.184.174.32:4857: User timeout caused connection failure: Getting https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html took longer than 30.0 seconds..
+2025-05-02 15:54:56,671 [mediamarkt] INFO: 🔄 Moving to next proxy (27/33)
+2025-05-02 15:54:56,672 [mediamarkt] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from mediamarkt's settings)
+2025-05-02 15:54:57,680 [mediamarkt] INFO: 🔄 Trying with public HTTPS proxy: 3.212.148.199:3128
+2025-05-02 15:54:58,848 [mediamarkt] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:54:58,849 [mediamarkt] INFO: 🔄 Switching to public HTTPS proxy: 78.108.41.124:9111 (29/33)
+2025-05-02 16:01:17,909 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 16:01:17,909 [mediamarkt] INFO: 🔄 Proxy Manager: Disabled
+2025-05-02 16:01:17,911 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 16:01:18,010 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider with Selenium WebDriver for CloudFlare bypass
+2025-05-02 16:01:18,012 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 16:01:18,013 [mediamarkt] INFO: Initializing Chrome WebDriver for MediaMarkt...
+2025-05-02 16:01:18,013 [mediamarkt] INFO: Using User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2025-05-02 16:01:22,119 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:01:23,336 [mediamarkt] INFO: Processing product: BN2007402 - URL: https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html
+2025-05-02 16:01:23,336 [mediamarkt] INFO: 😴 Sleeping for 7.13 seconds before processing BN2007402
+2025-05-02 16:01:30,471 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver...
+2025-05-02 16:01:42,636 [mediamarkt] WARNING: Timeout waiting for page elements for BN2007402
+2025-05-02 16:01:43,730 [mediamarkt] INFO: Processing product: BN2008152 - URL: https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny
+2025-05-02 16:01:43,731 [mediamarkt] INFO: 😴 Sleeping for 8.00 seconds before processing BN2008152
+2025-05-02 16:01:51,739 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver...
+2025-05-02 16:02:03,043 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008152
+2025-05-02 16:02:04,154 [mediamarkt] INFO: Processing product: BN2008556 - URL: https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html
+2025-05-02 16:02:04,155 [mediamarkt] INFO: 😴 Sleeping for 6.96 seconds before processing BN2008556
+2025-05-02 16:02:11,121 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html with WebDriver...
+2025-05-02 16:02:22,487 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008556
+2025-05-02 16:02:23,591 [mediamarkt] INFO: Processing product: BN2008555 - URL: https://mediamarkt.pl/telefony-i-smartfony/smartfon-tcl-403-2-32gb-czarny
+2025-05-02 16:02:23,592 [mediamarkt] INFO: 😴 Sleeping for 4.11 seconds before processing BN2008555
+2025-05-02 16:02:27,715 [mediamarkt] INFO: Loading https://mediamarkt.pl/telefony-i-smartfony/smartfon-tcl-403-2-32gb-czarny with WebDriver...
+2025-05-02 16:02:34,924 [mediamarkt] ERROR: WebDriver error for BN2008555: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EA4EEFA5+77893]
+	GetHandleVerifier [0x00007FF6EA4EF000+77984]
+	(No symbol) [0x00007FF6EA2B91BA]
+	(No symbol) [0x00007FF6EA2A4F15]
+	(No symbol) [0x00007FF6EA2C9F04]
+	(No symbol) [0x00007FF6EA33EACF]
+	(No symbol) [0x00007FF6EA35E972]
+	(No symbol) [0x00007FF6EA336F03]
+	(No symbol) [0x00007FF6EA300328]
+	(No symbol) [0x00007FF6EA301093]
+	GetHandleVerifier [0x00007FF6EA7A7B6D+2931725]
+	GetHandleVerifier [0x00007FF6EA7A2132+2908626]
+	GetHandleVerifier [0x00007FF6EA7C00F3+3031443]
+	GetHandleVerifier [0x00007FF6EA5091EA+184970]
+	GetHandleVerifier [0x00007FF6EA51086F+215311]
+	GetHandleVerifier [0x00007FF6EA4F6EC4+110436]
+	GetHandleVerifier [0x00007FF6EA4F7072+110866]
+	GetHandleVerifier [0x00007FF6EA4DD479+5401]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:02:35,907 [mediamarkt] INFO: Processing product: BN2008834 - URL: https://mediamarkt.pl/pl/product/_telefon-komorkowy-tcl-onetouch-4042s-szary-1479080.html
+2025-05-02 16:02:35,907 [mediamarkt] INFO: 😴 Sleeping for 3.23 seconds before processing BN2008834
+2025-05-02 16:02:39,136 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_telefon-komorkowy-tcl-onetouch-4042s-szary-1479080.html with WebDriver...
+2025-05-02 16:02:39,138 [mediamarkt] ERROR: WebDriver error for BN2008834: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EA4EEFA5+77893]
+	GetHandleVerifier [0x00007FF6EA4EF000+77984]
+	(No symbol) [0x00007FF6EA2B8FEC]
+	(No symbol) [0x00007FF6EA2FF44F]
+	(No symbol) [0x00007FF6EA336FF2]
+	(No symbol) [0x00007FF6EA331A02]
+	(No symbol) [0x00007FF6EA330AC9]
+	(No symbol) [0x00007FF6EA285AB5]
+	GetHandleVerifier [0x00007FF6EA7A7B6D+2931725]
+	GetHandleVerifier [0x00007FF6EA7A2132+2908626]
+	GetHandleVerifier [0x00007FF6EA7C00F3+3031443]
+	GetHandleVerifier [0x00007FF6EA5091EA+184970]
+	GetHandleVerifier [0x00007FF6EA51086F+215311]
+	(No symbol) [0x00007FF6EA284B2C]
+	GetHandleVerifier [0x00007FF6EA8B2518+4023736]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:02:40,455 [mediamarkt] INFO: Processing product: BN2009333 - URL: https://mediamarkt.pl/pl/product/_telefon-komorkowy-tcl-onetouch-4043-szary-1481103.html
+2025-05-02 16:02:40,455 [mediamarkt] INFO: 😴 Sleeping for 4.14 seconds before processing BN2009333
+2025-05-02 16:03:50,660 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 16:03:50,661 [mediamarkt] INFO: 🔄 Proxy Manager: Disabled
+2025-05-02 16:03:50,662 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 16:03:50,758 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider with Selenium WebDriver for CloudFlare bypass
+2025-05-02 16:03:50,759 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 16:03:50,760 [mediamarkt] INFO: Initializing Chrome WebDriver for MediaMarkt...
+2025-05-02 16:03:50,760 [mediamarkt] INFO: Using User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2025-05-02 16:03:52,174 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:03:53,593 [mediamarkt] INFO: Processing product: BN2007402 - URL: https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html
+2025-05-02 16:03:53,596 [mediamarkt] INFO: 😴 Sleeping for 7.13 seconds before processing BN2007402
+2025-05-02 16:04:00,745 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver...
+2025-05-02 16:04:23,411 [mediamarkt] WARNING: ⚠️ CloudFlare challenge detected for BN2007402
+2025-05-02 16:04:33,463 [mediamarkt] ERROR: ❌ Failed to bypass CloudFlare for BN2007402
+2025-05-02 16:04:34,616 [mediamarkt] INFO: Processing product: BN2008152 - URL: https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny
+2025-05-02 16:04:34,618 [mediamarkt] INFO: 😴 Sleeping for 5.80 seconds before processing BN2008152
+2025-05-02 16:04:40,417 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver...
+2025-05-02 16:04:52,224 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008152
+2025-05-02 16:04:53,403 [mediamarkt] INFO: Processing product: BN2008556 - URL: https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html
+2025-05-02 16:04:53,403 [mediamarkt] INFO: 😴 Sleeping for 6.33 seconds before processing BN2008556
+2025-05-02 16:04:59,753 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html with WebDriver...
+2025-05-02 16:05:10,365 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008556
+2025-05-02 16:05:11,613 [mediamarkt] INFO: Processing product: BN2008555 - URL: https://mediamarkt.pl/telefony-i-smartfony/smartfon-tcl-403-2-32gb-czarny
+2025-05-02 16:05:11,615 [mediamarkt] INFO: 😴 Sleeping for 2.21 seconds before processing BN2008555
+2025-05-02 16:05:13,828 [mediamarkt] INFO: Loading https://mediamarkt.pl/telefony-i-smartfony/smartfon-tcl-403-2-32gb-czarny with WebDriver...
+2025-05-02 16:05:13,832 [mediamarkt] ERROR: WebDriver error for BN2008555: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EA4EEFA5+77893]
+	GetHandleVerifier [0x00007FF6EA4EF000+77984]
+	(No symbol) [0x00007FF6EA2B91BA]
+	(No symbol) [0x00007FF6EA2A4F15]
+	(No symbol) [0x00007FF6EA2C9F04]
+	(No symbol) [0x00007FF6EA33EACF]
+	(No symbol) [0x00007FF6EA35E972]
+	(No symbol) [0x00007FF6EA336F03]
+	(No symbol) [0x00007FF6EA300328]
+	(No symbol) [0x00007FF6EA301093]
+	GetHandleVerifier [0x00007FF6EA7A7B6D+2931725]
+	GetHandleVerifier [0x00007FF6EA7A2132+2908626]
+	GetHandleVerifier [0x00007FF6EA7C00F3+3031443]
+	GetHandleVerifier [0x00007FF6EA5091EA+184970]
+	GetHandleVerifier [0x00007FF6EA51086F+215311]
+	GetHandleVerifier [0x00007FF6EA4F6EC4+110436]
+	GetHandleVerifier [0x00007FF6EA4F7072+110866]
+	GetHandleVerifier [0x00007FF6EA4DD479+5401]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:05:15,694 [mediamarkt] INFO: Processing product: BN2008834 - URL: https://mediamarkt.pl/pl/product/_telefon-komorkowy-tcl-onetouch-4042s-szary-1479080.html
+2025-05-02 16:05:15,694 [mediamarkt] INFO: 😴 Sleeping for 6.10 seconds before processing BN2008834
+2025-05-02 16:05:21,798 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_telefon-komorkowy-tcl-onetouch-4042s-szary-1479080.html with WebDriver...
+2025-05-02 16:05:21,802 [mediamarkt] ERROR: WebDriver error for BN2008834: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EA4EEFA5+77893]
+	GetHandleVerifier [0x00007FF6EA4EF000+77984]
+	(No symbol) [0x00007FF6EA2B8FEC]
+	(No symbol) [0x00007FF6EA2FF44F]
+	(No symbol) [0x00007FF6EA336FF2]
+	(No symbol) [0x00007FF6EA331A02]
+	(No symbol) [0x00007FF6EA330AC9]
+	(No symbol) [0x00007FF6EA285AB5]
+	GetHandleVerifier [0x00007FF6EA7A7B6D+2931725]
+	GetHandleVerifier [0x00007FF6EA7A2132+2908626]
+	GetHandleVerifier [0x00007FF6EA7C00F3+3031443]
+	GetHandleVerifier [0x00007FF6EA5091EA+184970]
+	GetHandleVerifier [0x00007FF6EA51086F+215311]
+	(No symbol) [0x00007FF6EA284B2C]
+	GetHandleVerifier [0x00007FF6EA8B2518+4023736]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:05:34,111 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 16:05:34,118 [mediamarkt] INFO: 🔄 Proxy Manager: Disabled
+2025-05-02 16:05:34,118 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 16:05:34,218 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider with Selenium WebDriver for CloudFlare bypass
+2025-05-02 16:05:34,220 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 16:05:34,221 [mediamarkt] INFO: Initializing Chrome WebDriver for MediaMarkt...
+2025-05-02 16:05:34,221 [mediamarkt] INFO: Using User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2025-05-02 16:05:35,805 [mediamarkt] INFO: Preloading MediaMarkt domain to establish session...
+2025-05-02 16:05:50,119 [mediamarkt] WARNING: CloudFlare detected during preload, waiting longer...
+2025-05-02 16:06:05,232 [mediamarkt] INFO: Saved CloudFlare cookie: cf_clearance
+2025-05-02 16:06:05,233 [mediamarkt] INFO: Saved CloudFlare cookie: cf_chl_rc_i
+2025-05-02 16:06:05,234 [mediamarkt] INFO: Saved CloudFlare cookie: __cf_bm
+2025-05-02 16:06:05,234 [mediamarkt] INFO: ✅ Stored 3 CloudFlare cookies
+2025-05-02 16:06:05,248 [mediamarkt] INFO: Added cookie: cf_clearance
+2025-05-02 16:06:05,259 [mediamarkt] INFO: Added cookie: cf_chl_rc_i
+2025-05-02 16:06:05,266 [mediamarkt] INFO: Added cookie: __cf_bm
+2025-05-02 16:06:06,285 [mediamarkt] WARNING: Error during scrolling simulation: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EA4EEFA5+77893]
+	GetHandleVerifier [0x00007FF6EA4EF000+77984]
+	(No symbol) [0x00007FF6EA2B91BA]
+	(No symbol) [0x00007FF6EA2A4F15]
+	(No symbol) [0x00007FF6EA2C9F04]
+	(No symbol) [0x00007FF6EA33EACF]
+	(No symbol) [0x00007FF6EA35E972]
+	(No symbol) [0x00007FF6EA336F03]
+	(No symbol) [0x00007FF6EA300328]
+	(No symbol) [0x00007FF6EA301093]
+	GetHandleVerifier [0x00007FF6EA7A7B6D+2931725]
+	GetHandleVerifier [0x00007FF6EA7A2132+2908626]
+	GetHandleVerifier [0x00007FF6EA7C00F3+3031443]
+	GetHandleVerifier [0x00007FF6EA5091EA+184970]
+	GetHandleVerifier [0x00007FF6EA51086F+215311]
+	GetHandleVerifier [0x00007FF6EA4F6EC4+110436]
+	GetHandleVerifier [0x00007FF6EA4F7072+110866]
+	GetHandleVerifier [0x00007FF6EA4DD479+5401]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:06:06,287 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:06:07,762 [mediamarkt] INFO: Processing product: BN2007402 - URL: https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html
+2025-05-02 16:06:07,762 [mediamarkt] INFO: 😴 Sleeping for 2.69 seconds before processing BN2007402
+2025-05-02 16:06:10,456 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver...
+2025-05-02 16:06:10,457 [mediamarkt] ERROR: WebDriver error for BN2007402: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EA4EEFA5+77893]
+	GetHandleVerifier [0x00007FF6EA4EF000+77984]
+	(No symbol) [0x00007FF6EA2B8FEC]
+	(No symbol) [0x00007FF6EA2FF44F]
+	(No symbol) [0x00007FF6EA336FF2]
+	(No symbol) [0x00007FF6EA331A02]
+	(No symbol) [0x00007FF6EA330AC9]
+	(No symbol) [0x00007FF6EA285AB5]
+	GetHandleVerifier [0x00007FF6EA7A7B6D+2931725]
+	GetHandleVerifier [0x00007FF6EA7A2132+2908626]
+	GetHandleVerifier [0x00007FF6EA7C00F3+3031443]
+	GetHandleVerifier [0x00007FF6EA5091EA+184970]
+	GetHandleVerifier [0x00007FF6EA51086F+215311]
+	(No symbol) [0x00007FF6EA284B2C]
+	GetHandleVerifier [0x00007FF6EA8B2518+4023736]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:06:11,594 [mediamarkt] INFO: Processing product: BN2008152 - URL: https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny
+2025-05-02 16:06:11,595 [mediamarkt] INFO: 😴 Sleeping for 7.52 seconds before processing BN2008152
+2025-05-02 16:06:32,736 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 16:06:32,736 [mediamarkt] INFO: 🔄 Proxy Manager: Disabled
+2025-05-02 16:06:32,738 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 16:06:32,830 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider with Selenium WebDriver for CloudFlare bypass
+2025-05-02 16:06:32,830 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 16:06:32,831 [mediamarkt] INFO: Initializing Chrome WebDriver for MediaMarkt...
+2025-05-02 16:06:32,831 [mediamarkt] INFO: Using User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+2025-05-02 16:06:34,244 [mediamarkt] INFO: Preloading MediaMarkt domain to establish session...
+2025-05-02 16:06:45,769 [mediamarkt] WARNING: CloudFlare detected during preload, waiting longer...
+2025-05-02 16:07:00,784 [mediamarkt] INFO: Saved CloudFlare cookie: cf_clearance
+2025-05-02 16:07:00,784 [mediamarkt] INFO: Saved CloudFlare cookie: cf_chl_rc_i
+2025-05-02 16:07:00,785 [mediamarkt] INFO: Saved CloudFlare cookie: __cf_bm
+2025-05-02 16:07:00,786 [mediamarkt] INFO: ✅ Stored 3 CloudFlare cookies
+2025-05-02 16:07:00,795 [mediamarkt] INFO: Added cookie: cf_clearance
+2025-05-02 16:07:00,802 [mediamarkt] INFO: Added cookie: cf_chl_rc_i
+2025-05-02 16:07:00,811 [mediamarkt] INFO: Added cookie: __cf_bm
+2025-05-02 16:07:06,836 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:07:08,239 [mediamarkt] INFO: Processing product: BN2007402 - URL: https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html
+2025-05-02 16:07:08,240 [mediamarkt] INFO: 😴 Sleeping for 4.02 seconds before processing BN2007402
+2025-05-02 16:07:12,269 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver...
+2025-05-02 16:07:17,112 [mediamarkt] WARNING: ⚠️ CloudFlare challenge detected for BN2007402
+2025-05-02 16:07:17,113 [mediamarkt] INFO: ⚠️ You may need to manually solve the CAPTCHA in the browser window that opened
+2025-05-02 16:07:17,113 [mediamarkt] INFO: ⚠️ The script will wait while you solve it
+2025-05-02 16:07:22,119 [mediamarkt] INFO: Still waiting for CloudFlare resolution... (5s)
+2025-05-02 16:07:27,154 [mediamarkt] INFO: Still waiting for CloudFlare resolution... (10s)
+2025-05-02 16:07:32,201 [mediamarkt] INFO: Still waiting for CloudFlare resolution... (15s)
+2025-05-02 16:07:37,371 [mediamarkt] INFO: Still waiting for CloudFlare resolution... (20s)
+2025-05-02 16:07:42,426 [mediamarkt] INFO: Still waiting for CloudFlare resolution... (25s)
+2025-05-02 16:07:47,472 [mediamarkt] INFO: Still waiting for CloudFlare resolution... (30s)
+2025-05-02 16:07:58,060 [mediamarkt] WARNING: Timeout waiting for page elements for BN2007402
+2025-05-02 16:07:58,095 [mediamarkt] ERROR: ❌ Failed to bypass CloudFlare for BN2007402
+2025-05-02 16:07:58,096 [mediamarkt] WARNING: ⚠️ IMPORTANT: You may need to manually solve the CloudFlare CAPTCHA in the browser window
+2025-05-02 16:07:58,096 [mediamarkt] WARNING: ⚠️ After solving it once, the cookies should be saved for future requests
+2025-05-02 16:08:09,266 [mediamarkt] INFO: Processing product: BN2007402 - URL: https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html
+2025-05-02 16:08:09,267 [mediamarkt] INFO: 😴 Sleeping for 6.38 seconds before processing BN2007402
+2025-05-02 16:08:15,652 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver...
+2025-05-02 16:08:15,652 [mediamarkt] ERROR: WebDriver error for BN2007402: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EA4EEFA5+77893]
+	GetHandleVerifier [0x00007FF6EA4EF000+77984]
+	(No symbol) [0x00007FF6EA2B91BA]
+	(No symbol) [0x00007FF6EA2A4F15]
+	(No symbol) [0x00007FF6EA2C9F04]
+	(No symbol) [0x00007FF6EA33EACF]
+	(No symbol) [0x00007FF6EA35E972]
+	(No symbol) [0x00007FF6EA336F03]
+	(No symbol) [0x00007FF6EA300328]
+	(No symbol) [0x00007FF6EA301093]
+	GetHandleVerifier [0x00007FF6EA7A7B6D+2931725]
+	GetHandleVerifier [0x00007FF6EA7A2132+2908626]
+	GetHandleVerifier [0x00007FF6EA7C00F3+3031443]
+	GetHandleVerifier [0x00007FF6EA5091EA+184970]
+	GetHandleVerifier [0x00007FF6EA51086F+215311]
+	GetHandleVerifier [0x00007FF6EA4F6EC4+110436]
+	GetHandleVerifier [0x00007FF6EA4F7072+110866]
+	GetHandleVerifier [0x00007FF6EA4DD479+5401]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:08:16,786 [mediamarkt] INFO: Processing product: BN2008152 - URL: https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny
+2025-05-02 16:08:16,786 [mediamarkt] INFO: 😴 Sleeping for 4.45 seconds before processing BN2008152
+2025-05-02 16:08:49,300 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 16:08:49,301 [mediamarkt] INFO: 🔄 Proxy Manager: Disabled
+2025-05-02 16:08:49,301 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 16:08:49,301 [mediamarkt] INFO: Installing undetected_chromedriver...
+2025-05-02 16:09:06,395 [mediamarkt] INFO: undetected_chromedriver installed successfully
+2025-05-02 16:09:06,531 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider with Selenium WebDriver for CloudFlare bypass
+2025-05-02 16:09:06,532 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 16:09:06,990 [mediamarkt] INFO: Initializing undetected_chromedriver for MediaMarkt...
+2025-05-02 16:09:15,036 [mediamarkt] ERROR: Failed to initialize undetected_chromedriver: Message: session not created: cannot connect to chrome at 127.0.0.1:50465
+from session not created: This version of ChromeDriver only supports Chrome version 136
+Current browser version is 135.0.7049.115
+Stacktrace:
+	GetHandleVerifier [0x00D6FBD3+61635]
+	GetHandleVerifier [0x00D6FC14+61700]
+	(No symbol) [0x00B905D3]
+	(No symbol) [0x00BCA04B]
+	(No symbol) [0x00BC9069]
+	(No symbol) [0x00BBF7AF]
+	(No symbol) [0x00BBF5E6]
+	(No symbol) [0x00C08DF3]
+	(No symbol) [0x00C0880A]
+	(No symbol) [0x00BFD096]
+	(No symbol) [0x00BCC840]
+	(No symbol) [0x00BCD6A4]
+	GetHandleVerifier [0x00FB7043+2450739]
+	GetHandleVerifier [0x00FB27C6+2432182]
+	GetHandleVerifier [0x00FCD50E+2542078]
+	GetHandleVerifier [0x00D86895+155013]
+	GetHandleVerifier [0x00D8CF7D+181357]
+	GetHandleVerifier [0x00D77428+92440]
+	GetHandleVerifier [0x00D775D0+92864]
+	GetHandleVerifier [0x00D61FC0+5296]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7790CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7790CE91+561]
+
+2025-05-02 16:09:15,036 [mediamarkt] INFO: Initializing Chrome WebDriver for MediaMarkt...
+2025-05-02 16:09:15,037 [mediamarkt] INFO: Using User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+2025-05-02 16:09:16,488 [mediamarkt] INFO: Preloading MediaMarkt domain to establish session...
+2025-05-02 16:09:28,878 [mediamarkt] WARNING: CloudFlare detected during preload, waiting longer...
+2025-05-02 16:09:43,892 [mediamarkt] INFO: Saved CloudFlare cookie: cf_clearance
+2025-05-02 16:09:43,892 [mediamarkt] INFO: Saved CloudFlare cookie: __cf_bm
+2025-05-02 16:09:43,892 [mediamarkt] INFO: ✅ Stored 2 CloudFlare cookies
+2025-05-02 16:09:43,900 [mediamarkt] INFO: Added cookie: cf_clearance
+2025-05-02 16:09:43,906 [mediamarkt] INFO: Added cookie: __cf_bm
+2025-05-02 16:09:47,550 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:09:48,951 [mediamarkt] INFO: Processing product: BN2007402 - URL: https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html
+2025-05-02 16:09:48,951 [mediamarkt] INFO: 😴 Sleeping for 3.19 seconds before processing BN2007402
+2025-05-02 16:09:52,146 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver...
+2025-05-02 16:09:59,406 [mediamarkt] WARNING: ⚠️ CloudFlare challenge detected for BN2007402
+2025-05-02 16:09:59,407 [mediamarkt] INFO: ⚠️ You may need to manually solve the CAPTCHA in the browser window that opened
+2025-05-02 16:09:59,408 [mediamarkt] INFO: ⚠️ The script will wait while you solve it
+2025-05-02 16:10:04,409 [mediamarkt] INFO: Still waiting for CloudFlare resolution... (5s)
+2025-05-02 16:10:09,448 [mediamarkt] INFO: Still waiting for CloudFlare resolution... (10s)
+2025-05-02 16:10:14,483 [mediamarkt] INFO: Still waiting for CloudFlare resolution... (15s)
+2025-05-02 16:10:19,614 [mediamarkt] INFO: Still waiting for CloudFlare resolution... (20s)
+2025-05-02 16:10:24,667 [mediamarkt] INFO: Still waiting for CloudFlare resolution... (25s)
+2025-05-02 16:10:29,700 [mediamarkt] INFO: Still waiting for CloudFlare resolution... (30s)
+2025-05-02 16:10:40,323 [mediamarkt] WARNING: Timeout waiting for page elements for BN2007402
+2025-05-02 16:10:40,355 [mediamarkt] ERROR: ❌ Failed to bypass CloudFlare for BN2007402
+2025-05-02 16:10:40,355 [mediamarkt] WARNING: ⚠️ IMPORTANT: You may need to manually solve the CloudFlare CAPTCHA in the browser window
+2025-05-02 16:10:40,356 [mediamarkt] WARNING: ⚠️ After solving it once, the cookies should be saved for future requests
+2025-05-02 16:10:51,497 [mediamarkt] INFO: Processing product: BN2007402 - URL: https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html
+2025-05-02 16:10:51,497 [mediamarkt] INFO: 😴 Sleeping for 5.94 seconds before processing BN2007402
+2025-05-02 16:10:57,441 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver...
+2025-05-02 16:11:02,022 [mediamarkt] ERROR: WebDriver error for BN2007402: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EA4EEFA5+77893]
+	GetHandleVerifier [0x00007FF6EA4EF000+77984]
+	(No symbol) [0x00007FF6EA2B91BA]
+	(No symbol) [0x00007FF6EA2A4F15]
+	(No symbol) [0x00007FF6EA2C9F04]
+	(No symbol) [0x00007FF6EA33EACF]
+	(No symbol) [0x00007FF6EA35E972]
+	(No symbol) [0x00007FF6EA336F03]
+	(No symbol) [0x00007FF6EA300328]
+	(No symbol) [0x00007FF6EA301093]
+	GetHandleVerifier [0x00007FF6EA7A7B6D+2931725]
+	GetHandleVerifier [0x00007FF6EA7A2132+2908626]
+	GetHandleVerifier [0x00007FF6EA7C00F3+3031443]
+	GetHandleVerifier [0x00007FF6EA5091EA+184970]
+	GetHandleVerifier [0x00007FF6EA51086F+215311]
+	GetHandleVerifier [0x00007FF6EA4F6EC4+110436]
+	GetHandleVerifier [0x00007FF6EA4F7072+110866]
+	GetHandleVerifier [0x00007FF6EA4DD479+5401]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:11:03,183 [mediamarkt] INFO: Processing product: BN2008152 - URL: https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny
+2025-05-02 16:11:03,183 [mediamarkt] INFO: 😴 Sleeping for 7.33 seconds before processing BN2008152
+2025-05-02 16:11:29,388 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 16:11:29,388 [mediamarkt] INFO: 🔄 Proxy Manager: Disabled
+2025-05-02 16:11:29,389 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 16:11:29,677 [mediamarkt] INFO: undetected_chromedriver is already installed
+2025-05-02 16:11:29,782 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider with Selenium WebDriver for CloudFlare bypass
+2025-05-02 16:11:29,783 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 16:11:29,784 [mediamarkt] INFO: Initializing undetected_chromedriver for MediaMarkt...
+2025-05-02 16:11:37,060 [mediamarkt] ERROR: Failed to initialize undetected_chromedriver: Message: session not created: cannot connect to chrome at 127.0.0.1:50783
+from session not created: This version of ChromeDriver only supports Chrome version 136
+Current browser version is 135.0.7049.115
+Stacktrace:
+	GetHandleVerifier [0x00AEFBD3+61635]
+	GetHandleVerifier [0x00AEFC14+61700]
+	(No symbol) [0x009105D3]
+	(No symbol) [0x0094A04B]
+	(No symbol) [0x00949069]
+	(No symbol) [0x0093F7AF]
+	(No symbol) [0x0093F5E6]
+	(No symbol) [0x00988DF3]
+	(No symbol) [0x0098880A]
+	(No symbol) [0x0097D096]
+	(No symbol) [0x0094C840]
+	(No symbol) [0x0094D6A4]
+	GetHandleVerifier [0x00D37043+2450739]
+	GetHandleVerifier [0x00D327C6+2432182]
+	GetHandleVerifier [0x00D4D50E+2542078]
+	GetHandleVerifier [0x00B06895+155013]
+	GetHandleVerifier [0x00B0CF7D+181357]
+	GetHandleVerifier [0x00AF7428+92440]
+	GetHandleVerifier [0x00AF75D0+92864]
+	GetHandleVerifier [0x00AE1FC0+5296]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7790CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7790CE91+561]
+
+2025-05-02 16:11:37,062 [mediamarkt] INFO: Initializing Chrome WebDriver for MediaMarkt...
+2025-05-02 16:11:37,063 [mediamarkt] INFO: Using User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+2025-05-02 16:11:38,756 [mediamarkt] INFO: Preloading MediaMarkt domain to establish session...
+2025-05-02 16:11:49,724 [mediamarkt] WARNING: CloudFlare detected during preload, waiting longer...
+2025-05-02 16:25:14,184 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 16:25:14,184 [mediamarkt] INFO: 🔄 Proxy Manager: Disabled
+2025-05-02 16:25:14,184 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 16:25:15,629 [mediamarkt] INFO: undetected_chromedriver is already installed
+2025-05-02 16:25:16,708 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider with Selenium WebDriver for CloudFlare bypass
+2025-05-02 16:25:16,709 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 16:25:16,709 [mediamarkt] INFO: Initializing undetected_chromedriver for MediaMarkt...
+2025-05-02 16:25:24,245 [mediamarkt] ERROR: Failed to initialize undetected_chromedriver: Message: session not created: cannot connect to chrome at 127.0.0.1:51422
+from session not created: This version of ChromeDriver only supports Chrome version 136
+Current browser version is 135.0.7049.115
+Stacktrace:
+	GetHandleVerifier [0x008BFBD3+61635]
+	GetHandleVerifier [0x008BFC14+61700]
+	(No symbol) [0x006E05D3]
+	(No symbol) [0x0071A04B]
+	(No symbol) [0x00719069]
+	(No symbol) [0x0070F7AF]
+	(No symbol) [0x0070F5E6]
+	(No symbol) [0x00758DF3]
+	(No symbol) [0x0075880A]
+	(No symbol) [0x0074D096]
+	(No symbol) [0x0071C840]
+	(No symbol) [0x0071D6A4]
+	GetHandleVerifier [0x00B07043+2450739]
+	GetHandleVerifier [0x00B027C6+2432182]
+	GetHandleVerifier [0x00B1D50E+2542078]
+	GetHandleVerifier [0x008D6895+155013]
+	GetHandleVerifier [0x008DCF7D+181357]
+	GetHandleVerifier [0x008C7428+92440]
+	GetHandleVerifier [0x008C75D0+92864]
+	GetHandleVerifier [0x008B1FC0+5296]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7790CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7790CE91+561]
+
+2025-05-02 16:25:24,245 [mediamarkt] INFO: Initializing Chrome WebDriver for MediaMarkt...
+2025-05-02 16:25:26,326 [mediamarkt] INFO: Applied anti-detection JavaScript
+2025-05-02 16:25:26,326 [mediamarkt] INFO: Preloading MediaMarkt domain to establish session...
+2025-05-02 16:25:35,087 [mediamarkt] INFO: Added CloudFlare cookie: __cf_bm
+2025-05-02 16:25:35,095 [mediamarkt] INFO: Added CloudFlare cookie: optid
+2025-05-02 16:25:35,106 [mediamarkt] INFO: Added CloudFlare cookie: _cfuvid
+2025-05-02 16:25:35,114 [mediamarkt] INFO: Added CloudFlare cookie: cf_chl_rc_i
+2025-05-02 16:25:43,791 [mediamarkt] WARNING: CloudFlare detected during preload
+2025-05-02 16:25:43,791 [mediamarkt] WARNING: ⚠️ CloudFlare challenge detected - attempting to handle CAPTCHA
+2025-05-02 16:25:48,816 [mediamarkt] INFO: Found 1 iframes, looking for CloudFlare captcha
+2025-05-02 16:25:48,883 [mediamarkt] INFO: Looking for captcha elements in main content
+2025-05-02 16:25:48,902 [mediamarkt] INFO: Found 2 potential captcha elements
+2025-05-02 16:25:48,902 [mediamarkt] INFO: Attempting to click captcha element 0
+2025-05-02 16:25:49,979 [mediamarkt] INFO: Clicked captcha element 0
+2025-05-02 16:26:00,100 [mediamarkt] INFO: Attempting to click captcha element 1
+2025-05-02 16:26:01,144 [mediamarkt] INFO: Clicked captcha element 1
+2025-05-02 16:26:11,398 [mediamarkt] WARNING: ⚠️ CloudFlare challenge still active - please solve it manually in the browser window
+2025-05-02 16:26:11,398 [mediamarkt] WARNING: The script will wait for 20 seconds for manual intervention
+2025-05-02 16:26:31,523 [mediamarkt] INFO: Saved CloudFlare cookie: cf_clearance
+2025-05-02 16:26:31,526 [mediamarkt] INFO: Saved CloudFlare cookie: cf_chl_rc_i
+2025-05-02 16:26:31,526 [mediamarkt] INFO: Saved CloudFlare cookie: __cf_bm
+2025-05-02 16:26:31,526 [mediamarkt] INFO: ✅ Stored 3 CloudFlare cookies
+2025-05-02 16:26:35,033 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:26:36,519 [mediamarkt] INFO: Processing product: BN2007402 - URL: https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html
+2025-05-02 16:26:36,520 [mediamarkt] INFO: 😴 Sleeping for 7.48 seconds before processing BN2007402
+2025-05-02 16:26:44,001 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver... (Attempt 1/3)
+2025-05-02 16:26:51,925 [mediamarkt] WARNING: ⚠️ CloudFlare challenge detected for BN2007402 on attempt 1
+2025-05-02 16:26:51,925 [mediamarkt] WARNING: ⚠️ CloudFlare challenge detected - attempting to handle CAPTCHA
+2025-05-02 16:26:56,948 [mediamarkt] INFO: Looking for captcha elements in main content
+2025-05-02 16:26:56,960 [mediamarkt] WARNING: No captcha elements found, waiting for timeout or manual intervention
+2025-05-02 16:26:56,970 [mediamarkt] WARNING: ⚠️ CloudFlare challenge still active - please solve it manually in the browser window
+2025-05-02 16:26:56,972 [mediamarkt] WARNING: The script will wait for 20 seconds for manual intervention
+2025-05-02 16:27:16,985 [mediamarkt] ERROR: Error handling captcha: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B31391BA]
+	(No symbol) [0x00007FF7B3124F15]
+	(No symbol) [0x00007FF7B3149F04]
+	(No symbol) [0x00007FF7B31BEACF]
+	(No symbol) [0x00007FF7B31DE972]
+	(No symbol) [0x00007FF7B31B6F03]
+	(No symbol) [0x00007FF7B3180328]
+	(No symbol) [0x00007FF7B3181093]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	GetHandleVerifier [0x00007FF7B3376EC4+110436]
+	GetHandleVerifier [0x00007FF7B3377072+110866]
+	GetHandleVerifier [0x00007FF7B335D479+5401]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:27:16,986 [mediamarkt] WARNING: Retrying BN2007402 after CloudFlare challenge (Attempt 2)
+2025-05-02 16:27:16,986 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver... (Attempt 2/3)
+2025-05-02 16:27:17,155 [mediamarkt] ERROR: WebDriver error for BN2007402: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B3138FEC]
+	(No symbol) [0x00007FF7B317F44F]
+	(No symbol) [0x00007FF7B31B6FF2]
+	(No symbol) [0x00007FF7B31B1A02]
+	(No symbol) [0x00007FF7B31B0AC9]
+	(No symbol) [0x00007FF7B3105AB5]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	(No symbol) [0x00007FF7B3104B2C]
+	GetHandleVerifier [0x00007FF7B3732518+4023736]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:27:17,156 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver... (Attempt 3/3)
+2025-05-02 16:27:17,156 [mediamarkt] ERROR: WebDriver error for BN2007402: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B3138FEC]
+	(No symbol) [0x00007FF7B317F44F]
+	(No symbol) [0x00007FF7B31B6FF2]
+	(No symbol) [0x00007FF7B31B1A02]
+	(No symbol) [0x00007FF7B31B0AC9]
+	(No symbol) [0x00007FF7B3105AB5]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	(No symbol) [0x00007FF7B3104B2C]
+	GetHandleVerifier [0x00007FF7B3732518+4023736]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:27:17,156 [mediamarkt] ERROR: ❌ Failed to load page for BN2007402 after 3 attempts
+2025-05-02 16:27:18,086 [mediamarkt] INFO: Processing product: BN2008152 - URL: https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny
+2025-05-02 16:27:18,088 [mediamarkt] INFO: 😴 Sleeping for 2.98 seconds before processing BN2008152
+2025-05-02 16:27:21,069 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver... (Attempt 1/3)
+2025-05-02 16:27:21,072 [mediamarkt] ERROR: WebDriver error for BN2008152: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B3138FEC]
+	(No symbol) [0x00007FF7B317F44F]
+	(No symbol) [0x00007FF7B31B6FF2]
+	(No symbol) [0x00007FF7B31B1A02]
+	(No symbol) [0x00007FF7B31B0AC9]
+	(No symbol) [0x00007FF7B3105AB5]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	(No symbol) [0x00007FF7B3104B2C]
+	GetHandleVerifier [0x00007FF7B3732518+4023736]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:27:21,072 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver... (Attempt 2/3)
+2025-05-02 16:27:21,074 [mediamarkt] ERROR: WebDriver error for BN2008152: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B3138FEC]
+	(No symbol) [0x00007FF7B317F44F]
+	(No symbol) [0x00007FF7B31B6FF2]
+	(No symbol) [0x00007FF7B31B1A02]
+	(No symbol) [0x00007FF7B31B0AC9]
+	(No symbol) [0x00007FF7B3105AB5]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	(No symbol) [0x00007FF7B3104B2C]
+	GetHandleVerifier [0x00007FF7B3732518+4023736]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:27:21,074 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver... (Attempt 3/3)
+2025-05-02 16:27:21,078 [mediamarkt] ERROR: WebDriver error for BN2008152: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B3138FEC]
+	(No symbol) [0x00007FF7B317F44F]
+	(No symbol) [0x00007FF7B31B6FF2]
+	(No symbol) [0x00007FF7B31B1A02]
+	(No symbol) [0x00007FF7B31B0AC9]
+	(No symbol) [0x00007FF7B3105AB5]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	(No symbol) [0x00007FF7B3104B2C]
+	GetHandleVerifier [0x00007FF7B3732518+4023736]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:27:21,079 [mediamarkt] ERROR: ❌ Failed to load page for BN2008152 after 3 attempts
+2025-05-02 16:33:05,844 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 16:33:05,844 [mediamarkt] INFO: 🔄 Proxy Manager: Disabled
+2025-05-02 16:33:05,845 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 16:33:06,100 [mediamarkt] INFO: undetected_chromedriver is already installed
+2025-05-02 16:33:06,191 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider with Selenium WebDriver for CloudFlare bypass
+2025-05-02 16:33:06,191 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 16:33:06,191 [mediamarkt] INFO: Initializing undetected_chromedriver for MediaMarkt...
+2025-05-02 16:33:13,336 [mediamarkt] ERROR: Failed to initialize undetected_chromedriver: Message: session not created: cannot connect to chrome at 127.0.0.1:52090
+from session not created: This version of ChromeDriver only supports Chrome version 136
+Current browser version is 135.0.7049.115
+Stacktrace:
+	GetHandleVerifier [0x008BFBD3+61635]
+	GetHandleVerifier [0x008BFC14+61700]
+	(No symbol) [0x006E05D3]
+	(No symbol) [0x0071A04B]
+	(No symbol) [0x00719069]
+	(No symbol) [0x0070F7AF]
+	(No symbol) [0x0070F5E6]
+	(No symbol) [0x00758DF3]
+	(No symbol) [0x0075880A]
+	(No symbol) [0x0074D096]
+	(No symbol) [0x0071C840]
+	(No symbol) [0x0071D6A4]
+	GetHandleVerifier [0x00B07043+2450739]
+	GetHandleVerifier [0x00B027C6+2432182]
+	GetHandleVerifier [0x00B1D50E+2542078]
+	GetHandleVerifier [0x008D6895+155013]
+	GetHandleVerifier [0x008DCF7D+181357]
+	GetHandleVerifier [0x008C7428+92440]
+	GetHandleVerifier [0x008C75D0+92864]
+	GetHandleVerifier [0x008B1FC0+5296]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7790CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7790CE91+561]
+
+2025-05-02 16:33:13,336 [mediamarkt] INFO: Initializing Chrome WebDriver for MediaMarkt...
+2025-05-02 16:33:14,799 [mediamarkt] INFO: Applied anti-detection JavaScript
+2025-05-02 16:33:14,800 [mediamarkt] INFO: Applying cookies directly without navigation...
+2025-05-02 16:33:19,265 [mediamarkt] INFO: Added cookie: __cf_bm
+2025-05-02 16:33:19,278 [mediamarkt] INFO: Added cookie: optid
+2025-05-02 16:33:19,287 [mediamarkt] INFO: Added cookie: _cfuvid
+2025-05-02 16:33:19,293 [mediamarkt] INFO: Added cookie: cf_chl_rc_i
+2025-05-02 16:33:19,307 [mediamarkt] INFO: Added consent cookies
+2025-05-02 16:33:19,307 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:33:20,708 [mediamarkt] INFO: Processing product: BN2007402 - URL: https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html
+2025-05-02 16:33:20,709 [mediamarkt] INFO: 😴 Sleeping for 2.71 seconds before processing BN2007402
+2025-05-02 16:33:23,428 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver... (Attempt 1/2)
+2025-05-02 16:33:31,580 [mediamarkt] INFO: Found consent dialog button with selector: //button[contains(text(), 'Akceptuję wszystko')]
+2025-05-02 16:33:32,195 [mediamarkt] INFO: Clicked consent button
+2025-05-02 16:33:33,200 [mediamarkt] INFO: Consent dialog handled successfully
+2025-05-02 16:33:33,203 [mediamarkt] INFO: Saved CloudFlare cookie: cf_clearance
+2025-05-02 16:33:33,203 [mediamarkt] INFO: Saved CloudFlare cookie: __cf_bm
+2025-05-02 16:33:33,203 [mediamarkt] INFO: Saved CloudFlare cookie: cf_chl_rc_i
+2025-05-02 16:33:33,203 [mediamarkt] INFO: ✅ Stored 3 CloudFlare cookies
+2025-05-02 16:33:34,271 [mediamarkt] WARNING: ⚠️ CloudFlare challenge detected for BN2007402
+2025-05-02 16:33:34,271 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver... (Attempt 2/2)
+2025-05-02 16:33:39,115 [mediamarkt] WARNING: ⚠️ CloudFlare challenge detected for BN2007402
+2025-05-02 16:33:39,190 [mediamarkt] INFO: Page for BN2007402 loaded successfully
+2025-05-02 16:33:39,213 [mediamarkt] INFO: Saved CloudFlare cookie: cf_clearance
+2025-05-02 16:33:39,213 [mediamarkt] INFO: Saved CloudFlare cookie: __cf_bm
+2025-05-02 16:33:39,218 [mediamarkt] INFO: Saved CloudFlare cookie: cf_chl_rc_i
+2025-05-02 16:33:39,218 [mediamarkt] INFO: ✅ Stored 3 CloudFlare cookies
+2025-05-02 16:33:43,243 [mediamarkt] INFO: BN2007402: 149.99 PLN | Instock
+2025-05-02 16:33:44,409 [mediamarkt] INFO: Processing product: BN2008152 - URL: https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny
+2025-05-02 16:33:44,409 [mediamarkt] INFO: 😴 Sleeping for 2.97 seconds before processing BN2008152
+2025-05-02 16:33:47,396 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver... (Attempt 1/2)
+2025-05-02 16:33:54,286 [mediamarkt] WARNING: ⚠️ CloudFlare challenge detected for BN2008152
+2025-05-02 16:33:54,287 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver... (Attempt 2/2)
+2025-05-02 16:33:57,577 [mediamarkt] WARNING: ⚠️ CloudFlare challenge detected for BN2008152
+2025-05-02 16:34:07,900 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008152
+2025-05-02 16:34:07,928 [mediamarkt] ERROR: ❌ Failed to load page for BN2008152 after 2 attempts
+2025-05-02 16:34:09,077 [mediamarkt] INFO: Processing product: BN2008556 - URL: https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html
+2025-05-02 16:34:09,077 [mediamarkt] INFO: 😴 Sleeping for 3.45 seconds before processing BN2008556
+2025-05-02 16:34:12,543 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html with WebDriver... (Attempt 1/2)
+2025-05-02 16:34:16,190 [mediamarkt] WARNING: ⚠️ CloudFlare challenge detected for BN2008556
+2025-05-02 16:34:16,190 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html with WebDriver... (Attempt 2/2)
+2025-05-02 16:34:19,324 [mediamarkt] WARNING: ⚠️ CloudFlare challenge detected for BN2008556
+2025-05-02 16:34:29,710 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008556
+2025-05-02 16:34:29,735 [mediamarkt] ERROR: ❌ Failed to load page for BN2008556 after 2 attempts
+2025-05-02 16:34:30,919 [mediamarkt] INFO: Processing product: BN2008555 - URL: https://mediamarkt.pl/telefony-i-smartfony/smartfon-tcl-403-2-32gb-czarny
+2025-05-02 16:34:30,919 [mediamarkt] INFO: 😴 Sleeping for 4.94 seconds before processing BN2008555
+2025-05-02 16:34:35,861 [mediamarkt] INFO: Loading https://mediamarkt.pl/telefony-i-smartfony/smartfon-tcl-403-2-32gb-czarny with WebDriver... (Attempt 1/2)
+2025-05-02 16:34:39,758 [mediamarkt] WARNING: ⚠️ CloudFlare challenge detected for BN2008555
+2025-05-02 16:34:39,758 [mediamarkt] INFO: Loading https://mediamarkt.pl/telefony-i-smartfony/smartfon-tcl-403-2-32gb-czarny with WebDriver... (Attempt 2/2)
+2025-05-02 16:34:43,404 [mediamarkt] WARNING: ⚠️ CloudFlare challenge detected for BN2008555
+2025-05-02 16:34:47,800 [mediamarkt] ERROR: WebDriver error for BN2008555: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B31391BA]
+	(No symbol) [0x00007FF7B3124F15]
+	(No symbol) [0x00007FF7B3149F04]
+	(No symbol) [0x00007FF7B31BEACF]
+	(No symbol) [0x00007FF7B31DE972]
+	(No symbol) [0x00007FF7B31B6F03]
+	(No symbol) [0x00007FF7B3180328]
+	(No symbol) [0x00007FF7B3181093]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	GetHandleVerifier [0x00007FF7B3376EC4+110436]
+	GetHandleVerifier [0x00007FF7B3377072+110866]
+	GetHandleVerifier [0x00007FF7B335D479+5401]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:34:47,800 [mediamarkt] ERROR: ❌ Failed to load page for BN2008555 after 2 attempts
+2025-05-02 16:34:48,962 [mediamarkt] INFO: Processing product: BN2008834 - URL: https://mediamarkt.pl/pl/product/_telefon-komorkowy-tcl-onetouch-4042s-szary-1479080.html
+2025-05-02 16:34:48,962 [mediamarkt] INFO: 😴 Sleeping for 4.90 seconds before processing BN2008834
+2025-05-02 16:34:53,870 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_telefon-komorkowy-tcl-onetouch-4042s-szary-1479080.html with WebDriver... (Attempt 1/2)
+2025-05-02 16:34:53,870 [mediamarkt] ERROR: WebDriver error for BN2008834: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B3138FEC]
+	(No symbol) [0x00007FF7B317F44F]
+	(No symbol) [0x00007FF7B31B6FF2]
+	(No symbol) [0x00007FF7B31B1A02]
+	(No symbol) [0x00007FF7B31B0AC9]
+	(No symbol) [0x00007FF7B3105AB5]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	(No symbol) [0x00007FF7B3104B2C]
+	GetHandleVerifier [0x00007FF7B3732518+4023736]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:34:53,870 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_telefon-komorkowy-tcl-onetouch-4042s-szary-1479080.html with WebDriver... (Attempt 2/2)
+2025-05-02 16:34:53,870 [mediamarkt] ERROR: WebDriver error for BN2008834: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B3138FEC]
+	(No symbol) [0x00007FF7B317F44F]
+	(No symbol) [0x00007FF7B31B6FF2]
+	(No symbol) [0x00007FF7B31B1A02]
+	(No symbol) [0x00007FF7B31B0AC9]
+	(No symbol) [0x00007FF7B3105AB5]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	(No symbol) [0x00007FF7B3104B2C]
+	GetHandleVerifier [0x00007FF7B3732518+4023736]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:34:53,870 [mediamarkt] ERROR: ❌ Failed to load page for BN2008834 after 2 attempts
+2025-05-02 16:34:55,044 [mediamarkt] INFO: Processing product: BN2009333 - URL: https://mediamarkt.pl/pl/product/_telefon-komorkowy-tcl-onetouch-4043-szary-1481103.html
+2025-05-02 16:34:55,044 [mediamarkt] INFO: 😴 Sleeping for 3.33 seconds before processing BN2009333
+2025-05-02 16:40:38,618 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 16:40:38,618 [mediamarkt] INFO: 🔄 Proxy Manager: Disabled
+2025-05-02 16:40:38,618 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 16:40:38,863 [mediamarkt] INFO: undetected_chromedriver is already installed
+2025-05-02 16:40:38,951 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider with Selenium WebDriver for CloudFlare bypass
+2025-05-02 16:40:38,951 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 16:40:38,951 [mediamarkt] INFO: Initializing undetected_chromedriver for MediaMarkt...
+2025-05-02 16:40:45,793 [mediamarkt] ERROR: Failed to initialize undetected_chromedriver: Message: session not created: cannot connect to chrome at 127.0.0.1:52644
+from session not created: This version of ChromeDriver only supports Chrome version 136
+Current browser version is 135.0.7049.115
+Stacktrace:
+	GetHandleVerifier [0x0030FBD3+61635]
+	GetHandleVerifier [0x0030FC14+61700]
+	(No symbol) [0x001305D3]
+	(No symbol) [0x0016A04B]
+	(No symbol) [0x00169069]
+	(No symbol) [0x0015F7AF]
+	(No symbol) [0x0015F5E6]
+	(No symbol) [0x001A8DF3]
+	(No symbol) [0x001A880A]
+	(No symbol) [0x0019D096]
+	(No symbol) [0x0016C840]
+	(No symbol) [0x0016D6A4]
+	GetHandleVerifier [0x00557043+2450739]
+	GetHandleVerifier [0x005527C6+2432182]
+	GetHandleVerifier [0x0056D50E+2542078]
+	GetHandleVerifier [0x00326895+155013]
+	GetHandleVerifier [0x0032CF7D+181357]
+	GetHandleVerifier [0x00317428+92440]
+	GetHandleVerifier [0x003175D0+92864]
+	GetHandleVerifier [0x00301FC0+5296]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7790CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7790CE91+561]
+	(No symbol) [0x00000000]
+
+2025-05-02 16:40:45,798 [mediamarkt] INFO: Initializing Chrome WebDriver for MediaMarkt...
+2025-05-02 16:40:47,208 [mediamarkt] INFO: Applied anti-detection JavaScript
+2025-05-02 16:40:47,209 [mediamarkt] INFO: Applying cookies directly without navigation...
+2025-05-02 16:40:51,539 [mediamarkt] INFO: Added cookie: __cf_bm
+2025-05-02 16:40:51,553 [mediamarkt] INFO: Added cookie: optid
+2025-05-02 16:40:51,558 [mediamarkt] INFO: Added cookie: _cfuvid
+2025-05-02 16:40:51,566 [mediamarkt] INFO: Added cookie: cf_chl_rc_i
+2025-05-02 16:40:51,585 [mediamarkt] INFO: Added consent cookies
+2025-05-02 16:40:51,586 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:40:53,000 [mediamarkt] INFO: Processing product: BN2007402 - URL: https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html
+2025-05-02 16:40:53,000 [mediamarkt] INFO: 😴 Sleeping for 7.43 seconds before processing BN2007402
+2025-05-02 16:41:00,444 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver... (Attempt 1/3)
+2025-05-02 16:41:09,077 [mediamarkt] INFO: Found consent dialog button with selector: //button[contains(text(), 'Akceptuję wszystko')]
+2025-05-02 16:41:09,681 [mediamarkt] INFO: Clicked consent button
+2025-05-02 16:41:10,681 [mediamarkt] INFO: Consent dialog handled successfully
+2025-05-02 16:41:10,686 [mediamarkt] INFO: Saved CloudFlare cookie: cf_clearance
+2025-05-02 16:41:10,686 [mediamarkt] INFO: Saved CloudFlare cookie: __cf_bm
+2025-05-02 16:41:10,686 [mediamarkt] INFO: Saved CloudFlare cookie: cf_chl_rc_i
+2025-05-02 16:41:10,686 [mediamarkt] INFO: ✅ Stored 3 CloudFlare cookies
+2025-05-02 16:41:10,692 [mediamarkt] INFO: Updated working cookies with 3 CloudFlare cookies
+2025-05-02 16:41:11,733 [mediamarkt] INFO: CloudFlare indicators found but product content also detected - proceeding
+2025-05-02 16:41:11,799 [mediamarkt] INFO: Page for BN2007402 loaded successfully
+2025-05-02 16:41:11,799 [mediamarkt] INFO: Saved CloudFlare cookie: cf_clearance
+2025-05-02 16:41:11,799 [mediamarkt] INFO: Saved CloudFlare cookie: __cf_bm
+2025-05-02 16:41:11,799 [mediamarkt] INFO: Saved CloudFlare cookie: cf_chl_rc_i
+2025-05-02 16:41:11,799 [mediamarkt] INFO: ✅ Stored 3 CloudFlare cookies
+2025-05-02 16:41:11,815 [mediamarkt] INFO: Updated working cookies with 3 CloudFlare cookies
+2025-05-02 16:41:16,265 [mediamarkt] INFO: BN2007402: 149.99 PLN | Instock
+2025-05-02 16:41:17,416 [mediamarkt] INFO: Processing product: BN2008152 - URL: https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny
+2025-05-02 16:41:17,417 [mediamarkt] INFO: 😴 Sleeping for 3.41 seconds before processing BN2008152
+2025-05-02 16:41:20,835 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver... (Attempt 1/3)
+2025-05-02 16:41:27,627 [mediamarkt] WARNING: ⚠️ CloudFlare challenge detected for BN2008152 on attempt 1
+2025-05-02 16:41:30,640 [mediamarkt] INFO: Applying cookies directly without navigation...
+2025-05-02 16:41:33,210 [mediamarkt] INFO: Added cookie: __cf_bm
+2025-05-02 16:41:33,216 [mediamarkt] INFO: Added cookie: optid
+2025-05-02 16:41:33,223 [mediamarkt] INFO: Added cookie: _cfuvid
+2025-05-02 16:41:33,230 [mediamarkt] INFO: Added cookie: cf_chl_rc_i
+2025-05-02 16:41:33,236 [mediamarkt] INFO: Added cookie: cf_clearance
+2025-05-02 16:41:33,256 [mediamarkt] INFO: Added consent cookies
+2025-05-02 16:41:33,257 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver... (Attempt 2/3)
+2025-05-02 16:41:36,287 [mediamarkt] WARNING: Error with consent button selector //button[contains(text(), 'Akceptuję wszystkie')]: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B31391BA]
+	(No symbol) [0x00007FF7B3124F15]
+	(No symbol) [0x00007FF7B3149F04]
+	(No symbol) [0x00007FF7B31BEACF]
+	(No symbol) [0x00007FF7B31DE972]
+	(No symbol) [0x00007FF7B31B6F03]
+	(No symbol) [0x00007FF7B3180328]
+	(No symbol) [0x00007FF7B3181093]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	GetHandleVerifier [0x00007FF7B3376EC4+110436]
+	GetHandleVerifier [0x00007FF7B3377072+110866]
+	GetHandleVerifier [0x00007FF7B335D479+5401]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:41:36,370 [mediamarkt] WARNING: Error with consent button selector //button[contains(text(), 'Akceptuję wszystko')]: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B3138FEC]
+	(No symbol) [0x00007FF7B317F44F]
+	(No symbol) [0x00007FF7B31B6FF2]
+	(No symbol) [0x00007FF7B31B1A02]
+	(No symbol) [0x00007FF7B31B0AC9]
+	(No symbol) [0x00007FF7B3105AB5]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	(No symbol) [0x00007FF7B3104B2C]
+	GetHandleVerifier [0x00007FF7B3732518+4023736]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:41:36,380 [mediamarkt] WARNING: Error with consent button selector //button[contains(@class, 'btn-accept-all')]: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B3138FEC]
+	(No symbol) [0x00007FF7B317F44F]
+	(No symbol) [0x00007FF7B31B6FF2]
+	(No symbol) [0x00007FF7B31B1A02]
+	(No symbol) [0x00007FF7B31B0AC9]
+	(No symbol) [0x00007FF7B3105AB5]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	(No symbol) [0x00007FF7B3104B2C]
+	GetHandleVerifier [0x00007FF7B3732518+4023736]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:41:36,380 [mediamarkt] WARNING: Error with consent button selector //button[contains(text(), 'Accept all')]: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B3138FEC]
+	(No symbol) [0x00007FF7B317F44F]
+	(No symbol) [0x00007FF7B31B6FF2]
+	(No symbol) [0x00007FF7B31B1A02]
+	(No symbol) [0x00007FF7B31B0AC9]
+	(No symbol) [0x00007FF7B3105AB5]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	(No symbol) [0x00007FF7B3104B2C]
+	GetHandleVerifier [0x00007FF7B3732518+4023736]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:41:36,383 [mediamarkt] ERROR: WebDriver error for BN2008152: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B3138FEC]
+	(No symbol) [0x00007FF7B317F44F]
+	(No symbol) [0x00007FF7B31B6FF2]
+	(No symbol) [0x00007FF7B31B1A02]
+	(No symbol) [0x00007FF7B31B0AC9]
+	(No symbol) [0x00007FF7B3105AB5]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	(No symbol) [0x00007FF7B3104B2C]
+	GetHandleVerifier [0x00007FF7B3732518+4023736]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:41:36,385 [mediamarkt] INFO: Applying cookies directly without navigation...
+2025-05-02 16:41:36,386 [mediamarkt] WARNING: Error preloading cookies: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B3138FEC]
+	(No symbol) [0x00007FF7B317F44F]
+	(No symbol) [0x00007FF7B31B6FF2]
+	(No symbol) [0x00007FF7B31B1A02]
+	(No symbol) [0x00007FF7B31B0AC9]
+	(No symbol) [0x00007FF7B3105AB5]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	(No symbol) [0x00007FF7B3104B2C]
+	GetHandleVerifier [0x00007FF7B3732518+4023736]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:41:36,387 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver... (Attempt 3/3)
+2025-05-02 16:41:36,390 [mediamarkt] ERROR: WebDriver error for BN2008152: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B3138FEC]
+	(No symbol) [0x00007FF7B317F44F]
+	(No symbol) [0x00007FF7B31B6FF2]
+	(No symbol) [0x00007FF7B31B1A02]
+	(No symbol) [0x00007FF7B31B0AC9]
+	(No symbol) [0x00007FF7B3105AB5]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	(No symbol) [0x00007FF7B3104B2C]
+	GetHandleVerifier [0x00007FF7B3732518+4023736]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:41:36,390 [mediamarkt] ERROR: ❌ Failed to load page for BN2008152 after 3 attempts
+2025-05-02 16:41:37,534 [mediamarkt] INFO: Processing product: BN2008556 - URL: https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html
+2025-05-02 16:41:37,535 [mediamarkt] INFO: 😴 Sleeping for 3.80 seconds before processing BN2008556
+2025-05-02 16:41:41,348 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html with WebDriver... (Attempt 1/3)
+2025-05-02 16:41:41,348 [mediamarkt] ERROR: WebDriver error for BN2008556: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B3138FEC]
+	(No symbol) [0x00007FF7B317F44F]
+	(No symbol) [0x00007FF7B31B6FF2]
+	(No symbol) [0x00007FF7B31B1A02]
+	(No symbol) [0x00007FF7B31B0AC9]
+	(No symbol) [0x00007FF7B3105AB5]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	(No symbol) [0x00007FF7B3104B2C]
+	GetHandleVerifier [0x00007FF7B3732518+4023736]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:41:41,348 [mediamarkt] INFO: Applying cookies directly without navigation...
+2025-05-02 16:41:41,348 [mediamarkt] WARNING: Error preloading cookies: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B3138FEC]
+	(No symbol) [0x00007FF7B317F44F]
+	(No symbol) [0x00007FF7B31B6FF2]
+	(No symbol) [0x00007FF7B31B1A02]
+	(No symbol) [0x00007FF7B31B0AC9]
+	(No symbol) [0x00007FF7B3105AB5]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	(No symbol) [0x00007FF7B3104B2C]
+	GetHandleVerifier [0x00007FF7B3732518+4023736]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:41:41,353 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html with WebDriver... (Attempt 2/3)
+2025-05-02 16:41:41,355 [mediamarkt] ERROR: WebDriver error for BN2008556: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B3138FEC]
+	(No symbol) [0x00007FF7B317F44F]
+	(No symbol) [0x00007FF7B31B6FF2]
+	(No symbol) [0x00007FF7B31B1A02]
+	(No symbol) [0x00007FF7B31B0AC9]
+	(No symbol) [0x00007FF7B3105AB5]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	(No symbol) [0x00007FF7B3104B2C]
+	GetHandleVerifier [0x00007FF7B3732518+4023736]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:41:41,356 [mediamarkt] INFO: Applying cookies directly without navigation...
+2025-05-02 16:41:41,358 [mediamarkt] WARNING: Error preloading cookies: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B3138FEC]
+	(No symbol) [0x00007FF7B317F44F]
+	(No symbol) [0x00007FF7B31B6FF2]
+	(No symbol) [0x00007FF7B31B1A02]
+	(No symbol) [0x00007FF7B31B0AC9]
+	(No symbol) [0x00007FF7B3105AB5]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	(No symbol) [0x00007FF7B3104B2C]
+	GetHandleVerifier [0x00007FF7B3732518+4023736]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:41:41,359 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html with WebDriver... (Attempt 3/3)
+2025-05-02 16:41:41,362 [mediamarkt] ERROR: WebDriver error for BN2008556: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B3138FEC]
+	(No symbol) [0x00007FF7B317F44F]
+	(No symbol) [0x00007FF7B31B6FF2]
+	(No symbol) [0x00007FF7B31B1A02]
+	(No symbol) [0x00007FF7B31B0AC9]
+	(No symbol) [0x00007FF7B3105AB5]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	(No symbol) [0x00007FF7B3104B2C]
+	GetHandleVerifier [0x00007FF7B3732518+4023736]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:41:41,362 [mediamarkt] ERROR: ❌ Failed to load page for BN2008556 after 3 attempts
+2025-05-02 16:41:42,669 [mediamarkt] INFO: Processing product: BN2008555 - URL: https://mediamarkt.pl/telefony-i-smartfony/smartfon-tcl-403-2-32gb-czarny
+2025-05-02 16:41:42,669 [mediamarkt] INFO: 😴 Sleeping for 2.65 seconds before processing BN2008555
+2025-05-02 16:42:29,111 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 16:42:29,112 [mediamarkt] INFO: 🔄 Proxy Manager: Disabled
+2025-05-02 16:42:29,112 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 16:42:29,349 [mediamarkt] INFO: undetected_chromedriver is already installed
+2025-05-02 16:42:29,440 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider with Selenium WebDriver for CloudFlare bypass
+2025-05-02 16:42:29,441 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 16:42:29,441 [mediamarkt] INFO: Initializing undetected_chromedriver for MediaMarkt...
+2025-05-02 16:42:36,571 [mediamarkt] ERROR: Failed to initialize undetected_chromedriver: Message: session not created: cannot connect to chrome at 127.0.0.1:52851
+from session not created: This version of ChromeDriver only supports Chrome version 136
+Current browser version is 135.0.7049.115
+Stacktrace:
+	GetHandleVerifier [0x0124FBD3+61635]
+	GetHandleVerifier [0x0124FC14+61700]
+	(No symbol) [0x010705D3]
+	(No symbol) [0x010AA04B]
+	(No symbol) [0x010A9069]
+	(No symbol) [0x0109F7AF]
+	(No symbol) [0x0109F5E6]
+	(No symbol) [0x010E8DF3]
+	(No symbol) [0x010E880A]
+	(No symbol) [0x010DD096]
+	(No symbol) [0x010AC840]
+	(No symbol) [0x010AD6A4]
+	GetHandleVerifier [0x01497043+2450739]
+	GetHandleVerifier [0x014927C6+2432182]
+	GetHandleVerifier [0x014AD50E+2542078]
+	GetHandleVerifier [0x01266895+155013]
+	GetHandleVerifier [0x0126CF7D+181357]
+	GetHandleVerifier [0x01257428+92440]
+	GetHandleVerifier [0x012575D0+92864]
+	GetHandleVerifier [0x01241FC0+5296]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7790CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7790CE91+561]
+
+2025-05-02 16:42:36,571 [mediamarkt] INFO: Initializing Chrome WebDriver for MediaMarkt...
+2025-05-02 16:42:37,951 [mediamarkt] INFO: Applied anti-detection JavaScript
+2025-05-02 16:42:37,952 [mediamarkt] INFO: Applying cookies directly without navigation...
+2025-05-02 16:42:45,370 [mediamarkt] INFO: Added cookie: __cf_bm
+2025-05-02 16:42:45,377 [mediamarkt] INFO: Added cookie: optid
+2025-05-02 16:42:45,383 [mediamarkt] INFO: Added cookie: _cfuvid
+2025-05-02 16:42:45,391 [mediamarkt] INFO: Added cookie: cf_chl_rc_i
+2025-05-02 16:42:45,411 [mediamarkt] INFO: Added consent cookies
+2025-05-02 16:42:45,412 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:42:46,811 [mediamarkt] INFO: Processing product: BN2007402 - URL: https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html
+2025-05-02 16:42:46,811 [mediamarkt] INFO: 😴 Sleeping for 3.87 seconds before processing BN2007402
+2025-05-02 16:42:50,691 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver... (Attempt 1/3)
+2025-05-02 16:42:59,080 [mediamarkt] INFO: Found consent dialog button with selector: //button[contains(text(), 'Akceptuję wszystko')]
+2025-05-02 16:42:59,690 [mediamarkt] INFO: Clicked consent button
+2025-05-02 16:43:00,704 [mediamarkt] INFO: Consent dialog handled successfully
+2025-05-02 16:43:00,713 [mediamarkt] INFO: Saved CloudFlare cookie: cf_clearance
+2025-05-02 16:43:00,713 [mediamarkt] INFO: Saved CloudFlare cookie: __cf_bm
+2025-05-02 16:43:00,713 [mediamarkt] INFO: Saved CloudFlare cookie: cf_chl_rc_i
+2025-05-02 16:43:00,715 [mediamarkt] INFO: ✅ Stored 3 CloudFlare cookies
+2025-05-02 16:43:00,716 [mediamarkt] INFO: Updated working cookies with 3 CloudFlare cookies
+2025-05-02 16:43:01,764 [mediamarkt] INFO: CloudFlare indicators found but product content also detected - proceeding
+2025-05-02 16:43:01,834 [mediamarkt] INFO: Page for BN2007402 loaded successfully
+2025-05-02 16:43:01,842 [mediamarkt] INFO: Saved CloudFlare cookie: cf_clearance
+2025-05-02 16:43:01,842 [mediamarkt] INFO: Saved CloudFlare cookie: __cf_bm
+2025-05-02 16:43:01,843 [mediamarkt] INFO: Saved CloudFlare cookie: cf_chl_rc_i
+2025-05-02 16:43:01,843 [mediamarkt] INFO: ✅ Stored 3 CloudFlare cookies
+2025-05-02 16:43:01,845 [mediamarkt] INFO: Updated working cookies with 3 CloudFlare cookies
+2025-05-02 16:43:07,824 [mediamarkt] INFO: BN2007402: 149.99 PLN | Instock
+2025-05-02 16:43:08,968 [mediamarkt] INFO: Processing product: BN2008152 - URL: https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny
+2025-05-02 16:43:08,969 [mediamarkt] INFO: 😴 Sleeping for 3.57 seconds before processing BN2008152
+2025-05-02 16:43:12,544 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver... (Attempt 1/3)
+2025-05-02 16:43:15,829 [mediamarkt] WARNING: ⚠️ CloudFlare challenge detected for BN2008152 on attempt 1
+2025-05-02 16:43:18,843 [mediamarkt] INFO: Applying cookies directly without navigation...
+2025-05-02 16:43:20,988 [mediamarkt] INFO: Added cookie: __cf_bm
+2025-05-02 16:43:21,001 [mediamarkt] INFO: Added cookie: optid
+2025-05-02 16:43:21,009 [mediamarkt] INFO: Added cookie: _cfuvid
+2025-05-02 16:43:21,015 [mediamarkt] INFO: Added cookie: cf_chl_rc_i
+2025-05-02 16:43:21,020 [mediamarkt] INFO: Added cookie: cf_clearance
+2025-05-02 16:43:21,036 [mediamarkt] INFO: Added consent cookies
+2025-05-02 16:43:21,036 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver... (Attempt 2/3)
+2025-05-02 16:43:24,224 [mediamarkt] WARNING: ⚠️ CloudFlare challenge detected for BN2008152 on attempt 2
+2025-05-02 16:43:27,230 [mediamarkt] INFO: Applying cookies directly without navigation...
+2025-05-02 16:43:29,441 [mediamarkt] INFO: Added cookie: __cf_bm
+2025-05-02 16:43:29,457 [mediamarkt] INFO: Added cookie: optid
+2025-05-02 16:43:29,463 [mediamarkt] INFO: Added cookie: _cfuvid
+2025-05-02 16:43:29,465 [mediamarkt] INFO: Added cookie: cf_chl_rc_i
+2025-05-02 16:43:29,474 [mediamarkt] INFO: Added cookie: cf_clearance
+2025-05-02 16:43:29,487 [mediamarkt] INFO: Added consent cookies
+2025-05-02 16:43:29,487 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver... (Attempt 3/3)
+2025-05-02 16:43:32,851 [mediamarkt] WARNING: ⚠️ CloudFlare challenge detected for BN2008152 on attempt 3
+2025-05-02 16:43:44,060 [mediamarkt] ERROR: WebDriver error for BN2008152: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B336EFA5+77893]
+	GetHandleVerifier [0x00007FF7B336F000+77984]
+	(No symbol) [0x00007FF7B31391BA]
+	(No symbol) [0x00007FF7B3124F15]
+	(No symbol) [0x00007FF7B3149F04]
+	(No symbol) [0x00007FF7B31BEACF]
+	(No symbol) [0x00007FF7B31DE972]
+	(No symbol) [0x00007FF7B31B6F03]
+	(No symbol) [0x00007FF7B3180328]
+	(No symbol) [0x00007FF7B3181093]
+	GetHandleVerifier [0x00007FF7B3627B6D+2931725]
+	GetHandleVerifier [0x00007FF7B3622132+2908626]
+	GetHandleVerifier [0x00007FF7B36400F3+3031443]
+	GetHandleVerifier [0x00007FF7B33891EA+184970]
+	GetHandleVerifier [0x00007FF7B339086F+215311]
+	GetHandleVerifier [0x00007FF7B3376EC4+110436]
+	GetHandleVerifier [0x00007FF7B3377072+110866]
+	GetHandleVerifier [0x00007FF7B335D479+5401]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-05-02 16:43:44,060 [mediamarkt] ERROR: ❌ Failed to load page for BN2008152 after 3 attempts
+2025-05-02 16:43:45,223 [mediamarkt] INFO: Processing product: BN2008556 - URL: https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html
+2025-05-02 16:43:45,223 [mediamarkt] INFO: 😴 Sleeping for 7.69 seconds before processing BN2008556
+2025-05-02 16:48:05,076 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 16:48:05,076 [mediamarkt] INFO: 🔄 Proxy Manager: Disabled
+2025-05-02 16:48:05,076 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 16:48:05,319 [mediamarkt] INFO: undetected_chromedriver is already installed
+2025-05-02 16:48:05,406 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider with Selenium WebDriver
+2025-05-02 16:48:05,407 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 16:48:05,408 [mediamarkt] INFO: Initializing undetected_chromedriver for MediaMarkt...
+2025-05-02 16:48:12,291 [mediamarkt] ERROR: Failed to initialize undetected_chromedriver: Message: session not created: cannot connect to chrome at 127.0.0.1:53293
+from session not created: This version of ChromeDriver only supports Chrome version 136
+Current browser version is 135.0.7049.115
+Stacktrace:
+	GetHandleVerifier [0x0071FBD3+61635]
+	GetHandleVerifier [0x0071FC14+61700]
+	(No symbol) [0x005405D3]
+	(No symbol) [0x0057A04B]
+	(No symbol) [0x00579069]
+	(No symbol) [0x0056F7AF]
+	(No symbol) [0x0056F5E6]
+	(No symbol) [0x005B8DF3]
+	(No symbol) [0x005B880A]
+	(No symbol) [0x005AD096]
+	(No symbol) [0x0057C840]
+	(No symbol) [0x0057D6A4]
+	GetHandleVerifier [0x00967043+2450739]
+	GetHandleVerifier [0x009627C6+2432182]
+	GetHandleVerifier [0x0097D50E+2542078]
+	GetHandleVerifier [0x00736895+155013]
+	GetHandleVerifier [0x0073CF7D+181357]
+	GetHandleVerifier [0x00727428+92440]
+	GetHandleVerifier [0x007275D0+92864]
+	GetHandleVerifier [0x00711FC0+5296]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7790CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7790CE91+561]
+
+2025-05-02 16:48:12,291 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-02 16:48:13,662 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:48:15,056 [mediamarkt] INFO: Processing product: BN2007402 - URL: https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html
+2025-05-02 16:48:15,056 [mediamarkt] INFO: 😴 Sleeping for 2.79 seconds before processing BN2007402
+2025-05-02 16:48:17,843 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver... (Attempt 1/2)
+2025-05-02 16:48:34,144 [mediamarkt] WARNING: Timeout waiting for page elements for BN2007402
+2025-05-02 16:48:34,181 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver... (Attempt 2/2)
+2025-05-02 16:48:34,182 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-02 16:48:36,358 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-02 16:48:37,631 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:48:48,648 [mediamarkt] INFO: Found consent dialog button with selector: //button[contains(text(), 'Akceptuję wszystko')]
+2025-05-02 16:48:49,224 [mediamarkt] INFO: Clicked consent button
+2025-05-02 16:48:50,225 [mediamarkt] INFO: Consent dialog handled successfully
+2025-05-02 16:48:51,817 [mediamarkt] INFO: Page for BN2007402 loaded successfully
+2025-05-02 16:48:51,866 [mediamarkt] INFO: BN2007402: 149.99 PLN | Instock
+2025-05-02 16:48:53,042 [mediamarkt] INFO: Processing product: BN2008152 - URL: https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny
+2025-05-02 16:48:53,042 [mediamarkt] INFO: 😴 Sleeping for 2.92 seconds before processing BN2008152
+2025-05-02 16:48:55,970 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver... (Attempt 1/2)
+2025-05-02 16:49:11,236 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008152
+2025-05-02 16:49:11,262 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver... (Attempt 2/2)
+2025-05-02 16:49:11,265 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-02 16:49:13,466 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-02 16:49:14,781 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:49:27,604 [mediamarkt] INFO: Found consent dialog button with selector: //button[contains(text(), 'Akceptuję wszystko')]
+2025-05-02 16:49:28,211 [mediamarkt] INFO: Clicked consent button
+2025-05-02 16:49:29,217 [mediamarkt] INFO: Consent dialog handled successfully
+2025-05-02 16:49:30,827 [mediamarkt] INFO: Page for BN2008152 loaded successfully
+2025-05-02 16:49:30,873 [mediamarkt] INFO: BN2008152: 279.99 PLN | Instock
+2025-05-02 16:49:32,027 [mediamarkt] INFO: Processing product: BN2008556 - URL: https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html
+2025-05-02 16:49:32,027 [mediamarkt] INFO: 😴 Sleeping for 2.33 seconds before processing BN2008556
+2025-05-02 16:49:34,360 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html with WebDriver... (Attempt 1/2)
+2025-05-02 16:49:49,780 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008556
+2025-05-02 16:49:49,819 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html with WebDriver... (Attempt 2/2)
+2025-05-02 16:49:49,820 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-02 16:49:52,019 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-02 16:49:53,317 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:50:02,267 [mediamarkt] INFO: Found consent dialog button with selector: //button[contains(text(), 'Akceptuję wszystko')]
+2025-05-02 16:50:02,842 [mediamarkt] INFO: Clicked consent button
+2025-05-02 16:50:03,858 [mediamarkt] INFO: Consent dialog handled successfully
+2025-05-02 16:50:05,530 [mediamarkt] INFO: Page for BN2008556 loaded successfully
+2025-05-02 16:50:05,635 [mediamarkt] INFO: BN2008556: 559.00 PLN | Instock
+2025-05-02 16:50:06,806 [mediamarkt] INFO: Processing product: BN2008555 - URL: https://mediamarkt.pl/telefony-i-smartfony/smartfon-tcl-403-2-32gb-czarny
+2025-05-02 16:50:06,807 [mediamarkt] INFO: 😴 Sleeping for 2.25 seconds before processing BN2008555
+2025-05-02 16:50:09,063 [mediamarkt] INFO: Loading https://mediamarkt.pl/telefony-i-smartfony/smartfon-tcl-403-2-32gb-czarny with WebDriver... (Attempt 1/2)
+2025-05-02 16:50:24,076 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008555
+2025-05-02 16:50:24,102 [mediamarkt] INFO: Loading https://mediamarkt.pl/telefony-i-smartfony/smartfon-tcl-403-2-32gb-czarny with WebDriver... (Attempt 2/2)
+2025-05-02 16:50:24,102 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-02 16:50:26,290 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-02 16:50:27,538 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:50:38,480 [mediamarkt] INFO: Found consent dialog button with selector: //button[contains(text(), 'Akceptuję wszystko')]
+2025-05-02 16:50:39,071 [mediamarkt] INFO: Clicked consent button
+2025-05-02 16:50:40,077 [mediamarkt] INFO: Consent dialog handled successfully
+2025-05-02 16:50:41,737 [mediamarkt] INFO: Page for BN2008555 loaded successfully
+2025-05-02 16:50:41,860 [mediamarkt] INFO: BN2008555: 279.99 PLN | Instock
+2025-05-02 16:50:43,015 [mediamarkt] INFO: Processing product: BN2008834 - URL: https://mediamarkt.pl/pl/product/_telefon-komorkowy-tcl-onetouch-4042s-szary-1479080.html
+2025-05-02 16:50:43,015 [mediamarkt] INFO: 😴 Sleeping for 1.95 seconds before processing BN2008834
+2025-05-02 16:50:44,975 [mediamarkt] INFO: Refreshing browser after 5 products
+2025-05-02 16:50:44,975 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-02 16:50:47,239 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-02 16:50:48,520 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:50:48,521 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_telefon-komorkowy-tcl-onetouch-4042s-szary-1479080.html with WebDriver... (Attempt 1/2)
+2025-05-02 16:50:57,285 [mediamarkt] INFO: Found consent dialog button with selector: //button[contains(text(), 'Akceptuję wszystko')]
+2025-05-02 16:50:57,872 [mediamarkt] INFO: Clicked consent button
+2025-05-02 16:50:58,877 [mediamarkt] INFO: Consent dialog handled successfully
+2025-05-02 16:51:00,475 [mediamarkt] INFO: Page for BN2008834 loaded successfully
+2025-05-02 16:51:00,529 [mediamarkt] INFO: BN2008834: 199.99 PLN | Instock
+2025-05-02 16:51:01,682 [mediamarkt] INFO: Processing product: BN2009333 - URL: https://mediamarkt.pl/pl/product/_telefon-komorkowy-tcl-onetouch-4043-szary-1481103.html
+2025-05-02 16:51:01,682 [mediamarkt] INFO: 😴 Sleeping for 1.87 seconds before processing BN2009333
+2025-05-02 16:51:03,570 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_telefon-komorkowy-tcl-onetouch-4043-szary-1481103.html with WebDriver... (Attempt 1/2)
+2025-05-02 16:51:18,541 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009333
+2025-05-02 16:51:18,568 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_telefon-komorkowy-tcl-onetouch-4043-szary-1481103.html with WebDriver... (Attempt 2/2)
+2025-05-02 16:51:18,568 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-02 16:51:20,785 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-02 16:51:22,095 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:51:31,203 [mediamarkt] INFO: Found consent dialog button with selector: //button[contains(text(), 'Akceptuję wszystko')]
+2025-05-02 16:51:31,790 [mediamarkt] INFO: Clicked consent button
+2025-05-02 16:51:32,800 [mediamarkt] INFO: Consent dialog handled successfully
+2025-05-02 16:51:34,417 [mediamarkt] INFO: Page for BN2009333 loaded successfully
+2025-05-02 16:51:34,488 [mediamarkt] INFO: BN2009333: 279.99 PLN | Instock
+2025-05-02 16:51:35,400 [mediamarkt] INFO: Processing product: BN2009357 - URL: https://mediamarkt.pl/pl/product/_smartfon-tcl-505-8128gb-szary-1481818.html
+2025-05-02 16:51:35,400 [mediamarkt] INFO: 😴 Sleeping for 2.50 seconds before processing BN2009357
+2025-05-02 16:51:37,914 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-tcl-505-8128gb-szary-1481818.html with WebDriver... (Attempt 1/2)
+2025-05-02 16:51:53,117 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009357
+2025-05-02 16:51:53,142 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-tcl-505-8128gb-szary-1481818.html with WebDriver... (Attempt 2/2)
+2025-05-02 16:51:53,142 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-02 16:51:55,292 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-02 16:51:56,610 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:52:05,738 [mediamarkt] INFO: Found consent dialog button with selector: //button[contains(text(), 'Akceptuję wszystko')]
+2025-05-02 16:52:06,307 [mediamarkt] INFO: Clicked consent button
+2025-05-02 16:52:07,315 [mediamarkt] INFO: Consent dialog handled successfully
+2025-05-02 16:52:08,916 [mediamarkt] INFO: Page for BN2009357 loaded successfully
+2025-05-02 16:52:08,979 [mediamarkt] INFO: BN2009357: 399.99 PLN | Instock
+2025-05-02 16:52:10,152 [mediamarkt] INFO: Processing product: BN2008728 - URL: https://mediamarkt.pl/pl/product/_tablet-tcl-nxtpaper-11-wifi-4gb-128gb-szary-1476670.html
+2025-05-02 16:52:10,152 [mediamarkt] INFO: 😴 Sleeping for 2.97 seconds before processing BN2008728
+2025-05-02 16:52:13,131 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-tcl-nxtpaper-11-wifi-4gb-128gb-szary-1476670.html with WebDriver... (Attempt 1/2)
+2025-05-02 16:52:27,966 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008728
+2025-05-02 16:52:28,008 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-tcl-nxtpaper-11-wifi-4gb-128gb-szary-1476670.html with WebDriver... (Attempt 2/2)
+2025-05-02 16:52:28,009 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-02 16:52:30,179 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-02 16:52:31,471 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:52:47,674 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008728
+2025-05-02 16:52:47,693 [mediamarkt] ERROR: ❌ Failed to load page for BN2008728 after 2 attempts
+2025-05-02 16:52:48,854 [mediamarkt] INFO: Processing product: AN00000007 - URL: https://mediamarkt.pl/pl/product/_sluchawki-apple-airpods-max-pomaranczowy-mww73zma-1484968.html
+2025-05-02 16:52:48,854 [mediamarkt] INFO: 😴 Sleeping for 2.26 seconds before processing AN00000007
+2025-05-02 16:52:51,115 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_sluchawki-apple-airpods-max-pomaranczowy-mww73zma-1484968.html with WebDriver... (Attempt 1/2)
+2025-05-02 16:53:00,025 [mediamarkt] INFO: Found consent dialog button with selector: //button[contains(text(), 'Akceptuję wszystko')]
+2025-05-02 16:53:00,599 [mediamarkt] INFO: Clicked consent button
+2025-05-02 16:53:01,605 [mediamarkt] INFO: Consent dialog handled successfully
+2025-05-02 16:53:03,219 [mediamarkt] INFO: Page for AN00000007 loaded successfully
+2025-05-02 16:53:03,280 [mediamarkt] INFO: AN00000007: 2219.00 PLN | Instock
+2025-05-02 16:53:04,188 [mediamarkt] INFO: Processing product: AN00000008 - URL: https://mediamarkt.pl/komputery-i-tablety/rysik-apple-pencil-2-generacji-mu8f2zm-a
+2025-05-02 16:53:04,189 [mediamarkt] INFO: 😴 Sleeping for 2.63 seconds before processing AN00000008
+2025-05-02 16:53:06,820 [mediamarkt] INFO: Refreshing browser after 5 products
+2025-05-02 16:53:06,820 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-02 16:53:09,004 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-02 16:53:10,312 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:53:10,313 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/rysik-apple-pencil-2-generacji-mu8f2zm-a with WebDriver... (Attempt 1/2)
+2025-05-02 16:53:26,404 [mediamarkt] WARNING: Timeout waiting for page elements for AN00000008
+2025-05-02 16:53:26,431 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/rysik-apple-pencil-2-generacji-mu8f2zm-a with WebDriver... (Attempt 2/2)
+2025-05-02 16:53:26,431 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-02 16:53:28,589 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-02 16:53:29,863 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:53:39,217 [mediamarkt] INFO: Found consent dialog button with selector: //button[contains(text(), 'Akceptuję wszystko')]
+2025-05-02 16:53:39,818 [mediamarkt] INFO: Clicked consent button
+2025-05-02 16:53:40,826 [mediamarkt] INFO: Consent dialog handled successfully
+2025-05-02 16:53:42,479 [mediamarkt] INFO: Page for AN00000008 loaded successfully
+2025-05-02 16:53:42,596 [mediamarkt] INFO: AN00000008: 589.00 PLN | Instock
+2025-05-02 16:53:43,492 [mediamarkt] INFO: Processing product: AN00000219 - URL: https://mediamarkt.pl/pl/product/_smartwatch-apple-watch-series-10-gps-cellular-koperta-42mm-z-aluminium-w-kolorze-onyksu-z-paskiem-sportowym-sm-w-kolorze-czarnym-mwx63eta-1484945.html
+2025-05-02 16:53:43,492 [mediamarkt] INFO: 😴 Sleeping for 2.31 seconds before processing AN00000219
+2025-05-02 16:53:45,807 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartwatch-apple-watch-series-10-gps-cellular-koperta-42mm-z-aluminium-w-kolorze-onyksu-z-paskiem-sportowym-sm-w-kolorze-czarnym-mwx63eta-1484945.html with WebDriver... (Attempt 1/2)
+2025-05-02 16:54:03,676 [mediamarkt] WARNING: Timeout waiting for page elements for AN00000219
+2025-05-02 16:54:03,710 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartwatch-apple-watch-series-10-gps-cellular-koperta-42mm-z-aluminium-w-kolorze-onyksu-z-paskiem-sportowym-sm-w-kolorze-czarnym-mwx63eta-1484945.html with WebDriver... (Attempt 2/2)
+2025-05-02 16:54:03,710 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-02 16:54:05,913 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-02 16:54:07,230 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:54:17,034 [mediamarkt] INFO: Found consent dialog button with selector: //button[contains(text(), 'Akceptuję wszystko')]
+2025-05-02 16:54:17,611 [mediamarkt] INFO: Clicked consent button
+2025-05-02 16:54:18,618 [mediamarkt] INFO: Consent dialog handled successfully
+2025-05-02 16:54:20,254 [mediamarkt] INFO: Page for AN00000219 loaded successfully
+2025-05-02 16:54:20,330 [mediamarkt] INFO: AN00000219: 2299.00 PLN | Instock
+2025-05-02 16:54:21,476 [mediamarkt] INFO: Processing product: AN00000220 - URL: https://mediamarkt.pl/pl/product/_smartwatch-apple-watch-series-10-gps-cellular-koperta-46mm-z-aluminium-w-kolorze-onyksu-z-paskiem-sportowym-sm-w-kolorze-czarnym-mwy33eta-1484931.html
+2025-05-02 16:54:21,478 [mediamarkt] INFO: 😴 Sleeping for 1.74 seconds before processing AN00000220
+2025-05-02 16:57:52,562 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 16:57:52,563 [mediamarkt] INFO: 🔄 Proxy Manager: Disabled
+2025-05-02 16:57:52,563 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 16:57:52,801 [mediamarkt] INFO: undetected_chromedriver is already installed
+2025-05-02 16:57:52,895 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider with Selenium WebDriver
+2025-05-02 16:57:52,895 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 16:57:52,896 [mediamarkt] INFO: Initializing undetected_chromedriver for MediaMarkt...
+2025-05-02 16:58:00,008 [mediamarkt] ERROR: Failed to initialize undetected_chromedriver: Message: session not created: cannot connect to chrome at 127.0.0.1:54960
+from session not created: This version of ChromeDriver only supports Chrome version 136
+Current browser version is 135.0.7049.115
+Stacktrace:
+	GetHandleVerifier [0x0073FBD3+61635]
+	GetHandleVerifier [0x0073FC14+61700]
+	(No symbol) [0x005605D3]
+	(No symbol) [0x0059A04B]
+	(No symbol) [0x00599069]
+	(No symbol) [0x0058F7AF]
+	(No symbol) [0x0058F5E6]
+	(No symbol) [0x005D8DF3]
+	(No symbol) [0x005D880A]
+	(No symbol) [0x005CD096]
+	(No symbol) [0x0059C840]
+	(No symbol) [0x0059D6A4]
+	GetHandleVerifier [0x00987043+2450739]
+	GetHandleVerifier [0x009827C6+2432182]
+	GetHandleVerifier [0x0099D50E+2542078]
+	GetHandleVerifier [0x00756895+155013]
+	GetHandleVerifier [0x0075CF7D+181357]
+	GetHandleVerifier [0x00747428+92440]
+	GetHandleVerifier [0x007475D0+92864]
+	GetHandleVerifier [0x00731FC0+5296]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7790CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7790CE91+561]
+
+2025-05-02 16:58:00,010 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-02 16:58:01,475 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:58:02,637 [mediamarkt] INFO: Processing product: BN2007402 - URL: https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html
+2025-05-02 16:58:02,637 [mediamarkt] INFO: 😴 Sleeping for 2.83 seconds before processing BN2007402
+2025-05-02 16:58:05,483 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver... (Attempt 1/2)
+2025-05-02 16:58:14,056 [mediamarkt] INFO: Found consent dialog button with selector: //button[contains(text(), 'Akceptuję wszystko')]
+2025-05-02 16:58:14,629 [mediamarkt] INFO: Clicked consent button
+2025-05-02 16:58:15,644 [mediamarkt] INFO: Consent dialog handled successfully
+2025-05-02 16:58:17,230 [mediamarkt] INFO: Page for BN2007402 loaded successfully
+2025-05-02 16:58:17,292 [mediamarkt] INFO: BN2007402: 149.99 PLN | Instock
+2025-05-02 16:58:18,539 [mediamarkt] INFO: Processing product: BN2008152 - URL: https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny
+2025-05-02 16:58:18,539 [mediamarkt] INFO: 😴 Sleeping for 1.65 seconds before processing BN2008152
+2025-05-02 16:58:20,186 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver... (Attempt 1/2)
+2025-05-02 16:58:34,773 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008152
+2025-05-02 16:58:34,810 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-02 16:58:34,810 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver... (Attempt 2/2)
+2025-05-02 16:58:34,810 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-02 16:58:36,998 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-02 16:58:38,377 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:58:54,839 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008152
+2025-05-02 16:58:54,874 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-02 16:58:54,875 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2008152 after 2 attempts - marking for retry
+2025-05-02 16:58:56,025 [mediamarkt] INFO: Processing product: BN2008556 - URL: https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html
+2025-05-02 16:58:56,025 [mediamarkt] INFO: 😴 Sleeping for 2.36 seconds before processing BN2008556
+2025-05-02 16:58:58,390 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html with WebDriver... (Attempt 1/2)
+2025-05-02 16:59:09,702 [mediamarkt] INFO: Found consent dialog button with selector: //button[contains(text(), 'Akceptuję wszystko')]
+2025-05-02 16:59:10,301 [mediamarkt] INFO: Clicked consent button
+2025-05-02 16:59:11,316 [mediamarkt] INFO: Consent dialog handled successfully
+2025-05-02 16:59:12,964 [mediamarkt] INFO: Page for BN2008556 loaded successfully
+2025-05-02 16:59:13,071 [mediamarkt] INFO: BN2008556: 559.00 PLN | Instock
+2025-05-02 16:59:14,242 [mediamarkt] INFO: Processing product: BN2008555 - URL: https://mediamarkt.pl/telefony-i-smartfony/smartfon-tcl-403-2-32gb-czarny
+2025-05-02 16:59:14,243 [mediamarkt] INFO: 😴 Sleeping for 2.43 seconds before processing BN2008555
+2025-05-02 16:59:16,689 [mediamarkt] INFO: Loading https://mediamarkt.pl/telefony-i-smartfony/smartfon-tcl-403-2-32gb-czarny with WebDriver... (Attempt 1/2)
+2025-05-02 16:59:28,505 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008555
+2025-05-02 16:59:28,541 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-02 16:59:28,541 [mediamarkt] INFO: Loading https://mediamarkt.pl/telefony-i-smartfony/smartfon-tcl-403-2-32gb-czarny with WebDriver... (Attempt 2/2)
+2025-05-02 16:59:28,541 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-02 16:59:30,731 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-02 16:59:32,066 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 16:59:44,767 [mediamarkt] INFO: Found consent dialog button with selector: //button[contains(text(), 'Akceptuję wszystko')]
+2025-05-02 16:59:45,350 [mediamarkt] INFO: Clicked consent button
+2025-05-02 16:59:46,355 [mediamarkt] INFO: Consent dialog handled successfully
+2025-05-02 16:59:48,045 [mediamarkt] INFO: Page for BN2008555 loaded successfully
+2025-05-02 16:59:48,144 [mediamarkt] INFO: BN2008555: 279.99 PLN | Instock
+2025-05-02 16:59:49,077 [mediamarkt] INFO: Processing product: BN2008834 - URL: https://mediamarkt.pl/pl/product/_telefon-komorkowy-tcl-onetouch-4042s-szary-1479080.html
+2025-05-02 16:59:49,077 [mediamarkt] INFO: 😴 Sleeping for 1.90 seconds before processing BN2008834
+2025-05-02 16:59:50,994 [mediamarkt] INFO: Refreshing browser after 5 products
+2025-05-02 16:59:50,994 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-02 17:01:03,673 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 17:01:03,673 [mediamarkt] INFO: 🔄 Proxy Manager: Disabled
+2025-05-02 17:01:03,674 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 17:01:03,923 [mediamarkt] INFO: undetected_chromedriver is already installed
+2025-05-02 17:01:04,007 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider with Selenium WebDriver
+2025-05-02 17:01:04,014 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 17:01:04,015 [mediamarkt] INFO: Initializing undetected_chromedriver for MediaMarkt...
+2025-05-02 17:01:10,877 [mediamarkt] ERROR: Failed to initialize undetected_chromedriver: Message: session not created: cannot connect to chrome at 127.0.0.1:55342
+from session not created: This version of ChromeDriver only supports Chrome version 136
+Current browser version is 135.0.7049.115
+Stacktrace:
+	GetHandleVerifier [0x00F6FBD3+61635]
+	GetHandleVerifier [0x00F6FC14+61700]
+	(No symbol) [0x00D905D3]
+	(No symbol) [0x00DCA04B]
+	(No symbol) [0x00DC9069]
+	(No symbol) [0x00DBF7AF]
+	(No symbol) [0x00DBF5E6]
+	(No symbol) [0x00E08DF3]
+	(No symbol) [0x00E0880A]
+	(No symbol) [0x00DFD096]
+	(No symbol) [0x00DCC840]
+	(No symbol) [0x00DCD6A4]
+	GetHandleVerifier [0x011B7043+2450739]
+	GetHandleVerifier [0x011B27C6+2432182]
+	GetHandleVerifier [0x011CD50E+2542078]
+	GetHandleVerifier [0x00F86895+155013]
+	GetHandleVerifier [0x00F8CF7D+181357]
+	GetHandleVerifier [0x00F77428+92440]
+	GetHandleVerifier [0x00F775D0+92864]
+	GetHandleVerifier [0x00F61FC0+5296]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7790CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7790CE91+561]
+
+2025-05-02 17:01:10,879 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-02 17:01:12,254 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 17:01:13,399 [mediamarkt] INFO: Processing product: BN2007402 - URL: https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html
+2025-05-02 17:01:13,399 [mediamarkt] INFO: 😴 Sleeping for 1.69 seconds before processing BN2007402
+2025-05-02 17:01:15,093 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver... (Attempt 1/2)
+2025-05-02 17:01:25,090 [mediamarkt] INFO: Found consent dialog button with selector: //button[contains(text(), 'Akceptuję wszystko')]
+2025-05-02 17:01:25,677 [mediamarkt] INFO: Clicked consent button
+2025-05-02 17:01:26,680 [mediamarkt] INFO: Consent dialog handled successfully
+2025-05-02 17:01:28,264 [mediamarkt] INFO: Page for BN2007402 loaded successfully
+2025-05-02 17:01:28,309 [mediamarkt] INFO: BN2007402: 149.99 PLN | Instock
+2025-05-02 17:01:29,466 [mediamarkt] INFO: Processing product: BN2008152 - URL: https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny
+2025-05-02 17:01:29,467 [mediamarkt] INFO: 😴 Sleeping for 2.23 seconds before processing BN2008152
+2025-05-02 17:01:31,708 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver... (Attempt 1/2)
+2025-05-02 17:01:46,782 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008152
+2025-05-02 17:01:46,811 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-02 17:01:46,812 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver... (Attempt 2/2)
+2025-05-02 17:01:46,812 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-02 17:01:49,017 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-02 17:01:53,301 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 17:02:03,593 [mediamarkt] INFO: Found consent dialog button with selector: //button[contains(text(), 'Akceptuję wszystko')]
+2025-05-02 17:02:04,174 [mediamarkt] INFO: Clicked consent button
+2025-05-02 17:02:05,174 [mediamarkt] INFO: Consent dialog handled successfully
+2025-05-02 17:02:06,773 [mediamarkt] INFO: Page for BN2008152 loaded successfully
+2025-05-02 17:02:06,821 [mediamarkt] INFO: BN2008152: 279.99 PLN | Instock
+2025-05-02 17:02:07,952 [mediamarkt] INFO: Processing product: BN2008556 - URL: https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html
+2025-05-02 17:02:07,953 [mediamarkt] INFO: 😴 Sleeping for 2.07 seconds before processing BN2008556
+2025-05-02 17:02:10,025 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html with WebDriver... (Attempt 1/2)
+2025-05-02 17:04:41,902 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-02 17:04:41,903 [mediamarkt] INFO: 🔄 Proxy Manager: Disabled
+2025-05-02 17:04:41,903 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 17:04:42,633 [mediamarkt] INFO: undetected_chromedriver is already installed
+2025-05-02 17:04:42,840 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider with Selenium WebDriver
+2025-05-02 17:04:42,841 [mediamarkt] INFO: 🔍 Total products to scrape: 285
+2025-05-02 17:04:42,841 [mediamarkt] INFO: Initializing undetected_chromedriver for MediaMarkt...
+2025-05-02 17:04:46,770 [mediamarkt] ERROR: Failed to initialize undetected_chromedriver: Message: session not created: cannot connect to chrome at 127.0.0.1:62180
+from session not created: This version of ChromeDriver only supports Chrome version 136
+Current browser version is 135.0.7049.115
+Stacktrace:
+	GetHandleVerifier [0x00EFFBD3+61635]
+	GetHandleVerifier [0x00EFFC14+61700]
+	(No symbol) [0x00D205D3]
+	(No symbol) [0x00D5A04B]
+	(No symbol) [0x00D59069]
+	(No symbol) [0x00D4F7AF]
+	(No symbol) [0x00D4F5E6]
+	(No symbol) [0x00D98DF3]
+	(No symbol) [0x00D9880A]
+	(No symbol) [0x00D8D096]
+	(No symbol) [0x00D5C840]
+	(No symbol) [0x00D5D6A4]
+	GetHandleVerifier [0x01147043+2450739]
+	GetHandleVerifier [0x011427C6+2432182]
+	GetHandleVerifier [0x0115D50E+2542078]
+	GetHandleVerifier [0x00F16895+155013]
+	GetHandleVerifier [0x00F1CF7D+181357]
+	GetHandleVerifier [0x00F07428+92440]
+	GetHandleVerifier [0x00F075D0+92864]
+	GetHandleVerifier [0x00EF1FC0+5296]
+	BaseThreadInitThunk [0x76875D49+25]
+	RtlInitializeExceptionChain [0x7790CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7790CE91+561]
+
+2025-05-02 17:04:46,773 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-02 17:04:48,644 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 17:04:49,794 [mediamarkt] INFO: Processing product: BN2007402 - URL: https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html
+2025-05-02 17:04:49,795 [mediamarkt] INFO: 😴 Sleeping for 1.96 seconds before processing BN2007402
+2025-05-02 17:04:51,766 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver... (Attempt 1/2)
+2025-05-02 17:05:04,575 [mediamarkt] WARNING: Timeout waiting for page elements for BN2007402
+2025-05-02 17:05:04,605 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-02 17:05:04,605 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver... (Attempt 2/2)
+2025-05-02 17:05:04,605 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-02 17:05:06,779 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-02 17:05:08,074 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 17:05:20,568 [mediamarkt] WARNING: Timeout waiting for page elements for BN2007402
+2025-05-02 17:05:20,603 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-02 17:05:20,603 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2007402 after 2 attempts - marking for retry
+2025-05-02 17:05:21,661 [mediamarkt] INFO: Processing product: BN2008152 - URL: https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny
+2025-05-02 17:05:21,662 [mediamarkt] INFO: 😴 Sleeping for 2.71 seconds before processing BN2008152
+2025-05-02 17:05:24,379 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver... (Attempt 1/2)
+2025-05-02 17:05:35,946 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008152
+2025-05-02 17:05:35,992 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-02 17:05:35,992 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver... (Attempt 2/2)
+2025-05-02 17:05:35,992 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-02 17:05:38,156 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-02 17:05:39,537 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-02 17:05:52,280 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008152
+2025-05-02 17:05:52,301 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-02 17:05:52,301 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2008152 after 2 attempts - marking for retry
+2025-05-02 17:05:53,365 [mediamarkt] INFO: Processing product: BN2008556 - URL: https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html
+2025-05-02 17:05:53,366 [mediamarkt] INFO: 😴 Sleeping for 2.66 seconds before processing BN2008556
+2025-05-02 17:05:56,027 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html with WebDriver... (Attempt 1/2)

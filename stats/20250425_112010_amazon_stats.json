@@ -1,0 +1,9 @@
+{
+  "spider_name": "amazon",
+  "market_player": "Amazon",
+  "total_duration_seconds": 9371.399285316467,
+  "total_duration_formatted": "02:36:11",
+  "processed_items": 301,
+  "items_per_minute": 1.9271401687362981,
+  "timestamp": "2025-04-25T11:20:10.058075"
+}

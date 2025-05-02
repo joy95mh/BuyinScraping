@@ -1,0 +1,594 @@
+2025-04-22 16:04:19,520 [sferis] INFO: 🕷️ Initializing sferis spider
+2025-04-22 16:04:19,520 [sferis] INFO: 🔄 Proxy Manager: Disabled
+2025-04-22 16:04:19,520 [sferis] INFO: 🕒 Human-like delays: Enabled
+2025-04-22 16:04:19,610 [sferis] INFO: 🕷️ Starting Sferis spider
+2025-04-22 16:04:19,610 [sferis] INFO: 🔍 Total products to scrape: 168
+2025-04-22 16:04:19,610 [sferis] INFO: Using direct requests without proxy manager
+2025-04-22 16:04:19,610 [sferis] INFO: 😴 Sleeping for 1.34 seconds before request 1/168
+2025-04-22 16:04:20,958 [sferis] INFO: 🚀 Sending request 1/168 to https://www.sferis.pl/apple-pencil-2nd-generation-mu8f2zm-a-p661428 for AN00000008
+2025-04-22 16:04:25,809 [sferis] INFO: 😴 Sleeping for 1.77 seconds before request 2/168
+2025-04-22 16:04:27,593 [sferis] INFO: 🚀 Sending request 2/168 to https://www.sferis.pl/apple-10-2-ipad-9-lte-256gb-space-grey-i331369 for BN2007991
+2025-04-22 16:04:27,627 [sferis] INFO: [1/168] AN00000008: 423.00 PLN | Instock | 167 remaining
+2025-04-22 16:04:30,928 [sferis] INFO: 😴 Sleeping for 3.20 seconds before request 3/168
+2025-04-22 16:04:34,135 [sferis] INFO: 🚀 Sending request 3/168 to https://www.sferis.pl/apple-ipad-2021-64gb-wifi-10-2-silver-i296263 for BN2007992
+2025-04-22 16:04:34,135 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-10-2-ipad-9-lte-256gb-space-grey-i331369
+2025-04-22 16:04:34,135 [sferis] INFO: [2/168] BN2007991: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:04:35,339 [sferis] INFO: 😴 Sleeping for 3.80 seconds before request 4/168
+2025-04-22 16:04:39,145 [sferis] INFO: 🚀 Sending request 4/168 to https://www.sferis.pl/apple-10-9-inch-ipad-wi-fi-64gb-blue-i464352 for BN2008651
+2025-04-22 16:04:39,177 [sferis] INFO: [3/168] BN2007992: 1299.00 PLN | Instock | 165 remaining
+2025-04-22 16:04:40,394 [sferis] INFO: 😴 Sleeping for 1.31 seconds before request 5/168
+2025-04-22 16:04:41,715 [sferis] INFO: 🚀 Sending request 5/168 to https://www.sferis.pl/apple-ipad-air-11-wi-fi-256gb-purple-2024-i463183 for BN2009588
+2025-04-22 16:04:41,747 [sferis] INFO: [4/168] BN2008651: 1439.00 PLN | Instock | 164 remaining
+2025-04-22 16:04:47,705 [sferis] INFO: 😴 Sleeping for 1.59 seconds before request 6/168
+2025-04-22 16:04:49,309 [sferis] INFO: 🚀 Sending request 6/168 to https://www.sferis.pl/apple-11-inch-ipad-air-wi-fi-128gb-blue-i560775 for BN2010117
+2025-04-22 16:04:49,313 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-ipad-air-11-wi-fi-256gb-purple-2024-i463183
+2025-04-22 16:04:49,313 [sferis] INFO: [5/168] BN2009588: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:04:50,503 [sferis] INFO: 😴 Sleeping for 2.10 seconds before request 7/168
+2025-04-22 16:04:52,608 [sferis] INFO: 🚀 Sending request 7/168 to https://www.sferis.pl/apple-11-inch-ipad-air-wi-fi-lte-128gb-purple-i564228 for BN2010121
+2025-04-22 16:04:52,645 [sferis] INFO: [6/168] BN2010117: 2899.00 PLN | Instock | 162 remaining
+2025-04-22 16:04:54,400 [sferis] INFO: 😴 Sleeping for 3.20 seconds before request 8/168
+2025-04-22 16:04:57,611 [sferis] INFO: 🚀 Sending request 8/168 to https://www.sferis.pl/apple-11-inch-ipad-air-wi-fi-lte-256gb-blue-i564226 for BN2010122
+2025-04-22 16:04:57,647 [sferis] INFO: [7/168] BN2010121: 3599.00 PLN | Instock | 161 remaining
+2025-04-22 16:04:58,922 [sferis] INFO: 😴 Sleeping for 4.59 seconds before request 9/168
+2025-04-22 16:05:03,517 [sferis] INFO: 🚀 Sending request 9/168 to https://www.sferis.pl/apple-ipad-air-13-wi-fi-128gb-space-grey-2024-i390809 for BN2009597
+2025-04-22 16:05:03,557 [sferis] INFO: [8/168] BN2010122: 0.00 PLN | Outstock | 160 remaining
+2025-04-22 16:05:05,809 [sferis] INFO: 😴 Sleeping for 4.15 seconds before request 10/168
+2025-04-22 16:05:09,973 [sferis] INFO: 🚀 Sending request 10/168 to https://www.sferis.pl/apple-ipad-air-13-wi-fi-256gb-starlight-i390904 for BN2009596
+2025-04-22 16:05:09,974 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-ipad-air-13-wi-fi-128gb-space-grey-2024-i390809
+2025-04-22 16:05:09,974 [sferis] INFO: [9/168] BN2009597: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:05:12,193 [sferis] INFO: 😴 Sleeping for 4.37 seconds before request 11/168
+2025-04-22 16:05:16,563 [sferis] INFO: 🚀 Sending request 11/168 to https://www.sferis.pl/apple-13-inch-ipad-air-wi-fi-128gb-space-grey-i560966 for BN2010125
+2025-04-22 16:05:16,568 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-ipad-air-13-wi-fi-256gb-starlight-i390904
+2025-04-22 16:05:16,568 [sferis] INFO: [10/168] BN2009596: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:05:17,754 [sferis] INFO: 😴 Sleeping for 3.05 seconds before request 12/168
+2025-04-22 16:05:20,810 [sferis] INFO: 🚀 Sending request 12/168 to https://www.sferis.pl/apple-11-inch-ipad-pro-m4-wifi-256gb-with-standard-glass-space-black-i390779 for BN2009605
+2025-04-22 16:05:20,842 [sferis] INFO: [11/168] BN2010125: 3849.00 PLN | Instock | 157 remaining
+2025-04-22 16:05:22,673 [sferis] INFO: 😴 Sleeping for 3.11 seconds before request 13/168
+2025-04-22 16:05:25,783 [sferis] INFO: 🚀 Sending request 13/168 to https://www.sferis.pl/apple-13-inch-ipad-pro-m4-wifi-256gb-with-standard-glass-space-black-i390860 for BN2009613
+2025-04-22 16:05:25,787 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-11-inch-ipad-pro-m4-wifi-256gb-with-standard-glass-space-black-i390779
+2025-04-22 16:05:25,787 [sferis] INFO: [12/168] BN2009605: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:05:27,787 [sferis] INFO: 😴 Sleeping for 1.68 seconds before request 14/168
+2025-04-22 16:05:29,477 [sferis] INFO: 🚀 Sending request 14/168 to https://www.sferis.pl/apple-iphone-11-128gb-black-i256462 for BN2006936
+2025-04-22 16:05:29,477 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-13-inch-ipad-pro-m4-wifi-256gb-with-standard-glass-space-black-i390860
+2025-04-22 16:05:29,477 [sferis] INFO: [13/168] BN2009613: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:05:31,453 [sferis] INFO: 😴 Sleeping for 1.59 seconds before request 15/168
+2025-04-22 16:05:33,053 [sferis] INFO: 🚀 Sending request 15/168 to https://www.sferis.pl/apple-iphone-11-64gb-black-i259561 for BN2006935
+2025-04-22 16:05:33,053 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-iphone-11-128gb-black-i256462
+2025-04-22 16:05:33,053 [sferis] INFO: [14/168] BN2006936: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:05:35,473 [sferis] INFO: 😴 Sleeping for 3.89 seconds before request 16/168
+2025-04-22 16:05:39,370 [sferis] INFO: 🚀 Sending request 16/168 to https://www.sferis.pl/apple-iphone-12-64gb-white-i452674 for BN2007612
+2025-04-22 16:05:39,374 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-iphone-11-64gb-black-i259561
+2025-04-22 16:05:39,374 [sferis] INFO: [15/168] BN2006935: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:05:41,261 [sferis] INFO: 😴 Sleeping for 1.71 seconds before request 17/168
+2025-04-22 16:05:42,983 [sferis] INFO: 🚀 Sending request 17/168 to https://www.sferis.pl/apple-iphone-14-256gb-starlight-i456245 for BN2008518
+2025-04-22 16:05:42,983 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-iphone-12-64gb-white-i452674
+2025-04-22 16:05:42,983 [sferis] INFO: [16/168] BN2007612: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:05:44,872 [sferis] INFO: 😴 Sleeping for 2.07 seconds before request 18/168
+2025-04-22 16:05:46,946 [sferis] INFO: 🚀 Sending request 18/168 to https://www.sferis.pl/apple-iphone-15-128gb-green-i454095 for BN2009133
+2025-04-22 16:05:46,950 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-iphone-14-256gb-starlight-i456245
+2025-04-22 16:05:46,950 [sferis] INFO: [17/168] BN2008518: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:05:49,283 [sferis] INFO: 😴 Sleeping for 2.63 seconds before request 19/168
+2025-04-22 16:05:51,911 [sferis] INFO: 🚀 Sending request 19/168 to https://www.sferis.pl/apple-iphone-15-256gb-black-i369101 for BN2009142
+2025-04-22 16:05:51,911 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-iphone-15-128gb-green-i454095
+2025-04-22 16:05:51,911 [sferis] INFO: [18/168] BN2009133: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:05:53,808 [sferis] INFO: 😴 Sleeping for 1.73 seconds before request 20/168
+2025-04-22 16:05:55,543 [sferis] INFO: 🚀 Sending request 20/168 to https://www.sferis.pl/apple-iphone-15-plus-128gb-blue-i368238 for BN2009134
+2025-04-22 16:05:55,543 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-iphone-15-256gb-black-i369101
+2025-04-22 16:05:55,543 [sferis] INFO: [19/168] BN2009142: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:05:57,266 [sferis] INFO: 😴 Sleeping for 3.17 seconds before request 21/168
+2025-04-22 16:06:00,449 [sferis] INFO: 🚀 Sending request 21/168 to https://www.sferis.pl/apple-iphone-15-pro-128gb-natural-titanium-i450021 for BN2009135
+2025-04-22 16:06:00,496 [sferis] INFO: [20/168] BN2009134: 3499.00 PLN | Instock | 148 remaining
+2025-04-22 16:06:02,606 [sferis] INFO: 😴 Sleeping for 2.43 seconds before request 22/168
+2025-04-22 16:06:05,042 [sferis] INFO: 🚀 Sending request 22/168 to https://www.sferis.pl/apple-iphone-15-pro-256gb-white-titanium-i363780?rec_source=2&rec_scenario_id=0&prod_id=109153&vds_id=2113&rec_item_id=38655&utm_source=salesmanago&utm_medium=WEBPUSH&utm_campaign=WEBPUSH_Crosssell for BN2009146
+2025-04-22 16:06:05,045 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-iphone-15-pro-128gb-natural-titanium-i450021
+2025-04-22 16:06:05,045 [sferis] INFO: [21/168] BN2009135: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:06:08,134 [sferis] INFO: 😴 Sleeping for 4.25 seconds before request 23/168
+2025-04-22 16:06:12,395 [sferis] INFO: 🚀 Sending request 23/168 to https://www.sferis.pl/apple-iphone-15-pro-512gb-blue-titanium-i450423 for BN2009147
+2025-04-22 16:06:12,397 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-iphone-15-pro-256gb-white-titanium-i363780?rec_source=2&rec_scenario_id=0&prod_id=109153&vds_id=2113&rec_item_id=38655&utm_source=salesmanago&utm_medium=WEBPUSH&utm_campaign=WEBPUSH_Crosssell
+2025-04-22 16:06:12,397 [sferis] INFO: [22/168] BN2009146: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:06:14,366 [sferis] INFO: 😴 Sleeping for 1.74 seconds before request 24/168
+2025-04-22 16:06:16,127 [sferis] INFO: 🚀 Sending request 24/168 to https://www.sferis.pl/apple-iphone-15-pro-max-256gb-natural-titanium-i364095 for BN2009136
+2025-04-22 16:06:16,129 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-iphone-15-pro-512gb-blue-titanium-i450423
+2025-04-22 16:06:16,129 [sferis] INFO: [23/168] BN2009147: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:06:18,912 [sferis] INFO: 😴 Sleeping for 3.10 seconds before request 25/168
+2025-04-22 16:06:22,021 [sferis] INFO: 🚀 Sending request 25/168 to https://www.sferis.pl/apple-iphone-15-pro-max-512gb-natural-titanium-i371011 for BN2009150
+2025-04-22 16:06:22,022 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-iphone-15-pro-max-256gb-natural-titanium-i364095
+2025-04-22 16:06:22,022 [sferis] INFO: [24/168] BN2009136: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:06:24,061 [sferis] INFO: 😴 Sleeping for 1.81 seconds before request 26/168
+2025-04-22 16:06:25,883 [sferis] INFO: 🚀 Sending request 26/168 to https://www.sferis.pl/apple-iphone-16-128gb-ultramarine-i454307 for BN2009874
+2025-04-22 16:06:25,885 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-iphone-15-pro-max-512gb-natural-titanium-i371011
+2025-04-22 16:06:25,885 [sferis] INFO: [25/168] BN2009150: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:06:27,349 [sferis] INFO: 😴 Sleeping for 4.86 seconds before request 27/168
+2025-04-22 16:06:32,209 [sferis] INFO: 🚀 Sending request 27/168 to https://www.sferis.pl/apple-iphone-16-256gb-pink-i461653 for BN2009878
+2025-04-22 16:06:32,246 [sferis] INFO: [26/168] BN2009874: 3449.00 PLN | Instock | 142 remaining
+2025-04-22 16:06:33,521 [sferis] INFO: 😴 Sleeping for 1.42 seconds before request 28/168
+2025-04-22 16:06:34,958 [sferis] INFO: 🚀 Sending request 28/168 to https://www.sferis.pl/apple-iphone-16-plus-128gb-pink-i461723 for BN2009875
+2025-04-22 16:06:34,995 [sferis] INFO: [27/168] BN2009878: 4049.00 PLN | Instock | 141 remaining
+2025-04-22 16:06:37,525 [sferis] INFO: 😴 Sleeping for 2.65 seconds before request 29/168
+2025-04-22 16:06:40,187 [sferis] INFO: 🚀 Sending request 29/168 to https://www.sferis.pl/apple-iphone-16-pro-128gb-black-titanium-i459884 for BN2009876
+2025-04-22 16:06:40,227 [sferis] INFO: [28/168] BN2009875: 4049.00 PLN | Instock | 140 remaining
+2025-04-22 16:06:41,245 [sferis] INFO: 😴 Sleeping for 2.21 seconds before request 30/168
+2025-04-22 16:06:43,466 [sferis] INFO: 🚀 Sending request 30/168 to https://www.sferis.pl/apple-iphone-16-pro-1tb-white-titanium-i463392 for BN2009884
+2025-04-22 16:06:43,499 [sferis] INFO: [29/168] BN2009876: 4649.00 PLN | Instock | 139 remaining
+2025-04-22 16:06:46,320 [sferis] INFO: 😴 Sleeping for 4.07 seconds before request 31/168
+2025-04-22 16:06:50,389 [sferis] INFO: 🚀 Sending request 31/168 to https://www.sferis.pl/apple-iphone-16-pro-256gb-white-titanium-i461369 for BN2009882
+2025-04-22 16:06:50,391 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-iphone-16-pro-1tb-white-titanium-i463392
+2025-04-22 16:06:50,393 [sferis] INFO: [30/168] BN2009884: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:06:52,166 [sferis] INFO: 😴 Sleeping for 1.64 seconds before request 32/168
+2025-04-22 16:06:53,818 [sferis] INFO: 🚀 Sending request 32/168 to https://www.sferis.pl/apple-iphone-16-pro-512gb-natural-titanium-i463184 for BN2009883
+2025-04-22 16:06:53,858 [sferis] INFO: [31/168] BN2009882: 5149.00 PLN | Instock | 137 remaining
+2025-04-22 16:06:55,938 [sferis] INFO: 😴 Sleeping for 3.70 seconds before request 33/168
+2025-04-22 16:06:59,649 [sferis] INFO: 🚀 Sending request 33/168 to https://www.sferis.pl/apple-phone-16-pro-max-1tb-natural-titanium-i463336 for BN2009886
+2025-04-22 16:06:59,696 [sferis] INFO: [32/168] BN2009883: 0.00 PLN | Outstock | 136 remaining
+2025-04-22 16:07:01,650 [sferis] INFO: 😴 Sleeping for 2.78 seconds before request 34/168
+2025-04-22 16:07:04,429 [sferis] INFO: 🚀 Sending request 34/168 to https://www.sferis.pl/apple-iphone-16-pro-max-256gb-white-titanium-i459878 for BN2009877
+2025-04-22 16:07:04,431 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-phone-16-pro-max-1tb-natural-titanium-i463336
+2025-04-22 16:07:04,433 [sferis] INFO: [33/168] BN2009886: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:07:05,722 [sferis] INFO: 😴 Sleeping for 2.15 seconds before request 35/168
+2025-04-22 16:07:07,882 [sferis] INFO: 🚀 Sending request 35/168 to https://www.sferis.pl/apple-iphone-16-pro-max-512gb-desert-titanium-i564196 for BN2009885
+2025-04-22 16:07:07,913 [sferis] INFO: [34/168] BN2009877: 5599.00 PLN | Instock | 134 remaining
+2025-04-22 16:07:09,313 [sferis] INFO: 😴 Sleeping for 3.90 seconds before request 36/168
+2025-04-22 16:07:13,221 [sferis] INFO: 🚀 Sending request 36/168 to https://www.sferis.pl/apple-iphone-16e-128gb-black-i558585 for BN2010109
+2025-04-22 16:07:13,253 [sferis] INFO: [35/168] BN2009885: 6649.00 PLN | Instock | 133 remaining
+2025-04-22 16:07:14,513 [sferis] INFO: 😴 Sleeping for 1.35 seconds before request 37/168
+2025-04-22 16:07:15,875 [sferis] INFO: 🚀 Sending request 37/168 to https://www.sferis.pl/apple-iphone-se-128gb-starlight-2022-i330425 for BN2008373
+2025-04-22 16:07:15,908 [sferis] INFO: [36/168] BN2010109: 2885.00 PLN | Instock | 132 remaining
+2025-04-22 16:07:18,930 [sferis] INFO: 😴 Sleeping for 2.45 seconds before request 38/168
+2025-04-22 16:07:21,395 [sferis] INFO: 🚀 Sending request 38/168 to https://www.sferis.pl/apple-iphone-se-64gb-5g-2022-midnight-i457705 for BN2008374
+2025-04-22 16:07:21,401 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-iphone-se-128gb-starlight-2022-i330425
+2025-04-22 16:07:21,401 [sferis] INFO: [37/168] BN2008373: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:07:23,319 [sferis] INFO: 😴 Sleeping for 3.83 seconds before request 39/168
+2025-04-22 16:07:27,158 [sferis] INFO: 🚀 Sending request 39/168 to https://www.sferis.pl/apple-iphone-se-64gb-5g-2022-starlight-i355973 for BN2008372
+2025-04-22 16:07:27,158 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-iphone-se-64gb-5g-2022-midnight-i457705
+2025-04-22 16:07:27,158 [sferis] INFO: [38/168] BN2008374: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:07:30,753 [sferis] INFO: 😴 Sleeping for 2.56 seconds before request 40/168
+2025-04-22 16:07:33,333 [sferis] INFO: 🚀 Sending request 40/168 to https://www.sferis.pl/smartfon-google-pixel-7a-5g-8-128gb-bialy-i347102 for BN2008782
+2025-04-22 16:07:33,341 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/apple-iphone-se-64gb-5g-2022-starlight-i355973
+2025-04-22 16:07:33,349 [sferis] INFO: [39/168] BN2008372: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:07:35,334 [sferis] INFO: 😴 Sleeping for 3.11 seconds before request 41/168
+2025-04-22 16:07:38,460 [sferis] INFO: 🚀 Sending request 41/168 to https://www.sferis.pl/smartfon-google-pixel-8-5g-8-128gb-rozowy-i365994?rec_source=2&rec_scenario_id=0&prod_id=111593&vds_id=2113&rec_item_id=38655&utm_source=salesmanago&utm_medium=SMS&utm_campaign=tv for BN2009218
+2025-04-22 16:07:38,464 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-google-pixel-7a-5g-8-128gb-bialy-i347102
+2025-04-22 16:07:38,464 [sferis] INFO: [40/168] BN2008782: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:07:40,320 [sferis] INFO: 😴 Sleeping for 3.62 seconds before request 42/168
+2025-04-22 16:07:43,954 [sferis] INFO: 🚀 Sending request 42/168 to https://www.sferis.pl/smartfon-google-pixel-8-pro-128gb-mint-i488196 for BN2009219
+2025-04-22 16:07:43,957 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-google-pixel-8-5g-8-128gb-rozowy-i365994?rec_source=2&rec_scenario_id=0&prod_id=111593&vds_id=2113&rec_item_id=38655&utm_source=salesmanago&utm_medium=SMS&utm_campaign=tv
+2025-04-22 16:07:43,957 [sferis] INFO: [41/168] BN2009218: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:07:45,313 [sferis] INFO: 😴 Sleeping for 3.04 seconds before request 43/168
+2025-04-22 16:07:48,367 [sferis] INFO: 🚀 Sending request 43/168 to https://www.sferis.pl/smartfon-google-pixel-8a-5g-8-128gb-ds-bay-blue-i391062 for BN2009570
+2025-04-22 16:07:48,399 [sferis] INFO: [42/168] BN2009219: 0.00 PLN | Outstock | 126 remaining
+2025-04-22 16:07:50,218 [sferis] INFO: 😴 Sleeping for 3.20 seconds before request 44/168
+2025-04-22 16:07:53,426 [sferis] INFO: 🚀 Sending request 44/168 to https://www.sferis.pl/smartfon-google-pixel-9-5g-dualsim-12-128gb-peony-i462371 for BN2009762
+2025-04-22 16:07:53,428 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-google-pixel-8a-5g-8-128gb-ds-bay-blue-i391062
+2025-04-22 16:07:53,428 [sferis] INFO: [43/168] BN2009570: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:07:54,578 [sferis] INFO: 😴 Sleeping for 3.83 seconds before request 45/168
+2025-04-22 16:07:58,411 [sferis] INFO: 🚀 Sending request 45/168 to https://www.sferis.pl/smartfon-google-pixel-9-5g-ds-12-256gb-porcelain-i509610 for BN2009766
+2025-04-22 16:07:58,443 [sferis] INFO: [44/168] BN2009762: 0.00 PLN | Outstock | 124 remaining
+2025-04-22 16:07:59,626 [sferis] INFO: 😴 Sleeping for 2.13 seconds before request 46/168
+2025-04-22 16:08:01,764 [sferis] INFO: 🚀 Sending request 46/168 to https://www.sferis.pl/google-pixel-9-pro-5g-ds-16-128gb-rose-i570475 for BN2009765
+2025-04-22 16:08:01,796 [sferis] INFO: [45/168] BN2009766: 3295.00 PLN | Instock | 123 remaining
+2025-04-22 16:08:04,046 [sferis] INFO: 😴 Sleeping for 1.24 seconds before request 47/168
+2025-04-22 16:08:05,292 [sferis] INFO: 🚀 Sending request 47/168 to https://www.sferis.pl/smartfon-honor-200-5g-dual-sim-12gb-ram-512gb-black-i416784 for BN2009351
+2025-04-22 16:08:05,334 [sferis] INFO: [46/168] BN2009765: 3545.00 PLN | Instock | 122 remaining
+2025-04-22 16:08:08,177 [sferis] INFO: 😴 Sleeping for 3.48 seconds before request 48/168
+2025-04-22 16:08:11,663 [sferis] INFO: 🚀 Sending request 48/168 to https://www.sferis.pl/smartfon-honor-200-lite-5g-8-256gb-black-i392587 for BN2009284
+2025-04-22 16:08:11,696 [sferis] INFO: [47/168] BN2009351: 1449.00 PLN | Instock | 121 remaining
+2025-04-22 16:08:12,864 [sferis] INFO: 😴 Sleeping for 2.81 seconds before request 49/168
+2025-04-22 16:08:15,688 [sferis] INFO: 🚀 Sending request 49/168 to https://www.sferis.pl/smartfon-honor-200-pro-5g-dual-sim-12gb-ram-512gb-black-i416885 for BN2009352
+2025-04-22 16:08:15,720 [sferis] INFO: [48/168] BN2009284: 819.00 PLN | Instock | 120 remaining
+2025-04-22 16:08:17,619 [sferis] INFO: 😴 Sleeping for 1.31 seconds before request 50/168
+2025-04-22 16:08:18,936 [sferis] INFO: 🚀 Sending request 50/168 to https://www.sferis.pl/smartfon-honor-90-5g-12-512gb-emerald-green-i450290 for BN2008842
+2025-04-22 16:08:18,938 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-honor-200-pro-5g-dual-sim-12gb-ram-512gb-black-i416885
+2025-04-22 16:08:18,940 [sferis] INFO: [49/168] BN2009352: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:08:21,352 [sferis] INFO: 😴 Sleeping for 3.91 seconds before request 51/168
+2025-04-22 16:08:25,273 [sferis] INFO: 🚀 Sending request 51/168 to https://www.sferis.pl/smartfon-honor-90-smart-4-128gb-ds-5g-black-i401678 for BN2009311
+2025-04-22 16:08:25,308 [sferis] INFO: [50/168] BN2008842: 0.00 PLN | Outstock | 118 remaining
+2025-04-22 16:08:27,193 [sferis] INFO: 😴 Sleeping for 1.45 seconds before request 52/168
+2025-04-22 16:08:28,660 [sferis] INFO: 🚀 Sending request 52/168 to https://www.sferis.pl/smartfon-honor-magic-v3-5g-dual-sim-12-512gb-black-i458232 for BN2009429
+2025-04-22 16:08:28,664 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-honor-90-smart-4-128gb-ds-5g-black-i401678
+2025-04-22 16:08:28,664 [sferis] INFO: [51/168] BN2009311: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:08:30,241 [sferis] INFO: 😴 Sleeping for 2.98 seconds before request 53/168
+2025-04-22 16:08:33,238 [sferis] INFO: 🚀 Sending request 53/168 to https://www.sferis.pl/smartfon-honor-magic-6-lite-5g-8-256gb-black-i393765 for BN2009095
+2025-04-22 16:08:33,238 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-honor-magic-v3-5g-dual-sim-12-512gb-black-i458232
+2025-04-22 16:08:33,238 [sferis] INFO: [52/168] BN2009429: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:08:35,153 [sferis] INFO: 😴 Sleeping for 2.32 seconds before request 54/168
+2025-04-22 16:08:37,489 [sferis] INFO: 🚀 Sending request 54/168 to https://www.sferis.pl/smartfon-honor-magic-v2-5g-16-512gb-ds-black-i401551 for BN2009096
+2025-04-22 16:08:37,497 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-honor-magic-6-lite-5g-8-256gb-black-i393765
+2025-04-22 16:08:37,497 [sferis] INFO: [53/168] BN2009095: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:08:39,373 [sferis] INFO: 😴 Sleeping for 3.70 seconds before request 55/168
+2025-04-22 16:08:43,086 [sferis] INFO: 🚀 Sending request 55/168 to https://www.sferis.pl/smartfon-honor-magic-6-pro-12-512gb-green-i401519?rec_source=2&rec_scenario_id=0&prod_id=125121&vds_id=2113&rec_item_id=38655&utm_source=salesmanago&utm_medium=WEBPUSH&utm_campaign=WEBPUSH_Crosssell for BN2009097
+2025-04-22 16:08:43,088 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-honor-magic-v2-5g-16-512gb-ds-black-i401551
+2025-04-22 16:08:43,088 [sferis] INFO: [54/168] BN2009096: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:08:49,289 [sferis] INFO: 😴 Sleeping for 4.52 seconds before request 56/168
+2025-04-22 16:08:53,824 [sferis] INFO: 🚀 Sending request 56/168 to https://www.sferis.pl/lenovo-ideapad-slim-3-15amn8-ryzen-3-7320u-15-6-fhd-ips-300nits-ag-8gb-lpddr5-ddr512-radeon-610m-graphics-win11-abyss-blue-i353312 for AN00000160
+2025-04-22 16:08:53,827 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-honor-magic-6-pro-12-512gb-green-i401519?rec_source=2&rec_scenario_id=0&prod_id=125121&vds_id=2113&rec_item_id=38655&utm_source=salesmanago&utm_medium=WEBPUSH&utm_campaign=WEBPUSH_Crosssell
+2025-04-22 16:08:53,830 [sferis] INFO: [55/168] BN2009097: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:08:55,055 [sferis] INFO: 😴 Sleeping for 2.09 seconds before request 57/168
+2025-04-22 16:08:57,146 [sferis] INFO: 🚀 Sending request 57/168 to https://www.sferis.pl/smartfon-motorola-edge-40-neo-12-256gb-6-55-oled-1080xx2400-5000mah-dual-sim-5g-soothing-sea-i354105 for BN2008969
+2025-04-22 16:08:57,178 [sferis] INFO: [56/168] AN00000160: 1755.00 PLN | Instock | 112 remaining
+2025-04-22 16:08:58,342 [sferis] INFO: 😴 Sleeping for 4.45 seconds before request 58/168
+2025-04-22 16:09:02,797 [sferis] INFO: 🚀 Sending request 58/168 to https://www.sferis.pl/motorola-edge-50-neo-5g-12-512gb-latte-i402202 for BN2009433
+2025-04-22 16:09:02,829 [sferis] INFO: [57/168] BN2008969: 1199.00 PLN | Instock | 111 remaining
+2025-04-22 16:09:04,013 [sferis] INFO: 😴 Sleeping for 1.94 seconds before request 59/168
+2025-04-22 16:09:05,967 [sferis] INFO: 🚀 Sending request 59/168 to https://www.sferis.pl/smartfon-motorola-edge-50-neo-5g-ds-8-256gb-pantone-latte-i488671 for BN2009716
+2025-04-22 16:09:05,999 [sferis] INFO: [58/168] BN2009433: 1799.00 PLN | Instock | 110 remaining
+2025-04-22 16:09:07,293 [sferis] INFO: 😴 Sleeping for 1.06 seconds before request 60/168
+2025-04-22 16:09:08,358 [sferis] INFO: 🚀 Sending request 60/168 to https://www.sferis.pl/smartfon-motorola-edge-50-pro-5g-12-512gb-black-beauty-i383418 for BN2009287
+2025-04-22 16:09:08,390 [sferis] INFO: [59/168] BN2009716: 0.00 PLN | Outstock | 109 remaining
+2025-04-22 16:09:12,198 [sferis] INFO: 😴 Sleeping for 2.75 seconds before request 61/168
+2025-04-22 16:09:14,951 [sferis] INFO: 🚀 Sending request 61/168 to https://www.sferis.pl/smartfon-motorola-edge-50-ultra-5g-16-1024gb-forest-grey-i383419 for BN2009157
+2025-04-22 16:09:14,969 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-motorola-edge-50-pro-5g-12-512gb-black-beauty-i383418
+2025-04-22 16:09:14,971 [sferis] INFO: [60/168] BN2009287: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:09:16,146 [sferis] INFO: 😴 Sleeping for 2.93 seconds before request 62/168
+2025-04-22 16:09:19,090 [sferis] INFO: 🚀 Sending request 62/168 to https://www.sferis.pl/motorola-moto-g14-8-256gb-steel-grey-i399707 for BN2009472
+2025-04-22 16:09:19,123 [sferis] INFO: [61/168] BN2009157: 3999.00 PLN | Instock | 107 remaining
+2025-04-22 16:09:21,008 [sferis] INFO: 😴 Sleeping for 2.96 seconds before request 63/168
+2025-04-22 16:09:23,978 [sferis] INFO: 🚀 Sending request 63/168 to https://www.sferis.pl/smartfon-motorola-moto-g24-g24-8-128gb-matte-charcoal-i376775 for BN2009153
+2025-04-22 16:09:23,978 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/motorola-moto-g14-8-256gb-steel-grey-i399707
+2025-04-22 16:09:23,978 [sferis] INFO: [62/168] BN2009472: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:09:25,157 [sferis] INFO: 😴 Sleeping for 3.03 seconds before request 64/168
+2025-04-22 16:09:28,191 [sferis] INFO: 🚀 Sending request 64/168 to https://www.sferis.pl/smartfon-motorola-moto-g24-g24-8-128gb-pink-lavender-i376752 for BN2009154
+2025-04-22 16:09:28,231 [sferis] INFO: [63/168] BN2009153: 444.00 PLN | Instock | 105 remaining
+2025-04-22 16:09:30,085 [sferis] INFO: 😴 Sleeping for 1.62 seconds before request 65/168
+2025-04-22 16:09:31,714 [sferis] INFO: 🚀 Sending request 65/168 to https://www.sferis.pl/smartfon-motorola-moto-g24-power-8-56gb-niebieski-i383064 for BN2009156
+2025-04-22 16:09:31,714 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-motorola-moto-g24-g24-8-128gb-pink-lavender-i376752
+2025-04-22 16:09:31,714 [sferis] INFO: [64/168] BN2009154: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:09:38,498 [sferis] INFO: 😴 Sleeping for 2.03 seconds before request 66/168
+2025-04-22 16:09:40,534 [sferis] INFO: 🚀 Sending request 66/168 to https://www.sferis.pl/smartfon-motorola-moto-g34-5g-4-128gb-black-i391820 for BN2009084
+2025-04-22 16:09:40,537 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-motorola-moto-g24-power-8-256gb-niebieski-i383064
+2025-04-22 16:09:40,539 [sferis] INFO: [65/168] BN2009156: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:09:42,548 [sferis] INFO: 😴 Sleeping for 2.69 seconds before request 67/168
+2025-04-22 16:09:45,254 [sferis] INFO: 🚀 Sending request 67/168 to https://www.sferis.pl/smartfon-motorola-moto-g34-5g-8-128gb-ice-blue-i463396 for BN2009461
+2025-04-22 16:09:45,258 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-motorola-moto-g34-5g-4-128gb-black-i391820
+2025-04-22 16:09:45,258 [sferis] INFO: [66/168] BN2009084: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:09:46,263 [sferis] INFO: 😴 Sleeping for 1.55 seconds before request 68/168
+2025-04-22 16:09:47,827 [sferis] INFO: 🚀 Sending request 68/168 to https://www.sferis.pl/smartfon-motorola-moto-g54-12-256-mint-green-power-edition-i372021?rec_source=2&rec_scenario_id=0&prod_id=113777&vds_id=2113&rec_item_id=38655&utm_source=salesmanago&utm_medium=WEBPUSH&utm_campaign=WEBPUSH_anonimowi for BN2009223
+2025-04-22 16:09:47,859 [sferis] INFO: [67/168] BN2009461: 499.00 PLN | Instock | 101 remaining
+2025-04-22 16:09:49,847 [sferis] INFO: 😴 Sleeping for 4.88 seconds before request 69/168
+2025-04-22 16:09:54,742 [sferis] INFO: 🚀 Sending request 69/168 to https://www.sferis.pl/smartfon-motorola-moto-g84-12-256gb-6-55-p-oled-1080x2400-5000mah-dual-sim-5g-marshmallow-blue-i354102 for BN2008968
+2025-04-22 16:09:54,774 [sferis] INFO: [68/168] BN2009223: 799.00 PLN | Instock | 100 remaining
+2025-04-22 16:09:55,926 [sferis] INFO: 😴 Sleeping for 1.40 seconds before request 70/168
+2025-04-22 16:09:57,346 [sferis] INFO: 🚀 Sending request 70/168 to https://www.sferis.pl/motorola-moto-g85-5g-12-256gb-urban-gray-i397129 for BN2009289
+2025-04-22 16:09:57,378 [sferis] INFO: [69/168] BN2008968: 988.00 PLN | Instock | 99 remaining
+2025-04-22 16:10:00,639 [sferis] INFO: 😴 Sleeping for 1.39 seconds before request 71/168
+2025-04-22 16:10:02,040 [sferis] INFO: 🚀 Sending request 71/168 to https://www.sferis.pl/smartfon-motorola-razr-40-ultra-8-256gb-6-9-p-oled-3800mah-dual-sim-5g-infinite-black-i348436 for BN2008719
+2025-04-22 16:10:02,044 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/motorola-moto-g85-5g-12-256gb-urban-gray-i397129
+2025-04-22 16:10:02,044 [sferis] INFO: [70/168] BN2009289: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:10:03,591 [sferis] INFO: 😴 Sleeping for 4.66 seconds before request 72/168
+2025-04-22 16:10:08,257 [sferis] INFO: 🚀 Sending request 72/168 to https://www.sferis.pl/motorola-razr-50-8-256gb-koala-grey-i401147 for BN2009286
+2025-04-22 16:10:08,261 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-motorola-razr-40-ultra-8-256gb-6-9-p-oled-3800mah-dual-sim-5g-infinite-black-i348436
+2025-04-22 16:10:08,261 [sferis] INFO: [71/168] BN2008719: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:10:09,492 [sferis] INFO: 😴 Sleeping for 2.60 seconds before request 73/168
+2025-04-22 16:10:12,112 [sferis] INFO: 🚀 Sending request 73/168 to https://www.sferis.pl/motorola-razr-50-ultra-12-512gb-midnight-blue-i561362 for BN2009285
+2025-04-22 16:10:12,144 [sferis] INFO: [72/168] BN2009286: 2999.00 PLN | Instock | 96 remaining
+2025-04-22 16:10:13,382 [sferis] INFO: 😴 Sleeping for 1.03 seconds before request 74/168
+2025-04-22 16:10:14,419 [sferis] INFO: 🚀 Sending request 74/168 to https://www.sferis.pl/tablet-lenovo-tab-m10-3rd-gen-unisoc-t610-10-1-wuxga-ips-320nits-touch-arm-mali-g52-4-64gb-lte-5000mah-android-storm-grey-i331578 for BN2008174
+2025-04-22 16:10:14,452 [sferis] INFO: [73/168] BN2009285: 3599.00 PLN | Instock | 95 remaining
+2025-04-22 16:10:17,792 [sferis] INFO: 😴 Sleeping for 4.54 seconds before request 75/168
+2025-04-22 16:10:22,338 [sferis] INFO: 🚀 Sending request 75/168 to https://www.sferis.pl/lenovo-tab-m11-tb330fu-11-4-128gb-lte-szary-i387721 for BN2009165
+2025-04-22 16:10:22,385 [sferis] INFO: [74/168] BN2008174: 599.00 PLN | Instock | 94 remaining
+2025-04-22 16:10:26,601 [sferis] INFO: 😴 Sleeping for 3.08 seconds before request 76/168
+2025-04-22 16:10:29,688 [sferis] INFO: 🚀 Sending request 76/168 to https://www.sferis.pl/konsola-xbox-series-s-512gb-i468375 for AN00000068
+2025-04-22 16:10:29,724 [sferis] INFO: [75/168] BN2009165: 0.00 PLN | Outstock | 93 remaining
+2025-04-22 16:10:30,950 [sferis] INFO: 😴 Sleeping for 2.92 seconds before request 77/168
+2025-04-22 16:10:33,900 [sferis] INFO: 🚀 Sending request 77/168 to https://www.sferis.pl/smartfon-oneplus-nord-3-5g-16-256gb-szary-i370163 for BN2009058
+2025-04-22 16:10:33,932 [sferis] INFO: [76/168] AN00000068: 1289.00 PLN | Instock | 92 remaining
+2025-04-22 16:10:36,332 [sferis] INFO: 😴 Sleeping for 4.82 seconds before request 78/168
+2025-04-22 16:10:41,172 [sferis] INFO: 🚀 Sending request 78/168 to https://www.sferis.pl/smartfon-oneplus-nord-ce-3-lite-5g-8-128gb-szary-i351297 for BN2008723
+2025-04-22 16:10:41,173 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-oneplus-nord-3-5g-16-256gb-szary-i370163
+2025-04-22 16:10:41,179 [sferis] INFO: [77/168] BN2009058: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:10:43,050 [sferis] INFO: 😴 Sleeping for 3.47 seconds before request 79/168
+2025-04-22 16:10:46,524 [sferis] INFO: 🚀 Sending request 79/168 to https://www.sferis.pl/smartfon-oneplus-12-5g-16-512gb-czarny-i382977 for BN2009368
+2025-04-22 16:10:46,527 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-oneplus-nord-ce-3-lite-5g-8-128gb-szary-i351297
+2025-04-22 16:10:46,529 [sferis] INFO: [78/168] BN2008723: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:10:47,802 [sferis] INFO: 😴 Sleeping for 2.69 seconds before request 80/168
+2025-04-22 16:10:50,502 [sferis] INFO: 🚀 Sending request 80/168 to https://www.sferis.pl/smartfon-oneplus-12r-5g-ds-16-256gb-iron-grey-i388743?rec_source=2&rec_scenario_id=0&prod_id=120532&vds_id=2113&rec_item_id=38655&utm_source=salesmanago&utm_medium=WEBPUSH&utm_campaign=WEBPUSH_anonimowi for BN2009369
+2025-04-22 16:10:50,534 [sferis] INFO: [79/168] BN2009368: 3245.00 PLN | Instock | 89 remaining
+2025-04-22 16:10:52,544 [sferis] INFO: 😴 Sleeping for 2.86 seconds before request 81/168
+2025-04-22 16:10:55,404 [sferis] INFO: 🚀 Sending request 81/168 to https://www.sferis.pl/smartfon-oneplus-13-5g-16-512gb-ds-arctic-dawn-i467050 for AN00000245
+2025-04-22 16:10:55,419 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-oneplus-12r-5g-ds-16-256gb-iron-grey-i388743?rec_source=2&rec_scenario_id=0&prod_id=120532&vds_id=2113&rec_item_id=38655&utm_source=salesmanago&utm_medium=WEBPUSH&utm_campaign=WEBPUSH_anonimowi
+2025-04-22 16:10:55,419 [sferis] INFO: [80/168] BN2009369: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:10:56,686 [sferis] INFO: 😴 Sleeping for 1.97 seconds before request 82/168
+2025-04-22 16:10:58,670 [sferis] INFO: 🚀 Sending request 82/168 to https://www.sferis.pl/smartfon-oneplus-13r-5g-12-256gb-ds-astral-trail-i467091 for AN00000244
+2025-04-22 16:10:58,711 [sferis] INFO: [81/168] AN00000245: 4599.00 PLN | Instock | 87 remaining
+2025-04-22 16:11:01,217 [sferis] INFO: 😴 Sleeping for 3.93 seconds before request 83/168
+2025-04-22 16:11:05,165 [sferis] INFO: 🚀 Sending request 83/168 to https://www.sferis.pl/smartfon-oneplus-nord-4-5g-ds-16-512gb-green-i501234 for AN00000205
+2025-04-22 16:11:05,214 [sferis] INFO: [82/168] AN00000244: 2799.00 PLN | Instock | 86 remaining
+2025-04-22 16:11:06,448 [sferis] INFO: 😴 Sleeping for 3.73 seconds before request 84/168
+2025-04-22 16:11:10,189 [sferis] INFO: 🚀 Sending request 84/168 to https://www.sferis.pl/oneplus-watch-2-47mm-black-i397584 for AN00000191
+2025-04-22 16:11:10,228 [sferis] INFO: [83/168] AN00000205: 1835.00 PLN | Instock | 85 remaining
+2025-04-22 16:11:11,393 [sferis] INFO: 😴 Sleeping for 2.11 seconds before request 85/168
+2025-04-22 16:11:13,507 [sferis] INFO: 🚀 Sending request 85/168 to https://www.sferis.pl/smartfon-oppo-a79-5g-4-128gb-mystery-black-i392638 for BN2008960
+2025-04-22 16:11:13,544 [sferis] INFO: [84/168] AN00000191: 869.00 PLN | Instock | 84 remaining
+2025-04-22 16:11:16,147 [sferis] INFO: 😴 Sleeping for 1.81 seconds before request 86/168
+2025-04-22 16:11:17,964 [sferis] INFO: 🚀 Sending request 86/168 to https://www.sferis.pl/smartfon-oppo-reno-11f-5g-8-256gb-palm-green-i391217?rec_source=2&rec_scenario_id=0&prod_id=121260&vds_id=2113&rec_item_id=38655&utm_source=salesmanago&utm_medium=SMS&utm_campaign=tv for BN2009104
+2025-04-22 16:11:17,964 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-oppo-a79-5g-4-128gb-mystery-black-i392638
+2025-04-22 16:11:17,969 [sferis] INFO: [85/168] BN2008960: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:11:20,539 [sferis] INFO: 😴 Sleeping for 3.09 seconds before request 87/168
+2025-04-22 16:11:23,639 [sferis] INFO: 🚀 Sending request 87/168 to https://www.sferis.pl/oppo-reno-12-5g-ds-12-256gb-black-brown-i416691 for BN2009427
+2025-04-22 16:11:23,644 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-oppo-reno-11f-5g-8-256gb-palm-green-i391217?rec_source=2&rec_scenario_id=0&prod_id=121260&vds_id=2113&rec_item_id=38655&utm_source=salesmanago&utm_medium=SMS&utm_campaign=tv
+2025-04-22 16:11:23,644 [sferis] INFO: [86/168] BN2009104: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:11:29,287 [sferis] INFO: 😴 Sleeping for 4.50 seconds before request 88/168
+2025-04-22 16:11:33,798 [sferis] INFO: 🚀 Sending request 88/168 to https://www.sferis.pl/oppo-reno-12fs-5g-12-512gb-orange-i418253 for BN2009428
+2025-04-22 16:11:33,830 [sferis] INFO: [87/168] BN2009427: 1379.00 PLN | Instock | 81 remaining
+2025-04-22 16:11:35,718 [sferis] INFO: 😴 Sleeping for 4.97 seconds before request 89/168
+2025-04-22 16:11:40,687 [sferis] INFO: 🚀 Sending request 89/168 to https://www.sferis.pl/smartfon-oppo-reno12-pro-5g-ds-12-512gb-nebula-black-i398287 for BN2009282
+2025-04-22 16:11:40,703 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/oppo-reno-12fs-5g-12-512gb-orange-i418253
+2025-04-22 16:11:40,703 [sferis] INFO: [88/168] BN2009428: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:11:42,696 [sferis] INFO: 😴 Sleeping for 2.90 seconds before request 90/168
+2025-04-22 16:11:45,605 [sferis] INFO: 🚀 Sending request 90/168 to https://www.sferis.pl/realme-14-pro-5g-ds-8-256gb-suede-grey-i564552 for AN00000253
+2025-04-22 16:11:45,610 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-oppo-reno12-pro-5g-ds-12-512gb-nebula-black-i398287
+2025-04-22 16:11:45,611 [sferis] INFO: [89/168] BN2009282: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:11:46,810 [sferis] INFO: 😴 Sleeping for 2.68 seconds before request 91/168
+2025-04-22 16:11:49,491 [sferis] INFO: 🚀 Sending request 91/168 to https://www.sferis.pl/smartfon-realme-c67-8-256gb-czarny-i387103 for BN2009183
+2025-04-22 16:11:49,523 [sferis] INFO: [90/168] AN00000253: 0.00 PLN | Outstock | 78 remaining
+2025-04-22 16:11:51,693 [sferis] INFO: 😴 Sleeping for 1.97 seconds before request 92/168
+2025-04-22 16:11:53,671 [sferis] INFO: 🚀 Sending request 92/168 to https://www.sferis.pl/realme-gt-7-pro-5g-dual-sim-12-512gb-galaxy-grey-i462373 for AN00000239
+2025-04-22 16:11:53,673 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-realme-c67-8-256gb-czarny-i387103
+2025-04-22 16:11:53,675 [sferis] INFO: [91/168] BN2009183: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:11:55,094 [sferis] INFO: 😴 Sleeping for 3.65 seconds before request 93/168
+2025-04-22 16:11:58,762 [sferis] INFO: 🚀 Sending request 93/168 to https://www.sferis.pl/samsung-galaxy-a05s-a057-4-128gb-ds-black-i375132 for BN2008971
+2025-04-22 16:11:58,810 [sferis] INFO: [92/168] AN00000239: 3475.00 PLN | Instock | 76 remaining
+2025-04-22 16:11:59,800 [sferis] INFO: 😴 Sleeping for 4.82 seconds before request 94/168
+2025-04-22 16:12:04,626 [sferis] INFO: 🚀 Sending request 94/168 to https://www.sferis.pl/samsung-galaxy-a05s-a057-4-64gb-ds-green-i375178 for BN2008970
+2025-04-22 16:12:04,662 [sferis] INFO: [93/168] BN2008971: 499.00 PLN | Instock | 75 remaining
+2025-04-22 16:12:05,977 [sferis] INFO: 😴 Sleeping for 2.74 seconds before request 95/168
+2025-04-22 16:12:08,726 [sferis] INFO: 🚀 Sending request 95/168 to https://www.sferis.pl/smartfon-samsung-galaxy-a14-a145r-4-64gb-6-6-pls-1080x2408-5000mah-dual-sim-4g-black-i335811 for BN2008553
+2025-04-22 16:12:08,762 [sferis] INFO: [94/168] BN2008970: 0.00 PLN | Outstock | 74 remaining
+2025-04-22 16:12:10,709 [sferis] INFO: 😴 Sleeping for 3.10 seconds before request 96/168
+2025-04-22 16:12:13,825 [sferis] INFO: 🚀 Sending request 96/168 to https://www.sferis.pl/samsung-galaxy-a15-a156-5g-4-128gb-ds-yellow-i456592 for BN2009106
+2025-04-22 16:12:13,841 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-samsung-galaxy-a14-a145r-4-64gb-6-6-pls-1080x2408-5000mah-dual-sim-4g-black-i335811
+2025-04-22 16:12:13,841 [sferis] INFO: [95/168] BN2008553: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:12:15,802 [sferis] INFO: 😴 Sleeping for 3.62 seconds before request 97/168
+2025-04-22 16:12:19,423 [sferis] INFO: 🚀 Sending request 97/168 to https://www.sferis.pl/samsung-galaxy-a15-4-128-4g-light-blue-i449089 for BN2009107
+2025-04-22 16:12:19,429 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/samsung-galaxy-a15-a156-5g-4-128gb-ds-yellow-i456592
+2025-04-22 16:12:19,429 [sferis] INFO: [96/168] BN2009106: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:12:21,939 [sferis] INFO: 😴 Sleeping for 3.01 seconds before request 98/168
+2025-04-22 16:12:24,963 [sferis] INFO: 🚀 Sending request 98/168 to https://www.sferis.pl/samsung-galaxy-a16-a165-ds-4-128gb-black-i460765 for BN2009660
+2025-04-22 16:12:24,969 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/samsung-galaxy-a15-4-128-4g-light-blue-i449089
+2025-04-22 16:12:24,969 [sferis] INFO: [97/168] BN2009107: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:12:26,128 [sferis] INFO: 😴 Sleeping for 1.75 seconds before request 99/168
+2025-04-22 16:12:27,890 [sferis] INFO: 🚀 Sending request 99/168 to https://www.sferis.pl/samsung-galaxy-a25-a256-5g-ds-6-128gb-blue-i373758 for BN2008917
+2025-04-22 16:12:27,923 [sferis] INFO: [98/168] BN2009660: 599.00 PLN | Instock | 70 remaining
+2025-04-22 16:12:29,083 [sferis] INFO: 😴 Sleeping for 4.50 seconds before request 100/168
+2025-04-22 16:12:33,607 [sferis] INFO: 🚀 Sending request 100/168 to https://www.sferis.pl/samsung-galaxy-a25-a256-5g-8-256gb-ds-blue-i392251 for BN2008918
+2025-04-22 16:12:33,643 [sferis] INFO: [99/168] BN2008917: 0.00 PLN | Outstock | 69 remaining
+2025-04-22 16:12:34,765 [sferis] INFO: 😴 Sleeping for 1.04 seconds before request 101/168
+2025-04-22 16:12:35,822 [sferis] INFO: 🚀 Sending request 101/168 to https://www.sferis.pl/smartfon-samsung-galaxy-a34-a346b-6-128gb-6-6-samoled-1080x2408-5000mah-hybrid-dual-sim-5g-awesome-graphite-i352106 for BN2008665
+2025-04-22 16:12:35,853 [sferis] INFO: [100/168] BN2008918: 0.00 PLN | Outstock | 68 remaining
+2025-04-22 16:12:38,683 [sferis] INFO: 😴 Sleeping for 1.70 seconds before request 102/168
+2025-04-22 16:12:40,397 [sferis] INFO: 🚀 Sending request 102/168 to https://www.sferis.pl/smartfon-samsung-galaxy-a35-a356-5g-6-128gb-lilac-i388440 for BN2009233
+2025-04-22 16:12:40,438 [sferis] INFO: [101/168] BN2008665: 955.00 PLN | Instock | 67 remaining
+2025-04-22 16:12:43,101 [sferis] INFO: 😴 Sleeping for 4.05 seconds before request 103/168
+2025-04-22 16:12:47,170 [sferis] INFO: 🚀 Sending request 103/168 to https://www.sferis.pl/smartfon-samsung-galaxy-a35-356-5g-8-256gb-awesome-navy-i382385 for BN2009234
+2025-04-22 16:12:47,221 [sferis] INFO: [102/168] BN2009233: 1088.00 PLN | Instock | 66 remaining
+2025-04-22 16:12:48,366 [sferis] INFO: 😴 Sleeping for 4.78 seconds before request 104/168
+2025-04-22 16:12:53,149 [sferis] INFO: 🚀 Sending request 104/168 to https://www.sferis.pl/samsung-galaxy-a36-a366-5g-ds-6-128gb-white-i565078 for BN2009895
+2025-04-22 16:12:53,197 [sferis] INFO: [103/168] BN2009234: 0.00 PLN | Outstock | 65 remaining
+2025-04-22 16:12:54,380 [sferis] INFO: 😴 Sleeping for 3.29 seconds before request 105/168
+2025-04-22 16:12:57,677 [sferis] INFO: 🚀 Sending request 105/168 to https://www.sferis.pl/samsung-galaxy-a36-a366-5g-ds-8-256gb-lavender-i564841 for BN2009896
+2025-04-22 16:12:57,712 [sferis] INFO: [104/168] BN2009895: 1199.00 PLN | Instock | 64 remaining
+2025-04-22 16:12:58,885 [sferis] INFO: 😴 Sleeping for 4.08 seconds before request 106/168
+2025-04-22 16:13:02,976 [sferis] INFO: 🚀 Sending request 106/168 to https://www.sferis.pl/smartfon-samsung-galaxy-a53-a536-6-128gb-6-5-samoled-2400x1080-5000mah-hybrid-dual-sim-5g-enterprise-edition-black-i316392 for BN2008025
+2025-04-22 16:13:03,011 [sferis] INFO: [105/168] BN2009896: 1399.00 PLN | Instock | 63 remaining
+2025-04-22 16:13:04,268 [sferis] INFO: 😴 Sleeping for 2.14 seconds before request 107/168
+2025-04-22 16:13:06,419 [sferis] INFO: 🚀 Sending request 107/168 to https://www.sferis.pl/smartfon-samsung-galaxy-a54-a546b-8-128gb-6-4-samoled-1080x2340-5000mah-hybrid-dual-sim-5g-awesome-graphite-i354795 for BN2008677
+2025-04-22 16:13:06,457 [sferis] INFO: [106/168] BN2008025: 0.00 PLN | Outstock | 62 remaining
+2025-04-22 16:13:08,365 [sferis] INFO: 😴 Sleeping for 1.49 seconds before request 108/168
+2025-04-22 16:13:09,868 [sferis] INFO: 🚀 Sending request 108/168 to https://www.sferis.pl/smartfon-samsung-galaxy-a54-a546b-8-256gb-6-4-samoled-1080x2340-5000mah-hybrid-dual-sim-5g-awesome-lime-i337257?rec_source=2&rec_scenario_id=0&prod_id=99073&vds_id=2113&rec_item_id=38655&utm_source=salesmanago&utm_medium=WEBPUSH&utm_campaign=WEBPUSH_Crosssell for BN2008668
+2025-04-22 16:13:09,870 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-samsung-galaxy-a54-a546b-8-128gb-6-4-samoled-1080x2340-5000mah-hybrid-dual-sim-5g-awesome-graphite-i354795
+2025-04-22 16:13:09,870 [sferis] INFO: [107/168] BN2008677: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:13:11,385 [sferis] INFO: 😴 Sleeping for 1.86 seconds before request 109/168
+2025-04-22 16:13:13,262 [sferis] INFO: 🚀 Sending request 109/168 to https://www.sferis.pl/samsung-galaxy-a55-5g-a556-8-128gb-violet-i386519 for BN2009231
+2025-04-22 16:13:13,278 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-samsung-galaxy-a54-a546b-8-256gb-6-4-samoled-1080x2340-5000mah-hybrid-dual-sim-5g-awesome-lime-i337257?rec_source=2&rec_scenario_id=0&prod_id=99073&vds_id=2113&rec_item_id=38655&utm_source=salesmanago&utm_medium=WEBPUSH&utm_campaign=WEBPUSH_Crosssell
+2025-04-22 16:13:13,278 [sferis] INFO: [108/168] BN2008668: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:13:15,282 [sferis] INFO: 😴 Sleeping for 3.15 seconds before request 110/168
+2025-04-22 16:13:18,454 [sferis] INFO: 🚀 Sending request 110/168 to https://www.sferis.pl/smartfon-samsung-galaxy-a55-a556-5g-8-256gb-awesome-navy-i382441 for BN2009232
+2025-04-22 16:13:18,501 [sferis] INFO: [109/168] BN2009231: 1488.00 PLN | Instock | 59 remaining
+2025-04-22 16:13:20,339 [sferis] INFO: 😴 Sleeping for 3.93 seconds before request 111/168
+2025-04-22 16:13:24,282 [sferis] INFO: 🚀 Sending request 111/168 to https://www.sferis.pl/samsung-galaxy-a56-a566-5g-ds-8-128gb-graphite-i565085 for BN2009795
+2025-04-22 16:13:24,284 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-samsung-galaxy-a55-a556-5g-8-256gb-awesome-navy-i382441
+2025-04-22 16:13:24,284 [sferis] INFO: [110/168] BN2009232: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:13:25,456 [sferis] INFO: 😴 Sleeping for 1.15 seconds before request 112/168
+2025-04-22 16:13:26,613 [sferis] INFO: 🚀 Sending request 112/168 to https://www.sferis.pl/samsung-galaxy-a56-a566-5g-ds-8-256gb-lightgrey-i565072 for BN2009848
+2025-04-22 16:13:26,656 [sferis] INFO: [111/168] BN2009795: 1495.00 PLN | Instock | 57 remaining
+2025-04-22 16:13:29,072 [sferis] INFO: 😴 Sleeping for 2.87 seconds before request 113/168
+2025-04-22 16:13:31,945 [sferis] INFO: 🚀 Sending request 113/168 to https://www.sferis.pl/smartfon-samsung-galaxy-s21-fe-g990-6-128gb-6-4-dynamic-amoled-2x-2340x1080-4500mah-dual-sim-5g-light-violet-i401752 for BN2007845
+2025-04-22 16:13:31,977 [sferis] INFO: [112/168] BN2009848: 1699.00 PLN | Instock | 56 remaining
+2025-04-22 16:13:33,837 [sferis] INFO: 😴 Sleeping for 3.18 seconds before request 114/168
+2025-04-22 16:13:37,032 [sferis] INFO: 🚀 Sending request 114/168 to https://www.sferis.pl/smartfon-samsung-galaxy-s23-s911-8-128gb-6-1-dynamic-amoled-2x-2340x1080-3900mah-dual-sim-5g-phantom-black-i330912 for BN2008581
+2025-04-22 16:13:37,032 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-samsung-galaxy-s21-fe-g990-6-128gb-6-4-dynamic-amoled-2x-2340x1080-4500mah-dual-sim-5g-light-violet-i401752
+2025-04-22 16:13:37,032 [sferis] INFO: [113/168] BN2007845: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:13:42,854 [sferis] INFO: 😴 Sleeping for 2.57 seconds before request 115/168
+2025-04-22 16:13:45,430 [sferis] INFO: 🚀 Sending request 115/168 to https://www.sferis.pl/smartfon-samsung-galaxy-s23-s911-8-256gb-6-1-dynamic-amoled-2x-2340x1080-3900mah-dual-sim-5g-lavender-i337448 for BN2008582
+2025-04-22 16:13:45,434 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-samsung-galaxy-s23-s911-8-128gb-6-1-dynamic-amoled-2x-2340x1080-3900mah-dual-sim-5g-phantom-black-i330912
+2025-04-22 16:13:45,434 [sferis] INFO: [114/168] BN2008581: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:13:47,264 [sferis] INFO: 😴 Sleeping for 2.95 seconds before request 116/168
+2025-04-22 16:13:50,224 [sferis] INFO: 🚀 Sending request 116/168 to https://www.sferis.pl/smartfon-samsung-galaxy-s24-s921-8-128gb-6-2-2340x1080-4000mah-5g-dula-sim-cobalt-violet-i377608 for BN2009166
+2025-04-22 16:13:50,236 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-samsung-galaxy-s23-s911-8-256gb-6-1-dynamic-amoled-2x-2340x1080-3900mah-dual-sim-5g-lavender-i337448
+2025-04-22 16:13:50,238 [sferis] INFO: [115/168] BN2008582: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:13:51,505 [sferis] INFO: 😴 Sleeping for 3.66 seconds before request 117/168
+2025-04-22 16:13:55,172 [sferis] INFO: 🚀 Sending request 117/168 to https://www.sferis.pl/smartfon-samsung-galaxy-s24-s921-8-256gb-6-2-2340x1080-4000mah-5g-dual-sim-czarny-i373596 for BN2009167
+2025-04-22 16:13:55,205 [sferis] INFO: [116/168] BN2009166: 2388.00 PLN | Instock | 52 remaining
+2025-04-22 16:13:56,405 [sferis] INFO: 😴 Sleeping for 2.05 seconds before request 118/168
+2025-04-22 16:13:58,473 [sferis] INFO: 🚀 Sending request 118/168 to https://www.sferis.pl/samsung-galaxy-s24-fe-s721-8-256gb-yellow-i465825 for BN2009489
+2025-04-22 16:13:58,505 [sferis] INFO: [117/168] BN2009167: 0.00 PLN | Outstock | 51 remaining
+2025-04-22 16:14:00,175 [sferis] INFO: 😴 Sleeping for 4.24 seconds before request 119/168
+2025-04-22 16:14:04,433 [sferis] INFO: 🚀 Sending request 119/168 to https://www.sferis.pl/samsung-galaxy-s24-ultra-s928-5g-12-1tb-titan-blue-i459025 for BN2009173
+2025-04-22 16:14:04,466 [sferis] INFO: [118/168] BN2009489: 2488.00 PLN | Instock | 50 remaining
+2025-04-22 16:14:06,431 [sferis] INFO: 😴 Sleeping for 3.34 seconds before request 120/168
+2025-04-22 16:14:09,779 [sferis] INFO: 🚀 Sending request 120/168 to https://www.sferis.pl/smartfon-samsung-galaxy-s24-ultra-ds-12-256gb-5g-titanium-black-i384451 for BN2009171
+2025-04-22 16:14:09,781 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/samsung-galaxy-s24-ultra-s928-5g-12-1tb-titan-blue-i459025
+2025-04-22 16:14:09,783 [sferis] INFO: [119/168] BN2009173: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:14:13,718 [sferis] INFO: 😴 Sleeping for 4.81 seconds before request 121/168
+2025-04-22 16:14:18,530 [sferis] INFO: 🚀 Sending request 121/168 to https://www.sferis.pl/samsung-galaxy-s24-ultra-s928-5g-12-512gb-ds-titan-black-i564187 for BN2009172
+2025-04-22 16:14:18,532 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-samsung-galaxy-s24-ultra-ds-12-256gb-5g-titanium-black-i384451
+2025-04-22 16:14:18,534 [sferis] INFO: [120/168] BN2009171: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:14:19,755 [sferis] INFO: 😴 Sleeping for 4.96 seconds before request 122/168
+2025-04-22 16:14:24,726 [sferis] INFO: 🚀 Sending request 122/168 to https://www.sferis.pl/samsung-galaxy-s24-s926b-5g-12-256gb-ds-black-i380054 for BN2009169
+2025-04-22 16:14:24,758 [sferis] INFO: [121/168] BN2009172: 4488.00 PLN | Instock | 47 remaining
+2025-04-22 16:14:26,000 [sferis] INFO: 😴 Sleeping for 2.92 seconds before request 123/168
+2025-04-22 16:14:28,929 [sferis] INFO: 🚀 Sending request 123/168 to https://www.sferis.pl/samsung-galaxy-s24-s926-5g-12-512gb-ds-grey-i386518 for BN2009170
+2025-04-22 16:14:28,977 [sferis] INFO: [122/168] BN2009169: 0.00 PLN | Outstock | 46 remaining
+2025-04-22 16:14:30,178 [sferis] INFO: 😴 Sleeping for 1.60 seconds before request 124/168
+2025-04-22 16:14:31,791 [sferis] INFO: 🚀 Sending request 124/168 to https://www.sferis.pl/samsung-galaxy-s25-s931-5g-ds-12-512gb-navy-i510787 for BN2009900
+2025-04-22 16:14:31,824 [sferis] INFO: [123/168] BN2009170: 3795.00 PLN | Instock | 45 remaining
+2025-04-22 16:14:34,548 [sferis] INFO: 😴 Sleeping for 2.14 seconds before request 125/168
+2025-04-22 16:14:36,693 [sferis] INFO: 🚀 Sending request 125/168 to https://www.sferis.pl/samsung-galaxy-s25-ultra-12-512gb-titanium-white-silver-i501683 for BN2009852
+2025-04-22 16:14:36,726 [sferis] INFO: [124/168] BN2009900: 3599.00 PLN | Instock | 44 remaining
+2025-04-22 16:14:38,572 [sferis] INFO: 😴 Sleeping for 2.90 seconds before request 126/168
+2025-04-22 16:14:41,482 [sferis] INFO: 🚀 Sending request 126/168 to https://www.sferis.pl/samsung-galaxy-s25-s936-ds-5g-12-256gb-icyblue-i510810 for BN2009797
+2025-04-22 16:14:41,514 [sferis] INFO: [125/168] BN2009852: 4999.00 PLN | Instock | 43 remaining
+2025-04-22 16:14:42,734 [sferis] INFO: 😴 Sleeping for 2.34 seconds before request 127/168
+2025-04-22 16:14:45,092 [sferis] INFO: 🚀 Sending request 127/168 to https://www.sferis.pl/samsung-galaxy-s25-s936-ds-5g-12-512gb-mint-i509020 for BN2009850
+2025-04-22 16:14:45,126 [sferis] INFO: [126/168] BN2009797: 3733.00 PLN | Instock | 42 remaining
+2025-04-22 16:14:46,941 [sferis] INFO: 😴 Sleeping for 3.80 seconds before request 128/168
+2025-04-22 16:14:50,750 [sferis] INFO: 🚀 Sending request 128/168 to https://www.sferis.pl/samsung-galaxy-tab-a9-x110-8-7-4-64gb-graphite-i391059 for BN2009046
+2025-04-22 16:14:50,788 [sferis] INFO: [127/168] BN2009850: 4177.00 PLN | Instock | 41 remaining
+2025-04-22 16:14:51,942 [sferis] INFO: 😴 Sleeping for 1.43 seconds before request 129/168
+2025-04-22 16:14:53,385 [sferis] INFO: 🚀 Sending request 129/168 to https://www.sferis.pl/samsung-galaxy-tab-a9-x216-5g-4-64gb-graphite-i388005?rec_source=2&rec_scenario_id=0&prod_id=122856&vds_id=2113&rec_item_id=38655&utm_source=salesmanago&utm_medium=WEBPUSH&utm_campaign=WEBPUSH_Crosssell for BN2008981
+2025-04-22 16:14:53,417 [sferis] INFO: [128/168] BN2009046: 499.00 PLN | Instock | 40 remaining
+2025-04-22 16:14:56,860 [sferis] INFO: 😴 Sleeping for 4.15 seconds before request 130/168
+2025-04-22 16:15:01,017 [sferis] INFO: 🚀 Sending request 130/168 to https://www.sferis.pl/samsung-galaxy-tab-a9-x216-5g-8-128gb-silver-i461980 for BN2008980
+2025-04-22 16:15:01,020 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/samsung-galaxy-tab-a9-x216-5g-4-64gb-graphite-i388005?rec_source=2&rec_scenario_id=0&prod_id=122856&vds_id=2113&rec_item_id=38655&utm_source=salesmanago&utm_medium=WEBPUSH&utm_campaign=WEBPUSH_Crosssell
+2025-04-22 16:15:01,020 [sferis] INFO: [129/168] BN2008981: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:15:05,700 [sferis] INFO: 😴 Sleeping for 1.77 seconds before request 131/168
+2025-04-22 16:15:07,477 [sferis] INFO: 🚀 Sending request 131/168 to https://www.sferis.pl/tablet-samsung-galaxy-tab-s9-fe-x510-10-9-6-128gb-wifi-grey-i365332 for BN2008979
+2025-04-22 16:15:07,499 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/samsung-galaxy-tab-a9-x216-5g-8-128gb-silver-i461980
+2025-04-22 16:15:07,500 [sferis] INFO: [130/168] BN2008980: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:15:08,704 [sferis] INFO: 😴 Sleeping for 4.11 seconds before request 132/168
+2025-04-22 16:15:12,828 [sferis] INFO: 🚀 Sending request 132/168 to https://www.sferis.pl/tablet-samsung-galaxy-tab-s9-fe-x510-10-9-8-256gb-wifi-grey-i376560 for BN2008978
+2025-04-22 16:15:12,971 [sferis] INFO: [131/168] BN2008979: 0.00 PLN | Outstock | 37 remaining
+2025-04-22 16:15:14,311 [sferis] INFO: 😴 Sleeping for 4.67 seconds before request 133/168
+2025-04-22 16:15:18,990 [sferis] INFO: 🚀 Sending request 133/168 to https://www.sferis.pl/samsung-galaxy-watch-6-r955-classic-43mm-lte-silver-i350294 for BN4000699
+2025-04-22 16:15:19,022 [sferis] INFO: [132/168] BN2008978: 0.00 PLN | Outstock | 36 remaining
+2025-04-22 16:15:20,359 [sferis] INFO: 😴 Sleeping for 1.46 seconds before request 134/168
+2025-04-22 16:15:21,831 [sferis] INFO: 🚀 Sending request 134/168 to https://www.sferis.pl/samsung-galaxy-watch-6-r945-44mm-lte-silver-i350295 for BN4000700
+2025-04-22 16:15:21,866 [sferis] INFO: [133/168] BN4000699: 918.00 PLN | Instock | 35 remaining
+2025-04-22 16:15:24,817 [sferis] INFO: 😴 Sleeping for 3.90 seconds before request 135/168
+2025-04-22 16:15:28,719 [sferis] INFO: 🚀 Sending request 135/168 to https://www.sferis.pl/samsung-galaxy-watch-6-r965-classic-47mm-lte-silver-i351859 for BN4000698
+2025-04-22 16:15:28,719 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/samsung-galaxy-watch-6-r945-44mm-lte-silver-i350295
+2025-04-22 16:15:28,719 [sferis] INFO: [134/168] BN4000700: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:15:29,905 [sferis] INFO: 😴 Sleeping for 2.86 seconds before request 136/168
+2025-04-22 16:15:32,780 [sferis] INFO: 🚀 Sending request 136/168 to https://www.sferis.pl/smartfon-samsung-galaxy-xcover-6-pro-g736-enterprise-edition-6-128gb-6-6-pls-2408x1080-4050mah-dual-sim-5g-black-i364187 for BN2008354
+2025-04-22 16:15:32,822 [sferis] INFO: [135/168] BN4000698: 998.00 PLN | Instock | 33 remaining
+2025-04-22 16:15:34,038 [sferis] INFO: 😴 Sleeping for 2.94 seconds before request 137/168
+2025-04-22 16:15:36,996 [sferis] INFO: 🚀 Sending request 137/168 to https://www.sferis.pl/samsung-galaxy-xcover-7-g556-6-128gb-eedition-black-i375004 for BN2009163
+2025-04-22 16:15:37,043 [sferis] INFO: [136/168] BN2008354: 1799.00 PLN | Instock | 32 remaining
+2025-04-22 16:15:41,501 [sferis] INFO: 😴 Sleeping for 3.13 seconds before request 138/168
+2025-04-22 16:15:44,644 [sferis] INFO: 🚀 Sending request 138/168 to https://www.sferis.pl/smartfon-samsung-galaxy-z-flip-5-f731b-8-256gb-6-7-oled-2640x1080-dual-sim-5g-graphite-i400893 for BN2008922
+2025-04-22 16:15:44,680 [sferis] INFO: [137/168] BN2009163: 1025.00 PLN | Instock | 31 remaining
+2025-04-22 16:15:46,644 [sferis] INFO: 😴 Sleeping for 1.88 seconds before request 139/168
+2025-04-22 16:15:48,531 [sferis] INFO: 🚀 Sending request 139/168 to https://www.sferis.pl/samsung-galaxy-z-flip-6-f741b-5g-12-256gb-silver-i402795 for BN2009474
+2025-04-22 16:15:48,533 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-samsung-galaxy-z-flip-5-f731b-8-256gb-6-7-oled-2640x1080-dual-sim-5g-graphite-i400893
+2025-04-22 16:15:48,533 [sferis] INFO: [138/168] BN2008922: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:15:49,903 [sferis] INFO: 😴 Sleeping for 1.77 seconds before request 140/168
+2025-04-22 16:15:51,687 [sferis] INFO: 🚀 Sending request 140/168 to https://www.sferis.pl/samsung-galaxy-z-flip-6-f741b-5g-12-512gb-blue-i415743 for BN2009475
+2025-04-22 16:15:51,719 [sferis] INFO: [139/168] BN2009474: 0.00 PLN | Outstock | 29 remaining
+2025-04-22 16:15:54,222 [sferis] INFO: 😴 Sleeping for 2.20 seconds before request 141/168
+2025-04-22 16:15:56,433 [sferis] INFO: 🚀 Sending request 141/168 to https://www.sferis.pl/samsung-galaxy-tab-s10-x826-5g-12-512gb-silver-i458020 for AN00000246
+2025-04-22 16:15:56,466 [sferis] INFO: [140/168] BN2009475: 3788.00 PLN | Instock | 28 remaining
+2025-04-22 16:15:58,480 [sferis] INFO: 😴 Sleeping for 2.16 seconds before request 142/168
+2025-04-22 16:16:00,652 [sferis] INFO: 🚀 Sending request 142/168 to https://www.sferis.pl/samsung-galaxy-watch-ultra-lte-l705-47mm-titanium-i416186 for BN2009402
+2025-04-22 16:16:00,691 [sferis] INFO: [141/168] AN00000246: 4499.00 PLN | Instock | 27 remaining
+2025-04-22 16:16:02,497 [sferis] INFO: 😴 Sleeping for 1.13 seconds before request 143/168
+2025-04-22 16:16:03,630 [sferis] INFO: 🚀 Sending request 143/168 to https://www.sferis.pl/smartfon-xiaomi-poco-m6-pro-12-512gb-czarny-i382980 for BN2009379
+2025-04-22 16:16:03,662 [sferis] INFO: [142/168] BN2009402: 1527.00 PLN | Instock | 26 remaining
+2025-04-22 16:16:07,675 [sferis] INFO: 😴 Sleeping for 2.56 seconds before request 144/168
+2025-04-22 16:16:10,250 [sferis] INFO: 🚀 Sending request 144/168 to https://www.sferis.pl/smartfon-xiaomi-poco-m6-pro-8-256gb-blue-i389810 for BN2009378
+2025-04-22 16:16:10,267 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-xiaomi-poco-m6-pro-12-512gb-czarny-i382980
+2025-04-22 16:16:10,267 [sferis] INFO: [143/168] BN2009379: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:16:12,226 [sferis] INFO: 😴 Sleeping for 2.97 seconds before request 145/168
+2025-04-22 16:16:15,207 [sferis] INFO: 🚀 Sending request 145/168 to https://www.sferis.pl/smartfon-xiaomi-poco-x6-pro-5g-12-512gb-yellow-i388301 for BN2009385
+2025-04-22 16:16:15,207 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-xiaomi-poco-m6-pro-8-256gb-blue-i389810
+2025-04-22 16:16:15,207 [sferis] INFO: [144/168] BN2009378: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:16:17,198 [sferis] INFO: 😴 Sleeping for 1.10 seconds before request 146/168
+2025-04-22 16:16:18,304 [sferis] INFO: 🚀 Sending request 146/168 to https://www.sferis.pl/smartfon-xiaomi-redmi-13-8-256gb-4g-ds-midnight-black-i565778 for BN2009331
+2025-04-22 16:16:18,304 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-xiaomi-poco-x6-pro-5g-12-512gb-yellow-i388301
+2025-04-22 16:16:18,304 [sferis] INFO: [145/168] BN2009385: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:16:19,578 [sferis] INFO: 😴 Sleeping for 1.51 seconds before request 147/168
+2025-04-22 16:16:21,094 [sferis] INFO: 🚀 Sending request 147/168 to https://www.sferis.pl/smartfon-xiaomi-redmi-13c-6-128gb-clover-green-i402693 for BN2009184
+2025-04-22 16:16:21,125 [sferis] INFO: [146/168] BN2009331: 545.00 PLN | Instock | 22 remaining
+2025-04-22 16:16:23,253 [sferis] INFO: 😴 Sleeping for 4.98 seconds before request 148/168
+2025-04-22 16:16:28,243 [sferis] INFO: 🚀 Sending request 148/168 to https://www.sferis.pl/smartfon-xiaomi-redmi-13c-8-256gb-nfc-black-i396529 for BN2009088
+2025-04-22 16:16:28,243 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-xiaomi-redmi-13c-6-128gb-clover-green-i402693
+2025-04-22 16:16:28,243 [sferis] INFO: [147/168] BN2009184: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:16:31,157 [sferis] INFO: 😴 Sleeping for 1.93 seconds before request 149/168
+2025-04-22 16:16:33,091 [sferis] INFO: 🚀 Sending request 149/168 to https://www.sferis.pl/smartfon-xiaomi-redmi-14c-4-128gb-sage-green-i453682 for BN2009638
+2025-04-22 16:16:33,095 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-xiaomi-redmi-13c-8-256gb-nfc-black-i396529
+2025-04-22 16:16:33,099 [sferis] INFO: [148/168] BN2009088: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:16:34,278 [sferis] INFO: 😴 Sleeping for 2.12 seconds before request 150/168
+2025-04-22 16:16:36,402 [sferis] INFO: 🚀 Sending request 150/168 to https://www.sferis.pl/smartfon-xiaomi-redmi-note-11s-5g-4-128gb-czarny-i338334 for BN2008256
+2025-04-22 16:16:36,434 [sferis] INFO: [149/168] BN2009638: 389.00 PLN | Instock | 19 remaining
+2025-04-22 16:16:38,389 [sferis] INFO: 😴 Sleeping for 1.48 seconds before request 151/168
+2025-04-22 16:16:39,870 [sferis] INFO: 🚀 Sending request 151/168 to https://www.sferis.pl/smartfon-xiaomi-redmi-note-11s-6-128gb-niebieski-i304745 for BN2008012
+2025-04-22 16:16:39,902 [sferis] INFO: [150/168] BN2008256: 0.00 PLN | Outstock | 18 remaining
+2025-04-22 16:16:42,906 [sferis] INFO: 😴 Sleeping for 3.59 seconds before request 152/168
+2025-04-22 16:16:46,513 [sferis] INFO: 🚀 Sending request 152/168 to https://www.sferis.pl/smartfon-xiaomi-redmi-note-12-4-128gb-niebieski-i337454 for BN2008736
+2025-04-22 16:16:46,549 [sferis] INFO: [151/168] BN2008012: 575.00 PLN | Instock | 17 remaining
+2025-04-22 16:16:48,444 [sferis] INFO: 😴 Sleeping for 4.65 seconds before request 153/168
+2025-04-22 16:16:53,101 [sferis] INFO: 🚀 Sending request 153/168 to https://www.sferis.pl/smartfon-xiaomi-redmi-note-12-pro-5g-6-128gb-niebieski-i338348 for BN2008732
+2025-04-22 16:16:53,101 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-xiaomi-redmi-note-12-4-128gb-niebieski-i337454
+2025-04-22 16:16:53,101 [sferis] INFO: [152/168] BN2008736: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:16:54,963 [sferis] INFO: 😴 Sleeping for 1.96 seconds before request 154/168
+2025-04-22 16:16:56,924 [sferis] INFO: 🚀 Sending request 154/168 to https://www.sferis.pl/smartfon-xiaomi-note-12s-8-256gb-blue-i466977 for BN2008771
+2025-04-22 16:16:56,927 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-xiaomi-redmi-note-12-pro-5g-6-128gb-niebieski-i338348
+2025-04-22 16:16:56,927 [sferis] INFO: [153/168] BN2008732: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:16:58,929 [sferis] INFO: 😴 Sleeping for 1.85 seconds before request 155/168
+2025-04-22 16:17:00,796 [sferis] INFO: 🚀 Sending request 155/168 to https://www.sferis.pl/smartfon-xiaomi-redmi-note-13-6-128gb-green-i390621 for BN2009089
+2025-04-22 16:17:00,796 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-xiaomi-note-12s-8-256gb-blue-i466977
+2025-04-22 16:17:00,796 [sferis] INFO: [154/168] BN2008771: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:17:02,727 [sferis] INFO: 😴 Sleeping for 2.72 seconds before request 156/168
+2025-04-22 16:17:05,452 [sferis] INFO: 🚀 Sending request 156/168 to https://www.sferis.pl/smartfon-xiaomi-redmi-note-13-8-256gb-niebieski-i379445 for BN2009090
+2025-04-22 16:17:05,463 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-xiaomi-redmi-note-13-6-128gb-green-i390621
+2025-04-22 16:17:05,463 [sferis] INFO: [155/168] BN2009089: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:17:06,664 [sferis] INFO: 😴 Sleeping for 3.01 seconds before request 157/168
+2025-04-22 16:17:09,687 [sferis] INFO: 🚀 Sending request 157/168 to https://www.sferis.pl/smartfon-xiaomi-redmi-note-13-pro-5g-8-256gb-ocean-teal-i388332 for BN2009091
+2025-04-22 16:17:09,719 [sferis] INFO: [156/168] BN2009090: 0.00 PLN | Outstock | 12 remaining
+2025-04-22 16:17:10,887 [sferis] INFO: 😴 Sleeping for 4.11 seconds before request 158/168
+2025-04-22 16:17:15,011 [sferis] INFO: 🚀 Sending request 158/168 to https://www.sferis.pl/smartfon-xiaomi-redmi-note-13-pro-8-256gb-midnight-black-i390452 for BN2009248
+2025-04-22 16:17:15,043 [sferis] INFO: [157/168] BN2009091: 1105.00 PLN | Instock | 11 remaining
+2025-04-22 16:17:16,245 [sferis] INFO: 😴 Sleeping for 1.28 seconds before request 159/168
+2025-04-22 16:17:17,524 [sferis] INFO: 🚀 Sending request 159/168 to https://www.sferis.pl/smartfon-xiaomi-redmi-note-13-pro-5g-12-512gb-aurora-purple-i393586 for BN2009111
+2025-04-22 16:17:17,555 [sferis] INFO: [158/168] BN2009248: 0.00 PLN | Outstock | 10 remaining
+2025-04-22 16:17:20,304 [sferis] INFO: 😴 Sleeping for 2.55 seconds before request 160/168
+2025-04-22 16:17:22,858 [sferis] INFO: 🚀 Sending request 160/168 to https://www.sferis.pl/smartfon-xiaomi-redmi-note-13-pro-5g-8-256gb-aurora-purple-i384463 for BN2009246
+2025-04-22 16:17:22,900 [sferis] INFO: [159/168] BN2009111: 1389.00 PLN | Instock | 9 remaining
+2025-04-22 16:17:24,937 [sferis] INFO: 😴 Sleeping for 2.68 seconds before request 161/168
+2025-04-22 16:17:27,628 [sferis] INFO: 🚀 Sending request 161/168 to https://www.sferis.pl/smartfon-xiaomi-13t-5g-8-256gb-niebieski-i357448 for BN2008852
+2025-04-22 16:17:27,632 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-xiaomi-redmi-note-13-pro-5g-8-256gb-aurora-purple-i384463
+2025-04-22 16:17:27,633 [sferis] INFO: [160/168] BN2009246: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:17:28,884 [sferis] INFO: 😴 Sleeping for 3.02 seconds before request 162/168
+2025-04-22 16:17:31,910 [sferis] INFO: 🚀 Sending request 162/168 to https://www.sferis.pl/smartfon-xiaomi-13t-pro-5g-12-512gb-czarny-i357529 for BN2008861
+2025-04-22 16:17:31,963 [sferis] INFO: [161/168] BN2008852: 1569.00 PLN | Instock | 7 remaining
+2025-04-22 16:17:33,819 [sferis] INFO: 😴 Sleeping for 1.24 seconds before request 163/168
+2025-04-22 16:17:35,068 [sferis] INFO: 🚀 Sending request 163/168 to https://www.sferis.pl/smartfon-xiaomi-14-5g-12-512gb-white-i387107?rec_source=2&rec_scenario_id=0&prod_id=119999&vds_id=2113&rec_item_id=38655&utm_source=salesmanago&utm_medium=SMS&utm_campaign=tv for BN2009094
+2025-04-22 16:17:35,068 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-xiaomi-13t-pro-5g-12-512gb-czarny-i357529
+2025-04-22 16:17:35,073 [sferis] INFO: [162/168] BN2008861: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:17:36,590 [sferis] INFO: 😴 Sleeping for 4.73 seconds before request 164/168
+2025-04-22 16:17:41,327 [sferis] INFO: 🚀 Sending request 164/168 to https://www.sferis.pl/smartfon-xiaomi-14-ultra-5g-ds-16-512gb-black-i401559 for BN2009303
+2025-04-22 16:17:41,332 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-xiaomi-14-5g-12-512gb-white-i387107?rec_source=2&rec_scenario_id=0&prod_id=119999&vds_id=2113&rec_item_id=38655&utm_source=salesmanago&utm_medium=SMS&utm_campaign=tv
+2025-04-22 16:17:41,333 [sferis] INFO: [163/168] BN2009094: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:17:43,255 [sferis] INFO: 😴 Sleeping for 4.81 seconds before request 165/168
+2025-04-22 16:17:48,069 [sferis] INFO: 🚀 Sending request 165/168 to https://www.sferis.pl/smartfon-xiaomi-14t-12-256gb-titan-black-i461249 for BN2009425
+2025-04-22 16:17:48,073 [sferis] INFO: 🚫 Product gone (410): https://www.sferis.pl/smartfon-xiaomi-14-ultra-5g-ds-16-512gb-black-i401559
+2025-04-22 16:17:48,073 [sferis] INFO: [164/168] BN2009303: 0.00 PLN | Outstock (Gone 410)
+2025-04-22 16:17:49,270 [sferis] INFO: 😴 Sleeping for 3.80 seconds before request 166/168
+2025-04-22 16:17:53,071 [sferis] INFO: 🚀 Sending request 166/168 to https://www.sferis.pl/smartfon-xiaomi-14t-pro-5g-dual-sim-12-512gb-black-i458030 for BN2009446
+2025-04-22 16:17:53,109 [sferis] INFO: [165/168] BN2009425: 1655.00 PLN | Instock | 3 remaining
+2025-04-22 16:17:54,262 [sferis] INFO: 😴 Sleeping for 4.29 seconds before request 167/168
+2025-04-22 16:17:58,561 [sferis] INFO: 🚀 Sending request 167/168 to https://www.sferis.pl/smartfon-xiaomi-15-5g-dual-sim-12-512gb-black-i560215 for BN2009832
+2025-04-22 16:17:58,598 [sferis] INFO: [166/168] BN2009446: 2479.00 PLN | Instock | 2 remaining
+2025-04-22 16:17:59,788 [sferis] INFO: 😴 Sleeping for 1.13 seconds before request 168/168
+2025-04-22 16:18:00,921 [sferis] INFO: 🚀 Sending request 168/168 to https://www.sferis.pl/smartfon-xiaomi-15-ultra-5g-dual-sim-16-512gb-silver-i560124 for BN2009815
+2025-04-22 16:18:00,955 [sferis] INFO: [167/168] BN2009832: 3989.00 PLN | Instock | 1 remaining
+2025-04-22 16:18:04,027 [sferis] INFO: [168/168] BN2009815: 5599.00 PLN | Instock | 0 remaining
+2025-04-22 16:18:04,027 [sferis] INFO: ✅ Spider sferis completed
+2025-04-22 16:18:04,027 [sferis] INFO: 🕒 Total time: 00:13:44
+2025-04-22 16:18:04,027 [sferis] INFO: 📊 Processed 168 items
+2025-04-22 16:18:04,027 [sferis] INFO: ⚡ Performance: 12.23 items/minute
+2025-04-22 16:18:16,198 [sferis] INFO: ==================================================
+2025-04-22 16:18:16,198 [sferis] INFO: SPIDER RUN COMPLETED: sferis
+2025-04-22 16:18:16,198 [sferis] INFO: Items processed: 168
+2025-04-22 16:18:16,198 [sferis] INFO: Duration: 00:13:56
+2025-04-22 16:18:16,198 [sferis] INFO: Performance: 12.05 items/minute
+2025-04-22 16:18:16,198 [sferis] INFO: ==================================================

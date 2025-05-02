@@ -1,0 +1,1199 @@
+2025-04-25 08:43:38,802 [oleole] INFO: 🕷️ Initializing oleole spider
+2025-04-25 08:43:38,803 [oleole] INFO: 🔄 Proxy Manager: Enabled
+2025-04-25 08:43:38,804 [oleole] INFO: 🕒 Human-like delays: Enabled
+2025-04-25 08:43:38,996 [oleole] INFO: 🕷️ Starting Oleole spider with custom headers
+2025-04-25 08:43:38,996 [oleole] INFO: 🔍 Total products to scrape: 264
+2025-04-25 08:43:38,996 [oleole] INFO: Using proxy manager with your own proxy first
+2025-04-25 08:43:38,998 [oleole] INFO: 🔄 Getting proxies from https://free-proxy-list.net/
+2025-04-25 08:43:39,612 [oleole] INFO: 🔍 Found 76 HTTPS proxies out of 300 total proxies
+2025-04-25 08:43:39,613 [oleole] INFO:   Proxy #1: 43.159.134.243:13001 (HTTPS)
+2025-04-25 08:43:39,613 [oleole] INFO:   Proxy #2: 44.219.175.186:80 (HTTPS)
+2025-04-25 08:43:39,614 [oleole] INFO:   Proxy #3: 49.51.206.38:13001 (HTTPS)
+2025-04-25 08:43:39,614 [oleole] INFO:   Proxy #4: 66.201.6.133:3128 (HTTPS)
+2025-04-25 08:43:39,615 [oleole] INFO:   Proxy #5: 170.106.181.112:13001 (HTTPS)
+2025-04-25 08:43:39,615 [oleole] INFO:   ... and 71 more
+2025-04-25 08:43:39,615 [oleole] INFO: Added your own proxy + 76 public proxies (limited to 100 total)
+2025-04-25 08:43:39,616 [oleole] INFO: 🔄 Starting with your own proxy: 192.168.101.27:8080 (1/77)
+2025-04-25 08:43:39,621 [oleole] INFO: Using proxy URL: http://192.168.101.27:8080
+2025-04-25 08:43:41,454 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-25 08:43:41,455 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 43.159.134.243:13001 (2/77)
+2025-04-25 08:44:13,332 [oleole] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://43.159.134.243:13001: User timeout caused connection failure: Getting https://www.oleole.pl/routery-gsm-3g/tcl-link-zone-lte-cat6-mobile-wifi-mw63vk.bhtml took longer than 30.0 seconds..
+2025-04-25 08:44:13,333 [oleole] INFO: 🔄 Moving to next proxy (2/77)
+2025-04-25 08:44:13,333 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 08:44:15,340 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 44.219.175.186:80
+2025-04-25 08:44:16,715 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-25 08:44:16,716 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 49.51.206.38:13001 (4/77)
+2025-04-25 08:44:19,869 [oleole] ERROR: ❌ Error [unknown]: TunnelError occurred with https://49.51.206.38:13001: Could not open CONNECT tunnel with proxy 49.51.206.38:13001 [{'status': 500, 'reason': b'Internal Server Error'}]
+2025-04-25 08:44:19,869 [oleole] INFO: 🔄 Moving to next proxy (4/77)
+2025-04-25 08:44:19,870 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 08:44:21,872 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 66.201.6.133:3128
+2025-04-25 08:44:27,188 [oleole] INFO: [1/264] BN2008152: 0.00 PLN | Outstock | 263 remaining | 0:00:48.383449
+2025-04-25 08:44:27,191 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:44:28,206 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.21 seconds (using oleole's range: 1-2s)
+2025-04-25 08:44:29,422 [oleole] INFO: ⏭️ Moving to next product (2/264) | Remaining: 263 | Using working public HTTPS proxy: 66.201.6.133:3128
+2025-04-25 08:44:34,420 [oleole] INFO: [2/264] BN2008420: 0.00 PLN | Outstock | 262 remaining | 0:00:55.614701
+2025-04-25 08:44:34,421 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:44:35,429 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.04 seconds (using oleole's range: 1-2s)
+2025-04-25 08:44:36,476 [oleole] INFO: ⏭️ Moving to next product (3/264) | Remaining: 262 | Using working public HTTPS proxy: 66.201.6.133:3128
+2025-04-25 08:45:06,611 [oleole] ERROR: ❌ Error [BN2009367]: TimeoutError occurred with https://66.201.6.133:3128: User timeout caused connection failure: Getting https://www.oleole.pl/telefony-komorkowe/tcl-onetouch-4022s-2-8-szary.bhtml took longer than 30.0 seconds..
+2025-04-25 08:45:06,612 [oleole] INFO: 🔄 Moving to next proxy (5/77)
+2025-04-25 08:45:06,613 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 08:45:08,619 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 170.106.181.112:13001
+2025-04-25 08:45:38,747 [oleole] ERROR: ❌ Error [BN2009367]: TimeoutError occurred with https://170.106.181.112:13001: User timeout caused connection failure: Getting https://www.oleole.pl/telefony-komorkowe/tcl-onetouch-4022s-2-8-szary.bhtml took longer than 30.0 seconds..
+2025-04-25 08:45:38,748 [oleole] INFO: 🔄 Moving to next proxy (6/77)
+2025-04-25 08:45:38,762 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 08:45:40,778 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 170.106.192.56:13001
+2025-04-25 08:45:42,918 [oleole] ERROR: ❌ Error [BN2009367]: TunnelError occurred with https://170.106.192.56:13001: Could not open CONNECT tunnel with proxy 170.106.192.56:13001 [{'status': 500, 'reason': b'Internal Server Error'}]
+2025-04-25 08:45:42,918 [oleole] INFO: 🔄 Moving to next proxy (7/77)
+2025-04-25 08:45:42,919 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 08:45:44,925 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 43.135.153.235:13001
+2025-04-25 08:45:46,814 [oleole] ERROR: ❌ Error [BN2009367]: TunnelError occurred with https://43.135.153.235:13001: Could not open CONNECT tunnel with proxy 43.135.153.235:13001 [{'status': 500, 'reason': b'Internal Server Error'}]
+2025-04-25 08:45:46,815 [oleole] INFO: 🔄 Moving to next proxy (8/77)
+2025-04-25 08:45:46,815 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 08:45:48,824 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:45:57,341 [oleole] INFO: [3/264] BN2009367: 0.00 PLN | Outstock | 261 remaining | 0:02:18.535810
+2025-04-25 08:45:57,343 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:45:58,354 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.92 seconds (using oleole's range: 1-2s)
+2025-04-25 08:46:00,287 [oleole] INFO: ⏭️ Moving to next product (4/264) | Remaining: 261 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:46:02,811 [oleole] INFO: [4/264] BN2008834: 0.00 PLN | Outstock | 260 remaining | 0:02:24.005754
+2025-04-25 08:46:02,813 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:46:03,818 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.49 seconds (using oleole's range: 1-2s)
+2025-04-25 08:46:05,311 [oleole] INFO: ⏭️ Moving to next product (5/264) | Remaining: 260 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:46:07,836 [oleole] INFO: [5/264] BN2009333: 0.00 PLN | Outstock | 259 remaining | 0:02:29.030973
+2025-04-25 08:46:07,838 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:46:08,852 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.03 seconds (using oleole's range: 1-2s)
+2025-04-25 08:46:09,900 [oleole] INFO: ⏭️ Moving to next product (6/264) | Remaining: 259 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:46:12,382 [oleole] INFO: [6/264] BN2009076: 0.00 PLN | Outstock | 258 remaining | 0:02:33.576915
+2025-04-25 08:46:12,383 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:46:13,384 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.18 seconds (using oleole's range: 1-2s)
+2025-04-25 08:46:14,581 [oleole] INFO: ⏭️ Moving to next product (7/264) | Remaining: 258 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:46:17,074 [oleole] INFO: [7/264] BN2009296: 0.00 PLN | Outstock | 257 remaining | 0:02:38.268995
+2025-04-25 08:46:17,075 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:46:18,089 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.80 seconds (using oleole's range: 1-2s)
+2025-04-25 08:46:19,897 [oleole] INFO: ⏭️ Moving to next product (8/264) | Remaining: 257 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:46:21,361 [oleole] INFO: [8/264] BN2009357: 0.00 PLN | Outstock | 256 remaining | 0:02:42.556186
+2025-04-25 08:46:21,362 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:46:22,372 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.94 seconds (using oleole's range: 1-2s)
+2025-04-25 08:46:24,330 [oleole] INFO: ⏭️ Moving to next product (9/264) | Remaining: 256 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:46:26,830 [oleole] INFO: [9/264] BN2008728: 0.00 PLN | Outstock | 255 remaining | 0:02:48.025243
+2025-04-25 08:46:26,832 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:46:27,841 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.23 seconds (using oleole's range: 1-2s)
+2025-04-25 08:46:29,083 [oleole] INFO: ⏭️ Moving to next product (10/264) | Remaining: 255 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:46:31,838 [oleole] INFO: [10/264] AN00000007: 0.00 PLN | Outstock | 254 remaining | 0:02:53.033595
+2025-04-25 08:46:31,841 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:46:32,852 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.30 seconds (using oleole's range: 1-2s)
+2025-04-25 08:46:34,159 [oleole] INFO: ⏭️ Moving to next product (11/264) | Remaining: 254 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:46:36,618 [oleole] INFO: [11/264] AN00000008: 0.00 PLN | Outstock | 253 remaining | 0:02:57.813626
+2025-04-25 08:46:36,620 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:46:37,622 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.89 seconds (using oleole's range: 1-2s)
+2025-04-25 08:46:39,516 [oleole] INFO: ⏭️ Moving to next product (12/264) | Remaining: 253 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:46:42,143 [oleole] INFO: [12/264] AN00000219: 0.00 PLN | Outstock | 252 remaining | 0:03:03.337913
+2025-04-25 08:46:42,145 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:46:43,150 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.90 seconds (using oleole's range: 1-2s)
+2025-04-25 08:46:45,060 [oleole] INFO: ⏭️ Moving to next product (13/264) | Remaining: 252 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:46:47,746 [oleole] INFO: [13/264] AN00000220: 0.00 PLN | Outstock | 251 remaining | 0:03:08.940691
+2025-04-25 08:46:47,748 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:46:48,753 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.36 seconds (using oleole's range: 1-2s)
+2025-04-25 08:46:50,124 [oleole] INFO: ⏭️ Moving to next product (14/264) | Remaining: 251 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:46:52,805 [oleole] INFO: [14/264] BN2008638: 0.00 PLN | Outstock | 250 remaining | 0:03:14.000318
+2025-04-25 08:46:52,807 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:46:53,817 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.57 seconds (using oleole's range: 1-2s)
+2025-04-25 08:46:55,392 [oleole] INFO: ⏭️ Moving to next product (15/264) | Remaining: 250 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:46:57,977 [oleole] INFO: [15/264] BN2008651: 0.00 PLN | Outstock | 249 remaining | 0:03:19.172555
+2025-04-25 08:46:57,980 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:46:58,985 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.46 seconds (using oleole's range: 1-2s)
+2025-04-25 08:47:00,448 [oleole] INFO: ⏭️ Moving to next product (16/264) | Remaining: 249 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:47:03,033 [oleole] INFO: [16/264] BN2010111: 0.00 PLN | Outstock | 248 remaining | 0:03:24.227684
+2025-04-25 08:47:03,035 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:47:04,038 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.05 seconds (using oleole's range: 1-2s)
+2025-04-25 08:47:05,090 [oleole] INFO: ⏭️ Moving to next product (17/264) | Remaining: 248 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:47:07,621 [oleole] INFO: [17/264] BN2010112: 0.00 PLN | Outstock | 247 remaining | 0:03:28.816115
+2025-04-25 08:47:07,623 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:47:08,633 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.76 seconds (using oleole's range: 1-2s)
+2025-04-25 08:47:10,404 [oleole] INFO: ⏭️ Moving to next product (18/264) | Remaining: 247 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:47:13,559 [oleole] INFO: [18/264] BN2010115: 0.00 PLN | Outstock | 246 remaining | 0:03:34.753854
+2025-04-25 08:47:13,560 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:47:14,571 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.02 seconds (using oleole's range: 1-2s)
+2025-04-25 08:47:15,601 [oleole] INFO: ⏭️ Moving to next product (19/264) | Remaining: 246 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:47:18,248 [oleole] INFO: [19/264] BN2010116: 0.00 PLN | Outstock | 245 remaining | 0:03:39.442717
+2025-04-25 08:47:18,250 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:47:19,261 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.03 seconds (using oleole's range: 1-2s)
+2025-04-25 08:47:20,302 [oleole] INFO: ⏭️ Moving to next product (20/264) | Remaining: 245 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:47:22,971 [oleole] INFO: [20/264] BN2008378: 0.00 PLN | Outstock | 244 remaining | 0:03:44.166063
+2025-04-25 08:47:22,972 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:47:23,976 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.40 seconds (using oleole's range: 1-2s)
+2025-04-25 08:47:25,396 [oleole] INFO: ⏭️ Moving to next product (21/264) | Remaining: 244 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:47:27,186 [oleole] INFO: [21/264] BN2008376: 0.00 PLN | Outstock | 243 remaining | 0:03:48.381329
+2025-04-25 08:47:27,188 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:47:28,193 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.91 seconds (using oleole's range: 1-2s)
+2025-04-25 08:47:30,120 [oleole] INFO: ⏭️ Moving to next product (22/264) | Remaining: 243 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:47:32,067 [oleole] INFO: [22/264] BN2008375: 0.00 PLN | Outstock | 242 remaining | 0:03:53.262306
+2025-04-25 08:47:32,069 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:47:33,080 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.91 seconds (using oleole's range: 1-2s)
+2025-04-25 08:47:35,003 [oleole] INFO: ⏭️ Moving to next product (23/264) | Remaining: 242 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:47:37,519 [oleole] INFO: [23/264] BN2009578: 0.00 PLN | Outstock | 241 remaining | 0:03:58.714444
+2025-04-25 08:47:37,521 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:47:38,526 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.98 seconds (using oleole's range: 1-2s)
+2025-04-25 08:47:40,518 [oleole] INFO: ⏭️ Moving to next product (24/264) | Remaining: 241 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:47:43,035 [oleole] INFO: [24/264] BN2009589: 0.00 PLN | Outstock | 240 remaining | 0:04:04.229981
+2025-04-25 08:47:43,036 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:47:44,052 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.98 seconds (using oleole's range: 1-2s)
+2025-04-25 08:47:46,045 [oleole] INFO: ⏭️ Moving to next product (25/264) | Remaining: 240 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:47:48,504 [oleole] INFO: [25/264] BN2009584: 0.00 PLN | Outstock | 239 remaining | 0:04:09.699204
+2025-04-25 08:47:48,506 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:47:49,516 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.07 seconds (using oleole's range: 1-2s)
+2025-04-25 08:47:50,595 [oleole] INFO: ⏭️ Moving to next product (26/264) | Remaining: 239 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:47:53,140 [oleole] INFO: [26/264] BN2009582: 0.00 PLN | Outstock | 238 remaining | 0:04:14.335204
+2025-04-25 08:47:53,141 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:47:54,147 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.27 seconds (using oleole's range: 1-2s)
+2025-04-25 08:47:55,424 [oleole] INFO: ⏭️ Moving to next product (27/264) | Remaining: 238 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:47:58,021 [oleole] INFO: [27/264] BN2009583: 0.00 PLN | Outstock | 237 remaining | 0:04:19.215999
+2025-04-25 08:47:58,023 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:47:59,030 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.73 seconds (using oleole's range: 1-2s)
+2025-04-25 08:48:00,766 [oleole] INFO: ⏭️ Moving to next product (28/264) | Remaining: 237 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:48:03,437 [oleole] INFO: [28/264] BN2010117: 0.00 PLN | Outstock | 236 remaining | 0:04:24.632400
+2025-04-25 08:48:03,439 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:48:04,454 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.92 seconds (using oleole's range: 1-2s)
+2025-04-25 08:48:06,376 [oleole] INFO: ⏭️ Moving to next product (29/264) | Remaining: 236 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:48:09,305 [oleole] INFO: [29/264] BN2010121: 0.00 PLN | Outstock | 235 remaining | 0:04:30.500433
+2025-04-25 08:48:09,307 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:48:10,312 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.12 seconds (using oleole's range: 1-2s)
+2025-04-25 08:48:11,447 [oleole] INFO: ⏭️ Moving to next product (30/264) | Remaining: 235 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:48:14,130 [oleole] INFO: [30/264] BN2010118: 0.00 PLN | Outstock | 234 remaining | 0:04:35.325357
+2025-04-25 08:48:14,132 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:48:15,134 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.06 seconds (using oleole's range: 1-2s)
+2025-04-25 08:48:16,197 [oleole] INFO: ⏭️ Moving to next product (31/264) | Remaining: 234 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:48:19,180 [oleole] INFO: [31/264] BN2010122: 0.00 PLN | Outstock | 233 remaining | 0:04:40.375241
+2025-04-25 08:48:19,181 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:48:20,194 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.33 seconds (using oleole's range: 1-2s)
+2025-04-25 08:48:21,537 [oleole] INFO: ⏭️ Moving to next product (32/264) | Remaining: 233 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:48:24,507 [oleole] INFO: [32/264] BN2009579: 0.00 PLN | Outstock | 232 remaining | 0:04:45.700914
+2025-04-25 08:48:24,508 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:48:25,518 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.77 seconds (using oleole's range: 1-2s)
+2025-04-25 08:48:27,309 [oleole] INFO: ⏭️ Moving to next product (33/264) | Remaining: 232 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:48:30,511 [oleole] INFO: [33/264] BN2009597: 0.00 PLN | Outstock | 231 remaining | 0:04:51.705951
+2025-04-25 08:48:30,512 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:48:31,525 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.94 seconds (using oleole's range: 1-2s)
+2025-04-25 08:48:33,465 [oleole] INFO: ⏭️ Moving to next product (34/264) | Remaining: 231 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:48:37,228 [oleole] INFO: [34/264] BN2009592: 0.00 PLN | Outstock | 230 remaining | 0:04:58.423522
+2025-04-25 08:48:37,229 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:48:38,236 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.16 seconds (using oleole's range: 1-2s)
+2025-04-25 08:48:39,405 [oleole] INFO: ⏭️ Moving to next product (35/264) | Remaining: 230 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:48:43,855 [oleole] INFO: [35/264] BN2009590: 0.00 PLN | Outstock | 229 remaining | 0:05:05.050084
+2025-04-25 08:48:43,856 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:48:44,862 [oleole] INFO: 😴 Human-like delay: Sleeping for 2.00 seconds (using oleole's range: 1-2s)
+2025-04-25 08:48:46,869 [oleole] INFO: ⏭️ Moving to next product (36/264) | Remaining: 229 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:48:50,605 [oleole] INFO: [36/264] BN2009591: 0.00 PLN | Outstock | 228 remaining | 0:05:11.799888
+2025-04-25 08:48:50,606 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:48:51,614 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.37 seconds (using oleole's range: 1-2s)
+2025-04-25 08:48:52,996 [oleole] INFO: ⏭️ Moving to next product (37/264) | Remaining: 228 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:48:56,573 [oleole] INFO: [37/264] BN2009596: 0.00 PLN | Outstock | 227 remaining | 0:05:17.768139
+2025-04-25 08:48:56,574 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:48:57,587 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.98 seconds (using oleole's range: 1-2s)
+2025-04-25 08:48:59,576 [oleole] INFO: ⏭️ Moving to next product (38/264) | Remaining: 227 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:49:03,146 [oleole] INFO: [38/264] BN2010125: 0.00 PLN | Outstock | 226 remaining | 0:05:24.341290
+2025-04-25 08:49:03,147 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:49:04,150 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.98 seconds (using oleole's range: 1-2s)
+2025-04-25 08:49:06,135 [oleole] INFO: ⏭️ Moving to next product (39/264) | Remaining: 226 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:49:10,045 [oleole] INFO: [39/264] BN2010129: 0.00 PLN | Outstock | 225 remaining | 0:05:31.239877
+2025-04-25 08:49:10,047 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:49:11,054 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.52 seconds (using oleole's range: 1-2s)
+2025-04-25 08:49:12,576 [oleole] INFO: ⏭️ Moving to next product (40/264) | Remaining: 225 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:49:19,430 [oleole] INFO: [40/264] BN2010126: 0.00 PLN | Outstock | 224 remaining | 0:05:40.625226
+2025-04-25 08:49:19,431 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:49:20,438 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.41 seconds (using oleole's range: 1-2s)
+2025-04-25 08:49:21,857 [oleole] INFO: ⏭️ Moving to next product (41/264) | Remaining: 224 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:49:33,558 [oleole] INFO: [41/264] BN2010130: 0.00 PLN | Outstock | 223 remaining | 0:05:54.753499
+2025-04-25 08:49:33,561 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:49:34,568 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.85 seconds (using oleole's range: 1-2s)
+2025-04-25 08:49:36,430 [oleole] INFO: ⏭️ Moving to next product (42/264) | Remaining: 223 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:49:43,564 [oleole] INFO: [42/264] BN2010131: 0.00 PLN | Outstock | 222 remaining | 0:06:04.758928
+2025-04-25 08:49:43,565 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:49:44,581 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.35 seconds (using oleole's range: 1-2s)
+2025-04-25 08:49:45,935 [oleole] INFO: ⏭️ Moving to next product (43/264) | Remaining: 222 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:49:52,472 [oleole] INFO: [43/264] BN2009580: 0.00 PLN | Outstock | 221 remaining | 0:06:13.667121
+2025-04-25 08:49:52,474 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:49:53,478 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.62 seconds (using oleole's range: 1-2s)
+2025-04-25 08:49:55,098 [oleole] INFO: ⏭️ Moving to next product (44/264) | Remaining: 221 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:50:00,835 [oleole] INFO: [44/264] BN2009605: 0.00 PLN | Outstock | 220 remaining | 0:06:22.030151
+2025-04-25 08:50:00,836 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:50:01,843 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.25 seconds (using oleole's range: 1-2s)
+2025-04-25 08:50:03,114 [oleole] INFO: ⏭️ Moving to next product (45/264) | Remaining: 220 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:50:10,374 [oleole] INFO: [45/264] BN2009598: 0.00 PLN | Outstock | 219 remaining | 0:06:31.568664
+2025-04-25 08:50:10,376 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:50:11,388 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.30 seconds (using oleole's range: 1-2s)
+2025-04-25 08:50:12,703 [oleole] INFO: ⏭️ Moving to next product (46/264) | Remaining: 219 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:50:21,573 [oleole] INFO: [46/264] BN2008642: 0.00 PLN | Outstock | 218 remaining | 0:06:42.768492
+2025-04-25 08:50:21,575 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:50:22,578 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.05 seconds (using oleole's range: 1-2s)
+2025-04-25 08:50:23,633 [oleole] INFO: ⏭️ Moving to next product (47/264) | Remaining: 218 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:50:30,212 [oleole] INFO: [47/264] BN2008645: 0.00 PLN | Outstock | 217 remaining | 0:06:51.407134
+2025-04-25 08:50:30,213 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:50:31,217 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.27 seconds (using oleole's range: 1-2s)
+2025-04-25 08:50:32,493 [oleole] INFO: ⏭️ Moving to next product (48/264) | Remaining: 217 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:50:38,421 [oleole] INFO: [48/264] BN2008647: 0.00 PLN | Outstock | 216 remaining | 0:06:59.615658
+2025-04-25 08:50:38,423 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:50:39,428 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.15 seconds (using oleole's range: 1-2s)
+2025-04-25 08:50:40,596 [oleole] INFO: ⏭️ Moving to next product (49/264) | Remaining: 216 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:50:44,246 [oleole] INFO: [49/264] BN2008657: 0.00 PLN | Outstock | 215 remaining | 0:07:05.440818
+2025-04-25 08:50:44,247 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:50:45,254 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.92 seconds (using oleole's range: 1-2s)
+2025-04-25 08:50:47,172 [oleole] INFO: ⏭️ Moving to next product (50/264) | Remaining: 215 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:50:50,138 [oleole] INFO: [50/264] BN2008659: 0.00 PLN | Outstock | 214 remaining | 0:07:11.332967
+2025-04-25 08:50:50,139 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:50:51,152 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.21 seconds (using oleole's range: 1-2s)
+2025-04-25 08:50:52,366 [oleole] INFO: ⏭️ Moving to next product (51/264) | Remaining: 214 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:50:54,943 [oleole] INFO: [51/264] BN2008660: 0.00 PLN | Outstock | 213 remaining | 0:07:16.138228
+2025-04-25 08:50:54,945 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:50:55,947 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.08 seconds (using oleole's range: 1-2s)
+2025-04-25 08:50:57,044 [oleole] INFO: ⏭️ Moving to next product (52/264) | Remaining: 213 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:51:00,295 [oleole] INFO: [52/264] BN2008661: 0.00 PLN | Outstock | 212 remaining | 0:07:21.490322
+2025-04-25 08:51:00,297 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:51:01,311 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.29 seconds (using oleole's range: 1-2s)
+2025-04-25 08:51:02,604 [oleole] INFO: ⏭️ Moving to next product (53/264) | Remaining: 212 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:51:05,845 [oleole] INFO: [53/264] BN2009581: 0.00 PLN | Outstock | 211 remaining | 0:07:27.040361
+2025-04-25 08:51:05,847 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:51:06,857 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.82 seconds (using oleole's range: 1-2s)
+2025-04-25 08:51:08,683 [oleole] INFO: ⏭️ Moving to next product (54/264) | Remaining: 211 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:51:11,863 [oleole] INFO: [54/264] BN2009613: 0.00 PLN | Outstock | 210 remaining | 0:07:33.057987
+2025-04-25 08:51:11,864 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:51:12,880 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.22 seconds (using oleole's range: 1-2s)
+2025-04-25 08:51:14,111 [oleole] INFO: ⏭️ Moving to next product (55/264) | Remaining: 210 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:51:16,359 [oleole] INFO: [55/264] BN2009606: 0.00 PLN | Outstock | 209 remaining | 0:07:37.554529
+2025-04-25 08:51:16,361 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:51:17,373 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.95 seconds (using oleole's range: 1-2s)
+2025-04-25 08:51:19,339 [oleole] INFO: ⏭️ Moving to next product (56/264) | Remaining: 209 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:51:23,966 [oleole] INFO: [56/264] BN2007979: 0.00 PLN | Outstock | 208 remaining | 0:07:45.161394
+2025-04-25 08:51:23,968 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:51:24,972 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.87 seconds (using oleole's range: 1-2s)
+2025-04-25 08:51:26,847 [oleole] INFO: ⏭️ Moving to next product (57/264) | Remaining: 208 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:51:30,813 [oleole] INFO: [57/264] BN2007980: 0.00 PLN | Outstock | 207 remaining | 0:07:52.008358
+2025-04-25 08:51:30,814 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:51:31,830 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.04 seconds (using oleole's range: 1-2s)
+2025-04-25 08:51:32,875 [oleole] INFO: ⏭️ Moving to next product (58/264) | Remaining: 207 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:51:35,760 [oleole] INFO: [58/264] BN2007981: 0.00 PLN | Outstock | 206 remaining | 0:07:56.954954
+2025-04-25 08:51:35,762 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:51:36,767 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.38 seconds (using oleole's range: 1-2s)
+2025-04-25 08:51:38,153 [oleole] INFO: ⏭️ Moving to next product (59/264) | Remaining: 206 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:51:40,992 [oleole] INFO: [59/264] BN2008517: 0.00 PLN | Outstock | 205 remaining | 0:08:02.187032
+2025-04-25 08:51:40,994 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:51:42,007 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.20 seconds (using oleole's range: 1-2s)
+2025-04-25 08:51:43,216 [oleole] INFO: ⏭️ Moving to next product (60/264) | Remaining: 205 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:51:48,454 [oleole] INFO: [60/264] BN2008515: 0.00 PLN | Outstock | 204 remaining | 0:08:09.649631
+2025-04-25 08:51:48,456 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:51:49,460 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.42 seconds (using oleole's range: 1-2s)
+2025-04-25 08:51:50,883 [oleole] INFO: ⏭️ Moving to next product (61/264) | Remaining: 204 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:51:56,239 [oleole] INFO: [61/264] BN2008516: 0.00 PLN | Outstock | 203 remaining | 0:08:17.434431
+2025-04-25 08:51:56,240 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:51:57,253 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.84 seconds (using oleole's range: 1-2s)
+2025-04-25 08:51:59,111 [oleole] INFO: ⏭️ Moving to next product (62/264) | Remaining: 203 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:52:01,926 [oleole] INFO: [62/264] BN2009133: 0.00 PLN | Outstock | 202 remaining | 0:08:23.120821
+2025-04-25 08:52:01,927 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:52:02,937 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.43 seconds (using oleole's range: 1-2s)
+2025-04-25 08:52:04,379 [oleole] INFO: ⏭️ Moving to next product (63/264) | Remaining: 202 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:52:07,704 [oleole] INFO: [63/264] BN2009142: 0.00 PLN | Outstock | 201 remaining | 0:08:28.899269
+2025-04-25 08:52:07,705 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:52:08,717 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.80 seconds (using oleole's range: 1-2s)
+2025-04-25 08:52:10,532 [oleole] INFO: ⏭️ Moving to next product (64/264) | Remaining: 201 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:52:14,056 [oleole] INFO: [64/264] BN2009134: 0.00 PLN | Outstock | 200 remaining | 0:08:35.251518
+2025-04-25 08:52:14,057 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:52:15,060 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.24 seconds (using oleole's range: 1-2s)
+2025-04-25 08:52:16,306 [oleole] INFO: ⏭️ Moving to next product (65/264) | Remaining: 200 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:52:19,285 [oleole] INFO: [65/264] BN2009145: 0.00 PLN | Outstock | 199 remaining | 0:08:40.480496
+2025-04-25 08:52:19,287 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:52:20,294 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.76 seconds (using oleole's range: 1-2s)
+2025-04-25 08:52:22,057 [oleole] INFO: ⏭️ Moving to next product (66/264) | Remaining: 199 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:52:28,853 [oleole] INFO: [66/264] BN2009135: 0.00 PLN | Outstock | 198 remaining | 0:08:50.048275
+2025-04-25 08:52:28,855 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:52:29,866 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.09 seconds (using oleole's range: 1-2s)
+2025-04-25 08:52:30,968 [oleole] INFO: ⏭️ Moving to next product (67/264) | Remaining: 198 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:52:35,444 [oleole] INFO: [67/264] BN2009148: 0.00 PLN | Outstock | 197 remaining | 0:08:56.639060
+2025-04-25 08:52:35,445 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:52:36,450 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.51 seconds (using oleole's range: 1-2s)
+2025-04-25 08:52:37,968 [oleole] INFO: ⏭️ Moving to next product (68/264) | Remaining: 197 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:52:42,444 [oleole] INFO: [68/264] BN2009146: 0.00 PLN | Outstock | 196 remaining | 0:09:03.638358
+2025-04-25 08:52:42,445 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:52:43,451 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.49 seconds (using oleole's range: 1-2s)
+2025-04-25 08:52:44,961 [oleole] INFO: ⏭️ Moving to next product (69/264) | Remaining: 196 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:52:48,797 [oleole] INFO: [69/264] BN2009151: 0.00 PLN | Outstock | 195 remaining | 0:09:09.992476
+2025-04-25 08:52:48,799 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:52:49,803 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.51 seconds (using oleole's range: 1-2s)
+2025-04-25 08:52:51,328 [oleole] INFO: ⏭️ Moving to next product (70/264) | Remaining: 195 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:52:54,058 [oleole] INFO: [70/264] BN2009150: 0.00 PLN | Outstock | 194 remaining | 0:09:15.253576
+2025-04-25 08:52:54,060 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:52:55,072 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.66 seconds (using oleole's range: 1-2s)
+2025-04-25 08:52:56,739 [oleole] INFO: ⏭️ Moving to next product (71/264) | Remaining: 194 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:52:59,832 [oleole] INFO: [71/264] BN2009874: 0.00 PLN | Outstock | 193 remaining | 0:09:21.027050
+2025-04-25 08:52:59,833 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:53:00,848 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.47 seconds (using oleole's range: 1-2s)
+2025-04-25 08:53:02,319 [oleole] INFO: ⏭️ Moving to next product (72/264) | Remaining: 193 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:53:06,123 [oleole] INFO: [72/264] BN2009878: 0.00 PLN | Outstock | 192 remaining | 0:09:27.318525
+2025-04-25 08:53:06,125 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:53:07,131 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.14 seconds (using oleole's range: 1-2s)
+2025-04-25 08:53:08,280 [oleole] INFO: ⏭️ Moving to next product (73/264) | Remaining: 192 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:53:11,948 [oleole] INFO: [73/264] BN2009879: 0.00 PLN | Outstock | 191 remaining | 0:09:33.143104
+2025-04-25 08:53:11,949 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:53:12,964 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.59 seconds (using oleole's range: 1-2s)
+2025-04-25 08:53:14,562 [oleole] INFO: ⏭️ Moving to next product (74/264) | Remaining: 191 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:53:18,334 [oleole] INFO: [74/264] BN2009875: 0.00 PLN | Outstock | 190 remaining | 0:09:39.529593
+2025-04-25 08:53:18,335 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:53:19,349 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.32 seconds (using oleole's range: 1-2s)
+2025-04-25 08:53:20,684 [oleole] INFO: ⏭️ Moving to next product (75/264) | Remaining: 190 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:53:24,600 [oleole] INFO: [75/264] BN2009880: 0.00 PLN | Outstock | 189 remaining | 0:09:45.795211
+2025-04-25 08:53:24,601 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:53:25,613 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.41 seconds (using oleole's range: 1-2s)
+2025-04-25 08:53:27,037 [oleole] INFO: ⏭️ Moving to next product (76/264) | Remaining: 189 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:53:30,626 [oleole] INFO: [76/264] BN2009881: 0.00 PLN | Outstock | 188 remaining | 0:09:51.820808
+2025-04-25 08:53:30,628 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:53:31,630 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.85 seconds (using oleole's range: 1-2s)
+2025-04-25 08:53:33,481 [oleole] INFO: ⏭️ Moving to next product (77/264) | Remaining: 188 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:53:38,009 [oleole] INFO: [77/264] BN2009876: 0.00 PLN | Outstock | 187 remaining | 0:09:59.203346
+2025-04-25 08:53:38,010 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:53:39,025 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.73 seconds (using oleole's range: 1-2s)
+2025-04-25 08:53:40,755 [oleole] INFO: ⏭️ Moving to next product (78/264) | Remaining: 187 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:53:45,577 [oleole] INFO: [78/264] BN2009884: 0.00 PLN | Outstock | 186 remaining | 0:10:06.771204
+2025-04-25 08:53:45,579 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:53:46,592 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.82 seconds (using oleole's range: 1-2s)
+2025-04-25 08:53:48,412 [oleole] INFO: ⏭️ Moving to next product (79/264) | Remaining: 186 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:53:55,971 [oleole] INFO: [79/264] BN2009882: 0.00 PLN | Outstock | 185 remaining | 0:10:17.165133
+2025-04-25 08:53:55,973 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:53:56,975 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.79 seconds (using oleole's range: 1-2s)
+2025-04-25 08:53:58,779 [oleole] INFO: ⏭️ Moving to next product (80/264) | Remaining: 185 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:54:11,250 [oleole] INFO: [80/264] BN2009883: 0.00 PLN | Outstock | 184 remaining | 0:10:32.445169
+2025-04-25 08:54:11,251 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:54:12,257 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.40 seconds (using oleole's range: 1-2s)
+2025-04-25 08:54:13,672 [oleole] INFO: ⏭️ Moving to next product (81/264) | Remaining: 184 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:54:20,106 [oleole] INFO: [81/264] BN2009886: 0.00 PLN | Outstock | 183 remaining | 0:10:41.300917
+2025-04-25 08:54:20,108 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:54:21,125 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.42 seconds (using oleole's range: 1-2s)
+2025-04-25 08:54:22,555 [oleole] INFO: ⏭️ Moving to next product (82/264) | Remaining: 183 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:54:28,449 [oleole] INFO: [82/264] BN2009877: 0.00 PLN | Outstock | 182 remaining | 0:10:49.644188
+2025-04-25 08:54:28,451 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:54:29,459 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.42 seconds (using oleole's range: 1-2s)
+2025-04-25 08:54:30,885 [oleole] INFO: ⏭️ Moving to next product (83/264) | Remaining: 182 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:54:36,697 [oleole] INFO: [83/264] BN2009885: 0.00 PLN | Outstock | 181 remaining | 0:10:57.891856
+2025-04-25 08:54:36,699 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:54:37,699 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.69 seconds (using oleole's range: 1-2s)
+2025-04-25 08:54:39,391 [oleole] INFO: ⏭️ Moving to next product (84/264) | Remaining: 181 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:54:53,810 [oleole] INFO: [84/264] BN4000658: 0.00 PLN | Outstock | 180 remaining | 0:11:15.005172
+2025-04-25 08:54:53,812 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:54:54,820 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.02 seconds (using oleole's range: 1-2s)
+2025-04-25 08:54:55,854 [oleole] INFO: ⏭️ Moving to next product (85/264) | Remaining: 180 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:55:01,679 [oleole] INFO: [85/264] BN4000659: 0.00 PLN | Outstock | 179 remaining | 0:11:22.874512
+2025-04-25 08:55:01,681 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:55:02,685 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.07 seconds (using oleole's range: 1-2s)
+2025-04-25 08:55:03,757 [oleole] INFO: ⏭️ Moving to next product (86/264) | Remaining: 179 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:55:09,970 [oleole] INFO: [86/264] BN2009222: 0.00 PLN | Outstock | 178 remaining | 0:11:31.165299
+2025-04-25 08:55:09,971 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:55:10,979 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.97 seconds (using oleole's range: 1-2s)
+2025-04-25 08:55:12,954 [oleole] INFO: ⏭️ Moving to next product (87/264) | Remaining: 178 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:55:18,534 [oleole] INFO: [87/264] BN2009221: 0.00 PLN | Outstock | 177 remaining | 0:11:39.729339
+2025-04-25 08:55:18,535 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:55:19,549 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.37 seconds (using oleole's range: 1-2s)
+2025-04-25 08:55:20,929 [oleole] INFO: ⏭️ Moving to next product (88/264) | Remaining: 177 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:55:35,486 [oleole] INFO: [88/264] AN00000170: 0.00 PLN | Outstock | 176 remaining | 0:11:56.681354
+2025-04-25 08:55:35,488 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:55:36,500 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.92 seconds (using oleole's range: 1-2s)
+2025-04-25 08:55:38,428 [oleole] INFO: ⏭️ Moving to next product (89/264) | Remaining: 176 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:55:45,009 [oleole] INFO: [89/264] AN00000171: 0.00 PLN | Outstock | 175 remaining | 0:12:06.204391
+2025-04-25 08:55:45,011 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:55:46,012 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.37 seconds (using oleole's range: 1-2s)
+2025-04-25 08:55:47,395 [oleole] INFO: ⏭️ Moving to next product (90/264) | Remaining: 175 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:55:56,320 [oleole] INFO: [90/264] BN2009903: 0.00 PLN | Outstock | 174 remaining | 0:12:17.514796
+2025-04-25 08:55:56,321 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:55:57,335 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.71 seconds (using oleole's range: 1-2s)
+2025-04-25 08:55:59,055 [oleole] INFO: ⏭️ Moving to next product (91/264) | Remaining: 174 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:56:05,263 [oleole] INFO: [91/264] BN2009905: 0.00 PLN | Outstock | 173 remaining | 0:12:26.458422
+2025-04-25 08:56:05,265 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:56:06,279 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.71 seconds (using oleole's range: 1-2s)
+2025-04-25 08:56:08,000 [oleole] INFO: ⏭️ Moving to next product (92/264) | Remaining: 173 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:56:13,438 [oleole] INFO: [92/264] BN2009906: 0.00 PLN | Outstock | 172 remaining | 0:12:34.632935
+2025-04-25 08:56:13,440 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:56:14,442 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.88 seconds (using oleole's range: 1-2s)
+2025-04-25 08:56:16,341 [oleole] INFO: ⏭️ Moving to next product (93/264) | Remaining: 172 | Using working public HTTPS proxy: 139.178.90.199:443
+2025-04-25 08:56:46,462 [oleole] ERROR: ❌ Error [BN2009137]: TimeoutError occurred with https://139.178.90.199:443: User timeout caused connection failure: Getting https://www.oleole.pl/smartwatch/apple-watch-ultra-2-gps-cellular-koperta-z-tytanu-49mm-pasek-ocean-granat.bhtml took longer than 30.0 seconds..
+2025-04-25 08:56:46,464 [oleole] INFO: 🔄 Moving to next proxy (9/77)
+2025-04-25 08:56:46,464 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 08:56:48,473 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 3.212.148.199:3128
+2025-04-25 08:56:49,644 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-25 08:56:49,645 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 52.67.10.183:80 (11/77)
+2025-04-25 08:56:54,516 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-25 08:56:54,517 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 13.245.124.83:80 (12/77)
+2025-04-25 08:56:58,239 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-25 08:56:58,240 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 63.33.226.53:80 (13/77)
+2025-04-25 08:57:02,071 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-25 08:57:02,072 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 18.228.198.164:80 (14/77)
+2025-04-25 08:57:05,518 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-25 08:57:05,522 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 15.236.106.236:3128 (15/77)
+2025-04-25 08:57:08,121 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-25 08:57:08,122 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 43.153.45.4:13001 (16/77)
+2025-04-25 08:57:39,118 [oleole] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://43.153.45.4:13001: User timeout caused connection failure: Getting https://www.oleole.pl/smartwatch/apple-watch-ultra-2-gps-cellular-koperta-z-tytanu-49mm-pasek-ocean-granat.bhtml took longer than 30.0 seconds..
+2025-04-25 08:57:39,118 [oleole] INFO: 🔄 Moving to next proxy (16/77)
+2025-04-25 08:57:39,118 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 08:57:41,127 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 13.247.14.165:80
+2025-04-25 08:57:42,804 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-25 08:57:42,806 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 43.153.99.158:13001 (18/77)
+2025-04-25 08:57:46,010 [oleole] ERROR: ❌ Error [unknown]: TunnelError occurred with https://43.153.99.158:13001: Could not open CONNECT tunnel with proxy 43.153.99.158:13001 [{'status': 500, 'reason': b'Internal Server Error'}]
+2025-04-25 08:57:46,010 [oleole] INFO: 🔄 Moving to next proxy (18/77)
+2025-04-25 08:57:46,012 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 08:57:48,024 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 44.195.247.145:80
+2025-04-25 08:57:50,308 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-25 08:57:50,309 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 170.106.174.148:13001 (20/77)
+2025-04-25 08:57:55,773 [oleole] INFO: [93/264] BN2009137: 0.00 PLN | Outstock | 171 remaining | 0:14:16.967939
+2025-04-25 08:57:55,774 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:57:56,781 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.52 seconds (using oleole's range: 1-2s)
+2025-04-25 08:57:58,314 [oleole] INFO: ⏭️ Moving to next product (94/264) | Remaining: 171 | Using working public HTTPS proxy: 170.106.174.148:13001
+2025-04-25 08:58:01,621 [oleole] INFO: [94/264] AN00000123: 0.00 PLN | Outstock | 170 remaining | 0:14:22.815791
+2025-04-25 08:58:01,622 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:58:02,635 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.14 seconds (using oleole's range: 1-2s)
+2025-04-25 08:58:03,786 [oleole] INFO: ⏭️ Moving to next product (95/264) | Remaining: 170 | Using working public HTTPS proxy: 170.106.174.148:13001
+2025-04-25 08:58:05,886 [oleole] INFO: [95/264] AN00000122: 0.00 PLN | Outstock | 169 remaining | 0:14:27.081370
+2025-04-25 08:58:05,888 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:58:06,896 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.58 seconds (using oleole's range: 1-2s)
+2025-04-25 08:58:08,485 [oleole] INFO: ⏭️ Moving to next product (96/264) | Remaining: 169 | Using working public HTTPS proxy: 170.106.174.148:13001
+2025-04-25 08:58:13,628 [oleole] INFO: [96/264] AN00000228: 0.00 PLN | Outstock | 168 remaining | 0:14:34.823325
+2025-04-25 08:58:13,631 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:58:14,643 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.61 seconds (using oleole's range: 1-2s)
+2025-04-25 08:58:16,260 [oleole] INFO: ⏭️ Moving to next product (97/264) | Remaining: 168 | Using working public HTTPS proxy: 170.106.174.148:13001
+2025-04-25 08:58:21,028 [oleole] INFO: [97/264] AN00000195: 0.00 PLN | Outstock | 167 remaining | 0:14:42.223264
+2025-04-25 08:58:21,029 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:58:22,045 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.86 seconds (using oleole's range: 1-2s)
+2025-04-25 08:58:23,918 [oleole] INFO: ⏭️ Moving to next product (98/264) | Remaining: 167 | Using working public HTTPS proxy: 170.106.174.148:13001
+2025-04-25 08:58:27,696 [oleole] INFO: [98/264] AN00000236: 0.00 PLN | Outstock | 166 remaining | 0:14:48.890251
+2025-04-25 08:58:27,697 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:58:28,708 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.06 seconds (using oleole's range: 1-2s)
+2025-04-25 08:58:29,785 [oleole] INFO: ⏭️ Moving to next product (99/264) | Remaining: 166 | Using working public HTTPS proxy: 170.106.174.148:13001
+2025-04-25 08:58:31,857 [oleole] INFO: [99/264] AN00000193: 0.00 PLN | Outstock | 165 remaining | 0:14:53.052139
+2025-04-25 08:58:31,859 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:58:32,862 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.43 seconds (using oleole's range: 1-2s)
+2025-04-25 08:58:34,305 [oleole] INFO: ⏭️ Moving to next product (100/264) | Remaining: 165 | Using working public HTTPS proxy: 170.106.174.148:13001
+2025-04-25 08:58:36,458 [oleole] INFO: [100/264] AN00000194: 0.00 PLN | Outstock | 164 remaining | 0:14:57.652454
+2025-04-25 08:58:36,459 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:58:37,467 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.89 seconds (using oleole's range: 1-2s)
+2025-04-25 08:58:39,365 [oleole] INFO: ⏭️ Moving to next product (101/264) | Remaining: 164 | Using working public HTTPS proxy: 170.106.174.148:13001
+2025-04-25 08:58:43,773 [oleole] INFO: [101/264] BN2008782: 0.00 PLN | Outstock | 163 remaining | 0:15:04.967735
+2025-04-25 08:58:43,774 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 08:58:44,789 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.16 seconds (using oleole's range: 1-2s)
+2025-04-25 08:58:45,959 [oleole] INFO: ⏭️ Moving to next product (102/264) | Remaining: 163 | Using working public HTTPS proxy: 170.106.174.148:13001
+2025-04-25 08:59:16,079 [oleole] ERROR: ❌ Error [BN2009219]: TimeoutError occurred with https://170.106.174.148:13001: User timeout caused connection failure: Getting https://www.oleole.pl/telefony-komorkowe/google-pixel-8-pro-12-128gb-6-7-120hz-50mpix-porcelana.bhtml took longer than 30.0 seconds..
+2025-04-25 08:59:16,080 [oleole] INFO: 🔄 Moving to next proxy (20/77)
+2025-04-25 08:59:16,080 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 08:59:18,087 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 99.80.11.54:3128
+2025-04-25 08:59:19,262 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-25 08:59:19,263 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 147.45.70.59:47706 (22/77)
+2025-04-25 08:59:42,561 [oleole] ERROR: ❌ Error [unknown]: TCPTimedOutError occurred with https://147.45.70.59:47706: TCP connection timed out: 10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond..
+2025-04-25 08:59:42,562 [oleole] INFO: 🔄 Moving to next proxy (22/77)
+2025-04-25 08:59:42,563 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 08:59:44,570 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 43.130.35.202:13001
+2025-04-25 09:00:14,692 [oleole] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://43.130.35.202:13001: User timeout caused connection failure: Getting https://www.oleole.pl/telefony-komorkowe/google-pixel-8-pro-12-128gb-6-7-120hz-50mpix-porcelana.bhtml took longer than 30.0 seconds..
+2025-04-25 09:00:14,693 [oleole] INFO: 🔄 Moving to next proxy (23/77)
+2025-04-25 09:00:14,694 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 09:00:16,697 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 44.218.183.55:80
+2025-04-25 09:00:17,976 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-25 09:00:17,977 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 13.246.184.110:3128 (25/77)
+2025-04-25 09:00:21,706 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-25 09:00:21,707 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 185.21.13.91:40969 (26/77)
+2025-04-25 09:00:48,608 [oleole] INFO: [102/264] BN2009219: 0.00 PLN | Outstock | 162 remaining | 0:17:09.803527
+2025-04-25 09:00:48,610 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:00:49,624 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.37 seconds (using oleole's range: 1-2s)
+2025-04-25 09:00:51,005 [oleole] INFO: ⏭️ Moving to next product (103/264) | Remaining: 162 | Using working public HTTPS proxy: 185.21.13.91:40969
+2025-04-25 09:00:56,291 [oleole] INFO: [103/264] BN2009762: 0.00 PLN | Outstock | 161 remaining | 0:17:17.486386
+2025-04-25 09:00:56,292 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:00:57,298 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.42 seconds (using oleole's range: 1-2s)
+2025-04-25 09:00:58,729 [oleole] INFO: ⏭️ Moving to next product (104/264) | Remaining: 161 | Using working public HTTPS proxy: 185.21.13.91:40969
+2025-04-25 09:01:04,706 [oleole] INFO: [104/264] BN2009766: 0.00 PLN | Outstock | 160 remaining | 0:17:25.901533
+2025-04-25 09:01:04,707 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:01:05,715 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.83 seconds (using oleole's range: 1-2s)
+2025-04-25 09:01:07,556 [oleole] INFO: ⏭️ Moving to next product (105/264) | Remaining: 160 | Using working public HTTPS proxy: 185.21.13.91:40969
+2025-04-25 09:01:19,091 [oleole] ERROR: ❌ Error [BN2009765]: ConnectionRefusedError occurred with https://185.21.13.91:40969: Connection was refused by other side: 10061: No connection could be made because the target machine actively refused it..
+2025-04-25 09:01:19,092 [oleole] INFO: 🔄 Moving to next proxy (26/77)
+2025-04-25 09:01:19,093 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 09:01:21,101 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 49.51.73.95:13001
+2025-04-25 09:01:23,672 [oleole] INFO: [105/264] BN2009765: 0.00 PLN | Outstock | 159 remaining | 0:17:44.865811
+2025-04-25 09:01:23,673 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:01:24,684 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.23 seconds (using oleole's range: 1-2s)
+2025-04-25 09:01:25,931 [oleole] INFO: ⏭️ Moving to next product (106/264) | Remaining: 159 | Using working public HTTPS proxy: 49.51.73.95:13001
+2025-04-25 09:01:27,725 [oleole] INFO: [106/264] BN2009768: 0.00 PLN | Outstock | 158 remaining | 0:17:48.919721
+2025-04-25 09:01:27,726 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:01:28,727 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.43 seconds (using oleole's range: 1-2s)
+2025-04-25 09:01:30,173 [oleole] INFO: ⏭️ Moving to next product (107/264) | Remaining: 158 | Using working public HTTPS proxy: 49.51.73.95:13001
+2025-04-25 09:01:31,995 [oleole] INFO: [107/264] BN2009619: 0.00 PLN | Outstock | 157 remaining | 0:17:53.190521
+2025-04-25 09:01:31,998 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:01:32,998 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.59 seconds (using oleole's range: 1-2s)
+2025-04-25 09:01:34,601 [oleole] INFO: ⏭️ Moving to next product (108/264) | Remaining: 157 | Using working public HTTPS proxy: 49.51.73.95:13001
+2025-04-25 09:01:36,963 [oleole] INFO: [108/264] BN2009620: 0.00 PLN | Outstock | 156 remaining | 0:17:58.158442
+2025-04-25 09:01:36,966 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:01:37,966 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.15 seconds (using oleole's range: 1-2s)
+2025-04-25 09:01:39,117 [oleole] INFO: ⏭️ Moving to next product (109/264) | Remaining: 156 | Using working public HTTPS proxy: 49.51.73.95:13001
+2025-04-25 09:01:41,659 [oleole] INFO: [109/264] BN2009571: 0.00 PLN | Outstock | 155 remaining | 0:18:02.853963
+2025-04-25 09:01:41,660 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:01:42,668 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.54 seconds (using oleole's range: 1-2s)
+2025-04-25 09:01:44,211 [oleole] INFO: ⏭️ Moving to next product (110/264) | Remaining: 155 | Using working public HTTPS proxy: 49.51.73.95:13001
+2025-04-25 09:01:46,866 [oleole] INFO: [110/264] BN2009572: 0.00 PLN | Outstock | 154 remaining | 0:18:08.060833
+2025-04-25 09:01:46,866 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:01:47,876 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.54 seconds (using oleole's range: 1-2s)
+2025-04-25 09:01:49,426 [oleole] INFO: ⏭️ Moving to next product (111/264) | Remaining: 154 | Using working public HTTPS proxy: 49.51.73.95:13001
+2025-04-25 09:01:52,986 [oleole] INFO: [111/264] BN2009748: 0.00 PLN | Outstock | 153 remaining | 0:18:14.181572
+2025-04-25 09:01:52,987 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:01:53,998 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.83 seconds (using oleole's range: 1-2s)
+2025-04-25 09:01:55,834 [oleole] INFO: ⏭️ Moving to next product (112/264) | Remaining: 153 | Using working public HTTPS proxy: 49.51.73.95:13001
+2025-04-25 09:02:01,565 [oleole] INFO: [112/264] BN2009390: 0.00 PLN | Outstock | 152 remaining | 0:18:22.759821
+2025-04-25 09:02:01,566 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:02:02,578 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.80 seconds (using oleole's range: 1-2s)
+2025-04-25 09:02:04,384 [oleole] INFO: ⏭️ Moving to next product (113/264) | Remaining: 152 | Using working public HTTPS proxy: 49.51.73.95:13001
+2025-04-25 09:02:07,663 [oleole] INFO: [113/264] BN2009352: 0.00 PLN | Outstock | 151 remaining | 0:18:28.857686
+2025-04-25 09:02:07,665 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:02:08,672 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.97 seconds (using oleole's range: 1-2s)
+2025-04-25 09:02:10,647 [oleole] INFO: ⏭️ Moving to next product (114/264) | Remaining: 151 | Using working public HTTPS proxy: 49.51.73.95:13001
+2025-04-25 09:02:37,872 [oleole] ERROR: ❌ Error [BN2008843]: TCPTimedOutError occurred with https://49.51.73.95:13001: TCP connection timed out: 10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond..
+2025-04-25 09:02:37,873 [oleole] INFO: 🔄 Moving to next proxy (27/77)
+2025-04-25 09:02:37,874 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 09:02:39,887 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 63.35.64.177:3128
+2025-04-25 09:02:41,758 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-25 09:02:41,759 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 43.153.69.25:13001 (29/77)
+2025-04-25 09:03:14,208 [oleole] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://43.153.69.25:13001: User timeout caused connection failure: Getting https://www.oleole.pl/telefony-komorkowe/honor-90-lite-8-256gb-6-7-90hz-100mpix-czarny.bhtml took longer than 30.0 seconds..
+2025-04-25 09:03:14,208 [oleole] INFO: 🔄 Moving to next proxy (29/77)
+2025-04-25 09:03:14,209 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 09:03:16,211 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 43.153.113.33:13001
+2025-04-25 09:03:32,514 [oleole] INFO: [114/264] BN2008843: 0.00 PLN | Outstock | 150 remaining | 0:19:53.709151
+2025-04-25 09:03:32,515 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:03:33,527 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.44 seconds (using oleole's range: 1-2s)
+2025-04-25 09:03:34,992 [oleole] INFO: ⏭️ Moving to next product (115/264) | Remaining: 150 | Using working public HTTPS proxy: 43.153.113.33:13001
+2025-04-25 09:03:40,557 [oleole] INFO: [115/264] BN2009429: 0.00 PLN | Outstock | 149 remaining | 0:20:01.752081
+2025-04-25 09:03:40,558 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:03:41,572 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.94 seconds (using oleole's range: 1-2s)
+2025-04-25 09:03:43,511 [oleole] INFO: ⏭️ Moving to next product (116/264) | Remaining: 149 | Using working public HTTPS proxy: 43.153.113.33:13001
+2025-04-25 09:03:54,099 [oleole] INFO: [116/264] BN2009095: 0.00 PLN | Outstock | 148 remaining | 0:20:15.294281
+2025-04-25 09:03:54,100 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:03:55,106 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.72 seconds (using oleole's range: 1-2s)
+2025-04-25 09:03:56,836 [oleole] INFO: ⏭️ Moving to next product (117/264) | Remaining: 148 | Using working public HTTPS proxy: 43.153.113.33:13001
+2025-04-25 09:04:26,955 [oleole] ERROR: ❌ Error [BN4000703]: TimeoutError occurred with https://43.153.113.33:13001: User timeout caused connection failure: Getting https://www.oleole.pl/smartwatch/honor-watch-4-45mm-gps-czarny.bhtml took longer than 30.0 seconds..
+2025-04-25 09:04:26,956 [oleole] INFO: 🔄 Moving to next proxy (30/77)
+2025-04-25 09:04:26,956 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 09:04:28,961 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 43.153.44.254:13001
+2025-04-25 09:04:32,784 [oleole] INFO: [117/264] BN4000703: 0.00 PLN | Outstock | 147 remaining | 0:20:53.979103
+2025-04-25 09:04:32,789 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:04:33,789 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.17 seconds (using oleole's range: 1-2s)
+2025-04-25 09:04:34,987 [oleole] INFO: ⏭️ Moving to next product (118/264) | Remaining: 147 | Using working public HTTPS proxy: 43.153.44.254:13001
+2025-04-25 09:04:40,626 [oleole] INFO: [118/264] AN00000221: 0.00 PLN | Outstock | 146 remaining | 0:21:01.820700
+2025-04-25 09:04:40,627 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:04:41,632 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.53 seconds (using oleole's range: 1-2s)
+2025-04-25 09:04:43,164 [oleole] INFO: ⏭️ Moving to next product (119/264) | Remaining: 146 | Using working public HTTPS proxy: 43.153.44.254:13001
+2025-04-25 09:04:51,932 [oleole] INFO: [119/264] AN00000222: 0.00 PLN | Outstock | 145 remaining | 0:21:13.127566
+2025-04-25 09:04:51,933 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:04:52,943 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.04 seconds (using oleole's range: 1-2s)
+2025-04-25 09:04:53,990 [oleole] INFO: ⏭️ Moving to next product (120/264) | Remaining: 145 | Using working public HTTPS proxy: 43.153.44.254:13001
+2025-04-25 09:04:58,704 [oleole] INFO: [120/264] AN00000223: 0.00 PLN | Outstock | 144 remaining | 0:21:19.899500
+2025-04-25 09:04:58,706 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:04:59,716 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.89 seconds (using oleole's range: 1-2s)
+2025-04-25 09:05:01,619 [oleole] INFO: ⏭️ Moving to next product (121/264) | Remaining: 144 | Using working public HTTPS proxy: 43.153.44.254:13001
+2025-04-25 09:05:10,186 [oleole] INFO: [121/264] AN00000225: 0.00 PLN | Outstock | 143 remaining | 0:21:31.381640
+2025-04-25 09:05:10,188 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:05:11,200 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.39 seconds (using oleole's range: 1-2s)
+2025-04-25 09:05:12,599 [oleole] INFO: ⏭️ Moving to next product (122/264) | Remaining: 143 | Using working public HTTPS proxy: 43.153.44.254:13001
+2025-04-25 09:05:20,561 [oleole] INFO: [122/264] AN00000224: 0.00 PLN | Outstock | 142 remaining | 0:21:41.755857
+2025-04-25 09:05:20,562 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:05:21,565 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.00 seconds (using oleole's range: 1-2s)
+2025-04-25 09:05:22,581 [oleole] INFO: ⏭️ Moving to next product (123/264) | Remaining: 142 | Using working public HTTPS proxy: 43.153.44.254:13001
+2025-04-25 09:05:27,143 [oleole] INFO: [123/264] AN00000226: 0.00 PLN | Outstock | 141 remaining | 0:21:48.338483
+2025-04-25 09:05:27,144 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:05:28,159 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.40 seconds (using oleole's range: 1-2s)
+2025-04-25 09:05:29,577 [oleole] INFO: ⏭️ Moving to next product (124/264) | Remaining: 141 | Using working public HTTPS proxy: 43.153.44.254:13001
+2025-04-25 09:05:35,887 [oleole] INFO: [124/264] AN00000237: 0.00 PLN | Outstock | 140 remaining | 0:21:57.082206
+2025-04-25 09:05:35,889 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:05:36,895 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.30 seconds (using oleole's range: 1-2s)
+2025-04-25 09:05:38,213 [oleole] INFO: ⏭️ Moving to next product (125/264) | Remaining: 140 | Using working public HTTPS proxy: 43.153.44.254:13001
+2025-04-25 09:05:43,096 [oleole] INFO: [125/264] AN00000227: 0.00 PLN | Outstock | 139 remaining | 0:22:04.291263
+2025-04-25 09:05:43,097 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:05:44,103 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.85 seconds (using oleole's range: 1-2s)
+2025-04-25 09:05:45,955 [oleole] INFO: ⏭️ Moving to next product (126/264) | Remaining: 139 | Using working public HTTPS proxy: 43.153.44.254:13001
+2025-04-25 09:05:52,258 [oleole] INFO: [126/264] BN2009576: 0.00 PLN | Outstock | 138 remaining | 0:22:13.453134
+2025-04-25 09:05:52,259 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:05:53,274 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.15 seconds (using oleole's range: 1-2s)
+2025-04-25 09:05:54,439 [oleole] INFO: ⏭️ Moving to next product (127/264) | Remaining: 138 | Using working public HTTPS proxy: 43.153.44.254:13001
+2025-04-25 09:06:02,513 [oleole] INFO: [127/264] BN2009528: 0.00 PLN | Outstock | 137 remaining | 0:22:23.708470
+2025-04-25 09:06:02,514 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:06:03,522 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.44 seconds (using oleole's range: 1-2s)
+2025-04-25 09:06:04,973 [oleole] INFO: ⏭️ Moving to next product (128/264) | Remaining: 137 | Using working public HTTPS proxy: 43.153.44.254:13001
+2025-04-25 09:06:13,998 [oleole] INFO: [128/264] BN4000647: 0.00 PLN | Outstock | 136 remaining | 0:22:35.193453
+2025-04-25 09:06:14,000 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:06:15,008 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.78 seconds (using oleole's range: 1-2s)
+2025-04-25 09:06:16,804 [oleole] INFO: ⏭️ Moving to next product (129/264) | Remaining: 136 | Using working public HTTPS proxy: 43.153.44.254:13001
+2025-04-25 09:06:27,249 [oleole] INFO: [129/264] AN00000164: 0.00 PLN | Outstock | 135 remaining | 0:22:48.444452
+2025-04-25 09:06:27,252 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:06:28,260 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.28 seconds (using oleole's range: 1-2s)
+2025-04-25 09:06:29,554 [oleole] INFO: ⏭️ Moving to next product (130/264) | Remaining: 135 | Using working public HTTPS proxy: 43.153.44.254:13001
+2025-04-25 09:06:39,522 [oleole] INFO: [130/264] AN00000165: 0.00 PLN | Outstock | 134 remaining | 0:23:00.716784
+2025-04-25 09:06:39,524 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:06:40,530 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.61 seconds (using oleole's range: 1-2s)
+2025-04-25 09:06:42,151 [oleole] INFO: ⏭️ Moving to next product (131/264) | Remaining: 134 | Using working public HTTPS proxy: 43.153.44.254:13001
+2025-04-25 09:07:12,274 [oleole] ERROR: ❌ Error [AN00000167]: TimeoutError occurred with https://43.153.44.254:13001: User timeout caused connection failure: Getting https://www.oleole.pl/smartwatch/huawei-watch-gt4-active-46mm-gps-czarny.bhtml took longer than 30.0 seconds..
+2025-04-25 09:07:12,275 [oleole] INFO: 🔄 Moving to next proxy (31/77)
+2025-04-25 09:07:12,275 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 09:07:14,277 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 43.153.112.28:13001
+2025-04-25 09:07:44,397 [oleole] ERROR: ❌ Error [AN00000167]: TimeoutError occurred with https://43.153.112.28:13001: User timeout caused connection failure: Getting https://www.oleole.pl/smartwatch/huawei-watch-gt4-active-46mm-gps-czarny.bhtml took longer than 30.0 seconds..
+2025-04-25 09:07:44,398 [oleole] INFO: 🔄 Moving to next proxy (32/77)
+2025-04-25 09:07:44,399 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 09:07:46,402 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 185.233.38.243:8080
+2025-04-25 09:07:57,725 [oleole] ERROR: ❌ Error [AN00000167]: ResponseNeverReceived occurred with https://185.233.38.243:8080: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+2025-04-25 09:07:57,726 [oleole] INFO: 🔄 Moving to next proxy (33/77)
+2025-04-25 09:07:57,726 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 09:07:59,736 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:08:05,440 [oleole] INFO: [131/264] AN00000167: 0.00 PLN | Outstock | 133 remaining | 0:24:26.635287
+2025-04-25 09:08:05,442 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:08:06,449 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.62 seconds (using oleole's range: 1-2s)
+2025-04-25 09:08:08,083 [oleole] INFO: ⏭️ Moving to next product (132/264) | Remaining: 133 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:08:15,035 [oleole] INFO: [132/264] AN00000168: 0.00 PLN | Outstock | 132 remaining | 0:24:36.229873
+2025-04-25 09:08:15,037 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:08:16,051 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.33 seconds (using oleole's range: 1-2s)
+2025-04-25 09:08:17,394 [oleole] INFO: ⏭️ Moving to next product (133/264) | Remaining: 132 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:08:24,196 [oleole] INFO: [133/264] BN2008368: 0.00 PLN | Outstock | 131 remaining | 0:24:45.391298
+2025-04-25 09:08:24,197 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:08:25,204 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.05 seconds (using oleole's range: 1-2s)
+2025-04-25 09:08:26,261 [oleole] INFO: ⏭️ Moving to next product (134/264) | Remaining: 131 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:08:35,104 [oleole] INFO: [134/264] BN2008969: 0.00 PLN | Outstock | 130 remaining | 0:24:56.299243
+2025-04-25 09:08:35,105 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:08:36,111 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.50 seconds (using oleole's range: 1-2s)
+2025-04-25 09:08:37,630 [oleole] INFO: ⏭️ Moving to next product (135/264) | Remaining: 130 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:08:44,285 [oleole] INFO: [135/264] BN2009288: 0.00 PLN | Outstock | 129 remaining | 0:25:05.479663
+2025-04-25 09:08:44,286 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:08:45,290 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.91 seconds (using oleole's range: 1-2s)
+2025-04-25 09:08:47,209 [oleole] INFO: ⏭️ Moving to next product (136/264) | Remaining: 129 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:08:52,232 [oleole] INFO: [136/264] BN2009287: 0.00 PLN | Outstock | 128 remaining | 0:25:13.427411
+2025-04-25 09:08:52,234 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:08:53,241 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.14 seconds (using oleole's range: 1-2s)
+2025-04-25 09:08:54,388 [oleole] INFO: ⏭️ Moving to next product (137/264) | Remaining: 128 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:09:00,504 [oleole] INFO: [137/264] BN2009157: 0.00 PLN | Outstock | 127 remaining | 0:25:21.699355
+2025-04-25 09:09:00,505 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:09:01,519 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.03 seconds (using oleole's range: 1-2s)
+2025-04-25 09:09:02,566 [oleole] INFO: ⏭️ Moving to next product (138/264) | Remaining: 127 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:09:09,600 [oleole] INFO: [138/264] BN2009565: 0.00 PLN | Outstock | 126 remaining | 0:25:30.794290
+2025-04-25 09:09:09,601 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:09:10,614 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.37 seconds (using oleole's range: 1-2s)
+2025-04-25 09:09:11,989 [oleole] INFO: ⏭️ Moving to next product (139/264) | Remaining: 126 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:09:25,978 [oleole] INFO: [139/264] BN2009154: 0.00 PLN | Outstock | 125 remaining | 0:25:47.172867
+2025-04-25 09:09:25,979 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:09:26,985 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.04 seconds (using oleole's range: 1-2s)
+2025-04-25 09:09:28,035 [oleole] INFO: ⏭️ Moving to next product (140/264) | Remaining: 125 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:09:31,136 [oleole] INFO: [140/264] BN2009156: 0.00 PLN | Outstock | 124 remaining | 0:25:52.331626
+2025-04-25 09:09:31,138 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:09:32,144 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.62 seconds (using oleole's range: 1-2s)
+2025-04-25 09:09:33,780 [oleole] INFO: ⏭️ Moving to next product (141/264) | Remaining: 124 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:09:37,467 [oleole] INFO: [141/264] BN2009223: 0.00 PLN | Outstock | 123 remaining | 0:25:58.662478
+2025-04-25 09:09:37,470 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:09:38,479 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.36 seconds (using oleole's range: 1-2s)
+2025-04-25 09:09:39,844 [oleole] INFO: ⏭️ Moving to next product (142/264) | Remaining: 123 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:09:50,311 [oleole] INFO: [142/264] BN2008968: 0.00 PLN | Outstock | 122 remaining | 0:26:11.505799
+2025-04-25 09:09:50,312 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:09:51,321 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.81 seconds (using oleole's range: 1-2s)
+2025-04-25 09:09:53,131 [oleole] INFO: ⏭️ Moving to next product (143/264) | Remaining: 122 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:09:59,102 [oleole] INFO: [143/264] BN2009289: 0.00 PLN | Outstock | 121 remaining | 0:26:20.297147
+2025-04-25 09:09:59,103 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:10:00,111 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.84 seconds (using oleole's range: 1-2s)
+2025-04-25 09:10:01,977 [oleole] INFO: ⏭️ Moving to next product (144/264) | Remaining: 121 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:10:06,766 [oleole] INFO: [144/264] BN2008845: 0.00 PLN | Outstock | 120 remaining | 0:26:27.961134
+2025-04-25 09:10:06,767 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:10:07,781 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.21 seconds (using oleole's range: 1-2s)
+2025-04-25 09:10:08,992 [oleole] INFO: ⏭️ Moving to next product (145/264) | Remaining: 120 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:10:14,146 [oleole] INFO: [145/264] BN2008719: 0.00 PLN | Outstock | 119 remaining | 0:26:35.341167
+2025-04-25 09:10:14,147 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:10:15,161 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.14 seconds (using oleole's range: 1-2s)
+2025-04-25 09:10:16,311 [oleole] INFO: ⏭️ Moving to next product (146/264) | Remaining: 119 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:10:23,324 [oleole] INFO: [146/264] BN2009286: 0.00 PLN | Outstock | 118 remaining | 0:26:44.519428
+2025-04-25 09:10:23,327 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:10:24,334 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.73 seconds (using oleole's range: 1-2s)
+2025-04-25 09:10:26,083 [oleole] INFO: ⏭️ Moving to next product (147/264) | Remaining: 118 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:10:31,675 [oleole] INFO: [147/264] BN2009285: 0.00 PLN | Outstock | 117 remaining | 0:26:52.869893
+2025-04-25 09:10:31,677 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:10:32,681 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.37 seconds (using oleole's range: 1-2s)
+2025-04-25 09:10:34,065 [oleole] INFO: ⏭️ Moving to next product (148/264) | Remaining: 117 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:10:37,762 [oleole] INFO: [148/264] BN2009165: 0.00 PLN | Outstock | 116 remaining | 0:26:58.956814
+2025-04-25 09:10:37,764 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:10:38,772 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.37 seconds (using oleole's range: 1-2s)
+2025-04-25 09:10:40,142 [oleole] INFO: ⏭️ Moving to next product (149/264) | Remaining: 116 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:10:45,801 [oleole] INFO: [149/264] AN00000186: 0.00 PLN | Outstock | 115 remaining | 0:27:06.995722
+2025-04-25 09:10:45,802 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:10:46,811 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.80 seconds (using oleole's range: 1-2s)
+2025-04-25 09:10:48,614 [oleole] INFO: ⏭️ Moving to next product (150/264) | Remaining: 115 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:10:52,635 [oleole] INFO: [150/264] BN2007888: 0.00 PLN | Outstock | 114 remaining | 0:27:13.830199
+2025-04-25 09:10:52,636 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:10:53,651 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.10 seconds (using oleole's range: 1-2s)
+2025-04-25 09:10:54,760 [oleole] INFO: ⏭️ Moving to next product (151/264) | Remaining: 114 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:10:56,955 [oleole] INFO: [151/264] BN2008959: 0.00 PLN | Outstock | 113 remaining | 0:27:18.150098
+2025-04-25 09:10:56,956 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:10:57,973 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.20 seconds (using oleole's range: 1-2s)
+2025-04-25 09:10:59,180 [oleole] INFO: ⏭️ Moving to next product (152/264) | Remaining: 113 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:11:01,309 [oleole] INFO: [152/264] BN2008298: 0.00 PLN | Outstock | 112 remaining | 0:27:22.503830
+2025-04-25 09:11:01,311 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:11:02,312 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.40 seconds (using oleole's range: 1-2s)
+2025-04-25 09:11:03,729 [oleole] INFO: ⏭️ Moving to next product (153/264) | Remaining: 112 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:11:06,414 [oleole] INFO: [153/264] AN00000068: 0.00 PLN | Outstock | 111 remaining | 0:27:27.609047
+2025-04-25 09:11:06,416 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:11:07,420 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.02 seconds (using oleole's range: 1-2s)
+2025-04-25 09:11:08,450 [oleole] INFO: ⏭️ Moving to next product (154/264) | Remaining: 111 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:11:13,665 [oleole] INFO: [154/264] BN2008794: 0.00 PLN | Outstock | 110 remaining | 0:27:34.860181
+2025-04-25 09:11:13,666 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:11:14,672 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.45 seconds (using oleole's range: 1-2s)
+2025-04-25 09:11:16,124 [oleole] INFO: ⏭️ Moving to next product (155/264) | Remaining: 110 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:11:23,959 [oleole] INFO: [155/264] BN2008952: 0.00 PLN | Outstock | 109 remaining | 0:27:45.154441
+2025-04-25 09:11:23,961 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:11:24,970 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.72 seconds (using oleole's range: 1-2s)
+2025-04-25 09:11:26,702 [oleole] INFO: ⏭️ Moving to next product (156/264) | Remaining: 109 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:11:34,391 [oleole] INFO: [156/264] AN00000241: 0.00 PLN | Outstock | 108 remaining | 0:27:55.586403
+2025-04-25 09:11:34,393 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:11:35,398 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.07 seconds (using oleole's range: 1-2s)
+2025-04-25 09:11:36,475 [oleole] INFO: ⏭️ Moving to next product (157/264) | Remaining: 108 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:11:45,528 [oleole] INFO: [157/264] BN2009370: 0.00 PLN | Outstock | 107 remaining | 0:28:06.723372
+2025-04-25 09:11:45,530 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:11:46,540 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.92 seconds (using oleole's range: 1-2s)
+2025-04-25 09:11:48,477 [oleole] INFO: ⏭️ Moving to next product (158/264) | Remaining: 107 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:11:55,966 [oleole] INFO: [158/264] AN00000229: 0.00 PLN | Outstock | 106 remaining | 0:28:17.160948
+2025-04-25 09:11:55,968 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:11:56,978 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.55 seconds (using oleole's range: 1-2s)
+2025-04-25 09:11:58,530 [oleole] INFO: ⏭️ Moving to next product (159/264) | Remaining: 106 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:12:04,129 [oleole] INFO: [159/264] BN2009058: 0.00 PLN | Outstock | 105 remaining | 0:28:25.323951
+2025-04-25 09:12:04,131 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:12:05,141 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.15 seconds (using oleole's range: 1-2s)
+2025-04-25 09:12:06,294 [oleole] INFO: ⏭️ Moving to next product (160/264) | Remaining: 105 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:12:14,167 [oleole] INFO: [160/264] BN2009368: 0.00 PLN | Outstock | 104 remaining | 0:28:35.362191
+2025-04-25 09:12:14,169 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:12:15,177 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.61 seconds (using oleole's range: 1-2s)
+2025-04-25 09:12:16,796 [oleole] INFO: ⏭️ Moving to next product (161/264) | Remaining: 104 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:12:22,867 [oleole] INFO: [161/264] AN00000245: 0.00 PLN | Outstock | 103 remaining | 0:28:44.062231
+2025-04-25 09:12:22,869 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:12:23,873 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.98 seconds (using oleole's range: 1-2s)
+2025-04-25 09:12:25,855 [oleole] INFO: ⏭️ Moving to next product (162/264) | Remaining: 103 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:12:36,300 [oleole] INFO: [162/264] AN00000244: 0.00 PLN | Outstock | 102 remaining | 0:28:57.495283
+2025-04-25 09:12:36,301 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:12:37,314 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.32 seconds (using oleole's range: 1-2s)
+2025-04-25 09:12:38,640 [oleole] INFO: ⏭️ Moving to next product (163/264) | Remaining: 102 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:12:46,529 [oleole] INFO: [163/264] AN00000205: 0.00 PLN | Outstock | 101 remaining | 0:29:07.724097
+2025-04-25 09:12:46,531 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:12:47,544 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.32 seconds (using oleole's range: 1-2s)
+2025-04-25 09:12:48,867 [oleole] INFO: ⏭️ Moving to next product (164/264) | Remaining: 101 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:12:56,494 [oleole] INFO: [164/264] AN00000191: 0.00 PLN | Outstock | 100 remaining | 0:29:17.688665
+2025-04-25 09:12:56,496 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:12:57,500 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.52 seconds (using oleole's range: 1-2s)
+2025-04-25 09:12:59,025 [oleole] INFO: ⏭️ Moving to next product (165/264) | Remaining: 100 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:13:03,686 [oleole] INFO: [165/264] BN2009909: 0.00 PLN | Outstock | 99 remaining | 0:29:24.880692
+2025-04-25 09:13:03,687 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:13:04,690 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.19 seconds (using oleole's range: 1-2s)
+2025-04-25 09:13:05,885 [oleole] INFO: ⏭️ Moving to next product (166/264) | Remaining: 99 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:13:10,078 [oleole] INFO: [166/264] BN2009360: 0.00 PLN | Outstock | 98 remaining | 0:29:31.272928
+2025-04-25 09:13:10,080 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:13:11,087 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.85 seconds (using oleole's range: 1-2s)
+2025-04-25 09:13:12,964 [oleole] INFO: ⏭️ Moving to next product (167/264) | Remaining: 98 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:13:17,109 [oleole] INFO: [167/264] BN2009426: 0.00 PLN | Outstock | 97 remaining | 0:29:38.303724
+2025-04-25 09:13:17,111 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:13:18,116 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.70 seconds (using oleole's range: 1-2s)
+2025-04-25 09:13:19,828 [oleole] INFO: ⏭️ Moving to next product (168/264) | Remaining: 97 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:13:24,525 [oleole] INFO: [168/264] AN00000243: 0.00 PLN | Outstock | 96 remaining | 0:29:45.720311
+2025-04-25 09:13:24,526 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:13:25,529 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.29 seconds (using oleole's range: 1-2s)
+2025-04-25 09:13:26,823 [oleole] INFO: ⏭️ Moving to next product (169/264) | Remaining: 96 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:13:32,241 [oleole] INFO: [169/264] AN00000254: 0.00 PLN | Outstock | 95 remaining | 0:29:53.435656
+2025-04-25 09:13:32,242 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:13:33,246 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.83 seconds (using oleole's range: 1-2s)
+2025-04-25 09:13:35,087 [oleole] INFO: ⏭️ Moving to next product (170/264) | Remaining: 95 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:13:40,934 [oleole] INFO: [170/264] BN2008916: 0.00 PLN | Outstock | 94 remaining | 0:30:02.128739
+2025-04-25 09:13:40,935 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:13:41,949 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.29 seconds (using oleole's range: 1-2s)
+2025-04-25 09:13:43,247 [oleole] INFO: ⏭️ Moving to next product (171/264) | Remaining: 94 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:13:47,001 [oleole] INFO: [171/264] BN2009428: 0.00 PLN | Outstock | 93 remaining | 0:30:08.195832
+2025-04-25 09:13:47,003 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:13:48,016 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.46 seconds (using oleole's range: 1-2s)
+2025-04-25 09:13:49,487 [oleole] INFO: ⏭️ Moving to next product (172/264) | Remaining: 93 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:13:52,955 [oleole] INFO: [172/264] BN2009282: 0.00 PLN | Outstock | 92 remaining | 0:30:14.149718
+2025-04-25 09:13:52,956 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:13:53,963 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.51 seconds (using oleole's range: 1-2s)
+2025-04-25 09:13:55,477 [oleole] INFO: ⏭️ Moving to next product (173/264) | Remaining: 92 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:13:59,693 [oleole] INFO: [173/264] BN2009564: 0.00 PLN | Outstock | 91 remaining | 0:30:20.888093
+2025-04-25 09:13:59,694 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:14:00,703 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.59 seconds (using oleole's range: 1-2s)
+2025-04-25 09:14:02,311 [oleole] INFO: ⏭️ Moving to next product (174/264) | Remaining: 91 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:14:06,168 [oleole] INFO: [174/264] BN2009180: 0.00 PLN | Outstock | 90 remaining | 0:30:27.362693
+2025-04-25 09:14:06,169 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:14:07,173 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.63 seconds (using oleole's range: 1-2s)
+2025-04-25 09:14:08,807 [oleole] INFO: ⏭️ Moving to next product (175/264) | Remaining: 90 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:14:11,973 [oleole] INFO: [175/264] AN00000253: 0.00 PLN | Outstock | 89 remaining | 0:30:33.168069
+2025-04-25 09:14:11,975 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:14:12,986 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.45 seconds (using oleole's range: 1-2s)
+2025-04-25 09:14:14,440 [oleole] INFO: ⏭️ Moving to next product (176/264) | Remaining: 89 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:14:18,737 [oleole] INFO: [176/264] AN00000260: 0.00 PLN | Outstock | 88 remaining | 0:30:39.932575
+2025-04-25 09:14:18,739 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:14:19,743 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.30 seconds (using oleole's range: 1-2s)
+2025-04-25 09:14:21,049 [oleole] INFO: ⏭️ Moving to next product (177/264) | Remaining: 88 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:14:24,626 [oleole] INFO: [177/264] BN2009388: 0.00 PLN | Outstock | 87 remaining | 0:30:45.820699
+2025-04-25 09:14:24,627 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:14:25,640 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.21 seconds (using oleole's range: 1-2s)
+2025-04-25 09:14:26,855 [oleole] INFO: ⏭️ Moving to next product (178/264) | Remaining: 87 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:14:29,959 [oleole] INFO: [178/264] BN2009183: 0.00 PLN | Outstock | 86 remaining | 0:30:51.152752
+2025-04-25 09:14:29,960 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:14:30,970 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.86 seconds (using oleole's range: 1-2s)
+2025-04-25 09:14:32,839 [oleole] INFO: ⏭️ Moving to next product (179/264) | Remaining: 86 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:14:35,084 [oleole] INFO: [179/264] BN2009650: 0.00 PLN | Outstock | 85 remaining | 0:30:56.278723
+2025-04-25 09:14:35,085 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:14:36,088 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.37 seconds (using oleole's range: 1-2s)
+2025-04-25 09:14:37,458 [oleole] INFO: ⏭️ Moving to next product (180/264) | Remaining: 85 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:14:40,407 [oleole] INFO: [180/264] AN00000239: 0.00 PLN | Outstock | 84 remaining | 0:31:01.601991
+2025-04-25 09:14:40,408 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:14:41,415 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.41 seconds (using oleole's range: 1-2s)
+2025-04-25 09:14:42,829 [oleole] INFO: ⏭️ Moving to next product (181/264) | Remaining: 84 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:14:46,219 [oleole] INFO: [181/264] BN2009563: 0.00 PLN | Outstock | 83 remaining | 0:31:07.414185
+2025-04-25 09:14:46,221 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:14:47,227 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.26 seconds (using oleole's range: 1-2s)
+2025-04-25 09:14:48,493 [oleole] INFO: ⏭️ Moving to next product (182/264) | Remaining: 83 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:14:52,851 [oleole] INFO: [182/264] BN2009233: 0.00 PLN | Outstock | 82 remaining | 0:31:14.045753
+2025-04-25 09:14:52,852 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:14:53,866 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.48 seconds (using oleole's range: 1-2s)
+2025-04-25 09:14:55,362 [oleole] INFO: ⏭️ Moving to next product (183/264) | Remaining: 82 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:14:58,019 [oleole] INFO: [183/264] BN2009234: 0.00 PLN | Outstock | 81 remaining | 0:31:19.214507
+2025-04-25 09:14:58,021 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:14:59,029 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.53 seconds (using oleole's range: 1-2s)
+2025-04-25 09:15:00,570 [oleole] INFO: ⏭️ Moving to next product (184/264) | Remaining: 81 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:15:03,357 [oleole] INFO: [184/264] BN2009895: 0.00 PLN | Outstock | 80 remaining | 0:31:24.552209
+2025-04-25 09:15:03,358 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:15:04,371 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.61 seconds (using oleole's range: 1-2s)
+2025-04-25 09:15:05,994 [oleole] INFO: ⏭️ Moving to next product (185/264) | Remaining: 80 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:15:09,314 [oleole] INFO: [185/264] BN2009896: 0.00 PLN | Outstock | 79 remaining | 0:31:30.509218
+2025-04-25 09:15:09,316 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:15:10,324 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.34 seconds (using oleole's range: 1-2s)
+2025-04-25 09:15:11,679 [oleole] INFO: ⏭️ Moving to next product (186/264) | Remaining: 79 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:15:14,944 [oleole] INFO: [186/264] BN2009231: 0.00 PLN | Outstock | 78 remaining | 0:31:36.138764
+2025-04-25 09:15:14,945 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:15:15,958 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.58 seconds (using oleole's range: 1-2s)
+2025-04-25 09:15:17,549 [oleole] INFO: ⏭️ Moving to next product (187/264) | Remaining: 78 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:15:21,113 [oleole] INFO: [187/264] BN2009232: 0.00 PLN | Outstock | 77 remaining | 0:31:42.308012
+2025-04-25 09:15:21,114 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:15:22,122 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.05 seconds (using oleole's range: 1-2s)
+2025-04-25 09:15:23,178 [oleole] INFO: ⏭️ Moving to next product (188/264) | Remaining: 77 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:15:26,183 [oleole] INFO: [188/264] BN2009795: 0.00 PLN | Outstock | 76 remaining | 0:31:47.377664
+2025-04-25 09:15:26,185 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:15:27,188 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.91 seconds (using oleole's range: 1-2s)
+2025-04-25 09:15:29,103 [oleole] INFO: ⏭️ Moving to next product (189/264) | Remaining: 76 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:15:31,985 [oleole] INFO: [189/264] BN2009848: 0.00 PLN | Outstock | 75 remaining | 0:31:53.179910
+2025-04-25 09:15:31,986 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:15:32,991 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.00 seconds (using oleole's range: 1-2s)
+2025-04-25 09:15:34,001 [oleole] INFO: ⏭️ Moving to next product (190/264) | Remaining: 75 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:15:36,525 [oleole] INFO: [190/264] BN2009334: 0.00 PLN | Outstock | 74 remaining | 0:31:57.720296
+2025-04-25 09:15:36,527 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:15:37,533 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.89 seconds (using oleole's range: 1-2s)
+2025-04-25 09:15:39,437 [oleole] INFO: ⏭️ Moving to next product (191/264) | Remaining: 74 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:15:42,015 [oleole] INFO: [191/264] BN2009166: 0.00 PLN | Outstock | 73 remaining | 0:32:03.209808
+2025-04-25 09:15:42,016 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:15:43,019 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.12 seconds (using oleole's range: 1-2s)
+2025-04-25 09:15:44,156 [oleole] INFO: ⏭️ Moving to next product (192/264) | Remaining: 73 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:15:46,901 [oleole] INFO: [192/264] BN2009167: 0.00 PLN | Outstock | 72 remaining | 0:32:08.095761
+2025-04-25 09:15:46,903 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:15:47,917 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.13 seconds (using oleole's range: 1-2s)
+2025-04-25 09:15:49,050 [oleole] INFO: ⏭️ Moving to next product (193/264) | Remaining: 72 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:15:53,438 [oleole] INFO: [193/264] BN2009488: 0.00 PLN | Outstock | 71 remaining | 0:32:14.633578
+2025-04-25 09:15:53,441 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:15:54,446 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.07 seconds (using oleole's range: 1-2s)
+2025-04-25 09:15:55,528 [oleole] INFO: ⏭️ Moving to next product (194/264) | Remaining: 71 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:15:58,003 [oleole] INFO: [194/264] BN2009489: 0.00 PLN | Outstock | 70 remaining | 0:32:19.197956
+2025-04-25 09:15:58,005 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:15:59,012 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.65 seconds (using oleole's range: 1-2s)
+2025-04-25 09:16:00,663 [oleole] INFO: ⏭️ Moving to next product (195/264) | Remaining: 70 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:16:04,537 [oleole] INFO: [195/264] BN2009173: 0.00 PLN | Outstock | 69 remaining | 0:32:25.732049
+2025-04-25 09:16:04,538 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:16:05,544 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.76 seconds (using oleole's range: 1-2s)
+2025-04-25 09:16:07,310 [oleole] INFO: ⏭️ Moving to next product (196/264) | Remaining: 69 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:16:10,336 [oleole] INFO: [196/264] BN2009171: 0.00 PLN | Outstock | 68 remaining | 0:32:31.531508
+2025-04-25 09:16:10,337 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:16:11,351 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.64 seconds (using oleole's range: 1-2s)
+2025-04-25 09:16:12,998 [oleole] INFO: ⏭️ Moving to next product (197/264) | Remaining: 68 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:16:26,704 [oleole] INFO: [197/264] BN2009172: 0.00 PLN | Outstock | 67 remaining | 0:32:47.899190
+2025-04-25 09:16:26,705 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:16:27,709 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.04 seconds (using oleole's range: 1-2s)
+2025-04-25 09:16:28,767 [oleole] INFO: ⏭️ Moving to next product (198/264) | Remaining: 67 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:16:33,355 [oleole] INFO: [198/264] BN2009796: 0.00 PLN | Outstock | 66 remaining | 0:32:54.549679
+2025-04-25 09:16:33,357 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:16:34,363 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.83 seconds (using oleole's range: 1-2s)
+2025-04-25 09:16:36,201 [oleole] INFO: ⏭️ Moving to next product (199/264) | Remaining: 66 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:16:40,983 [oleole] INFO: [199/264] BN2009900: 0.00 PLN | Outstock | 65 remaining | 0:33:02.178391
+2025-04-25 09:16:40,985 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:16:41,994 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.37 seconds (using oleole's range: 1-2s)
+2025-04-25 09:16:43,374 [oleole] INFO: ⏭️ Moving to next product (200/264) | Remaining: 65 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:16:47,091 [oleole] INFO: [200/264] BN2009849: 0.00 PLN | Outstock | 64 remaining | 0:33:08.286010
+2025-04-25 09:16:47,092 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:16:48,096 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.94 seconds (using oleole's range: 1-2s)
+2025-04-25 09:16:50,039 [oleole] INFO: ⏭️ Moving to next product (201/264) | Remaining: 64 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:16:54,341 [oleole] INFO: [201/264] BN2009851: 0.00 PLN | Outstock | 63 remaining | 0:33:15.536592
+2025-04-25 09:16:54,342 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:16:55,352 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.40 seconds (using oleole's range: 1-2s)
+2025-04-25 09:16:56,769 [oleole] INFO: ⏭️ Moving to next product (202/264) | Remaining: 63 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:17:00,977 [oleole] INFO: [202/264] BN2009798: 0.00 PLN | Outstock | 62 remaining | 0:33:22.171860
+2025-04-25 09:17:00,978 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:17:01,982 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.84 seconds (using oleole's range: 1-2s)
+2025-04-25 09:17:03,834 [oleole] INFO: ⏭️ Moving to next product (203/264) | Remaining: 62 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:17:07,979 [oleole] INFO: [203/264] BN2009852: 0.00 PLN | Outstock | 61 remaining | 0:33:29.173694
+2025-04-25 09:17:07,981 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:17:08,987 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.08 seconds (using oleole's range: 1-2s)
+2025-04-25 09:17:10,073 [oleole] INFO: ⏭️ Moving to next product (204/264) | Remaining: 61 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:17:13,134 [oleole] INFO: [204/264] BN2009797: 0.00 PLN | Outstock | 60 remaining | 0:33:34.329554
+2025-04-25 09:17:13,135 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:17:14,141 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.84 seconds (using oleole's range: 1-2s)
+2025-04-25 09:17:15,981 [oleole] INFO: ⏭️ Moving to next product (205/264) | Remaining: 60 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:17:21,473 [oleole] INFO: [205/264] BN2009850: 0.00 PLN | Outstock | 59 remaining | 0:33:42.668564
+2025-04-25 09:17:21,474 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:17:22,483 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.36 seconds (using oleole's range: 1-2s)
+2025-04-25 09:17:23,854 [oleole] INFO: ⏭️ Moving to next product (206/264) | Remaining: 59 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:17:29,650 [oleole] INFO: [206/264] BN2009046: 0.00 PLN | Outstock | 58 remaining | 0:33:50.845255
+2025-04-25 09:17:29,651 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:17:30,661 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.67 seconds (using oleole's range: 1-2s)
+2025-04-25 09:17:32,341 [oleole] INFO: ⏭️ Moving to next product (207/264) | Remaining: 58 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:17:38,838 [oleole] INFO: [207/264] BN2009043: 0.00 PLN | Outstock | 57 remaining | 0:34:00.032726
+2025-04-25 09:17:38,840 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:17:39,845 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.54 seconds (using oleole's range: 1-2s)
+2025-04-25 09:17:41,388 [oleole] INFO: ⏭️ Moving to next product (208/264) | Remaining: 57 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:17:48,351 [oleole] INFO: [208/264] BN2008981: 0.00 PLN | Outstock | 56 remaining | 0:34:09.546349
+2025-04-25 09:17:48,353 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:17:49,360 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.84 seconds (using oleole's range: 1-2s)
+2025-04-25 09:17:51,214 [oleole] INFO: ⏭️ Moving to next product (209/264) | Remaining: 56 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:17:55,653 [oleole] INFO: [209/264] BN2008983: 0.00 PLN | Outstock | 55 remaining | 0:34:16.848042
+2025-04-25 09:17:55,654 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:17:56,656 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.16 seconds (using oleole's range: 1-2s)
+2025-04-25 09:17:57,832 [oleole] INFO: ⏭️ Moving to next product (210/264) | Remaining: 55 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:18:08,306 [oleole] INFO: [210/264] BN2008980: 0.00 PLN | Outstock | 54 remaining | 0:34:29.500971
+2025-04-25 09:18:08,307 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:18:09,313 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.70 seconds (using oleole's range: 1-2s)
+2025-04-25 09:18:11,023 [oleole] INFO: ⏭️ Moving to next product (211/264) | Remaining: 54 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:18:14,097 [oleole] INFO: [211/264] BN2008930: 0.00 PLN | Outstock | 53 remaining | 0:34:35.291793
+2025-04-25 09:18:14,099 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:18:15,109 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.48 seconds (using oleole's range: 1-2s)
+2025-04-25 09:18:16,597 [oleole] INFO: ⏭️ Moving to next product (212/264) | Remaining: 53 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:18:20,746 [oleole] INFO: [212/264] BN2008929: 0.00 PLN | Outstock | 52 remaining | 0:34:41.940904
+2025-04-25 09:18:20,748 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:18:21,759 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.62 seconds (using oleole's range: 1-2s)
+2025-04-25 09:18:23,397 [oleole] INFO: ⏭️ Moving to next product (213/264) | Remaining: 52 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:18:27,076 [oleole] INFO: [213/264] BN2008936: 0.00 PLN | Outstock | 51 remaining | 0:34:48.271366
+2025-04-25 09:18:27,078 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:18:28,081 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.75 seconds (using oleole's range: 1-2s)
+2025-04-25 09:18:29,848 [oleole] INFO: ⏭️ Moving to next product (214/264) | Remaining: 51 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:18:33,710 [oleole] INFO: [214/264] BN2008977: 0.00 PLN | Outstock | 50 remaining | 0:34:54.904935
+2025-04-25 09:18:33,712 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:18:34,719 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.00 seconds (using oleole's range: 1-2s)
+2025-04-25 09:18:35,732 [oleole] INFO: ⏭️ Moving to next product (215/264) | Remaining: 50 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:18:39,938 [oleole] INFO: [215/264] BN2008979: 0.00 PLN | Outstock | 49 remaining | 0:35:01.132799
+2025-04-25 09:18:39,940 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:18:40,951 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.67 seconds (using oleole's range: 1-2s)
+2025-04-25 09:18:42,636 [oleole] INFO: ⏭️ Moving to next product (216/264) | Remaining: 49 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:18:47,966 [oleole] INFO: [216/264] BN2008976: 0.00 PLN | Outstock | 48 remaining | 0:35:09.161561
+2025-04-25 09:18:47,968 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:18:48,980 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.73 seconds (using oleole's range: 1-2s)
+2025-04-25 09:18:50,723 [oleole] INFO: ⏭️ Moving to next product (217/264) | Remaining: 48 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:18:53,622 [oleole] INFO: [217/264] BN2008978: 0.00 PLN | Outstock | 47 remaining | 0:35:14.817420
+2025-04-25 09:18:53,623 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:18:54,635 [oleole] INFO: 😴 Human-like delay: Sleeping for 2.00 seconds (using oleole's range: 1-2s)
+2025-04-25 09:18:56,648 [oleole] INFO: ⏭️ Moving to next product (218/264) | Remaining: 47 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:19:01,368 [oleole] INFO: [218/264] BN2008926: 0.00 PLN | Outstock | 46 remaining | 0:35:22.563585
+2025-04-25 09:19:01,371 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:19:02,382 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.44 seconds (using oleole's range: 1-2s)
+2025-04-25 09:19:03,831 [oleole] INFO: ⏭️ Moving to next product (219/264) | Remaining: 46 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:19:07,772 [oleole] INFO: [219/264] BN4000698: 0.00 PLN | Outstock | 45 remaining | 0:35:28.967619
+2025-04-25 09:19:07,775 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:19:08,786 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.30 seconds (using oleole's range: 1-2s)
+2025-04-25 09:19:10,091 [oleole] INFO: ⏭️ Moving to next product (220/264) | Remaining: 45 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:19:13,799 [oleole] INFO: [220/264] BN2009406: 0.00 PLN | Outstock | 44 remaining | 0:35:34.993143
+2025-04-25 09:19:13,800 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:19:14,804 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.87 seconds (using oleole's range: 1-2s)
+2025-04-25 09:19:16,675 [oleole] INFO: ⏭️ Moving to next product (221/264) | Remaining: 44 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:19:19,536 [oleole] INFO: [221/264] BN2009404: 0.00 PLN | Outstock | 43 remaining | 0:35:40.730860
+2025-04-25 09:19:19,537 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:19:20,543 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.31 seconds (using oleole's range: 1-2s)
+2025-04-25 09:19:21,868 [oleole] INFO: ⏭️ Moving to next product (222/264) | Remaining: 43 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:19:24,598 [oleole] INFO: [222/264] BN2009474: 0.00 PLN | Outstock | 42 remaining | 0:35:45.793619
+2025-04-25 09:19:24,600 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:19:25,603 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.42 seconds (using oleole's range: 1-2s)
+2025-04-25 09:19:27,027 [oleole] INFO: ⏭️ Moving to next product (223/264) | Remaining: 42 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:19:30,861 [oleole] INFO: [223/264] BN2009475: 0.00 PLN | Outstock | 41 remaining | 0:35:52.055972
+2025-04-25 09:19:30,862 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:19:31,875 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.07 seconds (using oleole's range: 1-2s)
+2025-04-25 09:19:32,952 [oleole] INFO: ⏭️ Moving to next product (224/264) | Remaining: 41 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:19:36,348 [oleole] INFO: [224/264] BN2009476: 0.00 PLN | Outstock | 40 remaining | 0:35:57.542861
+2025-04-25 09:19:36,349 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:19:37,361 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.27 seconds (using oleole's range: 1-2s)
+2025-04-25 09:19:38,639 [oleole] INFO: ⏭️ Moving to next product (225/264) | Remaining: 40 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:19:42,600 [oleole] INFO: [225/264] BN2009477: 0.00 PLN | Outstock | 39 remaining | 0:36:03.794715
+2025-04-25 09:19:42,602 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:19:43,611 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.36 seconds (using oleole's range: 1-2s)
+2025-04-25 09:19:44,980 [oleole] INFO: ⏭️ Moving to next product (226/264) | Remaining: 39 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:19:52,874 [oleole] INFO: [226/264] BN2009478: 0.00 PLN | Outstock | 38 remaining | 0:36:14.068886
+2025-04-25 09:19:52,875 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:19:53,882 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.30 seconds (using oleole's range: 1-2s)
+2025-04-25 09:19:55,195 [oleole] INFO: ⏭️ Moving to next product (227/264) | Remaining: 38 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:19:57,969 [oleole] INFO: [227/264] AN00000255: 0.00 PLN | Outstock | 37 remaining | 0:36:19.163881
+2025-04-25 09:19:57,970 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:19:58,982 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.69 seconds (using oleole's range: 1-2s)
+2025-04-25 09:20:00,680 [oleole] INFO: ⏭️ Moving to next product (228/264) | Remaining: 37 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:20:03,794 [oleole] INFO: [228/264] AN00000202: 0.00 PLN | Outstock | 36 remaining | 0:36:24.989079
+2025-04-25 09:20:03,797 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:20:04,807 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.89 seconds (using oleole's range: 1-2s)
+2025-04-25 09:20:06,702 [oleole] INFO: ⏭️ Moving to next product (229/264) | Remaining: 36 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:20:09,462 [oleole] INFO: [229/264] AN00000203: 0.00 PLN | Outstock | 35 remaining | 0:36:30.656692
+2025-04-25 09:20:09,464 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:20:10,477 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.10 seconds (using oleole's range: 1-2s)
+2025-04-25 09:20:11,584 [oleole] INFO: ⏭️ Moving to next product (230/264) | Remaining: 35 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:20:13,995 [oleole] INFO: [230/264] AN00000247: 0.00 PLN | Outstock | 34 remaining | 0:36:35.190569
+2025-04-25 09:20:13,998 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:20:15,002 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.87 seconds (using oleole's range: 1-2s)
+2025-04-25 09:20:16,873 [oleole] INFO: ⏭️ Moving to next product (231/264) | Remaining: 34 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:20:19,392 [oleole] INFO: [231/264] AN00000246: 0.00 PLN | Outstock | 33 remaining | 0:36:40.586708
+2025-04-25 09:20:19,393 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:20:20,406 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.85 seconds (using oleole's range: 1-2s)
+2025-04-25 09:20:22,259 [oleole] INFO: ⏭️ Moving to next product (232/264) | Remaining: 33 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:20:24,568 [oleole] INFO: [232/264] BN2009402: 0.00 PLN | Outstock | 32 remaining | 0:36:45.762938
+2025-04-25 09:20:24,569 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:20:25,579 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.51 seconds (using oleole's range: 1-2s)
+2025-04-25 09:20:27,091 [oleole] INFO: ⏭️ Moving to next product (233/264) | Remaining: 32 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:20:29,221 [oleole] INFO: [233/264] BN4000618: 0.00 PLN | Outstock | 31 remaining | 0:36:50.416383
+2025-04-25 09:20:29,222 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:20:30,238 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.76 seconds (using oleole's range: 1-2s)
+2025-04-25 09:20:32,017 [oleole] INFO: ⏭️ Moving to next product (234/264) | Remaining: 31 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:20:34,963 [oleole] INFO: [234/264] BN2009491: 0.00 PLN | Outstock | 30 remaining | 0:36:56.158543
+2025-04-25 09:20:34,965 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:20:35,972 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.22 seconds (using oleole's range: 1-2s)
+2025-04-25 09:20:37,206 [oleole] INFO: ⏭️ Moving to next product (235/264) | Remaining: 30 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:20:40,652 [oleole] INFO: [235/264] AN00000242: 0.00 PLN | Outstock | 29 remaining | 0:37:01.846859
+2025-04-25 09:20:40,653 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:20:41,659 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.81 seconds (using oleole's range: 1-2s)
+2025-04-25 09:20:43,470 [oleole] INFO: ⏭️ Moving to next product (236/264) | Remaining: 29 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:20:53,179 [oleole] INFO: [236/264] BN2009294: 0.00 PLN | Outstock | 28 remaining | 0:37:14.374308
+2025-04-25 09:20:53,181 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:20:54,194 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.80 seconds (using oleole's range: 1-2s)
+2025-04-25 09:20:56,006 [oleole] INFO: ⏭️ Moving to next product (237/264) | Remaining: 28 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:20:59,502 [oleole] INFO: [237/264] BN2009295: 0.00 PLN | Outstock | 27 remaining | 0:37:20.697150
+2025-04-25 09:20:59,503 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:21:00,505 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.10 seconds (using oleole's range: 1-2s)
+2025-04-25 09:21:01,605 [oleole] INFO: ⏭️ Moving to next product (238/264) | Remaining: 27 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:21:03,867 [oleole] INFO: [238/264] BN2009393: 0.00 PLN | Outstock | 26 remaining | 0:37:25.061698
+2025-04-25 09:21:03,868 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:21:04,877 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.03 seconds (using oleole's range: 1-2s)
+2025-04-25 09:21:05,919 [oleole] INFO: ⏭️ Moving to next product (239/264) | Remaining: 26 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:21:11,059 [oleole] INFO: [239/264] BN2009752: 0.00 PLN | Outstock | 25 remaining | 0:37:32.254448
+2025-04-25 09:21:11,060 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:21:12,074 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.63 seconds (using oleole's range: 1-2s)
+2025-04-25 09:21:13,713 [oleole] INFO: ⏭️ Moving to next product (240/264) | Remaining: 25 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:21:19,964 [oleole] INFO: [240/264] BN2009379: 0.00 PLN | Outstock | 24 remaining | 0:37:41.159239
+2025-04-25 09:21:19,966 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:21:20,972 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.84 seconds (using oleole's range: 1-2s)
+2025-04-25 09:21:22,818 [oleole] INFO: ⏭️ Moving to next product (241/264) | Remaining: 24 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:21:32,635 [oleole] INFO: [241/264] BN2009385: 0.00 PLN | Outstock | 23 remaining | 0:37:53.829942
+2025-04-25 09:21:32,636 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:21:33,639 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.86 seconds (using oleole's range: 1-2s)
+2025-04-25 09:21:35,497 [oleole] INFO: ⏭️ Moving to next product (242/264) | Remaining: 23 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:21:43,186 [oleole] INFO: [242/264] BN2009328: 0.00 PLN | Outstock | 22 remaining | 0:38:04.381619
+2025-04-25 09:21:43,188 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:21:44,197 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.48 seconds (using oleole's range: 1-2s)
+2025-04-25 09:21:45,687 [oleole] INFO: ⏭️ Moving to next product (243/264) | Remaining: 22 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:21:50,452 [oleole] INFO: [243/264] BN2009331: 0.00 PLN | Outstock | 21 remaining | 0:38:11.647216
+2025-04-25 09:21:50,453 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:21:51,456 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.87 seconds (using oleole's range: 1-2s)
+2025-04-25 09:21:53,339 [oleole] INFO: ⏭️ Moving to next product (244/264) | Remaining: 21 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:21:57,892 [oleole] INFO: [244/264] BN2009088: 0.00 PLN | Outstock | 20 remaining | 0:38:19.086715
+2025-04-25 09:21:57,893 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:21:58,903 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.61 seconds (using oleole's range: 1-2s)
+2025-04-25 09:22:00,523 [oleole] INFO: ⏭️ Moving to next product (245/264) | Remaining: 20 | Using working public HTTPS proxy: 170.106.197.21:13001
+2025-04-25 09:22:30,655 [oleole] ERROR: ❌ Error [BN2009638]: TimeoutError occurred with https://170.106.197.21:13001: User timeout caused connection failure: Getting https://www.oleole.pl/telefony-komorkowe/xiaomi-redmi-14c-4-128gb-6-88-120hz-50mpix-czarny.bhtml took longer than 30.0 seconds..
+2025-04-25 09:22:30,656 [oleole] INFO: 🔄 Moving to next proxy (34/77)
+2025-04-25 09:22:30,656 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 09:22:32,666 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 13.246.197.218:20202
+2025-04-25 09:22:34,350 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-25 09:22:34,351 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 78.108.41.124:9111 (36/77)
+2025-04-25 09:22:57,483 [oleole] ERROR: ❌ Error [unknown]: TCPTimedOutError occurred with https://78.108.41.124:9111: TCP connection timed out: 10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond..
+2025-04-25 09:22:57,485 [oleole] INFO: 🔄 Moving to next proxy (36/77)
+2025-04-25 09:22:57,486 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 09:22:59,490 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 43.159.133.199:13001
+2025-04-25 09:23:13,142 [oleole] INFO: [245/264] BN2009638: 0.00 PLN | Outstock | 19 remaining | 0:39:34.337261
+2025-04-25 09:23:13,144 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:23:14,157 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.03 seconds (using oleole's range: 1-2s)
+2025-04-25 09:23:15,196 [oleole] INFO: ⏭️ Moving to next product (246/264) | Remaining: 19 | Using working public HTTPS proxy: 43.159.133.199:13001
+2025-04-25 09:23:45,315 [oleole] ERROR: ❌ Error [BN2009278]: TimeoutError occurred with https://43.159.133.199:13001: User timeout caused connection failure: Getting https://www.oleole.pl/telefony-komorkowe/xiaomi-redmi-a3-3-64gb-6-71-8mpix-czarny.bhtml took longer than 30.0 seconds..
+2025-04-25 09:23:45,316 [oleole] INFO: 🔄 Moving to next proxy (37/77)
+2025-04-25 09:23:45,316 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-04-25 09:23:47,327 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 43.153.48.116:13001
+2025-04-25 09:23:52,417 [oleole] INFO: [246/264] BN2009278: 0.00 PLN | Outstock | 18 remaining | 0:40:13.612636
+2025-04-25 09:23:52,420 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:23:53,429 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.12 seconds (using oleole's range: 1-2s)
+2025-04-25 09:23:54,560 [oleole] INFO: ⏭️ Moving to next product (247/264) | Remaining: 18 | Using working public HTTPS proxy: 43.153.48.116:13001
+2025-04-25 09:24:01,321 [oleole] INFO: [247/264] BN2009090: 0.00 PLN | Outstock | 17 remaining | 0:40:22.515774
+2025-04-25 09:24:01,323 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:24:02,333 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.94 seconds (using oleole's range: 1-2s)
+2025-04-25 09:24:04,288 [oleole] INFO: ⏭️ Moving to next product (248/264) | Remaining: 17 | Using working public HTTPS proxy: 43.153.48.116:13001
+2025-04-25 09:24:05,972 [oleole] INFO: [248/264] BN2009091: 0.00 PLN | Outstock | 16 remaining | 0:40:27.166800
+2025-04-25 09:24:05,973 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:24:06,983 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.45 seconds (using oleole's range: 1-2s)
+2025-04-25 09:24:08,449 [oleole] INFO: ⏭️ Moving to next product (249/264) | Remaining: 16 | Using working public HTTPS proxy: 43.153.48.116:13001
+2025-04-25 09:24:11,493 [oleole] INFO: [249/264] BN2009248: 0.00 PLN | Outstock | 15 remaining | 0:40:32.688221
+2025-04-25 09:24:11,494 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:24:12,504 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.47 seconds (using oleole's range: 1-2s)
+2025-04-25 09:24:13,993 [oleole] INFO: ⏭️ Moving to next product (250/264) | Remaining: 15 | Using working public HTTPS proxy: 43.153.48.116:13001
+2025-04-25 09:24:18,065 [oleole] INFO: [250/264] BN2009812: 0.00 PLN | Outstock | 14 remaining | 0:40:39.259962
+2025-04-25 09:24:18,067 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:24:19,072 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.74 seconds (using oleole's range: 1-2s)
+2025-04-25 09:24:20,823 [oleole] INFO: ⏭️ Moving to next product (251/264) | Remaining: 14 | Using working public HTTPS proxy: 43.153.48.116:13001
+2025-04-25 09:24:23,611 [oleole] INFO: [251/264] BN2009160: 0.00 PLN | Outstock | 13 remaining | 0:40:44.805860
+2025-04-25 09:24:23,612 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:24:24,628 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.23 seconds (using oleole's range: 1-2s)
+2025-04-25 09:24:25,869 [oleole] INFO: ⏭️ Moving to next product (252/264) | Remaining: 13 | Using working public HTTPS proxy: 43.153.48.116:13001
+2025-04-25 09:24:27,461 [oleole] INFO: [252/264] BN2008852: 0.00 PLN | Outstock | 12 remaining | 0:40:48.656229
+2025-04-25 09:24:27,462 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:24:28,472 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.29 seconds (using oleole's range: 1-2s)
+2025-04-25 09:24:29,775 [oleole] INFO: ⏭️ Moving to next product (253/264) | Remaining: 12 | Using working public HTTPS proxy: 43.153.48.116:13001
+2025-04-25 09:24:33,185 [oleole] INFO: [253/264] BN2008861: 0.00 PLN | Outstock | 11 remaining | 0:40:54.380345
+2025-04-25 09:24:33,186 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:24:34,191 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.81 seconds (using oleole's range: 1-2s)
+2025-04-25 09:24:36,019 [oleole] INFO: ⏭️ Moving to next product (254/264) | Remaining: 11 | Using working public HTTPS proxy: 43.153.48.116:13001
+2025-04-25 09:24:38,713 [oleole] INFO: [254/264] BN2009303: 0.00 PLN | Outstock | 10 remaining | 0:40:59.908294
+2025-04-25 09:24:38,714 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:24:39,716 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.15 seconds (using oleole's range: 1-2s)
+2025-04-25 09:24:40,872 [oleole] INFO: ⏭️ Moving to next product (255/264) | Remaining: 10 | Using working public HTTPS proxy: 43.153.48.116:13001
+2025-04-25 09:24:45,296 [oleole] INFO: [255/264] BN2009425: 0.00 PLN | Outstock | 9 remaining | 0:41:06.490904
+2025-04-25 09:24:45,297 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:24:46,312 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.30 seconds (using oleole's range: 1-2s)
+2025-04-25 09:24:47,624 [oleole] INFO: ⏭️ Moving to next product (256/264) | Remaining: 9 | Using working public HTTPS proxy: 43.153.48.116:13001
+2025-04-25 09:24:53,028 [oleole] INFO: [256/264] BN2009446: 0.00 PLN | Outstock | 8 remaining | 0:41:14.223422
+2025-04-25 09:24:53,030 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:24:54,036 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.77 seconds (using oleole's range: 1-2s)
+2025-04-25 09:24:55,816 [oleole] INFO: ⏭️ Moving to next product (257/264) | Remaining: 8 | Using working public HTTPS proxy: 43.153.48.116:13001
+2025-04-25 09:24:58,293 [oleole] INFO: [257/264] BN2009814: 0.00 PLN | Outstock | 7 remaining | 0:41:19.488032
+2025-04-25 09:24:58,295 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:24:59,300 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.07 seconds (using oleole's range: 1-2s)
+2025-04-25 09:25:00,375 [oleole] INFO: ⏭️ Moving to next product (258/264) | Remaining: 7 | Using working public HTTPS proxy: 43.153.48.116:13001
+2025-04-25 09:25:04,887 [oleole] INFO: [258/264] BN2009815: 0.00 PLN | Outstock | 6 remaining | 0:41:26.082497
+2025-04-25 09:25:04,888 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:25:05,898 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.89 seconds (using oleole's range: 1-2s)
+2025-04-25 09:25:07,802 [oleole] INFO: ⏭️ Moving to next product (259/264) | Remaining: 6 | Using working public HTTPS proxy: 43.153.48.116:13001
+2025-04-25 09:25:12,772 [oleole] INFO: [259/264] AN00000234: 0.00 PLN | Outstock | 5 remaining | 0:41:33.966792
+2025-04-25 09:25:12,773 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:25:13,781 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.98 seconds (using oleole's range: 1-2s)
+2025-04-25 09:25:15,761 [oleole] INFO: ⏭️ Moving to next product (260/264) | Remaining: 5 | Using working public HTTPS proxy: 43.153.48.116:13001
+2025-04-25 09:25:19,105 [oleole] INFO: [260/264] AN00000248: 0.00 PLN | Outstock | 4 remaining | 0:41:40.299677
+2025-04-25 09:25:19,107 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:25:20,108 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.03 seconds (using oleole's range: 1-2s)
+2025-04-25 09:25:21,149 [oleole] INFO: ⏭️ Moving to next product (261/264) | Remaining: 4 | Using working public HTTPS proxy: 43.153.48.116:13001
+2025-04-25 09:25:24,757 [oleole] INFO: [261/264] AN00000249: 0.00 PLN | Outstock | 3 remaining | 0:41:45.951966
+2025-04-25 09:25:24,759 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:25:25,766 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.37 seconds (using oleole's range: 1-2s)
+2025-04-25 09:25:27,138 [oleole] INFO: ⏭️ Moving to next product (262/264) | Remaining: 3 | Using working public HTTPS proxy: 43.153.48.116:13001
+2025-04-25 09:25:28,793 [oleole] INFO: [262/264] AN00000252: 0.00 PLN | Outstock | 2 remaining | 0:41:49.988239
+2025-04-25 09:25:28,795 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:25:29,797 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.79 seconds (using oleole's range: 1-2s)
+2025-04-25 09:25:31,597 [oleole] INFO: ⏭️ Moving to next product (263/264) | Remaining: 2 | Using working public HTTPS proxy: 43.153.48.116:13001
+2025-04-25 09:25:34,181 [oleole] INFO: [263/264] BN2009158: 0.00 PLN | Outstock | 1 remaining | 0:41:55.375696
+2025-04-25 09:25:34,183 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-04-25 09:25:35,188 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.70 seconds (using oleole's range: 1-2s)
+2025-04-25 09:25:36,907 [oleole] INFO: ⏭️ Moving to next product (264/264) | Remaining: 1 | Using working public HTTPS proxy: 43.153.48.116:13001
+2025-04-25 09:25:39,238 [oleole] INFO: [264/264] AN00000183: 0.00 PLN | Outstock | 0 remaining | 0:42:00.433303
+2025-04-25 09:25:39,239 [oleole] INFO: ✅ All products processed!
+2025-04-25 09:25:39,241 [oleole] INFO: ✅ Spider oleole completed
+2025-04-25 09:25:39,242 [oleole] INFO: 🕒 Total time: 00:42:00
+2025-04-25 09:25:39,243 [oleole] INFO: 📊 Processed 528 items
+2025-04-25 09:25:39,243 [oleole] INFO: ⚡ Performance: 12.57 items/minute
+2025-04-25 09:25:50,840 [oleole] INFO: ==================================================
+2025-04-25 09:25:50,840 [oleole] INFO: SPIDER RUN COMPLETED: oleole
+2025-04-25 09:25:50,841 [oleole] INFO: Items processed: 528
+2025-04-25 09:25:50,841 [oleole] INFO: Duration: 00:42:12
+2025-04-25 09:25:50,842 [oleole] INFO: Performance: 12.51 items/minute
+2025-04-25 09:25:50,842 [oleole] INFO: ==================================================

@@ -1,0 +1,1424 @@
+2025-04-25 08:44:21,427 [komputronik] INFO: 🕷️ Initializing komputronik spider
+2025-04-25 08:44:21,428 [komputronik] INFO: 🔄 Proxy Manager: Disabled
+2025-04-25 08:44:21,428 [komputronik] INFO: 🕒 Human-like delays: Enabled
+2025-04-25 08:44:21,523 [komputronik] INFO: 🕷️ Starting Komputronik spider
+2025-04-25 08:44:21,524 [komputronik] INFO: 🔍 Total products to scrape: 352
+2025-04-25 08:44:21,525 [komputronik] INFO: Using direct requests without proxy manager
+2025-04-25 08:44:21,525 [komputronik] INFO: 😴 Sleeping for 21.56 seconds before request 1/352
+2025-04-25 08:44:43,095 [komputronik] INFO: 🚀 Sending request 1/352 to https://www.komputronik.pl/product/875822/laptop-acer-aspire-5-spin-i5-1335u-14-dotyk-8gb-512gb-win11-czarny.html for AN00000124
+2025-04-25 08:44:45,775 [komputronik] INFO: 😴 Sleeping for 20.28 seconds before request 2/352
+2025-04-25 08:45:06,070 [komputronik] INFO: 🚀 Sending request 2/352 to https://www.komputronik.pl/product/914930/laptop-acer-nitro-5-i5-12500h-15-6-16gb-512gb-w11-rtx-4060.html for AN00000054
+2025-04-25 08:45:06,073 [komputronik] INFO: 📋 Response for AN00000124 | Status: 200 | Size: 1393158 bytes
+2025-04-25 08:45:06,187 [komputronik] INFO: [1/352] AN00000124: 0.00 PLN | Outstock | 351 remaining
+2025-04-25 08:45:07,230 [komputronik] INFO: 😴 Sleeping for 22.50 seconds before request 3/352
+2025-04-25 08:45:29,736 [komputronik] INFO: 🚀 Sending request 3/352 to https://www.komputronik.pl/product/728509/alcatel-link-key-4g-lte-czarny.html for BN2007402
+2025-04-25 08:45:29,740 [komputronik] INFO: 📋 Response for AN00000054 | Status: 200 | Size: 1368182 bytes
+2025-04-25 08:45:29,853 [komputronik] INFO: [2/352] AN00000054: 0.00 PLN | Outstock | 350 remaining
+2025-04-25 08:45:31,997 [komputronik] INFO: 😴 Sleeping for 24.09 seconds before request 4/352
+2025-04-25 08:45:56,101 [komputronik] INFO: 🚀 Sending request 4/352 to https://www.komputronik.pl/product/748423/tcl-link-zone-4g-lte-czarny.html for BN2005007
+2025-04-25 08:45:56,106 [komputronik] INFO: 📋 Response for BN2007402 | Status: 200 | Size: 1306164 bytes
+2025-04-25 08:45:56,212 [komputronik] INFO: [3/352] BN2007402: 0.00 PLN | Outstock | 349 remaining
+2025-04-25 08:45:57,243 [komputronik] INFO: 😴 Sleeping for 23.23 seconds before request 5/352
+2025-04-25 08:46:20,540 [komputronik] INFO: 🚀 Sending request 5/352 to https://www.komputronik.pl/product/784325/tcl-link-zone-4g-lte-cat6-czarny.html for BN2008152
+2025-04-25 08:46:20,551 [komputronik] INFO: 📋 Response for BN2005007 | Status: 200 | Size: 1238783 bytes
+2025-04-25 08:46:20,657 [komputronik] INFO: [4/352] BN2005007: 0.00 PLN | Outstock | 348 remaining
+2025-04-25 08:46:21,704 [komputronik] INFO: 😴 Sleeping for 24.88 seconds before request 6/352
+2025-04-25 08:46:46,594 [komputronik] INFO: 🚀 Sending request 6/352 to https://www.komputronik.pl/product/817455/tcl-4021-dual-sim-szary.html for BN2009366
+2025-04-25 08:46:46,599 [komputronik] INFO: 📋 Response for BN2008152 | Status: 200 | Size: 1306264 bytes
+2025-04-25 08:46:46,712 [komputronik] INFO: [5/352] BN2008152: 0.00 PLN | Outstock | 347 remaining
+2025-04-25 08:46:47,739 [komputronik] INFO: 😴 Sleeping for 23.24 seconds before request 7/352
+2025-04-25 08:47:10,984 [komputronik] INFO: 🚀 Sending request 7/352 to https://www.komputronik.pl/product/913536/telefon-tcl-4022s-dual-sim-szary.html for BN2009367
+2025-04-25 08:47:10,988 [komputronik] INFO: 📋 Response for BN2009366 | Status: 200 | Size: 1463316 bytes
+2025-04-25 08:47:11,115 [komputronik] INFO: [6/352] BN2009366: 0.00 PLN | Outstock | 346 remaining
+2025-04-25 08:47:12,159 [komputronik] INFO: 😴 Sleeping for 24.79 seconds before request 8/352
+2025-04-25 08:47:36,970 [komputronik] INFO: 🚀 Sending request 8/352 to https://www.komputronik.pl/product/913537/telefon-tcl-4042s-4g-dual-sim-szary.html for BN2008834
+2025-04-25 08:47:37,009 [komputronik] INFO: 📋 Response for BN2009367 | Status: 200 | Size: 1508637 bytes
+2025-04-25 08:47:37,146 [komputronik] INFO: [7/352] BN2009367: 0.00 PLN | Outstock | 345 remaining
+2025-04-25 08:47:38,196 [komputronik] INFO: 😴 Sleeping for 29.54 seconds before request 9/352
+2025-04-25 08:48:07,753 [komputronik] INFO: 🚀 Sending request 9/352 to https://www.komputronik.pl/product/913505/telefon-tcl-4043-dual-sim-szary.html for BN2009333
+2025-04-25 08:48:07,757 [komputronik] INFO: 📋 Response for BN2008834 | Status: 200 | Size: 1395752 bytes
+2025-04-25 08:48:07,880 [komputronik] INFO: [8/352] BN2008834: 0.00 PLN | Outstock | 344 remaining
+2025-04-25 08:48:08,927 [komputronik] INFO: 😴 Sleeping for 28.63 seconds before request 10/352
+2025-04-25 08:48:37,574 [komputronik] INFO: 🚀 Sending request 10/352 to https://www.komputronik.pl/product/939197/telefon-tcl-50-pro-nxtpaper-5g-8-512gb-szary.html for AN00000235
+2025-04-25 08:48:37,578 [komputronik] INFO: 📋 Response for BN2009333 | Status: 200 | Size: 1545491 bytes
+2025-04-25 08:48:37,735 [komputronik] INFO: [9/352] BN2009333: 0.00 PLN | Outstock | 343 remaining
+2025-04-25 08:48:38,771 [komputronik] INFO: 😴 Sleeping for 25.92 seconds before request 11/352
+2025-04-25 08:49:04,699 [komputronik] INFO: 🚀 Sending request 11/352 to https://www.komputronik.pl/product/928234/telefon-tcl-501-2-32gb-dual-sim-czarny.html for BN2009296
+2025-04-25 08:49:04,709 [komputronik] INFO: 📋 Response for AN00000235 | Status: 200 | Size: 1561368 bytes
+2025-04-25 08:49:04,853 [komputronik] INFO: [10/352] AN00000235: 0.00 PLN | Outstock | 342 remaining
+2025-04-25 08:49:05,896 [komputronik] INFO: 😴 Sleeping for 29.47 seconds before request 12/352
+2025-04-25 08:49:35,382 [komputronik] INFO: 🚀 Sending request 12/352 to https://www.komputronik.pl/product/913502/telefon-tcl-505-4-128gb-dual-sim-niebieski.html for BN2009357
+2025-04-25 08:49:35,387 [komputronik] INFO: 📋 Response for BN2009296 | Status: 200 | Size: 1550082 bytes
+2025-04-25 08:49:35,521 [komputronik] INFO: [11/352] BN2009296: 0.00 PLN | Outstock | 341 remaining
+2025-04-25 08:49:37,427 [komputronik] INFO: 😴 Sleeping for 28.15 seconds before request 13/352
+2025-04-25 08:50:05,586 [komputronik] INFO: 🚀 Sending request 13/352 to https://www.komputronik.pl/product/930340/sluchawki-apple-airpods-max-czarne.html for AN00000007
+2025-04-25 08:50:05,590 [komputronik] INFO: 📋 Response for BN2009357 | Status: 200 | Size: 1319822 bytes
+2025-04-25 08:50:05,702 [komputronik] INFO: [12/352] BN2009357: 0.00 PLN | Outstock | 340 remaining
+2025-04-25 08:50:06,742 [komputronik] INFO: 😴 Sleeping for 24.62 seconds before request 14/352
+2025-04-25 08:50:31,377 [komputronik] INFO: 🚀 Sending request 14/352 to https://www.komputronik.pl/product/568986/apple-pencil-2-generacji-.html for AN00000008
+2025-04-25 08:50:31,388 [komputronik] INFO: 📋 Response for AN00000007 | Status: 200 | Size: 1344087 bytes
+2025-04-25 08:50:31,778 [komputronik] INFO: [13/352] AN00000007: 0.00 PLN | Outstock | 339 remaining
+2025-04-25 08:50:32,824 [komputronik] INFO: 😴 Sleeping for 21.32 seconds before request 15/352
+2025-04-25 08:50:54,164 [komputronik] INFO: 🚀 Sending request 15/352 to https://www.komputronik.pl/product/930391/zegarek-smartwatch-apple-watch-series-10-gps-cellular-42mm-rose-gold-aluminium-case-light-blush-sport-band-s-m.html for AN00000219
+2025-04-25 08:50:54,169 [komputronik] INFO: 📋 Response for AN00000008 | Status: 200 | Size: 1302788 bytes
+2025-04-25 08:50:54,286 [komputronik] INFO: [14/352] AN00000008: 0.00 PLN | Outstock | 338 remaining
+2025-04-25 08:50:56,101 [komputronik] INFO: 😴 Sleeping for 21.44 seconds before request 16/352
+2025-04-25 08:51:17,549 [komputronik] INFO: 🚀 Sending request 16/352 to https://www.komputronik.pl/product/930403/zegarek-smartwatch-apple-watch-series-10-gps-cellular-46mm-jet-black-aluminium-case-black-sport-band-m-l.html for AN00000220
+2025-04-25 08:51:17,554 [komputronik] INFO: 📋 Response for AN00000219 | Status: 200 | Size: 1365501 bytes
+2025-04-25 08:51:17,666 [komputronik] INFO: [15/352] AN00000219: 0.00 PLN | Outstock | 337 remaining
+2025-04-25 08:51:19,664 [komputronik] INFO: 😴 Sleeping for 29.80 seconds before request 17/352
+2025-04-25 08:51:49,482 [komputronik] INFO: 🚀 Sending request 17/352 to https://www.komputronik.pl/product/734201/apple-ipad-10-2-a13-wi-fi-256gb-gwiezdna-szarosc-9-gen-.html for BN2007993
+2025-04-25 08:51:49,487 [komputronik] INFO: 📋 Response for AN00000220 | Status: 200 | Size: 1384999 bytes
+2025-04-25 08:51:49,637 [komputronik] INFO: [16/352] AN00000220: 0.00 PLN | Outstock | 336 remaining
+2025-04-25 08:51:51,611 [komputronik] INFO: 😴 Sleeping for 20.21 seconds before request 18/352
+2025-04-25 08:52:11,829 [komputronik] INFO: 🚀 Sending request 18/352 to https://www.komputronik.pl/product/734238/apple-ipad-10-2-a13-wi-fi-cellular-256gb-srebrny-9-gen-.html for BN2007991
+2025-04-25 08:52:11,843 [komputronik] INFO: 📋 Response for BN2007993 | Status: 200 | Size: 1330200 bytes
+2025-04-25 08:52:11,964 [komputronik] INFO: [17/352] BN2007993: 0.00 PLN | Outstock | 335 remaining
+2025-04-25 08:52:14,080 [komputronik] INFO: 😴 Sleeping for 25.52 seconds before request 19/352
+2025-04-25 08:52:39,608 [komputronik] INFO: 🚀 Sending request 19/352 to https://www.komputronik.pl/product/734199/apple-ipad-10-2-a13-wi-fi-64gb-gwiezdna-szarosc-9-gen-.html for BN2007992
+2025-04-25 08:52:39,613 [komputronik] INFO: 📋 Response for BN2007991 | Status: 200 | Size: 1327479 bytes
+2025-04-25 08:52:39,721 [komputronik] INFO: [18/352] BN2007991: 0.00 PLN | Outstock | 334 remaining
+2025-04-25 08:52:41,641 [komputronik] INFO: 😴 Sleeping for 20.96 seconds before request 20/352
+2025-04-25 08:53:02,620 [komputronik] INFO: 🚀 Sending request 20/352 to https://www.komputronik.pl/product/734235/apple-ipad-10-2-a13-wi-fi-cellular-64gb-srebrny-9-gen-.html for BN2007990
+2025-04-25 08:53:02,623 [komputronik] INFO: 📋 Response for BN2007992 | Status: 200 | Size: 1336510 bytes
+2025-04-25 08:53:02,746 [komputronik] INFO: [19/352] BN2007992: 0.00 PLN | Outstock | 333 remaining
+2025-04-25 08:53:04,607 [komputronik] INFO: 😴 Sleeping for 24.84 seconds before request 21/352
+2025-04-25 08:53:29,462 [komputronik] INFO: 🚀 Sending request 21/352 to https://www.komputronik.pl/product/792935/apple-ipad-10-9-a14-wi-fi-cellular-256gb-rozowy-10-gen-.html for BN2008638
+2025-04-25 08:53:29,467 [komputronik] INFO: 📋 Response for BN2007990 | Status: 200 | Size: 1327435 bytes
+2025-04-25 08:53:29,586 [komputronik] INFO: [20/352] BN2007990: 0.00 PLN | Outstock | 332 remaining
+2025-04-25 08:53:31,624 [komputronik] INFO: 😴 Sleeping for 28.24 seconds before request 22/352
+2025-04-25 08:53:59,886 [komputronik] INFO: 🚀 Sending request 22/352 to https://www.komputronik.pl/product/792930/apple-ipad-10-9-a14-wi-fi-cellular-64gb-rozowy-10-gen-.html for BN2008639
+2025-04-25 08:53:59,890 [komputronik] INFO: 📋 Response for BN2008638 | Status: 200 | Size: 1337944 bytes
+2025-04-25 08:54:00,013 [komputronik] INFO: [21/352] BN2008638: 0.00 PLN | Outstock | 331 remaining
+2025-04-25 08:54:01,957 [komputronik] INFO: 😴 Sleeping for 20.40 seconds before request 23/352
+2025-04-25 08:54:22,360 [komputronik] INFO: 🚀 Sending request 23/352 to https://www.komputronik.pl/product/938740/tablet-apple-ipad-10-9-a14-wi-fi-64gb-niebieski-10-gen-.html for BN2008651
+2025-04-25 08:54:22,364 [komputronik] INFO: 📋 Response for BN2008639 | Status: 200 | Size: 1337236 bytes
+2025-04-25 08:54:22,473 [komputronik] INFO: [22/352] BN2008639: 0.00 PLN | Outstock | 330 remaining
+2025-04-25 08:54:23,538 [komputronik] INFO: 😴 Sleeping for 27.74 seconds before request 24/352
+2025-04-25 08:54:51,298 [komputronik] INFO: 🚀 Sending request 24/352 to https://www.komputronik.pl/product/960404/tablet-apple-ipad-10-9-a16-wi-fi-128gb-niebieski.html for BN2010111
+2025-04-25 08:54:51,321 [komputronik] INFO: 📋 Response for BN2008651 | Status: 200 | Size: 1437425 bytes
+2025-04-25 08:54:51,448 [komputronik] INFO: [23/352] BN2008651: 0.00 PLN | Outstock | 329 remaining
+2025-04-25 08:54:52,498 [komputronik] INFO: 😴 Sleeping for 28.42 seconds before request 25/352
+2025-04-25 08:55:20,939 [komputronik] INFO: 🚀 Sending request 25/352 to https://www.komputronik.pl/product/960408/tablet-apple-ipad-10-9-a16-wi-fi-256gb-niebieski.html for BN2010112
+2025-04-25 08:55:20,944 [komputronik] INFO: 📋 Response for BN2010111 | Status: 200 | Size: 1306070 bytes
+2025-04-25 08:55:21,088 [komputronik] INFO: [24/352] BN2010111: 0.00 PLN | Outstock | 328 remaining
+2025-04-25 08:55:22,130 [komputronik] INFO: 😴 Sleeping for 24.16 seconds before request 26/352
+2025-04-25 08:55:46,297 [komputronik] INFO: 🚀 Sending request 26/352 to https://www.komputronik.pl/product/960419/tablet-apple-ipad-10-9-a16-wi-fi-cellular-256gb-srebrny.html for BN2010115
+2025-04-25 08:55:46,301 [komputronik] INFO: 📋 Response for BN2010112 | Status: 200 | Size: 1337338 bytes
+2025-04-25 08:55:46,424 [komputronik] INFO: [25/352] BN2010112: 0.00 PLN | Outstock | 327 remaining
+2025-04-25 08:55:47,469 [komputronik] INFO: 😴 Sleeping for 22.37 seconds before request 27/352
+2025-04-25 08:56:09,847 [komputronik] INFO: 🚀 Sending request 27/352 to https://www.komputronik.pl/product/960425/tablet-apple-ipad-10-9-a16-wi-fi-cellular-512gb-zolty.html for BN2010116
+2025-04-25 08:56:09,859 [komputronik] INFO: 📋 Response for BN2010115 | Status: 200 | Size: 1242334 bytes
+2025-04-25 08:56:09,961 [komputronik] INFO: [26/352] BN2010115: 0.00 PLN | Outstock | 326 remaining
+2025-04-25 08:56:11,016 [komputronik] INFO: 😴 Sleeping for 26.43 seconds before request 28/352
+2025-04-25 08:56:37,454 [komputronik] INFO: 🚀 Sending request 28/352 to https://www.komputronik.pl/product/909867/tablet-apple-ipad-air-11-m2-wi-fi-cellular-128gb-niebieski.html for BN2009578
+2025-04-25 08:56:37,458 [komputronik] INFO: 📋 Response for BN2010116 | Status: 200 | Size: 1339083 bytes
+2025-04-25 08:56:37,565 [komputronik] INFO: [27/352] BN2010116: 0.00 PLN | Outstock | 325 remaining
+2025-04-25 08:56:39,607 [komputronik] INFO: 😴 Sleeping for 29.20 seconds before request 29/352
+2025-04-25 08:57:08,811 [komputronik] INFO: 🚀 Sending request 29/352 to https://www.komputronik.pl/product/909851/tablet-apple-ipad-air-11-m2-wi-fi-128gb-niebieski.html for BN2009589
+2025-04-25 08:57:08,815 [komputronik] INFO: 📋 Response for BN2009578 | Status: 200 | Size: 1238546 bytes
+2025-04-25 08:57:08,914 [komputronik] INFO: [28/352] BN2009578: 0.00 PLN | Outstock | 324 remaining
+2025-04-25 08:57:10,809 [komputronik] INFO: 😴 Sleeping for 29.73 seconds before request 30/352
+2025-04-25 08:57:40,550 [komputronik] INFO: 🚀 Sending request 30/352 to https://www.komputronik.pl/product/909878/tablet-apple-ipad-air-11-m2-wi-fi-cellular-1tb-gwiezdna-szarosc.html for BN2009584
+2025-04-25 08:57:40,554 [komputronik] INFO: 📋 Response for BN2009589 | Status: 200 | Size: 1342771 bytes
+2025-04-25 08:57:40,666 [komputronik] INFO: [29/352] BN2009589: 0.00 PLN | Outstock | 323 remaining
+2025-04-25 08:57:42,672 [komputronik] INFO: 😴 Sleeping for 24.46 seconds before request 31/352
+2025-04-25 08:58:07,148 [komputronik] INFO: 🚀 Sending request 31/352 to https://www.komputronik.pl/product/909870/tablet-apple-ipad-air-11-m2-wi-fi-cellular-256gb-gwiezdna-szarosc.html for BN2009582
+2025-04-25 08:58:07,151 [komputronik] INFO: 📋 Response for BN2009584 | Status: 200 | Size: 1339572 bytes
+2025-04-25 08:58:07,263 [komputronik] INFO: [30/352] BN2009584: 0.00 PLN | Outstock | 322 remaining
+2025-04-25 08:58:09,161 [komputronik] INFO: 😴 Sleeping for 21.77 seconds before request 32/352
+2025-04-25 08:58:30,938 [komputronik] INFO: 🚀 Sending request 32/352 to https://www.komputronik.pl/product/909855/tablet-apple-ipad-air-11-m2-wi-fi-256gb-niebieski.html for BN2009588
+2025-04-25 08:58:30,955 [komputronik] INFO: 📋 Response for BN2009582 | Status: 200 | Size: 1236836 bytes
+2025-04-25 08:58:31,053 [komputronik] INFO: [31/352] BN2009582: 0.00 PLN | Outstock | 321 remaining
+2025-04-25 08:58:33,095 [komputronik] INFO: 😴 Sleeping for 20.09 seconds before request 33/352
+2025-04-25 08:58:53,198 [komputronik] INFO: 🚀 Sending request 33/352 to https://www.komputronik.pl/product/909877/tablet-apple-ipad-air-11-m2-wi-fi-cellular-512gb-fioletowy.html for BN2009583
+2025-04-25 08:58:53,217 [komputronik] INFO: 📋 Response for BN2009588 | Status: 200 | Size: 1342115 bytes
+2025-04-25 08:58:53,326 [komputronik] INFO: [32/352] BN2009588: 0.00 PLN | Outstock | 320 remaining
+2025-04-25 08:58:54,363 [komputronik] INFO: 😴 Sleeping for 27.62 seconds before request 34/352
+2025-04-25 08:59:22,002 [komputronik] INFO: 🚀 Sending request 34/352 to https://www.komputronik.pl/product/960429/tablet-apple-ipad-air-11-m3-wi-fi-128gb-ksiezycowa-poswiata.html for BN2010117
+2025-04-25 08:59:22,006 [komputronik] INFO: 📋 Response for BN2009583 | Status: 200 | Size: 1388156 bytes
+2025-04-25 08:59:22,119 [komputronik] INFO: [33/352] BN2009583: 0.00 PLN | Outstock | 319 remaining
+2025-04-25 08:59:24,232 [komputronik] INFO: 😴 Sleeping for 29.12 seconds before request 35/352
+2025-04-25 08:59:53,359 [komputronik] INFO: 🚀 Sending request 35/352 to https://www.komputronik.pl/product/960445/tablet-apple-ipad-air-11-m3-wi-fi-cellular-128gb-ksiezycowa-poswiata.html for BN2010121
+2025-04-25 08:59:53,362 [komputronik] INFO: 📋 Response for BN2010117 | Status: 200 | Size: 1335627 bytes
+2025-04-25 08:59:53,470 [komputronik] INFO: [34/352] BN2010117: 0.00 PLN | Outstock | 318 remaining
+2025-04-25 08:59:54,531 [komputronik] INFO: 😴 Sleeping for 27.77 seconds before request 36/352
+2025-04-25 09:00:22,319 [komputronik] INFO: 🚀 Sending request 36/352 to https://www.komputronik.pl/product/960431/tablet-apple-ipad-air-11-m3-wi-fi-256gb-gwiezdna-szarosc.html for BN2010118
+2025-04-25 09:00:22,324 [komputronik] INFO: 📋 Response for BN2010121 | Status: 200 | Size: 1336687 bytes
+2025-04-25 09:00:22,434 [komputronik] INFO: [35/352] BN2010121: 0.00 PLN | Outstock | 317 remaining
+2025-04-25 09:00:23,468 [komputronik] INFO: 😴 Sleeping for 25.79 seconds before request 37/352
+2025-04-25 09:00:49,274 [komputronik] INFO: 🚀 Sending request 37/352 to https://www.komputronik.pl/product/960449/tablet-apple-ipad-air-11-m3-wi-fi-cellular-256gb-ksiezycowa-poswiata.html for BN2010122
+2025-04-25 09:00:49,278 [komputronik] INFO: 📋 Response for BN2010118 | Status: 200 | Size: 1342563 bytes
+2025-04-25 09:00:49,389 [komputronik] INFO: [36/352] BN2010118: 0.00 PLN | Outstock | 316 remaining
+2025-04-25 09:00:50,426 [komputronik] INFO: 😴 Sleeping for 27.88 seconds before request 38/352
+2025-04-25 09:01:18,318 [komputronik] INFO: 🚀 Sending request 38/352 to https://www.komputronik.pl/product/909898/tablet-apple-ipad-air-13-wi-fi-cellular-128gb-gwiezdna-szarosc.html for BN2009579
+2025-04-25 09:01:18,336 [komputronik] INFO: 📋 Response for BN2010122 | Status: 200 | Size: 1235037 bytes
+2025-04-25 09:01:18,431 [komputronik] INFO: [37/352] BN2010122: 0.00 PLN | Outstock | 315 remaining
+2025-04-25 09:01:19,482 [komputronik] INFO: 😴 Sleeping for 20.78 seconds before request 39/352
+2025-04-25 09:01:40,278 [komputronik] INFO: 🚀 Sending request 39/352 to https://www.komputronik.pl/product/909883/tablet-apple-ipad-air-13-m2-wi-fi-128gb-niebieski.html for BN2009597
+2025-04-25 09:01:40,282 [komputronik] INFO: 📋 Response for BN2009579 | Status: 200 | Size: 1222463 bytes
+2025-04-25 09:01:40,378 [komputronik] INFO: [38/352] BN2009579: 0.00 PLN | Outstock | 314 remaining
+2025-04-25 09:01:41,413 [komputronik] INFO: 😴 Sleeping for 27.37 seconds before request 40/352
+2025-04-25 09:02:08,786 [komputronik] INFO: 🚀 Sending request 40/352 to https://www.komputronik.pl/product/909911/tablet-apple-ipad-air-13-m2-wi-fi-cellular-1tb-niebieski.html for BN2009592
+2025-04-25 09:02:08,791 [komputronik] INFO: 📋 Response for BN2009597 | Status: 200 | Size: 1340653 bytes
+2025-04-25 09:02:08,903 [komputronik] INFO: [39/352] BN2009597: 0.00 PLN | Outstock | 313 remaining
+2025-04-25 09:02:10,823 [komputronik] INFO: 😴 Sleeping for 24.05 seconds before request 41/352
+2025-04-25 09:02:34,901 [komputronik] INFO: 🚀 Sending request 41/352 to https://www.komputronik.pl/product/909903/tablet-apple-ipad-air-13-wi-fi-cellular-256gb-niebieski.html for BN2009590
+2025-04-25 09:02:34,905 [komputronik] INFO: 📋 Response for BN2009592 | Status: 200 | Size: 1335858 bytes
+2025-04-25 09:02:35,012 [komputronik] INFO: [40/352] BN2009592: 0.00 PLN | Outstock | 312 remaining
+2025-04-25 09:02:36,959 [komputronik] INFO: 😴 Sleeping for 22.44 seconds before request 42/352
+2025-04-25 09:02:59,426 [komputronik] INFO: 🚀 Sending request 42/352 to https://www.komputronik.pl/product/909906/tablet-apple-ipad-air-13-wi-fi-cellular-512gb-gwiezdna-szarosc.html for BN2009591
+2025-04-25 09:02:59,429 [komputronik] INFO: 📋 Response for BN2009590 | Status: 200 | Size: 1323093 bytes
+2025-04-25 09:02:59,539 [komputronik] INFO: [41/352] BN2009590: 0.00 PLN | Outstock | 311 remaining
+2025-04-25 09:03:01,488 [komputronik] INFO: 😴 Sleeping for 26.78 seconds before request 43/352
+2025-04-25 09:03:28,275 [komputronik] INFO: 🚀 Sending request 43/352 to https://www.komputronik.pl/product/909888/tablet-apple-ipad-air-13-m2-wi-fi-256gb-ksiezycowa-poswiata.html for BN2009596
+2025-04-25 09:03:28,278 [komputronik] INFO: 📋 Response for BN2009591 | Status: 200 | Size: 1323615 bytes
+2025-04-25 09:03:28,392 [komputronik] INFO: [42/352] BN2009591: 0.00 PLN | Outstock | 310 remaining
+2025-04-25 09:03:29,451 [komputronik] INFO: 😴 Sleeping for 24.73 seconds before request 44/352
+2025-04-25 09:03:54,198 [komputronik] INFO: 🚀 Sending request 44/352 to https://www.komputronik.pl/product/960475/tablet-apple-ipad-air-13-m3-wi-fi-128gb-gwiezdna-szarosc.html for BN2010125
+2025-04-25 09:03:54,216 [komputronik] INFO: 📋 Response for BN2009596 | Status: 200 | Size: 1405049 bytes
+2025-04-25 09:03:54,334 [komputronik] INFO: [43/352] BN2009596: 0.00 PLN | Outstock | 309 remaining
+2025-04-25 09:03:55,383 [komputronik] INFO: 😴 Sleeping for 29.69 seconds before request 45/352
+2025-04-25 09:04:25,098 [komputronik] INFO: 🚀 Sending request 45/352 to https://www.komputronik.pl/product/960461/tablet-apple-ipad-air-13-m3-wi-fi-cellular-128gb-ksiezycowa-poswiata.html for BN2010129
+2025-04-25 09:04:25,103 [komputronik] INFO: 📋 Response for BN2010125 | Status: 200 | Size: 1334332 bytes
+2025-04-25 09:04:25,213 [komputronik] INFO: [44/352] BN2010125: 0.00 PLN | Outstock | 308 remaining
+2025-04-25 09:04:27,319 [komputronik] INFO: 😴 Sleeping for 21.67 seconds before request 46/352
+2025-04-25 09:04:49,003 [komputronik] INFO: 🚀 Sending request 46/352 to https://www.komputronik.pl/product/960480/tablet-apple-ipad-air-13-m3-wi-fi-256gb-niebieski.html for BN2010126
+2025-04-25 09:04:49,006 [komputronik] INFO: 📋 Response for BN2010129 | Status: 200 | Size: 1335492 bytes
+2025-04-25 09:04:49,119 [komputronik] INFO: [45/352] BN2010129: 0.00 PLN | Outstock | 307 remaining
+2025-04-25 09:04:50,180 [komputronik] INFO: 😴 Sleeping for 24.91 seconds before request 47/352
+2025-04-25 09:05:15,103 [komputronik] INFO: 🚀 Sending request 47/352 to https://www.komputronik.pl/product/960464/tablet-apple-ipad-air-13-m3-wi-fi-cellular-256gb-niebieski.html for BN2010130
+2025-04-25 09:05:15,107 [komputronik] INFO: 📋 Response for BN2010126 | Status: 200 | Size: 1332779 bytes
+2025-04-25 09:05:15,232 [komputronik] INFO: [46/352] BN2010126: 0.00 PLN | Outstock | 306 remaining
+2025-04-25 09:05:16,279 [komputronik] INFO: 😴 Sleeping for 29.07 seconds before request 48/352
+2025-04-25 09:05:45,384 [komputronik] INFO: 🚀 Sending request 48/352 to https://www.komputronik.pl/product/960468/tablet-apple-ipad-air-13-m3-wi-fi-cellular-512gb-niebieski.html for BN2010131
+2025-04-25 09:05:45,398 [komputronik] INFO: 📋 Response for BN2010130 | Status: 200 | Size: 1335735 bytes
+2025-04-25 09:05:45,515 [komputronik] INFO: [47/352] BN2010130: 0.00 PLN | Outstock | 305 remaining
+2025-04-25 09:05:47,723 [komputronik] INFO: 😴 Sleeping for 20.73 seconds before request 49/352
+2025-04-25 09:06:08,469 [komputronik] INFO: 🚀 Sending request 49/352 to https://www.komputronik.pl/product/909815/tablet-apple-ipad-pro-11-m4-wi-fi-cellular-1tb-srebrny.html for BN2009599
+2025-04-25 09:06:08,473 [komputronik] INFO: 📋 Response for BN2010131 | Status: 200 | Size: 1335384 bytes
+2025-04-25 09:06:08,582 [komputronik] INFO: [48/352] BN2010131: 0.00 PLN | Outstock | 304 remaining
+2025-04-25 09:06:10,802 [komputronik] INFO: 😴 Sleeping for 25.42 seconds before request 50/352
+2025-04-25 09:06:36,235 [komputronik] INFO: 🚀 Sending request 50/352 to https://www.komputronik.pl/product/909811/tablet-apple-ipad-pro-11-m4-wi-fi-cellular-256gb-srebrny.html for BN2009580
+2025-04-25 09:06:36,240 [komputronik] INFO: 📋 Response for BN2009599 | Status: 200 | Size: 1391814 bytes
+2025-04-25 09:06:36,368 [komputronik] INFO: [49/352] BN2009599: 0.00 PLN | Outstock | 303 remaining
+2025-04-25 09:06:38,458 [komputronik] INFO: 😴 Sleeping for 25.79 seconds before request 51/352
+2025-04-25 09:07:04,263 [komputronik] INFO: 🚀 Sending request 51/352 to https://www.komputronik.pl/product/909803/tablet-apple-ipad-pro-11-m4-wi-fi-256gb-srebrny.html for BN2009605
+2025-04-25 09:07:04,268 [komputronik] INFO: 📋 Response for BN2009580 | Status: 200 | Size: 1329762 bytes
+2025-04-25 09:07:04,374 [komputronik] INFO: [50/352] BN2009580: 0.00 PLN | Outstock | 302 remaining
+2025-04-25 09:07:05,430 [komputronik] INFO: 😴 Sleeping for 27.86 seconds before request 52/352
+2025-04-25 09:07:33,302 [komputronik] INFO: 🚀 Sending request 52/352 to https://www.komputronik.pl/product/909813/tablet-apple-ipad-pro-11-m4-wi-fi-cellular-512gb-srebrny.html for BN2009598
+2025-04-25 09:07:33,307 [komputronik] INFO: 📋 Response for BN2009605 | Status: 200 | Size: 1286723 bytes
+2025-04-25 09:07:33,425 [komputronik] INFO: [51/352] BN2009605: 0.00 PLN | Outstock | 301 remaining
+2025-04-25 09:07:34,495 [komputronik] INFO: 😴 Sleeping for 24.30 seconds before request 53/352
+2025-04-25 09:07:58,808 [komputronik] INFO: 🚀 Sending request 53/352 to https://www.komputronik.pl/product/792952/apple-ipad-pro-12-m2-wi-fi-256gb-gwiezdna-szarosc.html for BN2008659
+2025-04-25 09:07:58,811 [komputronik] INFO: 📋 Response for BN2009598 | Status: 200 | Size: 1329121 bytes
+2025-04-25 09:07:58,923 [komputronik] INFO: [52/352] BN2009598: 0.00 PLN | Outstock | 300 remaining
+2025-04-25 09:08:00,907 [komputronik] INFO: 😴 Sleeping for 28.67 seconds before request 54/352
+2025-04-25 09:08:29,597 [komputronik] INFO: 🚀 Sending request 54/352 to https://www.komputronik.pl/product/792954/apple-ipad-pro-12-m2-wi-fi-512gb-gwiezdna-szarosc.html for BN2008661
+2025-04-25 09:08:29,603 [komputronik] INFO: 📋 Response for BN2008659 | Status: 200 | Size: 1339158 bytes
+2025-04-25 09:08:29,715 [komputronik] INFO: [53/352] BN2008659: 0.00 PLN | Outstock | 299 remaining
+2025-04-25 09:08:31,606 [komputronik] INFO: 😴 Sleeping for 21.76 seconds before request 55/352
+2025-04-25 09:08:53,370 [komputronik] INFO: 🚀 Sending request 55/352 to https://www.komputronik.pl/product/909831/tablet-apple-ipad-pro-13-m4-wi-fi-cellular-1tb-srebrny.html for BN2009607
+2025-04-25 09:08:53,374 [komputronik] INFO: 📋 Response for BN2008661 | Status: 200 | Size: 1339515 bytes
+2025-04-25 09:08:53,491 [komputronik] INFO: [54/352] BN2008661: 0.00 PLN | Outstock | 298 remaining
+2025-04-25 09:08:54,527 [komputronik] INFO: 😴 Sleeping for 24.50 seconds before request 56/352
+2025-04-25 09:09:19,032 [komputronik] INFO: 🚀 Sending request 56/352 to https://www.komputronik.pl/product/909826/tablet-apple-ipad-pro-13-m4-wi-fi-cellular-256gb-gwiezdna-czern.html for BN2009581
+2025-04-25 09:09:19,037 [komputronik] INFO: 📋 Response for BN2009607 | Status: 200 | Size: 1398420 bytes
+2025-04-25 09:09:19,171 [komputronik] INFO: [55/352] BN2009607: 0.00 PLN | Outstock | 297 remaining
+2025-04-25 09:09:20,228 [komputronik] INFO: 😴 Sleeping for 27.30 seconds before request 57/352
+2025-04-25 09:09:47,536 [komputronik] INFO: 🚀 Sending request 57/352 to https://www.komputronik.pl/product/909818/tablet-apple-ipad-pro-13-m4-wi-fi-256gb-gwiezdna-czern.html for BN2009613
+2025-04-25 09:09:47,540 [komputronik] INFO: 📋 Response for BN2009581 | Status: 200 | Size: 1345542 bytes
+2025-04-25 09:09:47,659 [komputronik] INFO: [56/352] BN2009581: 0.00 PLN | Outstock | 296 remaining
+2025-04-25 09:09:48,695 [komputronik] INFO: 😴 Sleeping for 26.07 seconds before request 58/352
+2025-04-25 09:10:14,778 [komputronik] INFO: 🚀 Sending request 58/352 to https://www.komputronik.pl/product/909828/tablet-apple-ipad-pro-13-m4-wi-fi-cellular-512gb-gwiezdna-czern.html for BN2009606
+2025-04-25 09:10:14,782 [komputronik] INFO: 📋 Response for BN2009613 | Status: 200 | Size: 1407435 bytes
+2025-04-25 09:10:14,894 [komputronik] INFO: [57/352] BN2009613: 0.00 PLN | Outstock | 295 remaining
+2025-04-25 09:10:16,826 [komputronik] INFO: 😴 Sleeping for 25.77 seconds before request 59/352
+2025-04-25 09:10:42,614 [komputronik] INFO: 🚀 Sending request 59/352 to https://www.komputronik.pl/product/703595/apple-iphone-12-128gb-bialy.html for BN2007613
+2025-04-25 09:10:42,619 [komputronik] INFO: 📋 Response for BN2009606 | Status: 200 | Size: 1242896 bytes
+2025-04-25 09:10:42,717 [komputronik] INFO: [58/352] BN2009606: 0.00 PLN | Outstock | 294 remaining
+2025-04-25 09:10:44,711 [komputronik] INFO: 😴 Sleeping for 26.90 seconds before request 60/352
+2025-04-25 09:11:11,632 [komputronik] INFO: 🚀 Sending request 60/352 to https://www.komputronik.pl/product/721741/apple-iphone-12-64gb-fioletowy.html for BN2007612
+2025-04-25 09:11:11,636 [komputronik] INFO: 📋 Response for BN2007613 | Status: 200 | Size: 1253555 bytes
+2025-04-25 09:11:11,739 [komputronik] INFO: [59/352] BN2007613: 0.00 PLN | Outstock | 293 remaining
+2025-04-25 09:11:13,742 [komputronik] INFO: 😴 Sleeping for 22.57 seconds before request 61/352
+2025-04-25 09:11:36,327 [komputronik] INFO: 🚀 Sending request 61/352 to https://www.komputronik.pl/product/734168/apple-iphone-13-128gb-polnoc-midnight-.html for BN2007979
+2025-04-25 09:11:36,344 [komputronik] INFO: 📋 Response for BN2007612 | Status: 200 | Size: 1348137 bytes
+2025-04-25 09:11:36,451 [komputronik] INFO: [60/352] BN2007612: 0.00 PLN | Outstock | 292 remaining
+2025-04-25 09:11:37,509 [komputronik] INFO: 😴 Sleeping for 26.29 seconds before request 62/352
+2025-04-25 09:12:03,809 [komputronik] INFO: 🚀 Sending request 62/352 to https://www.komputronik.pl/product/734174/apple-iphone-13-256gb-ksiezycowa-poswiata-starlight-.html for BN2007980
+2025-04-25 09:12:03,813 [komputronik] INFO: 📋 Response for BN2007979 | Status: 200 | Size: 1377863 bytes
+2025-04-25 09:12:03,926 [komputronik] INFO: [61/352] BN2007979: 0.00 PLN | Outstock | 291 remaining
+2025-04-25 09:12:05,848 [komputronik] INFO: 😴 Sleeping for 22.33 seconds before request 63/352
+2025-04-25 09:12:28,207 [komputronik] INFO: 🚀 Sending request 63/352 to https://www.komputronik.pl/product/734178/apple-iphone-13-512gb-polnoc-midnight-.html for BN2007981
+2025-04-25 09:12:28,212 [komputronik] INFO: 📋 Response for BN2007980 | Status: 200 | Size: 1257615 bytes
+2025-04-25 09:12:28,315 [komputronik] INFO: [62/352] BN2007980: 0.00 PLN | Outstock | 290 remaining
+2025-04-25 09:12:30,262 [komputronik] INFO: 😴 Sleeping for 28.89 seconds before request 64/352
+2025-04-25 09:12:59,155 [komputronik] INFO: 🚀 Sending request 64/352 to https://www.komputronik.pl/product/784513/apple-iphone-14-128gb-product-red.html for BN2008517
+2025-04-25 09:12:59,159 [komputronik] INFO: 📋 Response for BN2007981 | Status: 200 | Size: 1359123 bytes
+2025-04-25 09:12:59,270 [komputronik] INFO: [63/352] BN2007981: 0.00 PLN | Outstock | 289 remaining
+2025-04-25 09:13:01,200 [komputronik] INFO: 😴 Sleeping for 23.33 seconds before request 65/352
+2025-04-25 09:13:24,539 [komputronik] INFO: 🚀 Sending request 65/352 to https://www.komputronik.pl/product/784571/apple-iphone-14-256gb-fioletowy.html for BN2008518
+2025-04-25 09:13:24,544 [komputronik] INFO: 📋 Response for BN2008517 | Status: 200 | Size: 1341946 bytes
+2025-04-25 09:13:24,660 [komputronik] INFO: [64/352] BN2008517: 0.00 PLN | Outstock | 288 remaining
+2025-04-25 09:13:26,533 [komputronik] INFO: 😴 Sleeping for 23.42 seconds before request 66/352
+2025-04-25 09:13:49,973 [komputronik] INFO: 🚀 Sending request 66/352 to https://www.komputronik.pl/product/784575/apple-iphone-14-512gb-product-red.html for BN2008519
+2025-04-25 09:13:49,990 [komputronik] INFO: 📋 Response for BN2008518 | Status: 200 | Size: 1239364 bytes
+2025-04-25 09:13:50,096 [komputronik] INFO: [65/352] BN2008518: 0.00 PLN | Outstock | 287 remaining
+2025-04-25 09:13:51,994 [komputronik] INFO: 😴 Sleeping for 28.19 seconds before request 67/352
+2025-04-25 09:14:20,205 [komputronik] INFO: 🚀 Sending request 67/352 to https://www.komputronik.pl/product/784580/apple-iphone-14-plus-256gb-product-red.html for BN2008515
+2025-04-25 09:14:20,223 [komputronik] INFO: 📋 Response for BN2008519 | Status: 200 | Size: 1341572 bytes
+2025-04-25 09:14:20,332 [komputronik] INFO: [66/352] BN2008519: 0.00 PLN | Outstock | 286 remaining
+2025-04-25 09:14:22,300 [komputronik] INFO: 😴 Sleeping for 25.21 seconds before request 68/352
+2025-04-25 09:14:47,515 [komputronik] INFO: 🚀 Sending request 68/352 to https://www.komputronik.pl/product/784586/apple-iphone-14-plus-512gb-fioletowy.html for BN2008516
+2025-04-25 09:14:47,520 [komputronik] INFO: 📋 Response for BN2008515 | Status: 200 | Size: 1346172 bytes
+2025-04-25 09:14:47,631 [komputronik] INFO: [67/352] BN2008515: 0.00 PLN | Outstock | 285 remaining
+2025-04-25 09:14:49,509 [komputronik] INFO: 😴 Sleeping for 27.43 seconds before request 69/352
+2025-04-25 09:15:16,950 [komputronik] INFO: 🚀 Sending request 69/352 to https://www.komputronik.pl/product/860881/telefon-apple-iphone-15-128gb-rozowy.html for BN2009133
+2025-04-25 09:15:16,953 [komputronik] INFO: 📋 Response for BN2008516 | Status: 200 | Size: 1241712 bytes
+2025-04-25 09:15:17,055 [komputronik] INFO: [68/352] BN2008516: 0.00 PLN | Outstock | 284 remaining
+2025-04-25 09:15:18,094 [komputronik] INFO: 😴 Sleeping for 25.59 seconds before request 70/352
+2025-04-25 09:15:43,698 [komputronik] INFO: 🚀 Sending request 70/352 to https://www.komputronik.pl/product/860845/telefon-apple-iphone-15-256gb-rozowy.html for BN2009142
+2025-04-25 09:15:43,702 [komputronik] INFO: 📋 Response for BN2009133 | Status: 200 | Size: 1546327 bytes
+2025-04-25 09:15:43,856 [komputronik] INFO: [69/352] BN2009133: 0.00 PLN | Outstock | 283 remaining
+2025-04-25 09:15:45,821 [komputronik] INFO: 😴 Sleeping for 20.14 seconds before request 71/352
+2025-04-25 09:16:05,975 [komputronik] INFO: 🚀 Sending request 71/352 to https://www.komputronik.pl/product/860838/telefon-apple-iphone-15-512gb-zielony.html for BN2009143
+2025-04-25 09:16:05,990 [komputronik] INFO: 📋 Response for BN2009142 | Status: 200 | Size: 1542841 bytes
+2025-04-25 09:16:06,114 [komputronik] INFO: [70/352] BN2009142: 0.00 PLN | Outstock | 282 remaining
+2025-04-25 09:16:07,778 [komputronik] INFO: 😴 Sleeping for 20.05 seconds before request 72/352
+2025-04-25 09:16:27,840 [komputronik] INFO: 🚀 Sending request 72/352 to https://www.komputronik.pl/product/860877/telefon-apple-iphone-15-plus-128gb-rozowy.html for BN2009134
+2025-04-25 09:16:27,844 [komputronik] INFO: 📋 Response for BN2009143 | Status: 200 | Size: 1250664 bytes
+2025-04-25 09:16:27,946 [komputronik] INFO: [71/352] BN2009143: 0.00 PLN | Outstock | 281 remaining
+2025-04-25 09:16:28,987 [komputronik] INFO: 😴 Sleeping for 29.22 seconds before request 73/352
+2025-04-25 09:16:58,218 [komputronik] INFO: 🚀 Sending request 73/352 to https://www.komputronik.pl/product/860831/telefon-apple-iphone-15-plus-256gb-czarny.html for BN2009144
+2025-04-25 09:16:58,222 [komputronik] INFO: 📋 Response for BN2009134 | Status: 200 | Size: 1668769 bytes
+2025-04-25 09:16:58,365 [komputronik] INFO: [72/352] BN2009134: 0.00 PLN | Outstock | 280 remaining
+2025-04-25 09:16:59,383 [komputronik] INFO: 😴 Sleeping for 22.19 seconds before request 74/352
+2025-04-25 09:17:21,595 [komputronik] INFO: 🚀 Sending request 74/352 to https://www.komputronik.pl/product/860448/telefon-apple-iphone-15-plus-512gb-zolty.html for BN2009145
+2025-04-25 09:17:21,607 [komputronik] INFO: 📋 Response for BN2009144 | Status: 200 | Size: 1354856 bytes
+2025-04-25 09:17:21,724 [komputronik] INFO: [73/352] BN2009144: 0.00 PLN | Outstock | 279 remaining
+2025-04-25 09:17:23,619 [komputronik] INFO: 😴 Sleeping for 25.96 seconds before request 75/352
+2025-04-25 09:17:49,602 [komputronik] INFO: 🚀 Sending request 75/352 to https://www.komputronik.pl/product/860889/telefon-apple-iphone-15-pro-128gb-tytan-czarny.html for BN2009135
+2025-04-25 09:17:49,606 [komputronik] INFO: 📋 Response for BN2009145 | Status: 200 | Size: 1249920 bytes
+2025-04-25 09:17:49,708 [komputronik] INFO: [74/352] BN2009145: 0.00 PLN | Outstock | 278 remaining
+2025-04-25 09:17:51,632 [komputronik] INFO: 😴 Sleeping for 23.32 seconds before request 76/352
+2025-04-25 09:18:14,961 [komputronik] INFO: 🚀 Sending request 76/352 to https://www.komputronik.pl/product/860846/telefon-apple-iphone-15-pro-1tb-tytan-naturalny.html for BN2009148
+2025-04-25 09:18:14,964 [komputronik] INFO: 📋 Response for BN2009135 | Status: 200 | Size: 1360423 bytes
+2025-04-25 09:18:15,076 [komputronik] INFO: [75/352] BN2009135: 0.00 PLN | Outstock | 277 remaining
+2025-04-25 09:18:16,958 [komputronik] INFO: 😴 Sleeping for 23.41 seconds before request 77/352
+2025-04-25 09:18:40,379 [komputronik] INFO: 🚀 Sending request 77/352 to https://www.komputronik.pl/product/860856/telefon-apple-iphone-15-pro-256gb-tytan-bialy.html for BN2009146
+2025-04-25 09:18:40,395 [komputronik] INFO: 📋 Response for BN2009148 | Status: 200 | Size: 1354245 bytes
+2025-04-25 09:18:40,508 [komputronik] INFO: [76/352] BN2009148: 0.00 PLN | Outstock | 276 remaining
+2025-04-25 09:18:42,402 [komputronik] INFO: 😴 Sleeping for 29.68 seconds before request 78/352
+2025-04-25 09:19:12,106 [komputronik] INFO: 🚀 Sending request 78/352 to https://www.komputronik.pl/product/860850/telefon-apple-iphone-15-pro-512gb-tytan-naturalny.html for BN2009147
+2025-04-25 09:19:12,109 [komputronik] INFO: 📋 Response for BN2009146 | Status: 200 | Size: 1249999 bytes
+2025-04-25 09:19:12,205 [komputronik] INFO: [77/352] BN2009146: 0.00 PLN | Outstock | 275 remaining
+2025-04-25 09:19:14,138 [komputronik] INFO: 😴 Sleeping for 27.47 seconds before request 79/352
+2025-04-25 09:19:41,639 [komputronik] INFO: 🚀 Sending request 79/352 to https://www.komputronik.pl/product/860859/telefon-apple-iphone-15-pro-max-1tb-tytan-blekitny.html for BN2009151
+2025-04-25 09:19:41,645 [komputronik] INFO: 📋 Response for BN2009147 | Status: 200 | Size: 1250938 bytes
+2025-04-25 09:19:41,751 [komputronik] INFO: [78/352] BN2009147: 0.00 PLN | Outstock | 274 remaining
+2025-04-25 09:19:43,638 [komputronik] INFO: 😴 Sleeping for 27.13 seconds before request 80/352
+2025-04-25 09:20:10,794 [komputronik] INFO: 🚀 Sending request 80/352 to https://www.komputronik.pl/product/860869/telefon-apple-iphone-15-pro-max-256gb-tytan-bialy.html for BN2009136
+2025-04-25 09:20:10,811 [komputronik] INFO: 📋 Response for BN2009151 | Status: 200 | Size: 1355914 bytes
+2025-04-25 09:20:10,919 [komputronik] INFO: [79/352] BN2009151: 0.00 PLN | Outstock | 273 remaining
+2025-04-25 09:20:12,856 [komputronik] INFO: 😴 Sleeping for 24.98 seconds before request 81/352
+2025-04-25 09:20:37,853 [komputronik] INFO: 🚀 Sending request 81/352 to https://www.komputronik.pl/product/860866/telefon-apple-iphone-15-pro-max-512gb-tytan-czarny.html for BN2009150
+2025-04-25 09:20:37,857 [komputronik] INFO: 📋 Response for BN2009136 | Status: 200 | Size: 1355729 bytes
+2025-04-25 09:20:37,968 [komputronik] INFO: [80/352] BN2009136: 0.00 PLN | Outstock | 272 remaining
+2025-04-25 09:20:39,918 [komputronik] INFO: 😴 Sleeping for 27.76 seconds before request 82/352
+2025-04-25 09:21:07,688 [komputronik] INFO: 🚀 Sending request 82/352 to https://www.komputronik.pl/product/929578/telefon-apple-iphone-16-128gb-czarny.html for BN2009874
+2025-04-25 09:21:07,693 [komputronik] INFO: 📋 Response for BN2009150 | Status: 200 | Size: 1353720 bytes
+2025-04-25 09:21:07,806 [komputronik] INFO: [81/352] BN2009150: 0.00 PLN | Outstock | 271 remaining
+2025-04-25 09:21:08,857 [komputronik] INFO: 😴 Sleeping for 29.98 seconds before request 83/352
+2025-04-25 09:21:38,855 [komputronik] INFO: 🚀 Sending request 83/352 to https://www.komputronik.pl/product/929583/telefon-apple-iphone-16-256gb-czarny.html for BN2009878
+2025-04-25 09:21:38,860 [komputronik] INFO: 📋 Response for BN2009874 | Status: 200 | Size: 1685740 bytes
+2025-04-25 09:21:39,002 [komputronik] INFO: [82/352] BN2009874: 0.00 PLN | Outstock | 270 remaining
+2025-04-25 09:21:40,046 [komputronik] INFO: 😴 Sleeping for 23.97 seconds before request 84/352
+2025-04-25 09:22:04,026 [komputronik] INFO: 🚀 Sending request 84/352 to https://www.komputronik.pl/product/929589/telefon-apple-iphone-16-512gb-niebieski.html for BN2009879
+2025-04-25 09:22:04,030 [komputronik] INFO: 📋 Response for BN2009878 | Status: 200 | Size: 1366223 bytes
+2025-04-25 09:22:04,139 [komputronik] INFO: [83/352] BN2009878: 0.00 PLN | Outstock | 269 remaining
+2025-04-25 09:22:05,172 [komputronik] INFO: 😴 Sleeping for 26.45 seconds before request 85/352
+2025-04-25 09:22:31,644 [komputronik] INFO: 🚀 Sending request 85/352 to https://www.komputronik.pl/product/929593/telefon-apple-iphone-16-plus-128gb-czarny.html for BN2009875
+2025-04-25 09:22:31,662 [komputronik] INFO: 📋 Response for BN2009879 | Status: 200 | Size: 1367101 bytes
+2025-04-25 09:22:31,779 [komputronik] INFO: [84/352] BN2009879: 0.00 PLN | Outstock | 268 remaining
+2025-04-25 09:22:32,826 [komputronik] INFO: 😴 Sleeping for 23.65 seconds before request 86/352
+2025-04-25 09:22:56,491 [komputronik] INFO: 🚀 Sending request 86/352 to https://www.komputronik.pl/product/929599/telefon-apple-iphone-16-plus-256gb-czarny.html for BN2009880
+2025-04-25 09:22:56,495 [komputronik] INFO: 📋 Response for BN2009875 | Status: 200 | Size: 1358598 bytes
+2025-04-25 09:22:56,605 [komputronik] INFO: [85/352] BN2009875: 0.00 PLN | Outstock | 267 remaining
+2025-04-25 09:22:57,649 [komputronik] INFO: 😴 Sleeping for 24.34 seconds before request 87/352
+2025-04-25 09:23:22,006 [komputronik] INFO: 🚀 Sending request 87/352 to https://www.komputronik.pl/product/929604/telefon-apple-iphone-16-plus-512gb-czarny.html for BN2009881
+2025-04-25 09:23:22,010 [komputronik] INFO: 📋 Response for BN2009880 | Status: 200 | Size: 1356781 bytes
+2025-04-25 09:23:22,121 [komputronik] INFO: [86/352] BN2009880: 0.00 PLN | Outstock | 266 remaining
+2025-04-25 09:23:23,166 [komputronik] INFO: 😴 Sleeping for 24.03 seconds before request 88/352
+2025-04-25 09:23:47,206 [komputronik] INFO: 🚀 Sending request 88/352 to https://www.komputronik.pl/product/929611/telefon-apple-iphone-16-pro-128gb-tytan-czarny.html for BN2009876
+2025-04-25 09:23:47,210 [komputronik] INFO: 📋 Response for BN2009881 | Status: 200 | Size: 1356915 bytes
+2025-04-25 09:23:47,331 [komputronik] INFO: [87/352] BN2009881: 0.00 PLN | Outstock | 265 remaining
+2025-04-25 09:23:48,393 [komputronik] INFO: 😴 Sleeping for 22.12 seconds before request 89/352
+2025-04-25 09:24:10,531 [komputronik] INFO: 🚀 Sending request 89/352 to https://www.komputronik.pl/product/929615/telefon-apple-iphone-16-pro-1tb-tytan-czarny.html for BN2009884
+2025-04-25 09:24:10,535 [komputronik] INFO: 📋 Response for BN2009876 | Status: 200 | Size: 1701148 bytes
+2025-04-25 09:24:10,687 [komputronik] INFO: [88/352] BN2009876: 0.00 PLN | Outstock | 264 remaining
+2025-04-25 09:24:12,139 [komputronik] INFO: 😴 Sleeping for 23.52 seconds before request 90/352
+2025-04-25 09:24:35,681 [komputronik] INFO: 🚀 Sending request 90/352 to https://www.komputronik.pl/product/929617/telefon-apple-iphone-16-pro-256gb-tytan-bialy.html for BN2009882
+2025-04-25 09:24:35,684 [komputronik] INFO: 📋 Response for BN2009884 | Status: 200 | Size: 1377324 bytes
+2025-04-25 09:24:35,798 [komputronik] INFO: [89/352] BN2009884: 0.00 PLN | Outstock | 263 remaining
+2025-04-25 09:24:36,839 [komputronik] INFO: 😴 Sleeping for 20.53 seconds before request 91/352
+2025-04-25 09:24:57,382 [komputronik] INFO: 🚀 Sending request 91/352 to https://www.komputronik.pl/product/929624/telefon-apple-iphone-16-pro-512gb-tytan-naturalny.html for BN2009883
+2025-04-25 09:24:57,386 [komputronik] INFO: 📋 Response for BN2009882 | Status: 200 | Size: 1564944 bytes
+2025-04-25 09:24:57,514 [komputronik] INFO: [90/352] BN2009882: 0.00 PLN | Outstock | 262 remaining
+2025-04-25 09:24:58,557 [komputronik] INFO: 😴 Sleeping for 25.59 seconds before request 92/352
+2025-04-25 09:25:24,155 [komputronik] INFO: 🚀 Sending request 92/352 to https://www.komputronik.pl/product/929628/telefon-apple-iphone-16-pro-max-1tb-tytan-naturalny.html for BN2009886
+2025-04-25 09:25:24,160 [komputronik] INFO: 📋 Response for BN2009883 | Status: 200 | Size: 1271928 bytes
+2025-04-25 09:25:24,261 [komputronik] INFO: [91/352] BN2009883: 0.00 PLN | Outstock | 261 remaining
+2025-04-25 09:25:25,291 [komputronik] INFO: 😴 Sleeping for 25.14 seconds before request 93/352
+2025-04-25 09:25:50,454 [komputronik] INFO: 🚀 Sending request 93/352 to https://www.komputronik.pl/product/929631/telefon-apple-iphone-16-pro-max-256gb-tytan-czarny.html for BN2009877
+2025-04-25 09:25:50,464 [komputronik] INFO: 📋 Response for BN2009886 | Status: 200 | Size: 1375957 bytes
+2025-04-25 09:25:50,573 [komputronik] INFO: [92/352] BN2009886: 0.00 PLN | Outstock | 260 remaining
+2025-04-25 09:25:51,616 [komputronik] INFO: 😴 Sleeping for 22.20 seconds before request 94/352
+2025-04-25 09:26:13,830 [komputronik] INFO: 🚀 Sending request 94/352 to https://www.komputronik.pl/product/929633/telefon-apple-iphone-16-pro-max-512gb-tytan-bialy.html for BN2009885
+2025-04-25 09:26:13,834 [komputronik] INFO: 📋 Response for BN2009877 | Status: 200 | Size: 1709312 bytes
+2025-04-25 09:26:13,973 [komputronik] INFO: [93/352] BN2009877: 0.00 PLN | Outstock | 259 remaining
+2025-04-25 09:26:15,019 [komputronik] INFO: 😴 Sleeping for 27.00 seconds before request 95/352
+2025-04-25 09:26:42,038 [komputronik] INFO: 🚀 Sending request 95/352 to https://www.komputronik.pl/product/958369/telefon-apple-iphone-16e-128gb-bialy.html for BN2010109
+2025-04-25 09:26:42,043 [komputronik] INFO: 📋 Response for BN2009885 | Status: 200 | Size: 1569069 bytes
+2025-04-25 09:26:42,172 [komputronik] INFO: [94/352] BN2009885: 0.00 PLN | Outstock | 258 remaining
+2025-04-25 09:26:43,215 [komputronik] INFO: 😴 Sleeping for 20.31 seconds before request 96/352
+2025-04-25 09:27:03,541 [komputronik] INFO: 🚀 Sending request 96/352 to https://www.komputronik.pl/product/958371/telefon-apple-iphone-16e-256gb-bialy.html for BN2010110
+2025-04-25 09:27:03,553 [komputronik] INFO: 📋 Response for BN2010109 | Status: 200 | Size: 1563114 bytes
+2025-04-25 09:27:03,677 [komputronik] INFO: [95/352] BN2010109: 0.00 PLN | Outstock | 257 remaining
+2025-04-25 09:27:04,730 [komputronik] INFO: 😴 Sleeping for 27.98 seconds before request 97/352
+2025-04-25 09:27:32,724 [komputronik] INFO: 🚀 Sending request 97/352 to https://www.komputronik.pl/product/958373/telefon-apple-iphone-16e-512gb-bialy.html for BN2010108
+2025-04-25 09:27:32,728 [komputronik] INFO: 📋 Response for BN2010110 | Status: 200 | Size: 1687577 bytes
+2025-04-25 09:27:32,868 [komputronik] INFO: [96/352] BN2010110: 0.00 PLN | Outstock | 256 remaining
+2025-04-25 09:27:33,909 [komputronik] INFO: 😴 Sleeping for 20.03 seconds before request 98/352
+2025-04-25 09:27:53,957 [komputronik] INFO: 🚀 Sending request 98/352 to https://www.komputronik.pl/product/862032/apple-watch-se-gps-40mm-aluminium-polnoc-polnoc-opaska-sportowa.html for BN2009222
+2025-04-25 09:27:53,960 [komputronik] INFO: 📋 Response for BN2010108 | Status: 200 | Size: 1689811 bytes
+2025-04-25 09:27:54,098 [komputronik] INFO: [97/352] BN2010108: 0.00 PLN | Outstock | 255 remaining
+2025-04-25 09:27:56,050 [komputronik] INFO: 😴 Sleeping for 27.60 seconds before request 99/352
+2025-04-25 09:28:23,663 [komputronik] INFO: 🚀 Sending request 99/352 to https://www.komputronik.pl/product/862100/apple-watch-se-gps-44mm-aluminium-ksiezycowa-poswiata-ksiezycowa-poswiata-pasek-sportowy-s-m.html for BN2009221
+2025-04-25 09:28:23,668 [komputronik] INFO: 📋 Response for BN2009222 | Status: 200 | Size: 1347104 bytes
+2025-04-25 09:28:23,776 [komputronik] INFO: [98/352] BN2009222: 0.00 PLN | Outstock | 254 remaining
+2025-04-25 09:28:25,704 [komputronik] INFO: 😴 Sleeping for 25.88 seconds before request 100/352
+2025-04-25 09:28:51,592 [komputronik] INFO: 🚀 Sending request 100/352 to https://www.komputronik.pl/product/930422/zegarek-smartwatch-apple-watch-se-gps-40mm-midnight-aluminium-case-midnight-sport-band-m-l.html for AN00000170
+2025-04-25 09:28:51,595 [komputronik] INFO: 📋 Response for BN2009221 | Status: 200 | Size: 1347693 bytes
+2025-04-25 09:28:51,707 [komputronik] INFO: [99/352] BN2009221: 0.00 PLN | Outstock | 253 remaining
+2025-04-25 09:28:53,859 [komputronik] INFO: 😴 Sleeping for 28.52 seconds before request 101/352
+2025-04-25 09:29:22,402 [komputronik] INFO: 🚀 Sending request 101/352 to https://www.komputronik.pl/product/862124/apple-watch-se-gps-cellular-44mm-aluminium-srebrny-zimowy-blekit-opaska-sportowa.html for AN00000171
+2025-04-25 09:29:22,406 [komputronik] INFO: 📋 Response for AN00000170 | Status: 200 | Size: 1356826 bytes
+2025-04-25 09:29:22,519 [komputronik] INFO: [100/352] AN00000170: 0.00 PLN | Outstock | 252 remaining
+2025-04-25 09:29:24,442 [komputronik] INFO: 😴 Sleeping for 25.34 seconds before request 102/352
+2025-04-25 09:29:49,807 [komputronik] INFO: 🚀 Sending request 102/352 to https://www.komputronik.pl/product/861852/apple-watch-9-gps-41mm-aluminium-srebrny-sztormowy-blekit-pasek-sportowy-m-l.html for BN2009141
+2025-04-25 09:29:49,811 [komputronik] INFO: 📋 Response for AN00000171 | Status: 200 | Size: 1246203 bytes
+2025-04-25 09:29:49,910 [komputronik] INFO: [101/352] AN00000171: 0.00 PLN | Outstock | 251 remaining
+2025-04-25 09:29:51,828 [komputronik] INFO: 😴 Sleeping for 28.24 seconds before request 103/352
+2025-04-25 09:30:20,085 [komputronik] INFO: 🚀 Sending request 103/352 to https://www.komputronik.pl/product/861870/apple-watch-9-gps-45mm-aluminium-product-red-czerwony-pasek-sportowy-s-m.html for BN2009140
+2025-04-25 09:30:20,088 [komputronik] INFO: 📋 Response for BN2009141 | Status: 200 | Size: 1353514 bytes
+2025-04-25 09:30:20,200 [komputronik] INFO: [102/352] BN2009141: 0.00 PLN | Outstock | 250 remaining
+2025-04-25 09:30:22,126 [komputronik] INFO: 😴 Sleeping for 26.44 seconds before request 104/352
+2025-04-25 09:30:48,582 [komputronik] INFO: 🚀 Sending request 104/352 to https://www.komputronik.pl/product/860954/apple-watch-9-gps-cellular-41mm-stalowy-srebrny-sztormowy-blekit-pasek-sportowy-s-m.html for BN2009139
+2025-04-25 09:30:48,599 [komputronik] INFO: 📋 Response for BN2009140 | Status: 200 | Size: 1249708 bytes
+2025-04-25 09:30:48,701 [komputronik] INFO: [103/352] BN2009140: 0.00 PLN | Outstock | 249 remaining
+2025-04-25 09:30:50,899 [komputronik] INFO: 😴 Sleeping for 29.69 seconds before request 105/352
+2025-04-25 09:31:20,602 [komputronik] INFO: 🚀 Sending request 105/352 to https://www.komputronik.pl/product/861989/apple-watch-9-gps-cellular-45mm-stalowy-zloty-popielaty-braz-pasek-sportowy-s-m.html for BN2009138
+2025-04-25 09:31:20,607 [komputronik] INFO: 📋 Response for BN2009139 | Status: 200 | Size: 1354806 bytes
+2025-04-25 09:31:20,716 [komputronik] INFO: [104/352] BN2009139: 0.00 PLN | Outstock | 248 remaining
+2025-04-25 09:31:21,658 [komputronik] INFO: 😴 Sleeping for 26.96 seconds before request 106/352
+2025-04-25 09:31:48,639 [komputronik] INFO: 🚀 Sending request 106/352 to https://www.komputronik.pl/product/930388/zegarek-smartwatch-apple-watch-series-10-gps-cellular-42mm-jet-black-aluminium-case-black-sport-band-s-m.html for BN2009903
+2025-04-25 09:31:48,642 [komputronik] INFO: 📋 Response for BN2009138 | Status: 200 | Size: 1353835 bytes
+2025-04-25 09:31:48,748 [komputronik] INFO: [105/352] BN2009138: 0.00 PLN | Outstock | 247 remaining
+2025-04-25 09:31:49,804 [komputronik] INFO: 😴 Sleeping for 21.73 seconds before request 107/352
+2025-04-25 09:32:11,538 [komputronik] INFO: 🚀 Sending request 107/352 to https://www.komputronik.pl/product/930449/zegarek-smartwatch-apple-watch-series-10-gps-cellular-46mm-jet-black-aluminium-case-black-sport-band-s-m.html for BN2009905
+2025-04-25 09:32:11,542 [komputronik] INFO: 📋 Response for BN2009903 | Status: 200 | Size: 1364839 bytes
+2025-04-25 09:32:11,651 [komputronik] INFO: [106/352] BN2009903: 0.00 PLN | Outstock | 246 remaining
+2025-04-25 09:32:13,591 [komputronik] INFO: 😴 Sleeping for 26.10 seconds before request 108/352
+2025-04-25 09:32:39,730 [komputronik] INFO: 🚀 Sending request 108/352 to https://www.komputronik.pl/product/930413/zegarek-smartwatch-apple-watch-series-10-gps-cellular-46mm-slate-titanium-case-slate-milanese-loop-m-l.html for BN2009906
+2025-04-25 09:32:39,734 [komputronik] INFO: 📋 Response for BN2009905 | Status: 200 | Size: 1261100 bytes
+2025-04-25 09:32:39,839 [komputronik] INFO: [107/352] BN2009905: 0.00 PLN | Outstock | 245 remaining
+2025-04-25 09:32:40,874 [komputronik] INFO: 😴 Sleeping for 22.20 seconds before request 109/352
+2025-04-25 09:33:03,085 [komputronik] INFO: 🚀 Sending request 109/352 to https://www.komputronik.pl/product/930348/zegarek-smartwatch-apple-watch-ultra-2-gps-cellular-49mm-natural-titanium-case-tan-alpine-loop-medium.html for BN2009137
+2025-04-25 09:33:03,088 [komputronik] INFO: 📋 Response for BN2009906 | Status: 200 | Size: 1264232 bytes
+2025-04-25 09:33:03,193 [komputronik] INFO: [108/352] BN2009906: 0.00 PLN | Outstock | 244 remaining
+2025-04-25 09:33:04,177 [komputronik] INFO: 😴 Sleeping for 22.47 seconds before request 110/352
+2025-04-25 09:33:26,652 [komputronik] INFO: 🚀 Sending request 110/352 to https://www.komputronik.pl/product/786938/dji-osmo-mobile-6.html for AN00000123
+2025-04-25 09:33:26,671 [komputronik] INFO: 📋 Response for BN2009137 | Status: 200 | Size: 1260291 bytes
+2025-04-25 09:33:26,770 [komputronik] INFO: [109/352] BN2009137: 0.00 PLN | Outstock | 243 remaining
+2025-04-25 09:33:27,787 [komputronik] INFO: 😴 Sleeping for 29.94 seconds before request 111/352
+2025-04-25 09:33:57,738 [komputronik] INFO: 🚀 Sending request 111/352 to https://www.komputronik.pl/product/786939/dji-osmo-mobile-se.html for AN00000122
+2025-04-25 09:33:57,741 [komputronik] INFO: 📋 Response for AN00000123 | Status: 200 | Size: 1324692 bytes
+2025-04-25 09:33:57,850 [komputronik] INFO: [110/352] AN00000123: 0.00 PLN | Outstock | 242 remaining
+2025-04-25 09:33:59,140 [komputronik] INFO: 😴 Sleeping for 29.06 seconds before request 112/352
+2025-04-25 09:34:28,212 [komputronik] INFO: 🚀 Sending request 112/352 to https://www.komputronik.pl/product/832111/garmin-fenix-7-pro-solar-czarny-z-czarnym-paskiem.html for AN00000228
+2025-04-25 09:34:28,216 [komputronik] INFO: 📋 Response for AN00000122 | Status: 200 | Size: 1319728 bytes
+2025-04-25 09:34:28,326 [komputronik] INFO: [111/352] AN00000122: 0.00 PLN | Outstock | 241 remaining
+2025-04-25 09:34:29,369 [komputronik] INFO: 😴 Sleeping for 22.92 seconds before request 113/352
+2025-04-25 09:34:52,295 [komputronik] INFO: 🚀 Sending request 113/352 to https://www.komputronik.pl/product/832113/garmin-fenix-7x-pro-solar-czarny-z-czarnym-paskiem.html for AN00000195
+2025-04-25 09:34:52,299 [komputronik] INFO: 📋 Response for AN00000228 | Status: 200 | Size: 1348859 bytes
+2025-04-25 09:34:52,407 [komputronik] INFO: [112/352] AN00000228: 0.00 PLN | Outstock | 240 remaining
+2025-04-25 09:34:54,270 [komputronik] INFO: 😴 Sleeping for 26.69 seconds before request 114/352
+2025-04-25 09:35:20,970 [komputronik] INFO: 🚀 Sending request 114/352 to https://www.komputronik.pl/product/928165/zegarek-smartwatch-garmin-fenix-8-amoled-51mm-slate-gray.html for AN00000236
+2025-04-25 09:35:20,973 [komputronik] INFO: 📋 Response for AN00000195 | Status: 200 | Size: 1357399 bytes
+2025-04-25 09:35:21,086 [komputronik] INFO: [113/352] AN00000195: 0.00 PLN | Outstock | 239 remaining
+2025-04-25 09:35:22,116 [komputronik] INFO: 😴 Sleeping for 26.40 seconds before request 115/352
+2025-04-25 09:35:48,531 [komputronik] INFO: 🚀 Sending request 115/352 to https://www.komputronik.pl/product/895675/zegarek-smartwatch-garmin-forerunner-165-czarny.html for AN00000193
+2025-04-25 09:35:48,547 [komputronik] INFO: 📋 Response for AN00000236 | Status: 200 | Size: 1369799 bytes
+2025-04-25 09:35:48,662 [komputronik] INFO: [114/352] AN00000236: 0.00 PLN | Outstock | 238 remaining
+2025-04-25 09:35:49,620 [komputronik] INFO: 😴 Sleeping for 23.35 seconds before request 116/352
+2025-04-25 09:36:12,981 [komputronik] INFO: 🚀 Sending request 116/352 to https://www.komputronik.pl/product/858886/garmin-venu-3s-ciemnoszary.html for AN00000194
+2025-04-25 09:36:12,985 [komputronik] INFO: 📋 Response for AN00000193 | Status: 200 | Size: 1346223 bytes
+2025-04-25 09:36:13,096 [komputronik] INFO: [115/352] AN00000193: 0.00 PLN | Outstock | 237 remaining
+2025-04-25 09:36:14,125 [komputronik] INFO: 😴 Sleeping for 21.37 seconds before request 117/352
+2025-04-25 09:36:35,510 [komputronik] INFO: 🚀 Sending request 117/352 to https://www.komputronik.pl/product/885764/telefon-google-pixel-7a-5g-8-128gb-blue.html for BN2008782
+2025-04-25 09:36:35,514 [komputronik] INFO: 📋 Response for AN00000194 | Status: 200 | Size: 1246069 bytes
+2025-04-25 09:36:35,622 [komputronik] INFO: [116/352] AN00000194: 0.00 PLN | Outstock | 236 remaining
+2025-04-25 09:36:36,574 [komputronik] INFO: 😴 Sleeping for 24.52 seconds before request 118/352
+2025-04-25 09:37:01,105 [komputronik] INFO: 🚀 Sending request 118/352 to https://www.komputronik.pl/product/871536/telefon-google-pixel-8-8-128gb-5g-obsidian-black.html for BN2009218
+2025-04-25 09:37:01,114 [komputronik] INFO: 📋 Response for BN2008782 | Status: 200 | Size: 1595864 bytes
+2025-04-25 09:37:01,244 [komputronik] INFO: [117/352] BN2008782: 0.00 PLN | Outstock | 235 remaining
+2025-04-25 09:37:02,288 [komputronik] INFO: 😴 Sleeping for 21.55 seconds before request 119/352
+2025-04-25 09:37:23,846 [komputronik] INFO: 🚀 Sending request 119/352 to https://www.komputronik.pl/product/871577/telefon-google-pixel-8-pro-12-128gb-5g-obsidian-black.html for BN2009219
+2025-04-25 09:37:23,850 [komputronik] INFO: 📋 Response for BN2009218 | Status: 200 | Size: 1476047 bytes
+2025-04-25 09:37:23,972 [komputronik] INFO: [118/352] BN2009218: 0.00 PLN | Outstock | 234 remaining
+2025-04-25 09:37:24,909 [komputronik] INFO: 😴 Sleeping for 29.99 seconds before request 120/352
+2025-04-25 09:37:54,922 [komputronik] INFO: 🚀 Sending request 120/352 to https://www.komputronik.pl/product/911547/telefon-google-pixel-8a-8-128gb-5g-obsidian-black.html for BN2009570
+2025-04-25 09:37:54,926 [komputronik] INFO: 📋 Response for BN2009219 | Status: 200 | Size: 1331157 bytes
+2025-04-25 09:37:55,033 [komputronik] INFO: [119/352] BN2009219: 0.00 PLN | Outstock | 233 remaining
+2025-04-25 09:37:56,091 [komputronik] INFO: 😴 Sleeping for 21.68 seconds before request 121/352
+2025-04-25 09:38:17,790 [komputronik] INFO: 🚀 Sending request 121/352 to https://www.komputronik.pl/product/911907/telefon-google-pixel-8a-8-256gb-5g-obsidian-black.html for BN2009616
+2025-04-25 09:38:17,793 [komputronik] INFO: 📋 Response for BN2009570 | Status: 200 | Size: 1469233 bytes
+2025-04-25 09:38:17,920 [komputronik] INFO: [120/352] BN2009570: 0.00 PLN | Outstock | 232 remaining
+2025-04-25 09:38:18,860 [komputronik] INFO: 😴 Sleeping for 21.34 seconds before request 122/352
+2025-04-25 09:38:40,213 [komputronik] INFO: 🚀 Sending request 122/352 to https://www.komputronik.pl/product/937206/telefon-google-pixel-9-12-128gb-5g-obsidian-black.html for BN2009762
+2025-04-25 09:38:40,217 [komputronik] INFO: 📋 Response for BN2009616 | Status: 200 | Size: 1466770 bytes
+2025-04-25 09:38:40,334 [komputronik] INFO: [121/352] BN2009616: 0.00 PLN | Outstock | 231 remaining
+2025-04-25 09:38:41,373 [komputronik] INFO: 😴 Sleeping for 23.66 seconds before request 123/352
+2025-04-25 09:39:05,050 [komputronik] INFO: 🚀 Sending request 123/352 to https://www.komputronik.pl/product/929641/telefon-google-pixel-9-12-256gb-5g-obsidian-black.html for BN2009766
+2025-04-25 09:39:05,053 [komputronik] INFO: 📋 Response for BN2009762 | Status: 200 | Size: 1596314 bytes
+2025-04-25 09:39:05,181 [komputronik] INFO: [122/352] BN2009762: 0.00 PLN | Outstock | 230 remaining
+2025-04-25 09:39:06,135 [komputronik] INFO: 😴 Sleeping for 20.54 seconds before request 124/352
+2025-04-25 09:39:26,685 [komputronik] INFO: 🚀 Sending request 124/352 to https://www.komputronik.pl/product/963794/telefon-google-pixel-9-pro-128gb-16ram-5g-obsidian.html for BN2009765
+2025-04-25 09:39:26,690 [komputronik] INFO: 📋 Response for BN2009766 | Status: 200 | Size: 1598825 bytes
+2025-04-25 09:39:26,826 [komputronik] INFO: [123/352] BN2009766: 0.00 PLN | Outstock | 229 remaining
+2025-04-25 09:39:27,870 [komputronik] INFO: 😴 Sleeping for 21.13 seconds before request 125/352
+2025-04-25 09:39:49,005 [komputronik] INFO: 🚀 Sending request 125/352 to https://www.komputronik.pl/product/945986/telefon-google-pixel-9-pro-12-256gb-5g-obsidian-black.html for BN2009770
+2025-04-25 09:39:49,009 [komputronik] INFO: 📋 Response for BN2009765 | Status: 200 | Size: 1457796 bytes
+2025-04-25 09:39:49,133 [komputronik] INFO: [124/352] BN2009765: 0.00 PLN | Outstock | 228 remaining
+2025-04-25 09:39:50,089 [komputronik] INFO: 😴 Sleeping for 26.57 seconds before request 126/352
+2025-04-25 09:40:16,666 [komputronik] INFO: 🚀 Sending request 126/352 to https://www.komputronik.pl/product/963014/telefon-google-pixel-9-pro-xl-16-128-5g-hazel.html for BN2009764
+2025-04-25 09:40:16,669 [komputronik] INFO: 📋 Response for BN2009770 | Status: 200 | Size: 1473389 bytes
+2025-04-25 09:40:16,783 [komputronik] INFO: [125/352] BN2009770: 0.00 PLN | Outstock | 227 remaining
+2025-04-25 09:40:17,843 [komputronik] INFO: 😴 Sleeping for 20.43 seconds before request 127/352
+2025-04-25 09:40:38,293 [komputronik] INFO: 🚀 Sending request 127/352 to https://www.komputronik.pl/product/945989/telefon-google-pixel-9-pro-xl-16-256gb-5g-obsidian-black.html for BN2009768
+2025-04-25 09:40:38,299 [komputronik] INFO: 📋 Response for BN2009764 | Status: 200 | Size: 1612448 bytes
+2025-04-25 09:40:38,434 [komputronik] INFO: [126/352] BN2009764: 0.00 PLN | Outstock | 226 remaining
+2025-04-25 09:40:39,378 [komputronik] INFO: 😴 Sleeping for 21.62 seconds before request 128/352
+2025-04-25 09:41:01,017 [komputronik] INFO: 🚀 Sending request 128/352 to https://www.komputronik.pl/product/831896/nokia-105-ta-1557-dual-sim-szary.html for BN2009065
+2025-04-25 09:41:01,020 [komputronik] INFO: 📋 Response for BN2009768 | Status: 200 | Size: 1607773 bytes
+2025-04-25 09:41:01,149 [komputronik] INFO: [127/352] BN2009768: 0.00 PLN | Outstock | 225 remaining
+2025-04-25 09:41:02,191 [komputronik] INFO: 😴 Sleeping for 22.75 seconds before request 129/352
+2025-04-25 09:41:24,955 [komputronik] INFO: 🚀 Sending request 129/352 to https://www.komputronik.pl/product/957955/telefon-hmd-nokia-105-ta-1684-dual-sim-fioletowy.html for BN2009619
+2025-04-25 09:41:24,960 [komputronik] INFO: 📋 Response for BN2009065 | Status: 200 | Size: 1474969 bytes
+2025-04-25 09:41:25,086 [komputronik] INFO: [128/352] BN2009065: 0.00 PLN | Outstock | 224 remaining
+2025-04-25 09:41:26,038 [komputronik] INFO: 😴 Sleeping for 22.32 seconds before request 130/352
+2025-04-25 09:41:48,379 [komputronik] INFO: 🚀 Sending request 130/352 to https://www.komputronik.pl/product/957956/telefon-hmd-110-4g-ta-1662-dual-sim-niebieski.html for BN2009620
+2025-04-25 09:41:48,382 [komputronik] INFO: 📋 Response for BN2009619 | Status: 200 | Size: 1554077 bytes
+2025-04-25 09:41:48,525 [komputronik] INFO: [129/352] BN2009619: 0.00 PLN | Outstock | 223 remaining
+2025-04-25 09:41:49,572 [komputronik] INFO: 😴 Sleeping for 22.24 seconds before request 131/352
+2025-04-25 09:42:11,831 [komputronik] INFO: 🚀 Sending request 131/352 to https://www.komputronik.pl/product/831897/nokia-110-4g-ta-1543-dual-sim-niebieski.html for BN2007852
+2025-04-25 09:42:11,975 [komputronik] INFO: 📋 Response for BN2009620 | Status: 200 | Size: 1557053 bytes
+2025-04-25 09:42:12,117 [komputronik] INFO: [130/352] BN2009620: 0.00 PLN | Outstock | 222 remaining
+2025-04-25 09:42:13,881 [komputronik] INFO: 😴 Sleeping for 27.19 seconds before request 132/352
+2025-04-25 09:42:41,095 [komputronik] INFO: 🚀 Sending request 132/352 to https://www.komputronik.pl/product/929458/telefon-nokia-215-4g-ta-1613-dual-sim-czarny.html for BN2009573
+2025-04-25 09:42:41,099 [komputronik] INFO: 📋 Response for BN2007852 | Status: 200 | Size: 1307673 bytes
+2025-04-25 09:42:41,226 [komputronik] INFO: [131/352] BN2007852: 0.00 PLN | Outstock | 221 remaining
+2025-04-25 09:42:42,271 [komputronik] INFO: 😴 Sleeping for 23.51 seconds before request 133/352
+2025-04-25 09:43:05,787 [komputronik] INFO: 🚀 Sending request 133/352 to https://www.komputronik.pl/product/918203/telefon-nokia-235-ta-1614-czarny.html for BN2009571
+2025-04-25 09:43:05,792 [komputronik] INFO: 📋 Response for BN2009573 | Status: 200 | Size: 1531257 bytes
+2025-04-25 09:43:05,915 [komputronik] INFO: [132/352] BN2009573: 0.00 PLN | Outstock | 220 remaining
+2025-04-25 09:43:06,868 [komputronik] INFO: 😴 Sleeping for 22.46 seconds before request 134/352
+2025-04-25 09:43:29,346 [komputronik] INFO: 🚀 Sending request 134/352 to https://www.komputronik.pl/product/918201/telefon-nokia-3210-ta-1618-lte-niebieski.html for BN2009572
+2025-04-25 09:43:29,358 [komputronik] INFO: 📋 Response for BN2009571 | Status: 200 | Size: 1441684 bytes
+2025-04-25 09:43:29,486 [komputronik] INFO: [133/352] BN2009571: 0.00 PLN | Outstock | 219 remaining
+2025-04-25 09:43:30,526 [komputronik] INFO: 😴 Sleeping for 22.80 seconds before request 135/352
+2025-04-25 09:43:53,344 [komputronik] INFO: 🚀 Sending request 135/352 to https://www.komputronik.pl/product/929456/telefon-nokia-6310-ta-1607-dual-sim-czarny.html for BN2009748
+2025-04-25 09:43:53,348 [komputronik] INFO: 📋 Response for BN2009572 | Status: 200 | Size: 1538822 bytes
+2025-04-25 09:43:53,487 [komputronik] INFO: [134/352] BN2009572: 0.00 PLN | Outstock | 218 remaining
+2025-04-25 09:43:54,442 [komputronik] INFO: 😴 Sleeping for 24.15 seconds before request 136/352
+2025-04-25 09:44:18,606 [komputronik] INFO: 🚀 Sending request 136/352 to https://www.komputronik.pl/product/818952/nokia-8210-4g-ta-1489-dual-sim-niebieski.html for BN2008421
+2025-04-25 09:44:18,610 [komputronik] INFO: 📋 Response for BN2009748 | Status: 200 | Size: 1416911 bytes
+2025-04-25 09:44:18,736 [komputronik] INFO: [135/352] BN2009748: 0.00 PLN | Outstock | 217 remaining
+2025-04-25 09:44:20,732 [komputronik] INFO: 😴 Sleeping for 27.35 seconds before request 137/352
+2025-04-25 09:44:48,088 [komputronik] INFO: 🚀 Sending request 137/352 to https://www.komputronik.pl/product/818954/nokia-c12-4-64gb-niebieski.html for BN2008560
+2025-04-25 09:44:48,093 [komputronik] INFO: 📋 Response for BN2008421 | Status: 200 | Size: 1318675 bytes
+2025-04-25 09:44:48,197 [komputronik] INFO: [136/352] BN2008421: 0.00 PLN | Outstock | 216 remaining
+2025-04-25 09:44:50,045 [komputronik] INFO: 😴 Sleeping for 27.34 seconds before request 138/352
+2025-04-25 09:45:17,409 [komputronik] INFO: 🚀 Sending request 138/352 to https://www.komputronik.pl/product/831894/nokia-c32-4-64gb-rozowy.html for BN2008559
+2025-04-25 09:45:17,414 [komputronik] INFO: 📋 Response for BN2008560 | Status: 200 | Size: 1212188 bytes
+2025-04-25 09:45:17,515 [komputronik] INFO: [137/352] BN2008560: 0.00 PLN | Outstock | 215 remaining
+2025-04-25 09:45:19,363 [komputronik] INFO: 😴 Sleeping for 29.46 seconds before request 139/352
+2025-04-25 09:45:48,846 [komputronik] INFO: 🚀 Sending request 139/352 to https://www.komputronik.pl/product/893164/telefon-nokia-g22-4-128gb-brzoskwiniowy.html for BN2009175
+2025-04-25 09:45:48,851 [komputronik] INFO: 📋 Response for BN2008559 | Status: 200 | Size: 1308229 bytes
+2025-04-25 09:45:48,965 [komputronik] INFO: [138/352] BN2008559: 0.00 PLN | Outstock | 214 remaining
+2025-04-25 09:45:50,828 [komputronik] INFO: 😴 Sleeping for 28.70 seconds before request 140/352
+2025-04-25 09:46:19,548 [komputronik] INFO: 🚀 Sending request 140/352 to https://www.komputronik.pl/product/931426/telefon-honor-200-5g-8-256gb-czarny.html for BN2009390
+2025-04-25 09:46:19,553 [komputronik] INFO: 📋 Response for BN2009175 | Status: 200 | Size: 1221890 bytes
+2025-04-25 09:46:19,653 [komputronik] INFO: [139/352] BN2009175: 0.00 PLN | Outstock | 213 remaining
+2025-04-25 09:46:21,898 [komputronik] INFO: 😴 Sleeping for 20.80 seconds before request 141/352
+2025-04-25 09:46:42,711 [komputronik] INFO: 🚀 Sending request 141/352 to https://www.komputronik.pl/product/931430/telefon-honor-200-lite-8-256gb-czarny.html for BN2009284
+2025-04-25 09:46:42,715 [komputronik] INFO: 📋 Response for BN2009390 | Status: 200 | Size: 1573118 bytes
+2025-04-25 09:46:42,852 [komputronik] INFO: [140/352] BN2009390: 0.00 PLN | Outstock | 212 remaining
+2025-04-25 09:46:43,798 [komputronik] INFO: 😴 Sleeping for 29.24 seconds before request 142/352
+2025-04-25 09:47:13,057 [komputronik] INFO: 🚀 Sending request 142/352 to https://www.komputronik.pl/product/931428/telefon-honor-200-pro-5g-12-512gb-czarny.html for BN2009352
+2025-04-25 09:47:13,060 [komputronik] INFO: 📋 Response for BN2009284 | Status: 200 | Size: 1552804 bytes
+2025-04-25 09:47:13,185 [komputronik] INFO: [141/352] BN2009284: 0.00 PLN | Outstock | 211 remaining
+2025-04-25 09:47:14,253 [komputronik] INFO: 😴 Sleeping for 21.49 seconds before request 143/352
+2025-04-25 09:47:35,760 [komputronik] INFO: 🚀 Sending request 143/352 to https://www.komputronik.pl/product/931424/telefon-honor-magic-v3-12-512gb-czarny.html for BN2009429
+2025-04-25 09:47:35,764 [komputronik] INFO: 📋 Response for BN2009352 | Status: 200 | Size: 1578724 bytes
+2025-04-25 09:47:35,902 [komputronik] INFO: [142/352] BN2009352: 0.00 PLN | Outstock | 210 remaining
+2025-04-25 09:47:36,860 [komputronik] INFO: 😴 Sleeping for 26.94 seconds before request 144/352
+2025-04-25 09:48:03,813 [komputronik] INFO: 🚀 Sending request 144/352 to https://www.komputronik.pl/product/931434/telefon-honor-magic-6-lite-5g-8-256gb-zielony.html for BN2009095
+2025-04-25 09:48:03,825 [komputronik] INFO: 📋 Response for BN2009429 | Status: 200 | Size: 1478293 bytes
+2025-04-25 09:48:03,942 [komputronik] INFO: [143/352] BN2009429: 0.00 PLN | Outstock | 209 remaining
+2025-04-25 09:48:06,016 [komputronik] INFO: 😴 Sleeping for 26.84 seconds before request 145/352
+2025-04-25 09:48:32,865 [komputronik] INFO: 🚀 Sending request 145/352 to https://www.komputronik.pl/product/957386/telefon-honor-x6b-4-128gb-zielony.html for BN2010046
+2025-04-25 09:48:32,869 [komputronik] INFO: 📋 Response for BN2009095 | Status: 200 | Size: 1312877 bytes
+2025-04-25 09:48:32,973 [komputronik] INFO: [144/352] BN2009095: 0.00 PLN | Outstock | 208 remaining
+2025-04-25 09:48:33,921 [komputronik] INFO: 😴 Sleeping for 29.17 seconds before request 146/352
+2025-04-25 09:49:03,119 [komputronik] INFO: 🚀 Sending request 146/352 to https://www.komputronik.pl/product/923403/telefon-honor-magic-v2-5g-16-512gb-purple.html for BN2009096
+2025-04-25 09:49:03,122 [komputronik] INFO: 📋 Response for BN2010046 | Status: 200 | Size: 1474274 bytes
+2025-04-25 09:49:03,270 [komputronik] INFO: [145/352] BN2010046: 0.00 PLN | Outstock | 207 remaining
+2025-04-25 09:49:05,102 [komputronik] INFO: 😴 Sleeping for 24.44 seconds before request 147/352
+2025-04-25 09:49:29,567 [komputronik] INFO: 🚀 Sending request 147/352 to https://www.komputronik.pl/product/910067/telefon-honor-magic-6-pro-5g-12-512gb-green.html for BN2009097
+2025-04-25 09:49:29,575 [komputronik] INFO: 📋 Response for BN2009096 | Status: 200 | Size: 1214962 bytes
+2025-04-25 09:49:29,675 [komputronik] INFO: [146/352] BN2009096: 0.00 PLN | Outstock | 206 remaining
+2025-04-25 09:49:31,646 [komputronik] INFO: 😴 Sleeping for 24.29 seconds before request 148/352
+2025-04-25 09:49:55,951 [komputronik] INFO: 🚀 Sending request 148/352 to https://www.komputronik.pl/product/931437/zegarek-smartwatch-honor-watch-4-czarny.html for BN4000703
+2025-04-25 09:49:55,964 [komputronik] INFO: 📋 Response for BN2009097 | Status: 200 | Size: 1321415 bytes
+2025-04-25 09:49:56,077 [komputronik] INFO: [147/352] BN2009097: 0.00 PLN | Outstock | 205 remaining
+2025-04-25 09:49:58,085 [komputronik] INFO: 😴 Sleeping for 24.18 seconds before request 149/352
+2025-04-25 09:50:22,278 [komputronik] INFO: 🚀 Sending request 149/352 to https://www.komputronik.pl/product/802444/huawei-e5783-230a.html for BN2008165
+2025-04-25 09:50:22,282 [komputronik] INFO: 📋 Response for BN4000703 | Status: 200 | Size: 1351281 bytes
+2025-04-25 09:50:22,394 [komputronik] INFO: [148/352] BN4000703: 0.00 PLN | Outstock | 204 remaining
+2025-04-25 09:50:23,430 [komputronik] INFO: 😴 Sleeping for 23.69 seconds before request 150/352
+2025-04-25 09:50:47,130 [komputronik] INFO: 🚀 Sending request 150/352 to https://www.komputronik.pl/product/928227/zegarek-smartwatch-huawei-watch-d2-czarny.html for AN00000221
+2025-04-25 09:50:47,134 [komputronik] INFO: 📋 Response for BN2008165 | Status: 200 | Size: 1207004 bytes
+2025-04-25 09:50:47,236 [komputronik] INFO: [149/352] BN2008165: 0.00 PLN | Outstock | 203 remaining
+2025-04-25 09:50:48,186 [komputronik] INFO: 😴 Sleeping for 25.07 seconds before request 151/352
+2025-04-25 09:51:13,271 [komputronik] INFO: 🚀 Sending request 151/352 to https://www.komputronik.pl/product/928216/zegarek-smartwatch-huawei-watch-gt-5-41mm-classic-bialy.html for AN00000222
+2025-04-25 09:51:13,275 [komputronik] INFO: 📋 Response for AN00000221 | Status: 200 | Size: 1398229 bytes
+2025-04-25 09:51:13,394 [komputronik] INFO: [150/352] AN00000221: 0.00 PLN | Outstock | 202 remaining
+2025-04-25 09:51:14,441 [komputronik] INFO: 😴 Sleeping for 20.18 seconds before request 152/352
+2025-04-25 09:51:34,632 [komputronik] INFO: 🚀 Sending request 152/352 to https://www.komputronik.pl/product/928217/zegarek-smartwatch-huawei-watch-gt-5-41mm-elegant-zloty.html for AN00000223
+2025-04-25 09:51:34,636 [komputronik] INFO: 📋 Response for AN00000222 | Status: 200 | Size: 1401726 bytes
+2025-04-25 09:51:34,745 [komputronik] INFO: [151/352] AN00000222: 0.00 PLN | Outstock | 201 remaining
+2025-04-25 09:51:36,124 [komputronik] INFO: 😴 Sleeping for 23.31 seconds before request 153/352
+2025-04-25 09:51:59,449 [komputronik] INFO: 🚀 Sending request 153/352 to https://www.komputronik.pl/product/928209/zegarek-smartwatch-huawei-watch-gt-5-46mm-active-czarny.html for AN00000225
+2025-04-25 09:51:59,454 [komputronik] INFO: 📋 Response for AN00000223 | Status: 200 | Size: 1410014 bytes
+2025-04-25 09:51:59,564 [komputronik] INFO: [152/352] AN00000223: 0.00 PLN | Outstock | 200 remaining
+2025-04-25 09:52:00,607 [komputronik] INFO: 😴 Sleeping for 22.73 seconds before request 154/352
+2025-04-25 09:52:23,355 [komputronik] INFO: 🚀 Sending request 154/352 to https://www.komputronik.pl/product/928212/zegarek-smartwatch-huawei-watch-gt-5-46mm-niebieski.html for AN00000224
+2025-04-25 09:52:23,367 [komputronik] INFO: 📋 Response for AN00000225 | Status: 200 | Size: 1404441 bytes
+2025-04-25 09:52:23,477 [komputronik] INFO: [153/352] AN00000225: 0.00 PLN | Outstock | 199 remaining
+2025-04-25 09:52:24,444 [komputronik] INFO: 😴 Sleeping for 27.12 seconds before request 155/352
+2025-04-25 09:52:51,590 [komputronik] INFO: 🚀 Sending request 155/352 to https://www.komputronik.pl/product/928221/zegarek-smartwatch-huawei-watch-gt-5-pro-42mm-active-bialy.html for AN00000226
+2025-04-25 09:52:51,593 [komputronik] INFO: 📋 Response for AN00000224 | Status: 200 | Size: 1404968 bytes
+2025-04-25 09:52:51,708 [komputronik] INFO: [154/352] AN00000224: 0.00 PLN | Outstock | 198 remaining
+2025-04-25 09:52:52,742 [komputronik] INFO: 😴 Sleeping for 23.29 seconds before request 156/352
+2025-04-25 09:53:16,037 [komputronik] INFO: 🚀 Sending request 156/352 to https://www.komputronik.pl/product/928218/zegarek-smartwatch-huawei-watch-gt-5-pro-46mm-active-czarny.html for AN00000237
+2025-04-25 09:53:16,041 [komputronik] INFO: 📋 Response for AN00000226 | Status: 200 | Size: 1410817 bytes
+2025-04-25 09:53:16,154 [komputronik] INFO: [155/352] AN00000226: 0.00 PLN | Outstock | 197 remaining
+2025-04-25 09:53:17,100 [komputronik] INFO: 😴 Sleeping for 26.08 seconds before request 157/352
+2025-04-25 09:53:43,191 [komputronik] INFO: 🚀 Sending request 157/352 to https://www.komputronik.pl/product/928220/zegarek-smartwatch-huawei-watch-gt-5-pro-46mm-elite-srebrny.html for AN00000227
+2025-04-25 09:53:43,202 [komputronik] INFO: 📋 Response for AN00000237 | Status: 200 | Size: 1303848 bytes
+2025-04-25 09:53:43,306 [komputronik] INFO: [156/352] AN00000237: 0.00 PLN | Outstock | 196 remaining
+2025-04-25 09:53:44,350 [komputronik] INFO: 😴 Sleeping for 20.11 seconds before request 158/352
+2025-04-25 09:54:04,476 [komputronik] INFO: 🚀 Sending request 158/352 to https://www.komputronik.pl/product/907197/telefon-huawei-nova-12i-8-128gb-zielony.html for BN2009470
+2025-04-25 09:54:04,480 [komputronik] INFO: 📋 Response for AN00000227 | Status: 200 | Size: 1411400 bytes
+2025-04-25 09:54:04,594 [komputronik] INFO: [157/352] AN00000227: 0.00 PLN | Outstock | 195 remaining
+2025-04-25 09:54:06,445 [komputronik] INFO: 😴 Sleeping for 23.36 seconds before request 159/352
+2025-04-25 09:54:29,814 [komputronik] INFO: 🚀 Sending request 159/352 to https://www.komputronik.pl/product/908674/telefon-huawei-p70-pro-12-512gb-czarny.html for BN2009576
+2025-04-25 09:54:29,818 [komputronik] INFO: 📋 Response for BN2009470 | Status: 200 | Size: 1353776 bytes
+2025-04-25 09:54:29,932 [komputronik] INFO: [158/352] BN2009470: 0.00 PLN | Outstock | 194 remaining
+2025-04-25 09:54:30,973 [komputronik] INFO: 😴 Sleeping for 20.91 seconds before request 160/352
+2025-04-25 09:54:51,900 [komputronik] INFO: 🚀 Sending request 160/352 to https://www.komputronik.pl/product/832454/huawei-watch-4-pro-classic.html for BN2009056
+2025-04-25 09:54:51,903 [komputronik] INFO: 📋 Response for BN2009576 | Status: 200 | Size: 1625135 bytes
+2025-04-25 09:54:52,053 [komputronik] INFO: [159/352] BN2009576: 0.00 PLN | Outstock | 193 remaining
+2025-04-25 09:54:53,008 [komputronik] INFO: 😴 Sleeping for 20.00 seconds before request 161/352
+2025-04-25 09:55:13,027 [komputronik] INFO: 🚀 Sending request 161/352 to https://www.komputronik.pl/product/908664/zegarek-smartwatch-huawei-watch-4-pro-space-edition.html for BN2009528
+2025-04-25 09:55:13,032 [komputronik] INFO: 📋 Response for BN2009056 | Status: 200 | Size: 1298790 bytes
+2025-04-25 09:55:13,149 [komputronik] INFO: [160/352] BN2009056: 0.00 PLN | Outstock | 192 remaining
+2025-04-25 09:55:14,182 [komputronik] INFO: 😴 Sleeping for 23.93 seconds before request 162/352
+2025-04-25 09:55:38,122 [komputronik] INFO: 🚀 Sending request 162/352 to https://www.komputronik.pl/product/760051/huawei-watch-fit-2-active-czarny.html for BN4000647
+2025-04-25 09:55:38,126 [komputronik] INFO: 📋 Response for BN2009528 | Status: 200 | Size: 1390576 bytes
+2025-04-25 09:55:38,238 [komputronik] INFO: [161/352] BN2009528: 0.00 PLN | Outstock | 191 remaining
+2025-04-25 09:55:39,182 [komputronik] INFO: 😴 Sleeping for 23.93 seconds before request 163/352
+2025-04-25 09:56:03,122 [komputronik] INFO: 🚀 Sending request 163/352 to https://www.komputronik.pl/product/860631/huawei-watch-gt-4-41mm-classic.html for AN00000164
+2025-04-25 09:56:03,131 [komputronik] INFO: 📋 Response for BN4000647 | Status: 200 | Size: 1270212 bytes
+2025-04-25 09:56:03,235 [komputronik] INFO: [162/352] BN4000647: 0.00 PLN | Outstock | 190 remaining
+2025-04-25 09:56:04,289 [komputronik] INFO: 😴 Sleeping for 20.88 seconds before request 164/352
+2025-04-25 09:56:25,185 [komputronik] INFO: 🚀 Sending request 164/352 to https://www.komputronik.pl/product/860632/huawei-watch-gt-4-41mm-elegant.html for AN00000165
+2025-04-25 09:56:25,190 [komputronik] INFO: 📋 Response for AN00000164 | Status: 200 | Size: 1398968 bytes
+2025-04-25 09:56:25,304 [komputronik] INFO: [163/352] AN00000164: 0.00 PLN | Outstock | 189 remaining
+2025-04-25 09:56:26,287 [komputronik] INFO: 😴 Sleeping for 29.99 seconds before request 165/352
+2025-04-25 09:56:56,280 [komputronik] INFO: 🚀 Sending request 165/352 to https://www.komputronik.pl/product/860637/huawei-watch-gt-4-46mm-active.html for AN00000167
+2025-04-25 09:56:56,285 [komputronik] INFO: 📋 Response for AN00000165 | Status: 200 | Size: 1284721 bytes
+2025-04-25 09:56:56,389 [komputronik] INFO: [164/352] AN00000165: 0.00 PLN | Outstock | 188 remaining
+2025-04-25 09:56:57,431 [komputronik] INFO: 😴 Sleeping for 21.15 seconds before request 166/352
+2025-04-25 09:57:18,607 [komputronik] INFO: 🚀 Sending request 166/352 to https://www.komputronik.pl/product/860635/huawei-watch-gt-4-46mm-classic.html for AN00000168
+2025-04-25 09:57:18,618 [komputronik] INFO: 📋 Response for AN00000167 | Status: 200 | Size: 1400972 bytes
+2025-04-25 09:57:18,731 [komputronik] INFO: [165/352] AN00000167: 0.00 PLN | Outstock | 187 remaining
+2025-04-25 09:57:19,699 [komputronik] INFO: 😴 Sleeping for 22.94 seconds before request 167/352
+2025-04-25 09:57:42,648 [komputronik] INFO: 🚀 Sending request 167/352 to https://www.komputronik.pl/product/860638/huawei-watch-gt-4-46mm-elite.html for AN00000169
+2025-04-25 09:57:42,652 [komputronik] INFO: 📋 Response for AN00000168 | Status: 200 | Size: 1394717 bytes
+2025-04-25 09:57:42,760 [komputronik] INFO: [166/352] AN00000168: 0.00 PLN | Outstock | 186 remaining
+2025-04-25 09:57:44,761 [komputronik] INFO: 😴 Sleeping for 28.85 seconds before request 168/352
+2025-04-25 09:58:13,634 [komputronik] INFO: 🚀 Sending request 168/352 to https://www.komputronik.pl/product/867529/laptop-lenovo-ideapad-slim-3-15-core-i5-12450h-15-6-fhd-8gb-512gb-gp36-onsite-win11home.html for AN00000159
+2025-04-25 09:58:13,637 [komputronik] INFO: 📋 Response for AN00000169 | Status: 200 | Size: 1369994 bytes
+2025-04-25 09:58:13,750 [komputronik] INFO: [167/352] AN00000169: 0.00 PLN | Outstock | 185 remaining
+2025-04-25 09:58:15,614 [komputronik] INFO: 😴 Sleeping for 29.08 seconds before request 169/352
+2025-04-25 09:58:44,705 [komputronik] INFO: 🚀 Sending request 169/352 to https://www.komputronik.pl/product/907228/laptop-lenovo-ideapad-slim-3-15-ryzen-3-7320u-15-6-fhd-8gb-512gb-win11home-niebieski.html for AN00000160
+2025-04-25 09:58:44,710 [komputronik] INFO: 📋 Response for AN00000159 | Status: 200 | Size: 1352589 bytes
+2025-04-25 09:58:44,842 [komputronik] INFO: [168/352] AN00000159: 0.00 PLN | Outstock | 184 remaining
+2025-04-25 09:58:45,876 [komputronik] INFO: 😴 Sleeping for 27.90 seconds before request 170/352
+2025-04-25 09:59:13,786 [komputronik] INFO: 🚀 Sending request 170/352 to https://www.komputronik.pl/product/817524/motorola-moto-e13-2-64gb-czarny.html for BN2008703
+2025-04-25 09:59:13,801 [komputronik] INFO: 📋 Response for AN00000160 | Status: 200 | Size: 1352624 bytes
+2025-04-25 09:59:13,906 [komputronik] INFO: [169/352] AN00000160: 0.00 PLN | Outstock | 183 remaining
+2025-04-25 09:59:15,743 [komputronik] INFO: 😴 Sleeping for 23.07 seconds before request 171/352
+2025-04-25 09:59:38,839 [komputronik] INFO: 🚀 Sending request 171/352 to https://www.komputronik.pl/product/859485/telefon-motorola-edge-40-neo-12-256gb-caneel-bay.html for BN2008969
+2025-04-25 09:59:38,844 [komputronik] INFO: 📋 Response for BN2008703 | Status: 200 | Size: 1234128 bytes
+2025-04-25 09:59:38,947 [komputronik] INFO: [170/352] BN2008703: 0.00 PLN | Outstock | 182 remaining
+2025-04-25 09:59:39,997 [komputronik] INFO: 😴 Sleeping for 23.49 seconds before request 172/352
+2025-04-25 10:00:03,510 [komputronik] INFO: 🚀 Sending request 172/352 to https://www.komputronik.pl/product/910194/telefon-motorola-edge-50-fusion-12-512gb-blekitny.html for BN2009288
+2025-04-25 10:00:03,513 [komputronik] INFO: 📋 Response for BN2008969 | Status: 200 | Size: 1601684 bytes
+2025-04-25 10:00:03,654 [komputronik] INFO: [171/352] BN2008969: 0.00 PLN | Outstock | 181 remaining
+2025-04-25 10:00:05,471 [komputronik] INFO: 😴 Sleeping for 23.71 seconds before request 173/352
+2025-04-25 10:00:29,202 [komputronik] INFO: 🚀 Sending request 173/352 to https://www.komputronik.pl/product/928669/telefon-motorola-edge-50-neo-12-512gb-ceglany.html for BN2009433
+2025-04-25 10:00:29,206 [komputronik] INFO: 📋 Response for BN2009288 | Status: 200 | Size: 1243014 bytes
+2025-04-25 10:00:29,310 [komputronik] INFO: [172/352] BN2009288: 0.00 PLN | Outstock | 180 remaining
+2025-04-25 10:00:30,361 [komputronik] INFO: 😴 Sleeping for 27.04 seconds before request 174/352
+2025-04-25 10:00:57,423 [komputronik] INFO: 🚀 Sending request 174/352 to https://www.komputronik.pl/product/906301/telefon-motorola-edge-50-pro-12-256gb-fioletowy.html for BN2009287
+2025-04-25 10:00:57,426 [komputronik] INFO: 📋 Response for BN2009433 | Status: 200 | Size: 1615094 bytes
+2025-04-25 10:00:57,873 [komputronik] INFO: [173/352] BN2009433: 0.00 PLN | Outstock | 179 remaining
+2025-04-25 10:00:58,825 [komputronik] INFO: 😴 Sleeping for 28.05 seconds before request 175/352
+2025-04-25 10:01:26,891 [komputronik] INFO: 🚀 Sending request 175/352 to https://www.komputronik.pl/product/913936/telefon-motorola-edge-50-ultra-16-1tb-peach-fuzz.html for BN2009157
+2025-04-25 10:01:26,896 [komputronik] INFO: 📋 Response for BN2009287 | Status: 200 | Size: 1605639 bytes
+2025-04-25 10:01:27,029 [komputronik] INFO: [174/352] BN2009287: 0.00 PLN | Outstock | 178 remaining
+2025-04-25 10:01:28,077 [komputronik] INFO: 😴 Sleeping for 21.91 seconds before request 176/352
+2025-04-25 10:01:50,009 [komputronik] INFO: 🚀 Sending request 176/352 to https://www.komputronik.pl/product/867919/telefon-motorola-moto-g14-4-128gb-dual-sim-sky-blue.html for BN2008903
+2025-04-25 10:01:50,013 [komputronik] INFO: 📋 Response for BN2009157 | Status: 200 | Size: 1604131 bytes
+2025-04-25 10:01:50,141 [komputronik] INFO: [175/352] BN2009157: 0.00 PLN | Outstock | 177 remaining
+2025-04-25 10:01:52,502 [komputronik] INFO: 😴 Sleeping for 26.65 seconds before request 177/352
+2025-04-25 10:02:19,169 [komputronik] INFO: 🚀 Sending request 177/352 to https://www.komputronik.pl/product/887100/telefon-motorola-moto-g24-8-128gb-dual-sim-grafitowy.html for BN2009154
+2025-04-25 10:02:19,172 [komputronik] INFO: 📋 Response for BN2008903 | Status: 200 | Size: 1593424 bytes
+2025-04-25 10:02:19,306 [komputronik] INFO: [176/352] BN2008903: 0.00 PLN | Outstock | 176 remaining
+2025-04-25 10:02:20,352 [komputronik] INFO: 😴 Sleeping for 29.00 seconds before request 178/352
+2025-04-25 10:02:49,364 [komputronik] INFO: 🚀 Sending request 178/352 to https://www.komputronik.pl/product/887106/telefon-motorola-moto-g24-power-8-256gb-dual-sim-blekitny.html for BN2009156
+2025-04-25 10:02:49,368 [komputronik] INFO: 📋 Response for BN2009154 | Status: 200 | Size: 1357052 bytes
+2025-04-25 10:02:49,484 [komputronik] INFO: [177/352] BN2009154: 0.00 PLN | Outstock | 175 remaining
+2025-04-25 10:02:50,437 [komputronik] INFO: 😴 Sleeping for 28.49 seconds before request 179/352
+2025-04-25 10:03:18,937 [komputronik] INFO: 🚀 Sending request 179/352 to https://www.komputronik.pl/product/887113/telefon-motorola-moto-g54-5g-12-256gb-niebieski.html for BN2009223
+2025-04-25 10:03:18,941 [komputronik] INFO: 📋 Response for BN2009156 | Status: 200 | Size: 1253634 bytes
+2025-04-25 10:03:19,043 [komputronik] INFO: [178/352] BN2009156: 0.00 PLN | Outstock | 174 remaining
+2025-04-25 10:03:20,901 [komputronik] INFO: 😴 Sleeping for 26.51 seconds before request 180/352
+2025-04-25 10:03:47,426 [komputronik] INFO: 🚀 Sending request 180/352 to https://www.komputronik.pl/product/859481/telefon-motorola-moto-g84-5g-12-256gb-ballad-blue.html for BN2008968
+2025-04-25 10:03:47,430 [komputronik] INFO: 📋 Response for BN2009223 | Status: 200 | Size: 1356384 bytes
+2025-04-25 10:03:47,545 [komputronik] INFO: [179/352] BN2009223: 0.00 PLN | Outstock | 173 remaining
+2025-04-25 10:03:48,487 [komputronik] INFO: 😴 Sleeping for 25.33 seconds before request 181/352
+2025-04-25 10:04:13,832 [komputronik] INFO: 🚀 Sending request 181/352 to https://www.komputronik.pl/product/917804/telefon-motorola-moto-g85-5g-12-256gb-oliwkowy.html for BN2009289
+2025-04-25 10:04:13,835 [komputronik] INFO: 📋 Response for BN2008968 | Status: 200 | Size: 1353292 bytes
+2025-04-25 10:04:13,943 [komputronik] INFO: [180/352] BN2008968: 0.00 PLN | Outstock | 172 remaining
+2025-04-25 10:04:14,978 [komputronik] INFO: 😴 Sleeping for 21.82 seconds before request 182/352
+2025-04-25 10:04:36,817 [komputronik] INFO: 🚀 Sending request 182/352 to https://www.komputronik.pl/product/917792/telefon-motorola-razr-50-8-256gb-jasnoszary.html for BN2009286
+2025-04-25 10:04:36,833 [komputronik] INFO: 📋 Response for BN2009289 | Status: 200 | Size: 1584165 bytes
+2025-04-25 10:04:36,971 [komputronik] INFO: [181/352] BN2009289: 0.00 PLN | Outstock | 171 remaining
+2025-04-25 10:04:37,937 [komputronik] INFO: 😴 Sleeping for 29.21 seconds before request 183/352
+2025-04-25 10:05:07,166 [komputronik] INFO: 🚀 Sending request 183/352 to https://www.komputronik.pl/product/928665/telefon-motorola-razr-50-ultra-12-512gb-rozowy.html for BN2009285
+2025-04-25 10:05:07,170 [komputronik] INFO: 📋 Response for BN2009286 | Status: 200 | Size: 1491284 bytes
+2025-04-25 10:05:07,299 [komputronik] INFO: [182/352] BN2009286: 0.00 PLN | Outstock | 170 remaining
+2025-04-25 10:05:08,343 [komputronik] INFO: 😴 Sleeping for 25.72 seconds before request 184/352
+2025-04-25 10:05:34,080 [komputronik] INFO: 🚀 Sending request 184/352 to https://www.komputronik.pl/product/886954/lenovo-tab-m11-tb330xu-4-128gb-lte-zadb0018pl-szary-rysik.html for BN2009165
+2025-04-25 10:05:34,084 [komputronik] INFO: 📋 Response for BN2009285 | Status: 200 | Size: 1480360 bytes
+2025-04-25 10:05:34,203 [komputronik] INFO: [183/352] BN2009285: 0.00 PLN | Outstock | 169 remaining
+2025-04-25 10:05:35,940 [komputronik] INFO: 😴 Sleeping for 29.23 seconds before request 185/352
+2025-04-25 10:06:05,191 [komputronik] INFO: 🚀 Sending request 185/352 to https://www.komputronik.pl/product/945258/telefon-maxcom-mm-724-4g.html for BN2007637
+2025-04-25 10:06:05,202 [komputronik] INFO: 📋 Response for BN2009165 | Status: 200 | Size: 1239415 bytes
+2025-04-25 10:06:05,303 [komputronik] INFO: [184/352] BN2009165: 0.00 PLN | Outstock | 168 remaining
+2025-04-25 10:06:06,348 [komputronik] INFO: 😴 Sleeping for 24.78 seconds before request 186/352
+2025-04-25 10:06:31,148 [komputronik] INFO: 🚀 Sending request 186/352 to https://www.komputronik.pl/product/948600/microsoft-xbox-series-s.html for AN00000068
+2025-04-25 10:06:31,152 [komputronik] INFO: 📋 Response for BN2007637 | Status: 200 | Size: 1470938 bytes
+2025-04-25 10:06:31,271 [komputronik] INFO: [185/352] BN2007637: 0.00 PLN | Outstock | 167 remaining
+2025-04-25 10:06:33,274 [komputronik] INFO: 😴 Sleeping for 24.05 seconds before request 187/352
+2025-04-25 10:06:57,347 [komputronik] INFO: 🚀 Sending request 187/352 to https://www.komputronik.pl/product/701062/microsoft-xbox-series-x.html for AN00000069
+2025-04-25 10:06:57,350 [komputronik] INFO: 📋 Response for AN00000068 | Status: 200 | Size: 1483964 bytes
+2025-04-25 10:06:57,472 [komputronik] INFO: [186/352] AN00000068: 0.00 PLN | Outstock | 166 remaining
+2025-04-25 10:07:20,680 [komputronik] INFO: 😴 Sleeping for 26.07 seconds before request 188/352
+2025-04-25 10:07:46,772 [komputronik] INFO: 🚀 Sending request 188/352 to https://www.komputronik.pl/product/741107/msi-force-gc20-v2.html for AN00000057
+2025-04-25 10:07:46,776 [komputronik] INFO: 📋 Response for AN00000069 | Status: 200 | Size: 1371030 bytes
+2025-04-25 10:07:46,890 [komputronik] INFO: [187/352] AN00000069: 0.00 PLN | Outstock | 165 remaining
+2025-04-25 10:07:47,846 [komputronik] INFO: 😴 Sleeping for 29.44 seconds before request 189/352
+2025-04-25 10:08:17,300 [komputronik] INFO: 🚀 Sending request 189/352 to https://www.komputronik.pl/product/707456/myphone-hammer-blade-3-dual-sim-nfc.html for BN2008299
+2025-04-25 10:08:17,313 [komputronik] INFO: 📋 Response for AN00000057 | Status: 200 | Size: 1212451 bytes
+2025-04-25 10:08:17,413 [komputronik] INFO: [188/352] AN00000057: 0.00 PLN | Outstock | 164 remaining
+2025-04-25 10:08:19,198 [komputronik] INFO: 😴 Sleeping for 25.62 seconds before request 190/352
+2025-04-25 10:08:44,826 [komputronik] INFO: 🚀 Sending request 190/352 to https://www.komputronik.pl/product/792371/myphone-hammer-construction-esim.html for BN2008952
+2025-04-25 10:08:44,831 [komputronik] INFO: 📋 Response for BN2008299 | Status: 200 | Size: 1245858 bytes
+2025-04-25 10:08:44,935 [komputronik] INFO: [189/352] BN2008299: 0.00 PLN | Outstock | 163 remaining
+2025-04-25 10:08:45,887 [komputronik] INFO: 😴 Sleeping for 28.67 seconds before request 191/352
+2025-04-25 10:09:14,577 [komputronik] INFO: 🚀 Sending request 191/352 to https://www.komputronik.pl/product/937765/telefon-myphone-hammer-construction-2-5g-srebrny.html for AN00000240
+2025-04-25 10:09:14,581 [komputronik] INFO: 📋 Response for BN2008952 | Status: 200 | Size: 1618586 bytes
+2025-04-25 10:09:14,710 [komputronik] INFO: [190/352] BN2008952: 0.00 PLN | Outstock | 162 remaining
+2025-04-25 10:09:15,670 [komputronik] INFO: 😴 Sleeping for 23.67 seconds before request 192/352
+2025-04-25 10:09:39,351 [komputronik] INFO: 🚀 Sending request 192/352 to https://www.komputronik.pl/product/937766/telefon-myphone-hammer-construction-2-5g-thermal-pomaranczowy.html for AN00000241
+2025-04-25 10:09:39,355 [komputronik] INFO: 📋 Response for AN00000240 | Status: 200 | Size: 1646183 bytes
+2025-04-25 10:09:39,500 [komputronik] INFO: [191/352] AN00000240: 0.00 PLN | Outstock | 161 remaining
+2025-04-25 10:09:40,478 [komputronik] INFO: 😴 Sleeping for 21.03 seconds before request 193/352
+2025-04-25 10:10:01,535 [komputronik] INFO: 🚀 Sending request 193/352 to https://www.komputronik.pl/product/829863/myphone-hammer-energy-x.html for BN2009370
+2025-04-25 10:10:01,538 [komputronik] INFO: 📋 Response for AN00000241 | Status: 200 | Size: 1648021 bytes
+2025-04-25 10:10:01,674 [komputronik] INFO: [192/352] AN00000241: 0.00 PLN | Outstock | 160 remaining
+2025-04-25 10:10:02,648 [komputronik] INFO: 😴 Sleeping for 22.51 seconds before request 194/352
+2025-04-25 10:10:25,164 [komputronik] INFO: 🚀 Sending request 194/352 to https://www.komputronik.pl/product/928278/zegarek-smartwatch-myphone-watch-2-lite.html for AN00000229
+2025-04-25 10:10:25,168 [komputronik] INFO: 📋 Response for BN2009370 | Status: 200 | Size: 1401801 bytes
+2025-04-25 10:10:25,279 [komputronik] INFO: [193/352] BN2009370: 0.00 PLN | Outstock | 159 remaining
+2025-04-25 10:10:27,079 [komputronik] INFO: 😴 Sleeping for 27.60 seconds before request 195/352
+2025-04-25 10:10:54,689 [komputronik] INFO: 🚀 Sending request 195/352 to https://www.komputronik.pl/product/908692/telefon-nothing-phone-2-5g-12-256gb-white.html for BN2009494
+2025-04-25 10:10:54,700 [komputronik] INFO: 📋 Response for AN00000229 | Status: 200 | Size: 1377348 bytes
+2025-04-25 10:10:54,814 [komputronik] INFO: [194/352] AN00000229: 0.00 PLN | Outstock | 158 remaining
+2025-04-25 10:10:55,775 [komputronik] INFO: 😴 Sleeping for 24.65 seconds before request 196/352
+2025-04-25 10:11:20,447 [komputronik] INFO: 🚀 Sending request 196/352 to https://www.komputronik.pl/product/926671/telefon-nothing-phone-2-5g-12-512gb-black.html for BN2009492
+2025-04-25 10:11:20,451 [komputronik] INFO: 📋 Response for BN2009494 | Status: 200 | Size: 1328405 bytes
+2025-04-25 10:11:20,557 [komputronik] INFO: [195/352] BN2009494: 0.00 PLN | Outstock | 157 remaining
+2025-04-25 10:11:21,515 [komputronik] INFO: 😴 Sleeping for 26.94 seconds before request 197/352
+2025-04-25 10:11:48,475 [komputronik] INFO: 🚀 Sending request 197/352 to https://www.komputronik.pl/product/926954/telefon-nothing-phone-2a-5g-8-128gb-milk.html for BN2009493
+2025-04-25 10:11:48,479 [komputronik] INFO: 📋 Response for BN2009492 | Status: 200 | Size: 1212836 bytes
+2025-04-25 10:11:48,575 [komputronik] INFO: [196/352] BN2009492: 0.00 PLN | Outstock | 156 remaining
+2025-04-25 10:11:49,535 [komputronik] INFO: 😴 Sleeping for 26.31 seconds before request 198/352
+2025-04-25 10:12:15,860 [komputronik] INFO: 🚀 Sending request 198/352 to https://www.komputronik.pl/product/887104/telefon-oneplus-nord-3-5g-16-256gb-zielony.html for BN2009058
+2025-04-25 10:12:15,864 [komputronik] INFO: 📋 Response for BN2009493 | Status: 200 | Size: 1551160 bytes
+2025-04-25 10:12:15,992 [komputronik] INFO: [197/352] BN2009493: 0.00 PLN | Outstock | 155 remaining
+2025-04-25 10:12:17,760 [komputronik] INFO: 😴 Sleeping for 24.52 seconds before request 199/352
+2025-04-25 10:12:42,300 [komputronik] INFO: 🚀 Sending request 199/352 to https://www.komputronik.pl/product/824528/oneplus-nord-ce-3-lite-5g-8-128gb-czarny.html for BN2008723
+2025-04-25 10:12:42,304 [komputronik] INFO: 📋 Response for BN2009058 | Status: 200 | Size: 1352348 bytes
+2025-04-25 10:12:42,419 [komputronik] INFO: [198/352] BN2009058: 0.00 PLN | Outstock | 154 remaining
+2025-04-25 10:12:44,277 [komputronik] INFO: 😴 Sleeping for 27.40 seconds before request 200/352
+2025-04-25 10:13:11,694 [komputronik] INFO: 🚀 Sending request 200/352 to https://www.komputronik.pl/product/887111/telefon-oneplus-12-5g-16-512gb-czarny.html for BN2009368
+2025-04-25 10:13:11,711 [komputronik] INFO: 📋 Response for BN2008723 | Status: 200 | Size: 1247139 bytes
+2025-04-25 10:13:11,809 [komputronik] INFO: [199/352] BN2008723: 0.00 PLN | Outstock | 153 remaining
+2025-04-25 10:13:12,785 [komputronik] INFO: 😴 Sleeping for 21.43 seconds before request 201/352
+2025-04-25 10:13:34,234 [komputronik] INFO: 🚀 Sending request 201/352 to https://www.komputronik.pl/product/887107/telefon-oneplus-12r-5g-16-256gb-szary.html for BN2009369
+2025-04-25 10:13:34,239 [komputronik] INFO: 📋 Response for BN2009368 | Status: 200 | Size: 1608010 bytes
+2025-04-25 10:13:34,371 [komputronik] INFO: [200/352] BN2009368: 0.00 PLN | Outstock | 152 remaining
+2025-04-25 10:13:36,215 [komputronik] INFO: 😴 Sleeping for 20.18 seconds before request 202/352
+2025-04-25 10:13:56,401 [komputronik] INFO: 🚀 Sending request 202/352 to https://www.komputronik.pl/product/949125/telefon-oneplus-13-5g-16-512gb-czarny.html for AN00000245
+2025-04-25 10:13:56,406 [komputronik] INFO: 📋 Response for BN2009369 | Status: 200 | Size: 1242992 bytes
+2025-04-25 10:13:56,504 [komputronik] INFO: [201/352] BN2009369: 0.00 PLN | Outstock | 151 remaining
+2025-04-25 10:13:57,483 [komputronik] INFO: 😴 Sleeping for 25.18 seconds before request 203/352
+2025-04-25 10:14:22,688 [komputronik] INFO: 🚀 Sending request 203/352 to https://www.komputronik.pl/product/949130/telefon-oneplus-13r-5g-12-256gb-czarny.html for AN00000244
+2025-04-25 10:14:22,692 [komputronik] INFO: 📋 Response for AN00000245 | Status: 200 | Size: 1580456 bytes
+2025-04-25 10:14:22,833 [komputronik] INFO: [202/352] AN00000245: 0.00 PLN | Outstock | 150 remaining
+2025-04-25 10:14:23,798 [komputronik] INFO: 😴 Sleeping for 21.97 seconds before request 204/352
+2025-04-25 10:14:45,796 [komputronik] INFO: 🚀 Sending request 204/352 to https://www.komputronik.pl/product/928199/telefon-oneplus-nord-4-5g-16-512gb-srebrny.html for AN00000205
+2025-04-25 10:14:45,812 [komputronik] INFO: 📋 Response for AN00000244 | Status: 200 | Size: 1584146 bytes
+2025-04-25 10:14:45,940 [komputronik] INFO: [203/352] AN00000244: 0.00 PLN | Outstock | 149 remaining
+2025-04-25 10:14:46,900 [komputronik] INFO: 😴 Sleeping for 28.13 seconds before request 205/352
+2025-04-25 10:15:15,046 [komputronik] INFO: 🚀 Sending request 205/352 to https://www.komputronik.pl/product/862799/telefon-oppo-a38-4-128gb-czarny.html for BN2008963
+2025-04-25 10:15:15,051 [komputronik] INFO: 📋 Response for AN00000205 | Status: 200 | Size: 1579363 bytes
+2025-04-25 10:15:15,179 [komputronik] INFO: [204/352] AN00000205: 0.00 PLN | Outstock | 148 remaining
+2025-04-25 10:15:16,989 [komputronik] INFO: 😴 Sleeping for 25.48 seconds before request 206/352
+2025-04-25 10:15:42,479 [komputronik] INFO: 🚀 Sending request 206/352 to https://www.komputronik.pl/product/931250/telefon-oppo-a40-4-128gb-fioletowy.html for BN2009909
+2025-04-25 10:15:42,483 [komputronik] INFO: 📋 Response for BN2008963 | Status: 200 | Size: 1240377 bytes
+2025-04-25 10:15:42,585 [komputronik] INFO: [205/352] BN2008963: 0.00 PLN | Outstock | 147 remaining
+2025-04-25 10:15:43,540 [komputronik] INFO: 😴 Sleeping for 27.04 seconds before request 207/352
+2025-04-25 10:16:10,597 [komputronik] INFO: 🚀 Sending request 207/352 to https://www.komputronik.pl/product/792347/oppo-a57s-4-64gb-dual-sim-niebieski.html for BN2008355
+2025-04-25 10:16:10,608 [komputronik] INFO: 📋 Response for BN2009909 | Status: 200 | Size: 1325381 bytes
+2025-04-25 10:16:10,717 [komputronik] INFO: [206/352] BN2009909: 0.00 PLN | Outstock | 146 remaining
+2025-04-25 10:16:12,599 [komputronik] INFO: 😴 Sleeping for 29.62 seconds before request 208/352
+2025-04-25 10:16:42,241 [komputronik] INFO: 🚀 Sending request 208/352 to https://www.komputronik.pl/product/925062/telefon-oppo-a60-5g-4-128gb-blue.html for BN2009360
+2025-04-25 10:16:42,246 [komputronik] INFO: 📋 Response for BN2008355 | Status: 200 | Size: 1328309 bytes
+2025-04-25 10:16:42,350 [komputronik] INFO: [207/352] BN2008355: 0.00 PLN | Outstock | 145 remaining
+2025-04-25 10:16:43,332 [komputronik] INFO: 😴 Sleeping for 20.37 seconds before request 209/352
+2025-04-25 10:17:03,730 [komputronik] INFO: 🚀 Sending request 209/352 to https://www.komputronik.pl/product/849373/oppo-a78-8-128gb-turkusowy.html for BN2008534
+2025-04-25 10:17:03,735 [komputronik] INFO: 📋 Response for BN2009360 | Status: 200 | Size: 1466546 bytes
+2025-04-25 10:17:03,850 [komputronik] INFO: [208/352] BN2009360: 0.00 PLN | Outstock | 144 remaining
+2025-04-25 10:17:05,668 [komputronik] INFO: 😴 Sleeping for 26.33 seconds before request 210/352
+2025-04-25 10:17:32,020 [komputronik] INFO: 🚀 Sending request 210/352 to https://www.komputronik.pl/product/881629/telefon-oppo-a79-5g-8-256gb-fioletowy.html for BN2009053
+2025-04-25 10:17:32,025 [komputronik] INFO: 📋 Response for BN2008534 | Status: 200 | Size: 1353218 bytes
+2025-04-25 10:17:32,141 [komputronik] INFO: [209/352] BN2008534: 0.00 PLN | Outstock | 143 remaining
+2025-04-25 10:17:33,891 [komputronik] INFO: 😴 Sleeping for 29.53 seconds before request 211/352
+2025-04-25 10:18:03,438 [komputronik] INFO: 🚀 Sending request 211/352 to https://www.komputronik.pl/product/925065/telefon-oppo-a80-5g-8-256gb-purple.html for BN2009426
+2025-04-25 10:18:03,442 [komputronik] INFO: 📋 Response for BN2009053 | Status: 200 | Size: 1349755 bytes
+2025-04-25 10:18:03,549 [komputronik] INFO: [210/352] BN2009053: 0.00 PLN | Outstock | 142 remaining
+2025-04-25 10:18:04,519 [komputronik] INFO: 😴 Sleeping for 27.25 seconds before request 212/352
+2025-04-25 10:18:31,786 [komputronik] INFO: 🚀 Sending request 212/352 to https://www.komputronik.pl/product/949092/telefon-oppo-find-x8-pro-16-512gb-czarny.html for AN00000243
+2025-04-25 10:18:31,804 [komputronik] INFO: 📋 Response for BN2009426 | Status: 200 | Size: 1575720 bytes
+2025-04-25 10:18:31,936 [komputronik] INFO: [211/352] BN2009426: 0.00 PLN | Outstock | 141 remaining
+2025-04-25 10:18:32,889 [komputronik] INFO: 😴 Sleeping for 24.20 seconds before request 213/352
+2025-04-25 10:18:57,112 [komputronik] INFO: 🚀 Sending request 213/352 to https://www.komputronik.pl/product/957953/telefon-oppo-reno-13fs-5g-12-512gb-granatowy.html for AN00000254
+2025-04-25 10:18:57,116 [komputronik] INFO: 📋 Response for AN00000243 | Status: 200 | Size: 1332299 bytes
+2025-04-25 10:18:57,221 [komputronik] INFO: [212/352] AN00000243: 0.00 PLN | Outstock | 140 remaining
+2025-04-25 10:18:58,184 [komputronik] INFO: 😴 Sleeping for 25.83 seconds before request 214/352
+2025-04-25 10:19:24,035 [komputronik] INFO: 🚀 Sending request 214/352 to https://www.komputronik.pl/product/839078/oppo-reno-10-5g-8-256gb-silver-grey.html for BN2008708
+2025-04-25 10:19:24,039 [komputronik] INFO: 📋 Response for AN00000254 | Status: 200 | Size: 1626660 bytes
+2025-04-25 10:19:24,171 [komputronik] INFO: [213/352] AN00000254: 0.00 PLN | Outstock | 139 remaining
+2025-04-25 10:19:26,005 [komputronik] INFO: 😴 Sleeping for 28.79 seconds before request 215/352
+2025-04-25 10:19:54,806 [komputronik] INFO: 🚀 Sending request 215/352 to https://www.komputronik.pl/product/839081/oppo-reno-10-pro-5g-12-256gb-silver-grey.html for BN2008916
+2025-04-25 10:19:54,820 [komputronik] INFO: 📋 Response for BN2008708 | Status: 200 | Size: 1351833 bytes
+2025-04-25 10:19:54,929 [komputronik] INFO: [214/352] BN2008708: 0.00 PLN | Outstock | 138 remaining
+2025-04-25 10:19:56,726 [komputronik] INFO: 😴 Sleeping for 25.45 seconds before request 216/352
+2025-04-25 10:20:22,200 [komputronik] INFO: 🚀 Sending request 216/352 to https://www.komputronik.pl/product/902223/telefon-oppo-reno-11f-5g-8-256gb-niebieski.html for BN2009104
+2025-04-25 10:20:22,205 [komputronik] INFO: 📋 Response for BN2008916 | Status: 200 | Size: 1250799 bytes
+2025-04-25 10:20:22,311 [komputronik] INFO: [215/352] BN2008916: 0.00 PLN | Outstock | 137 remaining
+2025-04-25 10:20:24,138 [komputronik] INFO: 😴 Sleeping for 20.95 seconds before request 217/352
+2025-04-25 10:20:45,108 [komputronik] INFO: 🚀 Sending request 217/352 to https://www.komputronik.pl/product/915125/telefon-oppo-reno-12-12-256gb-silver.html for BN2009427
+2025-04-25 10:20:45,111 [komputronik] INFO: 📋 Response for BN2009104 | Status: 200 | Size: 1353716 bytes
+2025-04-25 10:20:45,222 [komputronik] INFO: [216/352] BN2009104: 0.00 PLN | Outstock | 136 remaining
+2025-04-25 10:20:47,038 [komputronik] INFO: 😴 Sleeping for 26.61 seconds before request 218/352
+2025-04-25 10:21:13,657 [komputronik] INFO: 🚀 Sending request 218/352 to https://www.komputronik.pl/product/920175/telefon-oppo-reno-12-fs-5g-12-512gb-green.html for BN2009428
+2025-04-25 10:21:13,661 [komputronik] INFO: 📋 Response for BN2009427 | Status: 200 | Size: 1344826 bytes
+2025-04-25 10:21:13,772 [komputronik] INFO: [217/352] BN2009427: 0.00 PLN | Outstock | 135 remaining
+2025-04-25 10:21:15,662 [komputronik] INFO: 😴 Sleeping for 23.16 seconds before request 219/352
+2025-04-25 10:21:38,829 [komputronik] INFO: 🚀 Sending request 219/352 to https://www.komputronik.pl/product/915122/telefon-oppo-reno-12-pro-12-512gb-black.html for BN2009282
+2025-04-25 10:21:38,834 [komputronik] INFO: 📋 Response for BN2009428 | Status: 200 | Size: 1336341 bytes
+2025-04-25 10:21:38,948 [komputronik] INFO: [218/352] BN2009428: 0.00 PLN | Outstock | 134 remaining
+2025-04-25 10:21:40,804 [komputronik] INFO: 😴 Sleeping for 29.73 seconds before request 220/352
+2025-04-25 10:22:10,550 [komputronik] INFO: 🚀 Sending request 220/352 to https://www.komputronik.pl/product/804710/philips-43pfs5507-12.html for AN00000114
+2025-04-25 10:22:10,555 [komputronik] INFO: 📋 Response for BN2009282 | Status: 200 | Size: 1351833 bytes
+2025-04-25 10:22:10,669 [komputronik] INFO: [219/352] BN2009282: 0.00 PLN | Outstock | 133 remaining
+2025-04-25 10:22:11,636 [komputronik] INFO: 😴 Sleeping for 25.10 seconds before request 221/352
+2025-04-25 10:22:36,747 [komputronik] INFO: 🚀 Sending request 221/352 to https://www.komputronik.pl/product/865881/telefon-realme-11-5g-8-256gb-glory-gold.html for AN00000174
+2025-04-25 10:22:36,767 [komputronik] INFO: 📋 Response for AN00000114 | Status: 200 | Size: 1453856 bytes
+2025-04-25 10:22:36,887 [komputronik] INFO: [220/352] AN00000114: 0.00 PLN | Outstock | 132 remaining
+2025-04-25 10:22:38,643 [komputronik] INFO: 😴 Sleeping for 24.31 seconds before request 222/352
+2025-04-25 10:23:02,969 [komputronik] INFO: 🚀 Sending request 222/352 to https://www.komputronik.pl/product/907472/telefon-realme-12-5g-8-256gb-woodland-green.html for AN00000251
+2025-04-25 10:23:02,973 [komputronik] INFO: 📋 Response for AN00000174 | Status: 200 | Size: 1347100 bytes
+2025-04-25 10:23:03,085 [komputronik] INFO: [221/352] AN00000174: 0.00 PLN | Outstock | 131 remaining
+2025-04-25 10:23:04,987 [komputronik] INFO: 😴 Sleeping for 27.84 seconds before request 223/352
+2025-04-25 10:23:32,843 [komputronik] INFO: 🚀 Sending request 223/352 to https://www.komputronik.pl/product/896523/telefon-realme-12-pro-5g-12-256gb-submarine-blue.html for BN2009564
+2025-04-25 10:23:32,849 [komputronik] INFO: 📋 Response for AN00000251 | Status: 200 | Size: 1347983 bytes
+2025-04-25 10:23:32,958 [komputronik] INFO: [222/352] AN00000251: 0.00 PLN | Outstock | 130 remaining
+2025-04-25 10:23:34,692 [komputronik] INFO: 😴 Sleeping for 29.14 seconds before request 224/352
+2025-04-25 10:24:03,836 [komputronik] INFO: 🚀 Sending request 224/352 to https://www.komputronik.pl/product/896530/telefon-realme-12-pro-5g-12-512gb-submarine-blue.html for BN2009180
+2025-04-25 10:24:03,840 [komputronik] INFO: 📋 Response for BN2009564 | Status: 200 | Size: 1339324 bytes
+2025-04-25 10:24:03,950 [komputronik] INFO: [223/352] BN2009564: 0.00 PLN | Outstock | 129 remaining
+2025-04-25 10:24:05,887 [komputronik] INFO: 😴 Sleeping for 27.77 seconds before request 225/352
+2025-04-25 10:24:33,680 [komputronik] INFO: 🚀 Sending request 225/352 to https://www.komputronik.pl/product/959356/telefon-realme-14-pro-5g-8-256gb-suede-grey.html for AN00000253
+2025-04-25 10:24:33,694 [komputronik] INFO: 📋 Response for BN2009180 | Status: 200 | Size: 1244251 bytes
+2025-04-25 10:24:33,792 [komputronik] INFO: [224/352] BN2009180: 0.00 PLN | Outstock | 128 remaining
+2025-04-25 10:24:34,800 [komputronik] INFO: 😴 Sleeping for 24.59 seconds before request 226/352
+2025-04-25 10:24:59,415 [komputronik] INFO: 🚀 Sending request 226/352 to https://www.komputronik.pl/product/959361/telefon-realme-14-pro-5g-12-512gb-suede-grey.html for AN00000260
+2025-04-25 10:24:59,419 [komputronik] INFO: 📋 Response for AN00000253 | Status: 200 | Size: 1616927 bytes
+2025-04-25 10:24:59,553 [komputronik] INFO: [225/352] AN00000253: 0.00 PLN | Outstock | 127 remaining
+2025-04-25 10:25:00,522 [komputronik] INFO: 😴 Sleeping for 21.42 seconds before request 227/352
+2025-04-25 10:25:21,955 [komputronik] INFO: 🚀 Sending request 227/352 to https://www.komputronik.pl/product/849369/realme-c51-4-128gb-czarny.html for BN2008847
+2025-04-25 10:25:21,960 [komputronik] INFO: 📋 Response for AN00000260 | Status: 200 | Size: 1619512 bytes
+2025-04-25 10:25:22,108 [komputronik] INFO: [226/352] AN00000260: 0.00 PLN | Outstock | 126 remaining
+2025-04-25 10:25:23,966 [komputronik] INFO: 😴 Sleeping for 29.45 seconds before request 228/352
+2025-04-25 10:25:53,431 [komputronik] INFO: 🚀 Sending request 228/352 to https://www.komputronik.pl/product/891040/telefon-realme-c67-6-128gb-czarny.html for BN2009388
+2025-04-25 10:25:53,434 [komputronik] INFO: 📋 Response for BN2008847 | Status: 200 | Size: 1332673 bytes
+2025-04-25 10:25:53,547 [komputronik] INFO: [227/352] BN2008847: 0.00 PLN | Outstock | 125 remaining
+2025-04-25 10:25:55,376 [komputronik] INFO: 😴 Sleeping for 26.73 seconds before request 229/352
+2025-04-25 10:26:22,119 [komputronik] INFO: 🚀 Sending request 229/352 to https://www.komputronik.pl/product/891015/telefon-realme-c67-8-256gb-czarny.html for BN2009183
+2025-04-25 10:26:22,135 [komputronik] INFO: 📋 Response for BN2009388 | Status: 200 | Size: 1339203 bytes
+2025-04-25 10:26:22,241 [komputronik] INFO: [228/352] BN2009388: 0.00 PLN | Outstock | 124 remaining
+2025-04-25 10:26:24,119 [komputronik] INFO: 😴 Sleeping for 25.96 seconds before request 230/352
+2025-04-25 10:26:50,083 [komputronik] INFO: 🚀 Sending request 230/352 to https://www.komputronik.pl/product/915100/telefon-realme-gt6-16-512gb-razor-green.html for BN2009650
+2025-04-25 10:26:50,087 [komputronik] INFO: 📋 Response for BN2009183 | Status: 200 | Size: 1240456 bytes
+2025-04-25 10:26:50,186 [komputronik] INFO: [229/352] BN2009183: 0.00 PLN | Outstock | 123 remaining
+2025-04-25 10:26:51,148 [komputronik] INFO: 😴 Sleeping for 23.70 seconds before request 231/352
+2025-04-25 10:27:14,874 [komputronik] INFO: 🚀 Sending request 231/352 to https://www.komputronik.pl/product/944741/telefon-realme-gt-7-pro-12-512gb-szary.html for AN00000239
+2025-04-25 10:27:14,879 [komputronik] INFO: 📋 Response for BN2009650 | Status: 200 | Size: 1341974 bytes
+2025-04-25 10:27:14,996 [komputronik] INFO: [230/352] BN2009650: 0.00 PLN | Outstock | 122 remaining
+2025-04-25 10:27:15,995 [komputronik] INFO: 😴 Sleeping for 21.06 seconds before request 232/352
+2025-04-25 10:27:37,074 [komputronik] INFO: 🚀 Sending request 232/352 to https://www.komputronik.pl/product/898960/telefon-realme-note-50-3-64gb-czarny.html for BN2009563
+2025-04-25 10:27:37,079 [komputronik] INFO: 📋 Response for AN00000239 | Status: 200 | Size: 1484961 bytes
+2025-04-25 10:27:37,200 [komputronik] INFO: [231/352] AN00000239: 0.00 PLN | Outstock | 121 remaining
+2025-04-25 10:27:38,173 [komputronik] INFO: 😴 Sleeping for 28.96 seconds before request 233/352
+2025-04-25 10:28:07,148 [komputronik] INFO: 🚀 Sending request 233/352 to https://www.komputronik.pl/product/941714/telefon-samsung-galaxy-a05s-128gb-dual-sim-czarny-a145-.html for BN2008971
+2025-04-25 10:28:07,152 [komputronik] INFO: 📋 Response for BN2009563 | Status: 200 | Size: 1608477 bytes
+2025-04-25 10:28:07,503 [komputronik] INFO: [232/352] BN2009563: 0.00 PLN | Outstock | 120 remaining
+2025-04-25 10:28:08,520 [komputronik] INFO: 😴 Sleeping for 23.60 seconds before request 234/352
+2025-04-25 10:28:32,133 [komputronik] INFO: 🚀 Sending request 234/352 to https://www.komputronik.pl/product/942703/telefon-samsung-galaxy-a05s-64gb-dual-sim-czarny-a145-.html for BN2008970
+2025-04-25 10:28:32,137 [komputronik] INFO: 📋 Response for BN2008971 | Status: 200 | Size: 1611399 bytes
+2025-04-25 10:28:32,278 [komputronik] INFO: [233/352] BN2008971: 0.00 PLN | Outstock | 119 remaining
+2025-04-25 10:28:33,231 [komputronik] INFO: 😴 Sleeping for 28.92 seconds before request 235/352
+2025-04-25 10:29:02,166 [komputronik] INFO: 🚀 Sending request 235/352 to https://www.komputronik.pl/product/819011/samsung-galaxy-a14-64gb-dual-sim-czarny-a145-.html for BN2008553
+2025-04-25 10:29:02,169 [komputronik] INFO: 📋 Response for BN2008970 | Status: 200 | Size: 1354246 bytes
+2025-04-25 10:29:02,290 [komputronik] INFO: [234/352] BN2008970: 0.00 PLN | Outstock | 118 remaining
+2025-04-25 10:29:04,141 [komputronik] INFO: 😴 Sleeping for 25.00 seconds before request 236/352
+2025-04-25 10:29:29,166 [komputronik] INFO: 🚀 Sending request 236/352 to https://www.komputronik.pl/product/889426/telefon-samsung-galaxy-a15-128gb-dual-sim-czarny-a155-.html for BN2009107
+2025-04-25 10:29:29,170 [komputronik] INFO: 📋 Response for BN2008553 | Status: 200 | Size: 1273301 bytes
+2025-04-25 10:29:29,276 [komputronik] INFO: [235/352] BN2008553: 0.00 PLN | Outstock | 117 remaining
+2025-04-25 10:29:31,134 [komputronik] INFO: 😴 Sleeping for 22.74 seconds before request 237/352
+2025-04-25 10:29:53,893 [komputronik] INFO: 🚀 Sending request 237/352 to https://www.komputronik.pl/product/957204/telefon-samsung-galaxy-a16-128gb-5g-dual-sim-czarny-a166-.html for BN2009662
+2025-04-25 10:29:53,897 [komputronik] INFO: 📋 Response for BN2009107 | Status: 200 | Size: 1385094 bytes
+2025-04-25 10:29:54,012 [komputronik] INFO: [236/352] BN2009107: 0.00 PLN | Outstock | 116 remaining
+2025-04-25 10:29:55,006 [komputronik] INFO: 😴 Sleeping for 29.65 seconds before request 238/352
+2025-04-25 10:30:24,662 [komputronik] INFO: 🚀 Sending request 238/352 to https://www.komputronik.pl/product/954566/telefon-samsung-galaxy-a16-128gb-dual-sim-szary-a165-.html for BN2009660
+2025-04-25 10:30:24,680 [komputronik] INFO: 📋 Response for BN2009662 | Status: 200 | Size: 1582405 bytes
+2025-04-25 10:30:24,812 [komputronik] INFO: [237/352] BN2009662: 0.00 PLN | Outstock | 115 remaining
+2025-04-25 10:30:25,776 [komputronik] INFO: 😴 Sleeping for 27.05 seconds before request 239/352
+2025-04-25 10:30:52,845 [komputronik] INFO: 🚀 Sending request 239/352 to https://www.komputronik.pl/product/886126/telefon-samsung-galaxy-a25-128gb-5g-dual-sim-czarny-a256-.html for BN2008917
+2025-04-25 10:30:52,849 [komputronik] INFO: 📋 Response for BN2009660 | Status: 200 | Size: 1586302 bytes
+2025-04-25 10:30:52,986 [komputronik] INFO: [238/352] BN2009660: 0.00 PLN | Outstock | 114 remaining
+2025-04-25 10:30:54,831 [komputronik] INFO: 😴 Sleeping for 21.06 seconds before request 240/352
+2025-04-25 10:31:15,910 [komputronik] INFO: 🚀 Sending request 240/352 to https://www.komputronik.pl/product/819013/samsung-galaxy-a34-128gb-5g-dual-sim-czarny-a346-.html for BN2008665
+2025-04-25 10:31:15,913 [komputronik] INFO: 📋 Response for BN2008917 | Status: 200 | Size: 1273307 bytes
+2025-04-25 10:31:16,014 [komputronik] INFO: [239/352] BN2008917: 0.00 PLN | Outstock | 113 remaining
+2025-04-25 10:31:16,991 [komputronik] INFO: 😴 Sleeping for 21.82 seconds before request 241/352
+2025-04-25 10:31:38,842 [komputronik] INFO: 🚀 Sending request 241/352 to https://www.komputronik.pl/product/898508/telefon-samsung-galaxy-a35-128gb-5g-dual-sim-czarny-a356-.html for BN2009233
+2025-04-25 10:31:38,854 [komputronik] INFO: 📋 Response for BN2008665 | Status: 200 | Size: 1631520 bytes
+2025-04-25 10:31:38,991 [komputronik] INFO: [240/352] BN2008665: 0.00 PLN | Outstock | 112 remaining
+2025-04-25 10:31:39,984 [komputronik] INFO: 😴 Sleeping for 25.09 seconds before request 242/352
+2025-04-25 10:32:05,083 [komputronik] INFO: 🚀 Sending request 242/352 to https://www.komputronik.pl/product/936432/telefon-samsung-galaxy-a35-256gb-5g-dual-sim-granatowy-a356-.html for BN2009234
+2025-04-25 10:32:05,086 [komputronik] INFO: 📋 Response for BN2009233 | Status: 200 | Size: 1382013 bytes
+2025-04-25 10:32:05,203 [komputronik] INFO: [241/352] BN2009233: 0.00 PLN | Outstock | 111 remaining
+2025-04-25 10:32:06,967 [komputronik] INFO: 😴 Sleeping for 22.93 seconds before request 243/352
+2025-04-25 10:32:29,913 [komputronik] INFO: 🚀 Sending request 243/352 to https://www.komputronik.pl/product/958935/telefon-samsung-galaxy-a36-128gb-5g-dual-sim-czarny-a366-.html for BN2009895
+2025-04-25 10:32:29,918 [komputronik] INFO: 📋 Response for BN2009234 | Status: 200 | Size: 1366619 bytes
+2025-04-25 10:32:30,024 [komputronik] INFO: [242/352] BN2009234: 0.00 PLN | Outstock | 110 remaining
+2025-04-25 10:32:31,014 [komputronik] INFO: 😴 Sleeping for 26.98 seconds before request 244/352
+2025-04-25 10:32:58,006 [komputronik] INFO: 🚀 Sending request 244/352 to https://www.komputronik.pl/product/958932/telefon-samsung-galaxy-a36-256gb-5g-dual-sim-fioletowy-a366-.html for BN2009896
+2025-04-25 10:32:58,009 [komputronik] INFO: 📋 Response for BN2009895 | Status: 200 | Size: 1719440 bytes
+2025-04-25 10:32:58,161 [komputronik] INFO: [243/352] BN2009895: 0.00 PLN | Outstock | 109 remaining
+2025-04-25 10:32:59,126 [komputronik] INFO: 😴 Sleeping for 22.65 seconds before request 245/352
+2025-04-25 10:33:21,796 [komputronik] INFO: 🚀 Sending request 245/352 to https://www.komputronik.pl/product/732765/samsung-galaxy-a52s-5g-128gb-dual-sim-fioletowy-a528-.html for BN2007937
+2025-04-25 10:33:21,801 [komputronik] INFO: 📋 Response for BN2009896 | Status: 200 | Size: 1397089 bytes
+2025-04-25 10:33:21,920 [komputronik] INFO: [244/352] BN2009896: 0.00 PLN | Outstock | 108 remaining
+2025-04-25 10:33:22,921 [komputronik] INFO: 😴 Sleeping for 22.67 seconds before request 246/352
+2025-04-25 10:33:45,606 [komputronik] INFO: 🚀 Sending request 246/352 to https://www.komputronik.pl/product/819020/samsung-galaxy-a54-128gb-5g-dual-sim-czarny-a546-.html for BN2008677
+2025-04-25 10:33:45,609 [komputronik] INFO: 📋 Response for BN2007937 | Status: 200 | Size: 1420477 bytes
+2025-04-25 10:33:45,727 [komputronik] INFO: [245/352] BN2007937: 0.00 PLN | Outstock | 107 remaining
+2025-04-25 10:33:46,692 [komputronik] INFO: 😴 Sleeping for 29.17 seconds before request 247/352
+2025-04-25 10:34:15,876 [komputronik] INFO: 🚀 Sending request 247/352 to https://www.komputronik.pl/product/898514/telefon-samsung-galaxy-a55-128gb-5g-dual-sim-zolty-a556-.html for BN2009231
+2025-04-25 10:34:15,879 [komputronik] INFO: 📋 Response for BN2008677 | Status: 200 | Size: 1398180 bytes
+2025-04-25 10:34:15,988 [komputronik] INFO: [246/352] BN2008677: 0.00 PLN | Outstock | 106 remaining
+2025-04-25 10:34:16,989 [komputronik] INFO: 😴 Sleeping for 24.85 seconds before request 248/352
+2025-04-25 10:34:41,859 [komputronik] INFO: 🚀 Sending request 248/352 to https://www.komputronik.pl/product/925547/telefon-samsung-galaxy-a55-256gb-5g-dual-sim-czarny-a556-.html for BN2009232
+2025-04-25 10:34:41,864 [komputronik] INFO: 📋 Response for BN2009231 | Status: 200 | Size: 1653754 bytes
+2025-04-25 10:34:42,002 [komputronik] INFO: [247/352] BN2009231: 0.00 PLN | Outstock | 105 remaining
+2025-04-25 10:34:42,944 [komputronik] INFO: 😴 Sleeping for 21.78 seconds before request 249/352
+2025-04-25 10:35:04,744 [komputronik] INFO: 🚀 Sending request 249/352 to https://www.komputronik.pl/product/958943/telefon-samsung-galaxy-a56-128gb-5g-dual-sim-grafitowy-a566-.html for BN2009795
+2025-04-25 10:35:04,761 [komputronik] INFO: 📋 Response for BN2009232 | Status: 200 | Size: 1285769 bytes
+2025-04-25 10:35:04,868 [komputronik] INFO: [248/352] BN2009232: 0.00 PLN | Outstock | 104 remaining
+2025-04-25 10:35:05,904 [komputronik] INFO: 😴 Sleeping for 23.01 seconds before request 250/352
+2025-04-25 10:35:28,928 [komputronik] INFO: 🚀 Sending request 250/352 to https://www.komputronik.pl/product/958944/telefon-samsung-galaxy-a56-256gb-5g-dual-sim-grafitowy-a566-.html for BN2009848
+2025-04-25 10:35:28,931 [komputronik] INFO: 📋 Response for BN2009795 | Status: 200 | Size: 1730428 bytes
+2025-04-25 10:35:29,069 [komputronik] INFO: [249/352] BN2009795: 0.00 PLN | Outstock | 103 remaining
+2025-04-25 10:35:30,026 [komputronik] INFO: 😴 Sleeping for 23.73 seconds before request 251/352
+2025-04-25 10:35:53,775 [komputronik] INFO: 🚀 Sending request 251/352 to https://www.komputronik.pl/product/892117/zegarek-smartwatch-samsung-galaxy-watch-fit3-rozowo-zloty-r390-.html for BN2009334
+2025-04-25 10:35:53,779 [komputronik] INFO: 📋 Response for BN2009848 | Status: 200 | Size: 1726036 bytes
+2025-04-25 10:35:53,932 [komputronik] INFO: [250/352] BN2009848: 0.00 PLN | Outstock | 102 remaining
+2025-04-25 10:35:54,923 [komputronik] INFO: 😴 Sleeping for 28.89 seconds before request 252/352
+2025-04-25 10:36:23,836 [komputronik] INFO: 🚀 Sending request 252/352 to https://www.komputronik.pl/product/777285/samsung-galaxy-s21-fe-5g-128gb-dual-sim-grafitowy-g990-.html for BN2007845
+2025-04-25 10:36:23,850 [komputronik] INFO: 📋 Response for BN2009334 | Status: 200 | Size: 1406645 bytes
+2025-04-25 10:36:23,957 [komputronik] INFO: [251/352] BN2009334: 0.00 PLN | Outstock | 101 remaining
+2025-04-25 10:36:25,806 [komputronik] INFO: 😴 Sleeping for 29.81 seconds before request 253/352
+2025-04-25 10:36:55,623 [komputronik] INFO: 🚀 Sending request 253/352 to https://www.komputronik.pl/product/745958/samsung-galaxy-s22-5g-128gb-dual-sim-bialy-s901-.html for BN2008088
+2025-04-25 10:36:55,626 [komputronik] INFO: 📋 Response for BN2007845 | Status: 200 | Size: 1393894 bytes
+2025-04-25 10:36:55,763 [komputronik] INFO: [252/352] BN2007845: 0.00 PLN | Outstock | 100 remaining
+2025-04-25 10:36:57,719 [komputronik] INFO: 😴 Sleeping for 27.74 seconds before request 254/352
+2025-04-25 10:37:25,482 [komputronik] INFO: 🚀 Sending request 254/352 to https://www.komputronik.pl/product/805856/samsung-galaxy-s23-5g-8-128gb-dual-sim-czarny-s911-.html for BN2008581
+2025-04-25 10:37:25,487 [komputronik] INFO: 📋 Response for BN2008088 | Status: 200 | Size: 1290226 bytes
+2025-04-25 10:37:25,591 [komputronik] INFO: [253/352] BN2008088: 0.00 PLN | Outstock | 99 remaining
+2025-04-25 10:37:27,396 [komputronik] INFO: 😴 Sleeping for 28.74 seconds before request 255/352
+2025-04-25 10:37:56,152 [komputronik] INFO: 🚀 Sending request 255/352 to https://www.komputronik.pl/product/805859/samsung-galaxy-s23-5g-8256gb-dual-sim-zielony-s911-.html for BN2008582
+2025-04-25 10:37:56,155 [komputronik] INFO: 📋 Response for BN2008581 | Status: 200 | Size: 1470570 bytes
+2025-04-25 10:37:56,271 [komputronik] INFO: [254/352] BN2008581: 0.00 PLN | Outstock | 98 remaining
+2025-04-25 10:37:57,283 [komputronik] INFO: 😴 Sleeping for 27.70 seconds before request 256/352
+2025-04-25 10:38:25,007 [komputronik] INFO: 🚀 Sending request 256/352 to https://www.komputronik.pl/product/881379/telefon-samsung-galaxy-s23-fe-5g-8-128gb-dual-sim-grafitowy-s711-.html for BN2009085
+2025-04-25 10:38:25,011 [komputronik] INFO: 📋 Response for BN2008582 | Status: 200 | Size: 1719499 bytes
+2025-04-25 10:38:25,166 [komputronik] INFO: [255/352] BN2008582: 0.00 PLN | Outstock | 97 remaining
+2025-04-25 10:38:27,060 [komputronik] INFO: 😴 Sleeping for 24.99 seconds before request 257/352
+2025-04-25 10:38:52,070 [komputronik] INFO: 🚀 Sending request 257/352 to https://www.komputronik.pl/product/805871/samsung-galaxy-s23-ultra-5g-8-256gb-dual-sim-czarny-s918-.html for BN2008586
+2025-04-25 10:38:52,074 [komputronik] INFO: 📋 Response for BN2009085 | Status: 200 | Size: 1388782 bytes
+2025-04-25 10:38:52,188 [komputronik] INFO: [256/352] BN2009085: 0.00 PLN | Outstock | 96 remaining
+2025-04-25 10:38:53,206 [komputronik] INFO: 😴 Sleeping for 26.12 seconds before request 258/352
+2025-04-25 10:39:19,334 [komputronik] INFO: 🚀 Sending request 258/352 to https://www.komputronik.pl/product/886612/telefon-samsung-galaxy-s24-5g-8-128gb-dual-sim-czarny-s911-.html for BN2009166
+2025-04-25 10:39:19,338 [komputronik] INFO: 📋 Response for BN2008586 | Status: 200 | Size: 1722497 bytes
+2025-04-25 10:39:19,479 [komputronik] INFO: [257/352] BN2008586: 0.00 PLN | Outstock | 95 remaining
+2025-04-25 10:39:20,643 [komputronik] INFO: 😴 Sleeping for 24.50 seconds before request 259/352
+2025-04-25 10:39:45,157 [komputronik] INFO: 🚀 Sending request 259/352 to https://www.komputronik.pl/product/886623/telefon-samsung-galaxy-s24-5g-8-256gb-dual-sim-czarny-s911-.html for BN2009167
+2025-04-25 10:39:45,162 [komputronik] INFO: 📋 Response for BN2009166 | Status: 200 | Size: 1754181 bytes
+2025-04-25 10:39:45,324 [komputronik] INFO: [258/352] BN2009166: 0.00 PLN | Outstock | 94 remaining
+2025-04-25 10:39:46,330 [komputronik] INFO: 😴 Sleeping for 22.05 seconds before request 260/352
+2025-04-25 10:40:08,396 [komputronik] INFO: 🚀 Sending request 260/352 to https://www.komputronik.pl/product/933742/telefon-samsung-galaxy-s24-fe-5g-8-128gb-dual-sim-grafitowy-s721-.html for BN2009488
+2025-04-25 10:40:08,399 [komputronik] INFO: 📋 Response for BN2009167 | Status: 200 | Size: 1633773 bytes
+2025-04-25 10:40:08,548 [komputronik] INFO: [259/352] BN2009167: 0.00 PLN | Outstock | 93 remaining
+2025-04-25 10:40:09,511 [komputronik] INFO: 😴 Sleeping for 28.41 seconds before request 261/352
+2025-04-25 10:40:37,946 [komputronik] INFO: 🚀 Sending request 261/352 to https://www.komputronik.pl/product/933746/telefon-samsung-galaxy-s24-fe-5g-8-256gb-dual-sim-grafitowy-s721-.html for BN2009489
+2025-04-25 10:40:37,949 [komputronik] INFO: 📋 Response for BN2009488 | Status: 200 | Size: 1557275 bytes
+2025-04-25 10:40:38,088 [komputronik] INFO: [260/352] BN2009488: 0.00 PLN | Outstock | 92 remaining
+2025-04-25 10:40:39,091 [komputronik] INFO: 😴 Sleeping for 29.51 seconds before request 262/352
+2025-04-25 10:41:08,611 [komputronik] INFO: 🚀 Sending request 262/352 to https://www.komputronik.pl/product/886640/telefon-samsung-galaxy-s24-ultra-5g-12-1tb-dual-sim-tytan-czarny-s918-.html for BN2009173
+2025-04-25 10:41:08,615 [komputronik] INFO: 📋 Response for BN2009489 | Status: 200 | Size: 1556259 bytes
+2025-04-25 10:41:08,742 [komputronik] INFO: [261/352] BN2009489: 0.00 PLN | Outstock | 91 remaining
+2025-04-25 10:41:09,723 [komputronik] INFO: 😴 Sleeping for 27.72 seconds before request 263/352
+2025-04-25 10:41:37,463 [komputronik] INFO: 🚀 Sending request 263/352 to https://www.komputronik.pl/product/886632/telefon-samsung-galaxy-s24-ultra-5g-8-256gb-dual-sim-tytan-czarny-s918-.html for BN2009171
+2025-04-25 10:41:37,468 [komputronik] INFO: 📋 Response for BN2009173 | Status: 200 | Size: 1437561 bytes
+2025-04-25 10:41:37,618 [komputronik] INFO: [262/352] BN2009173: 0.00 PLN | Outstock | 90 remaining
+2025-04-25 10:41:38,613 [komputronik] INFO: 😴 Sleeping for 28.80 seconds before request 264/352
+2025-04-25 10:42:07,427 [komputronik] INFO: 🚀 Sending request 264/352 to https://www.komputronik.pl/product/886636/telefon-samsung-galaxy-s24-ultra-5g-12-512gb-dual-sim-tytan-czarny-s918-.html for BN2009172
+2025-04-25 10:42:07,431 [komputronik] INFO: 📋 Response for BN2009171 | Status: 200 | Size: 1440875 bytes
+2025-04-25 10:42:07,557 [komputronik] INFO: [263/352] BN2009171: 0.00 PLN | Outstock | 89 remaining
+2025-04-25 10:42:08,533 [komputronik] INFO: 😴 Sleeping for 20.81 seconds before request 265/352
+2025-04-25 10:42:29,365 [komputronik] INFO: 🚀 Sending request 265/352 to https://www.komputronik.pl/product/886627/telefon-samsung-galaxy-s24-5g-12-256gb-dual-sim-czarny-s916-.html for BN2009169
+2025-04-25 10:42:29,380 [komputronik] INFO: 📋 Response for BN2009172 | Status: 200 | Size: 1629336 bytes
+2025-04-25 10:42:29,524 [komputronik] INFO: [264/352] BN2009172: 0.00 PLN | Outstock | 88 remaining
+2025-04-25 10:42:30,535 [komputronik] INFO: 😴 Sleeping for 29.29 seconds before request 266/352
+2025-04-25 10:42:59,835 [komputronik] INFO: 🚀 Sending request 266/352 to https://www.komputronik.pl/product/886631/telefon-samsung-galaxy-s24-5g-12-512gb-dual-sim-czarny-s916-.html for BN2009170
+2025-04-25 10:42:59,839 [komputronik] INFO: 📋 Response for BN2009169 | Status: 200 | Size: 1718979 bytes
+2025-04-25 10:42:59,987 [komputronik] INFO: [265/352] BN2009169: 0.00 PLN | Outstock | 87 remaining
+2025-04-25 10:43:00,953 [komputronik] INFO: 😴 Sleeping for 20.47 seconds before request 267/352
+2025-04-25 10:43:21,438 [komputronik] INFO: 🚀 Sending request 267/352 to https://www.komputronik.pl/product/951561/telefon-samsung-galaxy-s25-5g-12-128gb-dual-sim-niebieski-s931-.html for BN2009796
+2025-04-25 10:43:21,441 [komputronik] INFO: 📋 Response for BN2009170 | Status: 200 | Size: 1721455 bytes
+2025-04-25 10:43:21,601 [komputronik] INFO: [266/352] BN2009170: 0.00 PLN | Outstock | 86 remaining
+2025-04-25 10:43:22,604 [komputronik] INFO: 😴 Sleeping for 25.83 seconds before request 268/352
+2025-04-25 10:43:48,466 [komputronik] INFO: 🚀 Sending request 268/352 to https://www.komputronik.pl/product/951562/telefon-samsung-galaxy-s25-5g-12-256gb-dual-sim-niebieski-s931-.html for BN2009900
+2025-04-25 10:43:48,470 [komputronik] INFO: 📋 Response for BN2009796 | Status: 200 | Size: 1778162 bytes
+2025-04-25 10:43:48,629 [komputronik] INFO: [267/352] BN2009796: 0.00 PLN | Outstock | 85 remaining
+2025-04-25 10:43:49,601 [komputronik] INFO: 😴 Sleeping for 29.09 seconds before request 269/352
+2025-04-25 10:44:18,707 [komputronik] INFO: 🚀 Sending request 269/352 to https://www.komputronik.pl/product/951572/telefon-samsung-galaxy-s25-5g-12-512gb-dual-sim-srebrny-s931-.html for BN2009849
+2025-04-25 10:44:18,712 [komputronik] INFO: 📋 Response for BN2009900 | Status: 200 | Size: 1628887 bytes
+2025-04-25 10:44:18,855 [komputronik] INFO: [268/352] BN2009900: 0.00 PLN | Outstock | 84 remaining
+2025-04-25 10:44:20,186 [komputronik] INFO: 😴 Sleeping for 21.49 seconds before request 270/352
+2025-04-25 10:44:41,711 [komputronik] INFO: 🚀 Sending request 270/352 to https://www.komputronik.pl/product/951581/telefon-samsung-galaxy-s25-ultra-5g-12-1tb-dual-sim-tytan-czarny-s938-.html for BN2009851
+2025-04-25 10:44:41,717 [komputronik] INFO: 📋 Response for BN2009849 | Status: 200 | Size: 1626083 bytes
+2025-04-25 10:44:41,858 [komputronik] INFO: [269/352] BN2009849: 0.00 PLN | Outstock | 83 remaining
+2025-04-25 10:44:42,819 [komputronik] INFO: 😴 Sleeping for 25.66 seconds before request 271/352
+2025-04-25 10:45:08,500 [komputronik] INFO: 🚀 Sending request 271/352 to https://www.komputronik.pl/product/951583/telefon-samsung-galaxy-s25-ultra-5g-12-256gb-dual-sim-tytan-czarny-s938-.html for BN2009798
+2025-04-25 10:45:08,505 [komputronik] INFO: 📋 Response for BN2009851 | Status: 200 | Size: 1776345 bytes
+2025-04-25 10:45:08,647 [komputronik] INFO: [270/352] BN2009851: 0.00 PLN | Outstock | 82 remaining
+2025-04-25 10:45:09,657 [komputronik] INFO: 😴 Sleeping for 24.74 seconds before request 272/352
+2025-04-25 10:45:34,408 [komputronik] INFO: 🚀 Sending request 272/352 to https://www.komputronik.pl/product/951584/telefon-samsung-galaxy-s25-ultra-5g-12-512gb-dual-sim-tytan-czarny-s938-.html for BN2009852
+2025-04-25 10:45:34,418 [komputronik] INFO: 📋 Response for BN2009798 | Status: 200 | Size: 1772757 bytes
+2025-04-25 10:45:34,579 [komputronik] INFO: [271/352] BN2009798: 0.00 PLN | Outstock | 81 remaining
+2025-04-25 10:45:35,543 [komputronik] INFO: 😴 Sleeping for 26.27 seconds before request 273/352
+2025-04-25 10:46:01,821 [komputronik] INFO: 🚀 Sending request 273/352 to https://www.komputronik.pl/product/951575/telefon-samsung-galaxy-s25-5g-12-256gb-dual-sim-zielony-s938-.html for BN2009797
+2025-04-25 10:46:01,824 [komputronik] INFO: 📋 Response for BN2009852 | Status: 200 | Size: 1627953 bytes
+2025-04-25 10:46:01,981 [komputronik] INFO: [272/352] BN2009852: 0.00 PLN | Outstock | 80 remaining
+2025-04-25 10:46:02,988 [komputronik] INFO: 😴 Sleeping for 22.33 seconds before request 274/352
+2025-04-25 10:46:25,333 [komputronik] INFO: 🚀 Sending request 274/352 to https://www.komputronik.pl/product/951580/telefon-samsung-galaxy-s25-5g-12-512gb-dual-sim-srebrny-s938-.html for BN2009850
+2025-04-25 10:46:25,338 [komputronik] INFO: 📋 Response for BN2009797 | Status: 200 | Size: 1620779 bytes
+2025-04-25 10:46:25,491 [komputronik] INFO: [273/352] BN2009797: 0.00 PLN | Outstock | 79 remaining
+2025-04-25 10:46:26,448 [komputronik] INFO: 😴 Sleeping for 22.65 seconds before request 275/352
+2025-04-25 10:46:49,115 [komputronik] INFO: 🚀 Sending request 275/352 to https://www.komputronik.pl/product/878620/samsung-galaxy-tab-a9-8-7-64gb-szary-x110-.html for BN2009046
+2025-04-25 10:46:49,119 [komputronik] INFO: 📋 Response for BN2009850 | Status: 200 | Size: 1768546 bytes
+2025-04-25 10:46:49,264 [komputronik] INFO: [274/352] BN2009850: 0.00 PLN | Outstock | 78 remaining
+2025-04-25 10:46:50,264 [komputronik] INFO: 😴 Sleeping for 23.23 seconds before request 276/352
+2025-04-25 10:47:13,511 [komputronik] INFO: 🚀 Sending request 276/352 to https://www.komputronik.pl/product/878622/samsung-galaxy-tab-a9-8-7-128gb-szary-x115-.html for BN2009043
+2025-04-25 10:47:13,514 [komputronik] INFO: 📋 Response for BN2009046 | Status: 200 | Size: 1269584 bytes
+2025-04-25 10:47:13,629 [komputronik] INFO: [275/352] BN2009046: 0.00 PLN | Outstock | 77 remaining
+2025-04-25 10:47:14,576 [komputronik] INFO: 😴 Sleeping for 23.66 seconds before request 277/352
+2025-04-25 10:47:38,252 [komputronik] INFO: 🚀 Sending request 277/352 to https://www.komputronik.pl/product/921479/tablet-samsung-galaxy-tab-a9-11-0-64gb-5g-szary-x216-.html for BN2008981
+2025-04-25 10:47:38,265 [komputronik] INFO: 📋 Response for BN2009043 | Status: 200 | Size: 1376833 bytes
+2025-04-25 10:47:38,378 [komputronik] INFO: [276/352] BN2009043: 0.00 PLN | Outstock | 76 remaining
+2025-04-25 10:47:39,409 [komputronik] INFO: 😴 Sleeping for 28.24 seconds before request 278/352
+2025-04-25 10:48:07,667 [komputronik] INFO: 🚀 Sending request 278/352 to https://www.komputronik.pl/product/878623/samsung-galaxy-tab-a9-11-0-64gb-szary-x210-.html for BN2008983
+2025-04-25 10:48:07,671 [komputronik] INFO: 📋 Response for BN2008981 | Status: 200 | Size: 1399265 bytes
+2025-04-25 10:48:07,790 [komputronik] INFO: [277/352] BN2008981: 0.00 PLN | Outstock | 75 remaining
+2025-04-25 10:48:08,740 [komputronik] INFO: 😴 Sleeping for 26.88 seconds before request 279/352
+2025-04-25 10:48:35,635 [komputronik] INFO: 🚀 Sending request 279/352 to https://www.komputronik.pl/product/878625/samsung-galaxy-tab-a9-11-0-128gb-5g-szary-x216-.html for BN2008980
+2025-04-25 10:48:35,641 [komputronik] INFO: 📋 Response for BN2008983 | Status: 200 | Size: 1344539 bytes
+2025-04-25 10:48:35,786 [komputronik] INFO: [278/352] BN2008983: 0.00 PLN | Outstock | 74 remaining
+2025-04-25 10:48:36,778 [komputronik] INFO: 😴 Sleeping for 29.31 seconds before request 280/352
+2025-04-25 10:49:06,110 [komputronik] INFO: 🚀 Sending request 280/352 to https://www.komputronik.pl/product/842440/samsung-galaxy-tab-s9-11-0-5g-256gb-szary-x716-.html for BN2008930
+2025-04-25 10:49:06,114 [komputronik] INFO: 📋 Response for BN2008980 | Status: 200 | Size: 1421928 bytes
+2025-04-25 10:49:06,246 [komputronik] INFO: [279/352] BN2008980: 0.00 PLN | Outstock | 73 remaining
+2025-04-25 10:49:07,205 [komputronik] INFO: 😴 Sleeping for 25.96 seconds before request 281/352
+2025-04-25 10:49:33,193 [komputronik] INFO: 🚀 Sending request 281/352 to https://www.komputronik.pl/product/842434/samsung-galaxy-tab-s9-11-0-wifi-128gb-szary-x710-.html for BN2008936
+2025-04-25 10:49:33,197 [komputronik] INFO: 📋 Response for BN2008930 | Status: 200 | Size: 1271965 bytes
+2025-04-25 10:49:33,301 [komputronik] INFO: [280/352] BN2008930: 0.00 PLN | Outstock | 72 remaining
+2025-04-25 10:49:34,306 [komputronik] INFO: 😴 Sleeping for 27.40 seconds before request 282/352
+2025-04-25 10:50:01,712 [komputronik] INFO: 🚀 Sending request 282/352 to https://www.komputronik.pl/product/864703/samsung-galaxy-tab-s9-fe-10-9-5g-128gb-szary-x516-.html for BN2008977
+2025-04-25 10:50:01,717 [komputronik] INFO: 📋 Response for BN2008936 | Status: 200 | Size: 1392032 bytes
+2025-04-25 10:50:01,846 [komputronik] INFO: [281/352] BN2008936: 0.00 PLN | Outstock | 71 remaining
+2025-04-25 10:50:02,822 [komputronik] INFO: 😴 Sleeping for 28.43 seconds before request 283/352
+2025-04-25 10:50:31,276 [komputronik] INFO: 🚀 Sending request 283/352 to https://www.komputronik.pl/product/864701/samsung-galaxy-tab-s9-fe-10-9-wifi-128gb-szary-x510-.html for BN2008979
+2025-04-25 10:50:31,280 [komputronik] INFO: 📋 Response for BN2008977 | Status: 200 | Size: 1403968 bytes
+2025-04-25 10:50:31,391 [komputronik] INFO: [282/352] BN2008977: 0.00 PLN | Outstock | 70 remaining
+2025-04-25 10:50:32,377 [komputronik] INFO: 😴 Sleeping for 22.35 seconds before request 284/352
+2025-04-25 10:50:54,746 [komputronik] INFO: 🚀 Sending request 284/352 to https://www.komputronik.pl/product/864704/samsung-galaxy-tab-s9-fe-10-9-5g-256gb-szary-x516-.html for BN2008976
+2025-04-25 10:50:54,750 [komputronik] INFO: 📋 Response for BN2008979 | Status: 200 | Size: 1366876 bytes
+2025-04-25 10:50:54,857 [komputronik] INFO: [283/352] BN2008979: 0.00 PLN | Outstock | 69 remaining
+2025-04-25 10:50:55,821 [komputronik] INFO: 😴 Sleeping for 28.11 seconds before request 285/352
+2025-04-25 10:51:23,954 [komputronik] INFO: 🚀 Sending request 285/352 to https://www.komputronik.pl/product/864702/samsung-galaxy-tab-s9-fe-10-9-wifi-256gb-szary-x510-.html for BN2008978
+2025-04-25 10:51:23,971 [komputronik] INFO: 📋 Response for BN2008976 | Status: 200 | Size: 1259361 bytes
+2025-04-25 10:51:24,072 [komputronik] INFO: [284/352] BN2008976: 0.00 PLN | Outstock | 68 remaining
+2025-04-25 10:51:25,064 [komputronik] INFO: 😴 Sleeping for 28.14 seconds before request 286/352
+2025-04-25 10:51:53,220 [komputronik] INFO: 🚀 Sending request 286/352 to https://www.komputronik.pl/product/842421/samsung-galaxy-watch-6-lte-40mm-zloty-r935-.html for BN4000701
+2025-04-25 10:51:53,223 [komputronik] INFO: 📋 Response for BN2008978 | Status: 200 | Size: 1369393 bytes
+2025-04-25 10:51:53,330 [komputronik] INFO: [285/352] BN2008978: 0.00 PLN | Outstock | 67 remaining
+2025-04-25 10:51:55,153 [komputronik] INFO: 😴 Sleeping for 27.04 seconds before request 287/352
+2025-04-25 10:52:22,215 [komputronik] INFO: 🚀 Sending request 287/352 to https://www.komputronik.pl/product/842431/samsung-galaxy-watch-6-pro-lte-43mm-srebrny-r955-.html for BN4000699
+2025-04-25 10:52:22,219 [komputronik] INFO: 📋 Response for BN4000701 | Status: 200 | Size: 1401976 bytes
+2025-04-25 10:52:22,325 [komputronik] INFO: [286/352] BN4000701: 0.00 PLN | Outstock | 66 remaining
+2025-04-25 10:52:24,518 [komputronik] INFO: 😴 Sleeping for 24.57 seconds before request 288/352
+2025-04-25 10:52:49,099 [komputronik] INFO: 🚀 Sending request 288/352 to https://www.komputronik.pl/product/842427/samsung-galaxy-watch-6-pro-lte-47mm-czarny-r965-.html for BN4000698
+2025-04-25 10:52:49,102 [komputronik] INFO: 📋 Response for BN4000699 | Status: 200 | Size: 1410720 bytes
+2025-04-25 10:52:49,213 [komputronik] INFO: [287/352] BN4000699: 0.00 PLN | Outstock | 65 remaining
+2025-04-25 10:52:50,986 [komputronik] INFO: 😴 Sleeping for 24.57 seconds before request 289/352
+2025-04-25 10:53:15,567 [komputronik] INFO: 🚀 Sending request 289/352 to https://www.komputronik.pl/product/920597/zegarek-smartwatch-samsung-galaxy-watch-7-lte-40mm-kremowy-l305-.html for BN2009406
+2025-04-25 10:53:15,572 [komputronik] INFO: 📋 Response for BN4000698 | Status: 200 | Size: 1411854 bytes
+2025-04-25 10:53:15,689 [komputronik] INFO: [288/352] BN4000698: 0.00 PLN | Outstock | 64 remaining
+2025-04-25 10:53:16,687 [komputronik] INFO: 😴 Sleeping for 29.08 seconds before request 290/352
+2025-04-25 10:53:45,798 [komputronik] INFO: 🚀 Sending request 290/352 to https://www.komputronik.pl/product/920595/zegarek-smartwatch-samsung-galaxy-watch-7-lte-44mm-srebrny-l315-.html for BN2009404
+2025-04-25 10:53:45,803 [komputronik] INFO: 📋 Response for BN2009406 | Status: 200 | Size: 1455911 bytes
+2025-04-25 10:53:45,941 [komputronik] INFO: [289/352] BN2009406: 0.00 PLN | Outstock | 63 remaining
+2025-04-25 10:53:46,900 [komputronik] INFO: 😴 Sleeping for 26.34 seconds before request 291/352
+2025-04-25 10:54:13,248 [komputronik] INFO: 🚀 Sending request 291/352 to https://www.komputronik.pl/product/916485/telefon-samsung-galaxy-xcover-7-128gb-dual-sim-czarny-g556-.html for BN2009163
+2025-04-25 10:54:13,255 [komputronik] INFO: 📋 Response for BN2009404 | Status: 200 | Size: 1344978 bytes
+2025-04-25 10:54:13,362 [komputronik] INFO: [290/352] BN2009404: 0.00 PLN | Outstock | 62 remaining
+2025-04-25 10:54:14,348 [komputronik] INFO: 😴 Sleeping for 24.88 seconds before request 292/352
+2025-04-25 10:54:39,264 [komputronik] INFO: 🚀 Sending request 292/352 to https://www.komputronik.pl/product/920518/telefon-samsung-galaxy-z-flip-6-5g-12-256gb-niebieski-f741-.html for BN2009474
+2025-04-25 10:54:39,268 [komputronik] INFO: 📋 Response for BN2009163 | Status: 200 | Size: 1588308 bytes
+2025-04-25 10:54:39,413 [komputronik] INFO: [291/352] BN2009163: 0.00 PLN | Outstock | 61 remaining
+2025-04-25 10:54:41,372 [komputronik] INFO: 😴 Sleeping for 20.57 seconds before request 293/352
+2025-04-25 10:55:01,965 [komputronik] INFO: 🚀 Sending request 293/352 to https://www.komputronik.pl/product/920523/telefon-samsung-galaxy-z-flip-6-5g-12-512gb-szary-f741-.html for BN2009475
+2025-04-25 10:55:01,969 [komputronik] INFO: 📋 Response for BN2009474 | Status: 200 | Size: 1297084 bytes
+2025-04-25 10:55:02,093 [komputronik] INFO: [292/352] BN2009474: 0.00 PLN | Outstock | 60 remaining
+2025-04-25 10:55:03,077 [komputronik] INFO: 😴 Sleeping for 27.84 seconds before request 294/352
+2025-04-25 10:55:30,924 [komputronik] INFO: 🚀 Sending request 294/352 to https://www.komputronik.pl/product/920470/telefon-samsung-galaxy-z-fold-6-5g-12-1tb-granatowy-f956-.html for BN2009476
+2025-04-25 10:55:30,940 [komputronik] INFO: 📋 Response for BN2009475 | Status: 200 | Size: 1291966 bytes
+2025-04-25 10:55:31,043 [komputronik] INFO: [293/352] BN2009475: 0.00 PLN | Outstock | 59 remaining
+2025-04-25 10:55:32,847 [komputronik] INFO: 😴 Sleeping for 27.26 seconds before request 295/352
+2025-04-25 10:56:00,130 [komputronik] INFO: 🚀 Sending request 295/352 to https://www.komputronik.pl/product/920478/telefon-samsung-galaxy-z-fold-6-5g-12-256gb-szary-f956-.html for BN2009477
+2025-04-25 10:56:00,133 [komputronik] INFO: 📋 Response for BN2009476 | Status: 200 | Size: 1308962 bytes
+2025-04-25 10:56:00,236 [komputronik] INFO: [294/352] BN2009476: 0.00 PLN | Outstock | 58 remaining
+2025-04-25 10:56:02,182 [komputronik] INFO: 😴 Sleeping for 29.36 seconds before request 296/352
+2025-04-25 10:56:31,557 [komputronik] INFO: 🚀 Sending request 296/352 to https://www.komputronik.pl/product/920479/telefon-samsung-galaxy-z-fold-6-5g-12-512gb-szary-f956-.html for BN2009478
+2025-04-25 10:56:31,562 [komputronik] INFO: 📋 Response for BN2009477 | Status: 200 | Size: 1415104 bytes
+2025-04-25 10:56:31,674 [komputronik] INFO: [295/352] BN2009477: 0.00 PLN | Outstock | 57 remaining
+2025-04-25 10:56:33,451 [komputronik] INFO: 😴 Sleeping for 26.55 seconds before request 297/352
+2025-04-25 10:57:00,022 [komputronik] INFO: 🚀 Sending request 297/352 to https://www.komputronik.pl/product/958947/telefon-samsung-galaxy-a26-128gb-5g-dual-sim-czarny-a266-.html for AN00000255
+2025-04-25 10:57:00,026 [komputronik] INFO: 📋 Response for BN2009478 | Status: 200 | Size: 1304543 bytes
+2025-04-25 10:57:00,134 [komputronik] INFO: [296/352] BN2009478: 0.00 PLN | Outstock | 56 remaining
+2025-04-25 10:57:01,119 [komputronik] INFO: 😴 Sleeping for 22.30 seconds before request 298/352
+2025-04-25 10:57:23,442 [komputronik] INFO: 🚀 Sending request 298/352 to https://www.komputronik.pl/product/919834/sluchawki-samsung-galaxy-buds3-srebrne.html for AN00000202
+2025-04-25 10:57:23,447 [komputronik] INFO: 📋 Response for AN00000255 | Status: 200 | Size: 1582106 bytes
+2025-04-25 10:57:23,571 [komputronik] INFO: [297/352] AN00000255: 0.00 PLN | Outstock | 55 remaining
+2025-04-25 10:57:24,529 [komputronik] INFO: 😴 Sleeping for 20.24 seconds before request 299/352
+2025-04-25 10:57:44,783 [komputronik] INFO: 🚀 Sending request 299/352 to https://www.komputronik.pl/product/919833/sluchawki-samsung-galaxy-buds3-pro-biale.html for AN00000203
+2025-04-25 10:57:44,800 [komputronik] INFO: 📋 Response for AN00000202 | Status: 200 | Size: 1388750 bytes
+2025-04-25 10:57:44,911 [komputronik] INFO: [298/352] AN00000202: 0.00 PLN | Outstock | 54 remaining
+2025-04-25 10:57:45,904 [komputronik] INFO: 😴 Sleeping for 21.55 seconds before request 300/352
+2025-04-25 10:58:07,468 [komputronik] INFO: 🚀 Sending request 300/352 to https://www.komputronik.pl/product/933640/tablet-samsung-galaxy-tab-s10-ultra-12-0-5g-512gb-grafitowy-x926-rysik-s-pen.html for AN00000247
+2025-04-25 10:58:07,472 [komputronik] INFO: 📋 Response for AN00000203 | Status: 200 | Size: 1402996 bytes
+2025-04-25 10:58:07,584 [komputronik] INFO: [299/352] AN00000203: 0.00 PLN | Outstock | 53 remaining
+2025-04-25 10:58:09,422 [komputronik] INFO: 😴 Sleeping for 23.90 seconds before request 301/352
+2025-04-25 10:58:33,343 [komputronik] INFO: 🚀 Sending request 301/352 to https://www.komputronik.pl/product/933654/tablet-samsung-galaxy-tab-s10-12-0-5g-512gb-srebrny-x826-rysik-s-pen.html for AN00000246
+2025-04-25 10:58:33,347 [komputronik] INFO: 📋 Response for AN00000247 | Status: 200 | Size: 1380531 bytes
+2025-04-25 10:58:33,458 [komputronik] INFO: [300/352] AN00000247: 0.00 PLN | Outstock | 52 remaining
+2025-04-25 10:58:35,329 [komputronik] INFO: 😴 Sleeping for 24.15 seconds before request 302/352
+2025-04-25 10:58:59,488 [komputronik] INFO: 🚀 Sending request 302/352 to https://www.komputronik.pl/product/920592/zegarek-smartwatch-samsung-galaxy-watch-ultra-lte-47mm-tytanowy-bialy-l705-.html for BN2009402
+2025-04-25 10:58:59,493 [komputronik] INFO: 📋 Response for AN00000246 | Status: 200 | Size: 1262757 bytes
+2025-04-25 10:58:59,603 [komputronik] INFO: [301/352] AN00000246: 0.00 PLN | Outstock | 51 remaining
+2025-04-25 10:59:00,574 [komputronik] INFO: 😴 Sleeping for 21.05 seconds before request 303/352
+2025-04-25 10:59:21,651 [komputronik] INFO: 🚀 Sending request 303/352 to https://www.komputronik.pl/product/729839/samsung-galaxy-watch-4-40mm-rozowo-zloty-r860-.html for BN4000618
+2025-04-25 10:59:21,655 [komputronik] INFO: 📋 Response for BN2009402 | Status: 200 | Size: 1464032 bytes
+2025-04-25 10:59:21,793 [komputronik] INFO: [302/352] BN2009402: 0.00 PLN | Outstock | 50 remaining
+2025-04-25 10:59:22,787 [komputronik] INFO: 😴 Sleeping for 29.07 seconds before request 304/352
+2025-04-25 10:59:51,867 [komputronik] INFO: 🚀 Sending request 304/352 to https://www.komputronik.pl/product/915832/zegarek-smartwatch-samsung-galaxy-watch-fe-4-40mm-rozowo-zloty-r861-.html for BN2009491
+2025-04-25 10:59:51,871 [komputronik] INFO: 📋 Response for BN4000618 | Status: 200 | Size: 1506360 bytes
+2025-04-25 10:59:51,994 [komputronik] INFO: [303/352] BN4000618: 0.00 PLN | Outstock | 49 remaining
+2025-04-25 10:59:52,971 [komputronik] INFO: 😴 Sleeping for 21.09 seconds before request 305/352
+2025-04-25 11:00:14,068 [komputronik] INFO: 🚀 Sending request 305/352 to https://www.komputronik.pl/product/942646/sony-playstation-5-pro.html for AN00000242
+2025-04-25 11:00:14,072 [komputronik] INFO: 📋 Response for BN2009491 | Status: 200 | Size: 1358473 bytes
+2025-04-25 11:00:14,194 [komputronik] INFO: [304/352] BN2009491: 0.00 PLN | Outstock | 48 remaining
+2025-04-25 11:00:15,192 [komputronik] INFO: 😴 Sleeping for 28.56 seconds before request 306/352
+2025-04-25 11:00:43,767 [komputronik] INFO: 🚀 Sending request 306/352 to https://www.komputronik.pl/product/879641/telefon-poco-c65-6-128gb-czarny.html for BN2009392
+2025-04-25 11:00:43,771 [komputronik] INFO: 📋 Response for AN00000242 | Status: 200 | Size: 1347049 bytes
+2025-04-25 11:00:43,884 [komputronik] INFO: [305/352] AN00000242: 0.00 PLN | Outstock | 47 remaining
+2025-04-25 11:00:45,684 [komputronik] INFO: 😴 Sleeping for 20.45 seconds before request 307/352
+2025-04-25 11:01:06,153 [komputronik] INFO: 🚀 Sending request 307/352 to https://www.komputronik.pl/product/879644/telefon-poco-c65-8-256gb-czarny.html for BN2009393
+2025-04-25 11:01:06,157 [komputronik] INFO: 📋 Response for BN2009392 | Status: 200 | Size: 1362564 bytes
+2025-04-25 11:01:06,272 [komputronik] INFO: [306/352] BN2009392: 0.00 PLN | Outstock | 46 remaining
+2025-04-25 11:01:08,141 [komputronik] INFO: 😴 Sleeping for 26.23 seconds before request 308/352
+2025-04-25 11:01:34,390 [komputronik] INFO: 🚀 Sending request 308/352 to https://www.komputronik.pl/product/912369/telefon-poco-f6-12-512gb-zielony.html for BN2009751
+2025-04-25 11:01:34,408 [komputronik] INFO: 📋 Response for BN2009393 | Status: 200 | Size: 1362572 bytes
+2025-04-25 11:01:34,516 [komputronik] INFO: [307/352] BN2009393: 0.00 PLN | Outstock | 45 remaining
+2025-04-25 11:01:36,364 [komputronik] INFO: 😴 Sleeping for 23.66 seconds before request 309/352
+2025-04-25 11:02:00,043 [komputronik] INFO: 🚀 Sending request 309/352 to https://www.komputronik.pl/product/912367/telefon-poco-f6-pro-12-512gb-bialy.html for BN2009752
+2025-04-25 11:02:00,047 [komputronik] INFO: 📋 Response for BN2009751 | Status: 200 | Size: 1224489 bytes
+2025-04-25 11:02:00,149 [komputronik] INFO: [308/352] BN2009751: 0.00 PLN | Outstock | 44 remaining
+2025-04-25 11:02:02,950 [komputronik] INFO: 😴 Sleeping for 20.79 seconds before request 310/352
+2025-04-25 11:02:23,755 [komputronik] INFO: 🚀 Sending request 310/352 to https://www.komputronik.pl/product/912364/telefon-poco-f6-pro-16-1024gb-czarny.html for BN2009755
+2025-04-25 11:02:23,760 [komputronik] INFO: 📋 Response for BN2009752 | Status: 200 | Size: 1332379 bytes
+2025-04-25 11:02:23,871 [komputronik] INFO: [309/352] BN2009752: 0.00 PLN | Outstock | 43 remaining
+2025-04-25 11:02:25,820 [komputronik] INFO: 😴 Sleeping for 21.35 seconds before request 311/352
+2025-04-25 11:02:47,185 [komputronik] INFO: 🚀 Sending request 311/352 to https://www.komputronik.pl/product/885649/telefon-poco-m6-pro-12-512gb-czarny.html for BN2009379
+2025-04-25 11:02:47,189 [komputronik] INFO: 📋 Response for BN2009755 | Status: 200 | Size: 1332139 bytes
+2025-04-25 11:02:47,299 [komputronik] INFO: [310/352] BN2009755: 0.00 PLN | Outstock | 42 remaining
+2025-04-25 11:02:48,411 [komputronik] INFO: 😴 Sleeping for 26.43 seconds before request 312/352
+2025-04-25 11:03:14,851 [komputronik] INFO: 🚀 Sending request 312/352 to https://www.komputronik.pl/product/885652/telefon-poco-x6-5g-12-256gb-czarny.html for BN2009384
+2025-04-25 11:03:14,855 [komputronik] INFO: 📋 Response for BN2009379 | Status: 200 | Size: 1614900 bytes
+2025-04-25 11:03:14,987 [komputronik] INFO: [311/352] BN2009379: 0.00 PLN | Outstock | 41 remaining
+2025-04-25 11:03:15,977 [komputronik] INFO: 😴 Sleeping for 26.96 seconds before request 313/352
+2025-04-25 11:03:42,973 [komputronik] INFO: 🚀 Sending request 313/352 to https://www.komputronik.pl/product/885656/telefon-poco-x6-pro-5g-12-512gb-szary.html for BN2009385
+2025-04-25 11:03:42,994 [komputronik] INFO: 📋 Response for BN2009384 | Status: 200 | Size: 1483561 bytes
+2025-04-25 11:03:43,118 [komputronik] INFO: [312/352] BN2009384: 0.00 PLN | Outstock | 40 remaining
+2025-04-25 11:03:44,111 [komputronik] INFO: 😴 Sleeping for 28.28 seconds before request 314/352
+2025-04-25 11:04:12,399 [komputronik] INFO: 🚀 Sending request 314/352 to https://www.komputronik.pl/product/913542/telefon-xiaomi-redmi-13-6-128gb-black.html for BN2009328
+2025-04-25 11:04:12,402 [komputronik] INFO: 📋 Response for BN2009385 | Status: 200 | Size: 1609690 bytes
+2025-04-25 11:04:12,532 [komputronik] INFO: [313/352] BN2009385: 0.00 PLN | Outstock | 39 remaining
+2025-04-25 11:04:13,528 [komputronik] INFO: 😴 Sleeping for 26.41 seconds before request 315/352
+2025-04-25 11:04:39,963 [komputronik] INFO: 🚀 Sending request 315/352 to https://www.komputronik.pl/product/913577/telefon-xiaomi-redmi-13-8-256gb-pink.html for BN2009331
+2025-04-25 11:04:39,968 [komputronik] INFO: 📋 Response for BN2009328 | Status: 200 | Size: 1592687 bytes
+2025-04-25 11:04:40,108 [komputronik] INFO: [314/352] BN2009328: 0.00 PLN | Outstock | 38 remaining
+2025-04-25 11:04:41,094 [komputronik] INFO: 😴 Sleeping for 28.49 seconds before request 316/352
+2025-04-25 11:05:09,591 [komputronik] INFO: 🚀 Sending request 316/352 to https://www.komputronik.pl/product/884173/telefon-xiaomi-redmi-13c-4-128gb-navy-blue.html for BN2009087
+2025-04-25 11:05:09,604 [komputronik] INFO: 📋 Response for BN2009331 | Status: 200 | Size: 1589348 bytes
+2025-04-25 11:05:09,920 [komputronik] INFO: [315/352] BN2009331: 0.00 PLN | Outstock | 37 remaining
+2025-04-25 11:05:11,785 [komputronik] INFO: 😴 Sleeping for 28.30 seconds before request 317/352
+2025-04-25 11:05:40,102 [komputronik] INFO: 🚀 Sending request 317/352 to https://www.komputronik.pl/product/884175/telefon-xiaomi-redmi-13c-8-256gb-midnight-black.html for BN2009088
+2025-04-25 11:05:40,107 [komputronik] INFO: 📋 Response for BN2009087 | Status: 200 | Size: 1361139 bytes
+2025-04-25 11:05:40,223 [komputronik] INFO: [316/352] BN2009087: 0.00 PLN | Outstock | 36 remaining
+2025-04-25 11:05:42,124 [komputronik] INFO: 😴 Sleeping for 26.19 seconds before request 318/352
+2025-04-25 11:06:08,333 [komputronik] INFO: 🚀 Sending request 318/352 to https://www.komputronik.pl/product/930880/telefon-xiaomi-redmi-14c-4-128gb-midnight-black.html for BN2009638
+2025-04-25 11:06:08,337 [komputronik] INFO: 📋 Response for BN2009088 | Status: 200 | Size: 1364035 bytes
+2025-04-25 11:06:08,447 [komputronik] INFO: [317/352] BN2009088: 0.00 PLN | Outstock | 35 remaining
+2025-04-25 11:06:09,404 [komputronik] INFO: 😴 Sleeping for 27.13 seconds before request 319/352
+2025-04-25 11:06:36,556 [komputronik] INFO: 🚀 Sending request 319/352 to https://www.komputronik.pl/product/897329/telefon-xiaomi-redmi-a3-3-64gb-niebieski.html for BN2009278
+2025-04-25 11:06:36,560 [komputronik] INFO: 📋 Response for BN2009638 | Status: 200 | Size: 1628911 bytes
+2025-04-25 11:06:36,692 [komputronik] INFO: [318/352] BN2009638: 0.00 PLN | Outstock | 34 remaining
+2025-04-25 11:06:38,618 [komputronik] INFO: 😴 Sleeping for 29.11 seconds before request 320/352
+2025-04-25 11:07:07,736 [komputronik] INFO: 🚀 Sending request 320/352 to https://www.komputronik.pl/product/826977/xiaomi-redmi-note-12s-8-256gb-czarny-onyx-black-.html for BN2008771
+2025-04-25 11:07:07,749 [komputronik] INFO: 📋 Response for BN2009278 | Status: 200 | Size: 1346097 bytes
+2025-04-25 11:07:07,853 [komputronik] INFO: [319/352] BN2009278: 0.00 PLN | Outstock | 33 remaining
+2025-04-25 11:07:09,733 [komputronik] INFO: 😴 Sleeping for 27.02 seconds before request 321/352
+2025-04-25 11:07:36,759 [komputronik] INFO: 🚀 Sending request 321/352 to https://www.komputronik.pl/product/886721/telefon-xiaomi-redmi-note-13-5g-6-128gb-ocean-teal.html for BN2009387
+2025-04-25 11:07:36,763 [komputronik] INFO: 📋 Response for BN2008771 | Status: 200 | Size: 1354228 bytes
+2025-04-25 11:07:36,867 [komputronik] INFO: [320/352] BN2008771: 0.00 PLN | Outstock | 32 remaining
+2025-04-25 11:07:38,670 [komputronik] INFO: 😴 Sleeping for 26.87 seconds before request 322/352
+2025-04-25 11:08:05,563 [komputronik] INFO: 🚀 Sending request 322/352 to https://www.komputronik.pl/product/886719/telefon-xiaomi-redmi-note-13-6-128gb-mint-green.html for BN2009089
+2025-04-25 11:08:05,568 [komputronik] INFO: 📋 Response for BN2009387 | Status: 200 | Size: 1368553 bytes
+2025-04-25 11:08:05,683 [komputronik] INFO: [321/352] BN2009387: 0.00 PLN | Outstock | 31 remaining
+2025-04-25 11:08:07,477 [komputronik] INFO: 😴 Sleeping for 27.69 seconds before request 323/352
+2025-04-25 11:08:35,201 [komputronik] INFO: 🚀 Sending request 323/352 to https://www.komputronik.pl/product/886715/telefon-xiaomi-redmi-note-13-8-256gb-ice-blue.html for BN2009090
+2025-04-25 11:08:35,206 [komputronik] INFO: 📋 Response for BN2009089 | Status: 200 | Size: 1374612 bytes
+2025-04-25 11:08:35,317 [komputronik] INFO: [322/352] BN2009089: 0.00 PLN | Outstock | 30 remaining
+2025-04-25 11:08:36,307 [komputronik] INFO: 😴 Sleeping for 23.08 seconds before request 324/352
+2025-04-25 11:08:59,396 [komputronik] INFO: 🚀 Sending request 324/352 to https://www.komputronik.pl/product/886729/telefon-xiaomi-redmi-note-13-pro-5g-8-256gb-ocean-teal.html for BN2009091
+2025-04-25 11:08:59,400 [komputronik] INFO: 📋 Response for BN2009090 | Status: 200 | Size: 1500325 bytes
+2025-04-25 11:08:59,518 [komputronik] INFO: [323/352] BN2009090: 0.00 PLN | Outstock | 29 remaining
+2025-04-25 11:09:01,370 [komputronik] INFO: 😴 Sleeping for 28.50 seconds before request 325/352
+2025-04-25 11:09:29,902 [komputronik] INFO: 🚀 Sending request 325/352 to https://www.komputronik.pl/product/886723/telefon-xiaomi-redmi-note-13-pro-8-256gb-midnight-black.html for BN2009248
+2025-04-25 11:09:29,919 [komputronik] INFO: 📋 Response for BN2009091 | Status: 200 | Size: 1263423 bytes
+2025-04-25 11:09:30,020 [komputronik] INFO: [324/352] BN2009091: 0.00 PLN | Outstock | 28 remaining
+2025-04-25 11:09:31,024 [komputronik] INFO: 😴 Sleeping for 23.27 seconds before request 326/352
+2025-04-25 11:09:54,308 [komputronik] INFO: 🚀 Sending request 326/352 to https://www.komputronik.pl/product/886732/telefon-xiaomi-redmi-note-13-pro-5g-12-512gb-aurora-purple.html for BN2009111
+2025-04-25 11:09:54,313 [komputronik] INFO: 📋 Response for BN2009248 | Status: 200 | Size: 1634862 bytes
+2025-04-25 11:09:54,440 [komputronik] INFO: [325/352] BN2009248: 0.00 PLN | Outstock | 27 remaining
+2025-04-25 11:09:56,576 [komputronik] INFO: 😴 Sleeping for 25.61 seconds before request 327/352
+2025-04-25 11:10:22,195 [komputronik] INFO: 🚀 Sending request 327/352 to https://www.komputronik.pl/product/949117/telefon-xiaomi-redmi-note-14-8-256gb-ocean-blue.html for BN2009810
+2025-04-25 11:10:22,199 [komputronik] INFO: 📋 Response for BN2009111 | Status: 200 | Size: 1267316 bytes
+2025-04-25 11:10:22,305 [komputronik] INFO: [326/352] BN2009111: 0.00 PLN | Outstock | 26 remaining
+2025-04-25 11:10:23,359 [komputronik] INFO: 😴 Sleeping for 22.85 seconds before request 328/352
+2025-04-25 11:10:46,223 [komputronik] INFO: 🚀 Sending request 328/352 to https://www.komputronik.pl/product/949112/telefon-xiaomi-redmi-note-14-pro-5g-8-256gb-coral-green.html for BN2009812
+2025-04-25 11:10:46,228 [komputronik] INFO: 📋 Response for BN2009810 | Status: 200 | Size: 1637970 bytes
+2025-04-25 11:10:46,366 [komputronik] INFO: [327/352] BN2009810: 0.00 PLN | Outstock | 25 remaining
+2025-04-25 11:10:47,352 [komputronik] INFO: 😴 Sleeping for 27.58 seconds before request 329/352
+2025-04-25 11:11:14,957 [komputronik] INFO: 🚀 Sending request 329/352 to https://www.komputronik.pl/product/834437/xiaomi-redmi-watch-3-active-szary.html for AN00000173
+2025-04-25 11:11:14,972 [komputronik] INFO: 📋 Response for BN2009812 | Status: 200 | Size: 1509273 bytes
+2025-04-25 11:11:15,121 [komputronik] INFO: [328/352] BN2009812: 0.00 PLN | Outstock | 24 remaining
+2025-04-25 11:11:17,043 [komputronik] INFO: 😴 Sleeping for 24.54 seconds before request 330/352
+2025-04-25 11:11:41,600 [komputronik] INFO: 🚀 Sending request 330/352 to https://www.komputronik.pl/product/890696/zegarek-smartwatch-xiaomi-redmi-watch-4-czarny.html for BN2009160
+2025-04-25 11:11:41,604 [komputronik] INFO: 📋 Response for AN00000173 | Status: 200 | Size: 1342022 bytes
+2025-04-25 11:11:41,719 [komputronik] INFO: [329/352] AN00000173: 0.00 PLN | Outstock | 23 remaining
+2025-04-25 11:11:42,669 [komputronik] INFO: 😴 Sleeping for 24.12 seconds before request 331/352
+2025-04-25 11:12:06,797 [komputronik] INFO: 🚀 Sending request 331/352 to https://www.komputronik.pl/product/862783/xiaomi-watch-2-pro-lte-srebrny.html for BN4000677
+2025-04-25 11:12:06,801 [komputronik] INFO: 📋 Response for BN2009160 | Status: 200 | Size: 1256801 bytes
+2025-04-25 11:12:06,902 [komputronik] INFO: [330/352] BN2009160: 0.00 PLN | Outstock | 22 remaining
+2025-04-25 11:12:08,805 [komputronik] INFO: 😴 Sleeping for 20.13 seconds before request 332/352
+2025-04-25 11:12:28,947 [komputronik] INFO: 🚀 Sending request 332/352 to https://www.komputronik.pl/product/736142/xiaomi-11-lite-5g-ne-8-256gb-bialy-snowflake-white-.html for BN2007930
+2025-04-25 11:12:28,957 [komputronik] INFO: 📋 Response for BN4000677 | Status: 200 | Size: 1314152 bytes
+2025-04-25 11:12:29,072 [komputronik] INFO: [331/352] BN4000677: 0.00 PLN | Outstock | 21 remaining
+2025-04-25 11:12:30,022 [komputronik] INFO: 😴 Sleeping for 29.97 seconds before request 333/352
+2025-04-25 11:13:00,005 [komputronik] INFO: 🚀 Sending request 333/352 to https://www.komputronik.pl/product/860691/telefon-xiaomi-13t-8-256gb-black.html for BN2008852
+2025-04-25 11:13:00,008 [komputronik] INFO: 📋 Response for BN2007930 | Status: 200 | Size: 1339216 bytes
+2025-04-25 11:13:00,122 [komputronik] INFO: [332/352] BN2007930: 0.00 PLN | Outstock | 20 remaining
+2025-04-25 11:13:02,002 [komputronik] INFO: 😴 Sleeping for 23.84 seconds before request 334/352
+2025-04-25 11:13:25,851 [komputronik] INFO: 🚀 Sending request 334/352 to https://www.komputronik.pl/product/860694/telefon-xiaomi-13t-pro-12-512gb-black.html for BN2008861
+2025-04-25 11:13:25,858 [komputronik] INFO: 📋 Response for BN2008852 | Status: 200 | Size: 1355877 bytes
+2025-04-25 11:13:25,991 [komputronik] INFO: [333/352] BN2008852: 0.00 PLN | Outstock | 19 remaining
+2025-04-25 11:13:27,762 [komputronik] INFO: 😴 Sleeping for 21.28 seconds before request 335/352
+2025-04-25 11:13:49,065 [komputronik] INFO: 🚀 Sending request 335/352 to https://www.komputronik.pl/product/895402/telefon-xiaomi-14-12-512gb-white.html for BN2009094
+2025-04-25 11:13:49,068 [komputronik] INFO: 📋 Response for BN2008861 | Status: 200 | Size: 1360267 bytes
+2025-04-25 11:13:49,184 [komputronik] INFO: [334/352] BN2008861: 0.00 PLN | Outstock | 18 remaining
+2025-04-25 11:13:50,197 [komputronik] INFO: 😴 Sleeping for 26.43 seconds before request 336/352
+2025-04-25 11:14:16,645 [komputronik] INFO: 🚀 Sending request 336/352 to https://www.komputronik.pl/product/895404/telefon-xiaomi-14-ultra-16-512gb-white.html for BN2009303
+2025-04-25 11:14:16,650 [komputronik] INFO: 📋 Response for BN2009094 | Status: 200 | Size: 1632973 bytes
+2025-04-25 11:14:16,790 [komputronik] INFO: [335/352] BN2009094: 0.00 PLN | Outstock | 17 remaining
+2025-04-25 11:14:17,745 [komputronik] INFO: 😴 Sleeping for 23.91 seconds before request 337/352
+2025-04-25 11:14:41,662 [komputronik] INFO: 🚀 Sending request 337/352 to https://www.komputronik.pl/product/930888/telefon-xiaomi-14t-12-256gb-titan-gray.html for BN2009425
+2025-04-25 11:14:41,681 [komputronik] INFO: 📋 Response for BN2009303 | Status: 200 | Size: 1626216 bytes
+2025-04-25 11:14:41,814 [komputronik] INFO: [336/352] BN2009303: 0.00 PLN | Outstock | 16 remaining
+2025-04-25 11:14:42,827 [komputronik] INFO: 😴 Sleeping for 25.83 seconds before request 338/352
+2025-04-25 11:15:08,666 [komputronik] INFO: 🚀 Sending request 338/352 to https://www.komputronik.pl/product/930903/telefon-xiaomi-14t-pro-12-512gb-titan-gray.html for BN2009446
+2025-04-25 11:15:08,669 [komputronik] INFO: 📋 Response for BN2009425 | Status: 200 | Size: 1650465 bytes
+2025-04-25 11:15:08,808 [komputronik] INFO: [337/352] BN2009425: 0.00 PLN | Outstock | 15 remaining
+2025-04-25 11:15:09,767 [komputronik] INFO: 😴 Sleeping for 25.77 seconds before request 339/352
+2025-04-25 11:15:35,565 [komputronik] INFO: 🚀 Sending request 339/352 to https://www.komputronik.pl/product/957381/telefon-xiaomi-15-12-256gb-green.html for BN2009814
+2025-04-25 11:15:35,568 [komputronik] INFO: 📋 Response for BN2009446 | Status: 200 | Size: 1661776 bytes
+2025-04-25 11:15:35,705 [komputronik] INFO: [338/352] BN2009446: 0.00 PLN | Outstock | 14 remaining
+2025-04-25 11:15:36,760 [komputronik] INFO: 😴 Sleeping for 22.71 seconds before request 340/352
+2025-04-25 11:15:59,483 [komputronik] INFO: 🚀 Sending request 340/352 to https://www.komputronik.pl/product/957383/telefon-xiaomi-15-ultra-16-512gb-silver.html for BN2009815
+2025-04-25 11:15:59,487 [komputronik] INFO: 📋 Response for BN2009814 | Status: 200 | Size: 1604113 bytes
+2025-04-25 11:15:59,618 [komputronik] INFO: [339/352] BN2009814: 0.00 PLN | Outstock | 13 remaining
+2025-04-25 11:16:00,567 [komputronik] INFO: 😴 Sleeping for 22.74 seconds before request 341/352
+2025-04-25 11:16:23,316 [komputronik] INFO: 🚀 Sending request 341/352 to https://www.komputronik.pl/product/930916/telefon-xiaomi-mix-flip-12-512gb-black.html for AN00000234
+2025-04-25 11:16:23,321 [komputronik] INFO: 📋 Response for BN2009815 | Status: 200 | Size: 1608161 bytes
+2025-04-25 11:16:23,454 [komputronik] INFO: [340/352] BN2009815: 0.00 PLN | Outstock | 12 remaining
+2025-04-25 11:16:24,454 [komputronik] INFO: 😴 Sleeping for 20.50 seconds before request 342/352
+2025-04-25 11:16:44,981 [komputronik] INFO: 🚀 Sending request 342/352 to https://www.komputronik.pl/product/949116/telefon-xiaomi-redmi-note-14-8-256gb-midnight-black.html for AN00000248
+2025-04-25 11:16:44,984 [komputronik] INFO: 📋 Response for AN00000234 | Status: 200 | Size: 1627335 bytes
+2025-04-25 11:16:45,122 [komputronik] INFO: [341/352] AN00000234: 0.00 PLN | Outstock | 11 remaining
+2025-04-25 11:16:46,075 [komputronik] INFO: 😴 Sleeping for 22.83 seconds before request 343/352
+2025-04-25 11:17:08,923 [komputronik] INFO: 🚀 Sending request 343/352 to https://www.komputronik.pl/product/949107/telefon-xiaomi-redmi-note-14-pro-5g-12-512gb-midnight-black.html for AN00000249
+2025-04-25 11:17:08,927 [komputronik] INFO: 📋 Response for AN00000248 | Status: 200 | Size: 1513586 bytes
+2025-04-25 11:17:09,051 [komputronik] INFO: [342/352] AN00000248: 0.00 PLN | Outstock | 10 remaining
+2025-04-25 11:17:10,059 [komputronik] INFO: 😴 Sleeping for 21.55 seconds before request 344/352
+2025-04-25 11:17:31,623 [komputronik] INFO: 🚀 Sending request 344/352 to https://www.komputronik.pl/product/952146/zegarek-smartwatch-xiaomi-redmi-watch-5-czarny.html for AN00000252
+2025-04-25 11:17:31,627 [komputronik] INFO: 📋 Response for AN00000249 | Status: 200 | Size: 1636990 bytes
+2025-04-25 11:17:31,767 [komputronik] INFO: [343/352] AN00000249: 0.00 PLN | Outstock | 9 remaining
+2025-04-25 11:17:32,760 [komputronik] INFO: 😴 Sleeping for 20.20 seconds before request 345/352
+2025-04-25 11:17:52,982 [komputronik] INFO: 🚀 Sending request 345/352 to https://www.komputronik.pl/product/895696/zegarek-smartwatch-xiaomi-watch-2-szary.html for BN2009158
+2025-04-25 11:17:52,995 [komputronik] INFO: 📋 Response for AN00000252 | Status: 200 | Size: 1352198 bytes
+2025-04-25 11:17:53,109 [komputronik] INFO: [344/352] AN00000252: 0.00 PLN | Outstock | 8 remaining
+2025-04-25 11:17:54,933 [komputronik] INFO: 😴 Sleeping for 21.37 seconds before request 346/352
+2025-04-25 11:18:16,311 [komputronik] INFO: 🚀 Sending request 346/352 to https://www.komputronik.pl/product/895698/zegarek-smartwatch-xiaomi-watch-s3-srebrny.html for AN00000183
+2025-04-25 11:18:16,315 [komputronik] INFO: 📋 Response for BN2009158 | Status: 200 | Size: 1316861 bytes
+2025-04-25 11:18:16,421 [komputronik] INFO: [345/352] BN2009158: 0.00 PLN | Outstock | 7 remaining
+2025-04-25 11:18:18,394 [komputronik] INFO: 😴 Sleeping for 29.54 seconds before request 347/352
+2025-04-25 11:18:47,958 [komputronik] INFO: 🚀 Sending request 347/352 to https://www.komputronik.pl/product/771008/zte-mc801a.html for BN2007108
+2025-04-25 11:18:47,963 [komputronik] INFO: 📋 Response for AN00000183 | Status: 200 | Size: 1315295 bytes
+2025-04-25 11:18:48,068 [komputronik] INFO: [346/352] AN00000183: 0.00 PLN | Outstock | 6 remaining
+2025-04-25 11:18:49,059 [komputronik] INFO: 😴 Sleeping for 29.33 seconds before request 348/352
+2025-04-25 11:19:18,409 [komputronik] INFO: 🚀 Sending request 348/352 to https://www.komputronik.pl/product/909300/router-zte-mc888d-5g.html for BN2008691
+2025-04-25 11:19:18,412 [komputronik] INFO: 📋 Response for BN2007108 | Status: 200 | Size: 1288274 bytes
+2025-04-25 11:19:18,516 [komputronik] INFO: [347/352] BN2007108: 0.00 PLN | Outstock | 5 remaining
+2025-04-25 11:19:19,469 [komputronik] INFO: 😴 Sleeping for 29.94 seconds before request 349/352
+2025-04-25 11:19:49,415 [komputronik] INFO: 🚀 Sending request 349/352 to https://www.komputronik.pl/product/865358/zte-mc888-pro-5g.html for BN2008146
+2025-04-25 11:19:49,431 [komputronik] INFO: 📋 Response for BN2008691 | Status: 200 | Size: 1339141 bytes
+2025-04-25 11:19:49,558 [komputronik] INFO: [348/352] BN2008691: 0.00 PLN | Outstock | 4 remaining
+2025-04-25 11:19:50,563 [komputronik] INFO: 😴 Sleeping for 28.74 seconds before request 350/352
+2025-04-25 11:20:19,319 [komputronik] INFO: 🚀 Sending request 350/352 to https://www.komputronik.pl/product/882005/zte-mf289f.html for BN2006816
+2025-04-25 11:20:19,323 [komputronik] INFO: 📋 Response for BN2008146 | Status: 200 | Size: 1356104 bytes
+2025-04-25 11:20:19,497 [komputronik] INFO: [349/352] BN2008146: 0.00 PLN | Outstock | 3 remaining
+2025-04-25 11:20:20,455 [komputronik] INFO: 😴 Sleeping for 24.50 seconds before request 351/352
+2025-04-25 11:20:44,986 [komputronik] INFO: 🚀 Sending request 351/352 to https://www.komputronik.pl/product/882003/zte-mf297d.html for BN2008406
+2025-04-25 11:20:44,992 [komputronik] INFO: 📋 Response for BN2006816 | Status: 200 | Size: 1349834 bytes
+2025-04-25 11:20:45,101 [komputronik] INFO: [350/352] BN2006816: 0.00 PLN | Outstock | 2 remaining
+2025-04-25 11:20:46,097 [komputronik] INFO: 😴 Sleeping for 21.22 seconds before request 352/352
+2025-04-25 11:21:07,331 [komputronik] INFO: 🚀 Sending request 352/352 to https://www.komputronik.pl/product/882018/zte-mc889-odu-5g.html for BN2008801
+2025-04-25 11:21:07,342 [komputronik] INFO: 📋 Response for BN2008406 | Status: 200 | Size: 1356930 bytes
+2025-04-25 11:21:07,453 [komputronik] INFO: [351/352] BN2008406: 0.00 PLN | Outstock | 1 remaining
+2025-04-25 11:21:08,914 [komputronik] INFO: 📋 Response for BN2008801 | Status: 200 | Size: 1304333 bytes
+2025-04-25 11:21:09,024 [komputronik] INFO: [352/352] BN2008801: 0.00 PLN | Outstock | 0 remaining
+2025-04-25 11:21:09,027 [komputronik] INFO: ✅ Spider komputronik completed
+2025-04-25 11:21:09,028 [komputronik] INFO: 🕒 Total time: 02:36:47
+2025-04-25 11:21:09,028 [komputronik] INFO: 📊 Processed 352 items
+2025-04-25 11:21:09,029 [komputronik] INFO: ⚡ Performance: 2.24 items/minute
+2025-04-25 11:21:21,178 [komputronik] INFO: ==================================================
+2025-04-25 11:21:21,178 [komputronik] INFO: SPIDER RUN COMPLETED: komputronik
+2025-04-25 11:21:21,179 [komputronik] INFO: Items processed: 352
+2025-04-25 11:21:21,179 [komputronik] INFO: Duration: 02:36:59
+2025-04-25 11:21:21,180 [komputronik] INFO: Performance: 2.24 items/minute
+2025-04-25 11:21:21,180 [komputronik] INFO: ==================================================

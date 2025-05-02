@@ -1,0 +1,288 @@
+2025-04-25 08:47:01,310 [xiaomipl] INFO: 🕷️ Initializing xiaomipl spider
+2025-04-25 08:47:01,311 [xiaomipl] INFO: 🔄 Proxy Manager: Enabled
+2025-04-25 08:47:01,312 [xiaomipl] INFO: 🕒 Human-like delays: Enabled
+2025-04-25 08:47:01,399 [xiaomipl] INFO: 🕷️ Starting XiaomiPL spider
+2025-04-25 08:47:01,400 [xiaomipl] INFO: 🔍 Total products to scrape: 65
+2025-04-25 08:47:01,400 [xiaomipl] INFO: ⏱️ Using sleep time range: 1-5 seconds
+2025-04-25 08:47:01,400 [xiaomipl] INFO: ⏱️ Between products delay: 1 seconds
+2025-04-25 08:47:01,402 [xiaomipl] INFO: ⏱️ Between retries delay: 2 seconds
+2025-04-25 08:47:01,402 [xiaomipl] INFO: Using proxy manager with your own proxy first
+2025-04-25 08:47:01,403 [xiaomipl] INFO: 🔄 Getting proxies from https://free-proxy-list.net/
+2025-04-25 08:47:01,793 [xiaomipl] INFO: 🔍 Found 76 HTTPS proxies out of 300 total proxies
+2025-04-25 08:47:01,794 [xiaomipl] INFO:   Proxy #1: 170.106.150.81:13001 (HTTPS)
+2025-04-25 08:47:01,794 [xiaomipl] INFO:   Proxy #2: 54.66.27.238:3128 (HTTPS)
+2025-04-25 08:47:01,796 [xiaomipl] INFO:   Proxy #3: 43.153.12.131:13001 (HTTPS)
+2025-04-25 08:47:01,796 [xiaomipl] INFO:   Proxy #4: 52.16.232.164:3128 (HTTPS)
+2025-04-25 08:47:01,796 [xiaomipl] INFO:   Proxy #5: 3.212.148.199:3128 (HTTPS)
+2025-04-25 08:47:01,797 [xiaomipl] INFO:   ... and 71 more
+2025-04-25 08:47:01,797 [xiaomipl] INFO: Added your own proxy + 76 public proxies (limited to 100 total)
+2025-04-25 08:47:01,798 [xiaomipl] INFO: 🔄 Starting with your own proxy: 192.168.101.27:8080 (1/77)
+2025-04-25 08:47:01,803 [xiaomipl] INFO: Using proxy URL: http://192.168.101.27:8080
+2025-04-25 08:47:03,454 [xiaomipl] INFO: [1/65] BN2009392: 599.00 PLN | Instock | 64 remaining
+2025-04-25 08:47:03,456 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:47:04,471 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 1.86 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:47:06,333 [xiaomipl] INFO: ⏭️ Moving to next product (2/65) | Remaining: 64 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:47:07,738 [xiaomipl] INFO: [2/65] BN2009393: 699.00 PLN | Instock | 63 remaining
+2025-04-25 08:47:07,740 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:47:08,741 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 2.87 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:47:11,613 [xiaomipl] INFO: ⏭️ Moving to next product (3/65) | Remaining: 63 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:47:12,977 [xiaomipl] INFO: [3/65] BN2009751: 2399.00 PLN | Instock | 62 remaining
+2025-04-25 08:47:12,978 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:47:13,981 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 2.24 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:47:16,228 [xiaomipl] INFO: ⏭️ Moving to next product (4/65) | Remaining: 62 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:47:17,650 [xiaomipl] INFO: [4/65] BN2009752: 2799.00 PLN | Instock | 61 remaining
+2025-04-25 08:47:17,651 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:47:18,660 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 2.60 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:47:21,268 [xiaomipl] INFO: ⏭️ Moving to next product (5/65) | Remaining: 61 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:47:22,604 [xiaomipl] INFO: [5/65] BN2009755: 3199.00 PLN | Instock | 60 remaining
+2025-04-25 08:47:22,606 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:47:23,621 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 2.52 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:47:26,158 [xiaomipl] INFO: ⏭️ Moving to next product (6/65) | Remaining: 60 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:47:27,720 [xiaomipl] INFO: [6/65] BN2009379: 1299.00 PLN | Instock | 59 remaining
+2025-04-25 08:47:27,722 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:47:28,732 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 2.42 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:47:31,149 [xiaomipl] INFO: ⏭️ Moving to next product (7/65) | Remaining: 59 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:47:32,613 [xiaomipl] INFO: [7/65] BN2009378: 1099.00 PLN | Instock | 58 remaining
+2025-04-25 08:47:32,615 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:47:33,626 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.18 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:47:36,811 [xiaomipl] INFO: ⏭️ Moving to next product (8/65) | Remaining: 58 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:47:38,258 [xiaomipl] INFO: [8/65] BN2009384: 1499.00 PLN | Instock | 57 remaining
+2025-04-25 08:47:38,259 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:47:39,260 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 2.06 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:47:41,328 [xiaomipl] INFO: ⏭️ Moving to next product (9/65) | Remaining: 57 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:47:43,129 [xiaomipl] INFO: [9/65] BN2009385: 1899.00 PLN | Instock | 56 remaining
+2025-04-25 08:47:43,131 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:47:44,144 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 4.24 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:47:48,405 [xiaomipl] INFO: ⏭️ Moving to next product (10/65) | Remaining: 56 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:47:50,918 [xiaomipl] INFO: [10/65] BN2008010: 0.00 PLN | Outstock | 55 remaining
+2025-04-25 08:47:50,921 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:47:51,925 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.71 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:47:55,640 [xiaomipl] INFO: ⏭️ Moving to next product (11/65) | Remaining: 55 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:47:57,166 [xiaomipl] INFO: [11/65] BN2008409: 0.00 PLN | Outstock | 54 remaining
+2025-04-25 08:47:57,167 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:47:58,175 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 2.91 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:48:01,093 [xiaomipl] INFO: ⏭️ Moving to next product (12/65) | Remaining: 54 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:48:02,557 [xiaomipl] INFO: [12/65] BN2008851: 445.00 PLN | Instock | 53 remaining
+2025-04-25 08:48:02,558 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:48:03,572 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.54 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:48:07,126 [xiaomipl] INFO: ⏭️ Moving to next product (13/65) | Remaining: 53 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:48:08,508 [xiaomipl] INFO: [13/65] BN2008897: 0.00 PLN | Outstock | 52 remaining
+2025-04-25 08:48:08,510 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:48:09,511 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 2.49 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:48:12,003 [xiaomipl] INFO: ⏭️ Moving to next product (14/65) | Remaining: 52 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:48:13,561 [xiaomipl] INFO: [14/65] BN2008535: 289.00 PLN | Instock | 51 remaining
+2025-04-25 08:48:13,562 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:48:14,576 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 1.35 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:48:15,932 [xiaomipl] INFO: ⏭️ Moving to next product (15/65) | Remaining: 51 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:48:17,525 [xiaomipl] INFO: [15/65] BN2008564: 389.00 PLN | Instock | 50 remaining
+2025-04-25 08:48:17,526 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:48:18,532 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 4.00 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:48:22,546 [xiaomipl] INFO: ⏭️ Moving to next product (16/65) | Remaining: 50 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:48:23,855 [xiaomipl] INFO: [16/65] BN2008616: 419.00 PLN | Instock | 49 remaining
+2025-04-25 08:48:23,857 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:48:24,859 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 4.07 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:48:28,939 [xiaomipl] INFO: ⏭️ Moving to next product (17/65) | Remaining: 49 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:48:30,356 [xiaomipl] INFO: [17/65] BN2009328: 444.00 PLN | Instock | 48 remaining
+2025-04-25 08:48:30,357 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:48:31,370 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 4.85 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:48:36,221 [xiaomipl] INFO: ⏭️ Moving to next product (18/65) | Remaining: 48 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:48:37,646 [xiaomipl] INFO: [18/65] BN2009331: 544.00 PLN | Instock | 47 remaining
+2025-04-25 08:48:37,647 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:48:38,656 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 2.30 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:48:40,963 [xiaomipl] INFO: ⏭️ Moving to next product (19/65) | Remaining: 47 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:48:42,428 [xiaomipl] INFO: [19/65] BN2009087: 420.00 PLN | Instock | 46 remaining
+2025-04-25 08:48:42,431 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:48:43,445 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 4.52 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:48:47,967 [xiaomipl] INFO: ⏭️ Moving to next product (20/65) | Remaining: 46 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:48:49,388 [xiaomipl] INFO: [20/65] BN2009088: 0.00 PLN | Outstock | 45 remaining
+2025-04-25 08:48:49,390 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:48:50,399 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 1.87 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:48:52,281 [xiaomipl] INFO: ⏭️ Moving to next product (21/65) | Remaining: 45 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:48:53,726 [xiaomipl] INFO: [21/65] BN2009638: 344.00 PLN | Instock | 44 remaining
+2025-04-25 08:48:53,727 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:48:54,738 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 4.28 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:48:59,031 [xiaomipl] INFO: ⏭️ Moving to next product (22/65) | Remaining: 44 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:49:00,405 [xiaomipl] INFO: [22/65] BN2007315: 0.00 PLN | Outstock | 43 remaining
+2025-04-25 08:49:00,407 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:49:01,419 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.15 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:49:04,568 [xiaomipl] INFO: ⏭️ Moving to next product (23/65) | Remaining: 43 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:49:06,031 [xiaomipl] INFO: [23/65] BN2007902: 0.00 PLN | Outstock | 42 remaining
+2025-04-25 08:49:06,032 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:49:07,039 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 2.09 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:49:09,138 [xiaomipl] INFO: ⏭️ Moving to next product (24/65) | Remaining: 42 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:49:10,625 [xiaomipl] INFO: [24/65] BN2008865: 0.00 PLN | Outstock | 41 remaining
+2025-04-25 08:49:10,628 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:49:11,642 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.51 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:49:15,158 [xiaomipl] INFO: ⏭️ Moving to next product (25/65) | Remaining: 41 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:49:16,635 [xiaomipl] INFO: [25/65] BN2009278: 265.00 PLN | Instock | 40 remaining
+2025-04-25 08:49:16,637 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:49:17,651 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 1.31 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:49:18,961 [xiaomipl] INFO: ⏭️ Moving to next product (26/65) | Remaining: 40 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:49:21,631 [xiaomipl] INFO: [26/65] BN2007726: 0.00 PLN | Outstock | 39 remaining
+2025-04-25 08:49:21,633 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:49:22,649 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 2.02 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:49:24,669 [xiaomipl] INFO: ⏭️ Moving to next product (27/65) | Remaining: 39 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:49:26,239 [xiaomipl] INFO: [27/65] BN2007537: 0.00 PLN | Outstock | 38 remaining
+2025-04-25 08:49:26,240 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:49:27,244 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.80 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:49:31,047 [xiaomipl] INFO: ⏭️ Moving to next product (28/65) | Remaining: 38 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:49:32,509 [xiaomipl] INFO: [28/65] BN2008011: 0.00 PLN | Outstock | 37 remaining
+2025-04-25 08:49:32,510 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:49:33,524 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 4.86 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:49:38,399 [xiaomipl] INFO: ⏭️ Moving to next product (29/65) | Remaining: 37 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:49:41,221 [xiaomipl] INFO: [29/65] BN2008013: 809.00 PLN | Instock | 36 remaining
+2025-04-25 08:49:41,222 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:49:42,230 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 4.77 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:49:47,008 [xiaomipl] INFO: ⏭️ Moving to next product (30/65) | Remaining: 36 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:49:48,435 [xiaomipl] INFO: [30/65] BN2008012: 0.00 PLN | Outstock | 35 remaining
+2025-04-25 08:49:48,436 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:49:49,444 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 1.63 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:49:51,071 [xiaomipl] INFO: ⏭️ Moving to next product (31/65) | Remaining: 35 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:49:52,867 [xiaomipl] INFO: [31/65] BN2008736: 599.00 PLN | Instock | 34 remaining
+2025-04-25 08:49:52,868 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:49:53,870 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.32 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:49:57,196 [xiaomipl] INFO: ⏭️ Moving to next product (32/65) | Remaining: 34 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:49:58,671 [xiaomipl] INFO: [32/65] BN2008737: 539.00 PLN | Instock | 33 remaining
+2025-04-25 08:49:58,672 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:49:59,688 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 4.69 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:50:04,386 [xiaomipl] INFO: ⏭️ Moving to next product (33/65) | Remaining: 33 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:50:05,900 [xiaomipl] INFO: [33/65] BN2009176: 0.00 PLN | Outstock | 32 remaining
+2025-04-25 08:50:05,902 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:50:06,914 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.69 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:50:10,611 [xiaomipl] INFO: ⏭️ Moving to next product (34/65) | Remaining: 32 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:50:12,031 [xiaomipl] INFO: [34/65] BN2008732: 0.00 PLN | Outstock | 31 remaining
+2025-04-25 08:50:12,032 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:50:13,044 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 2.15 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:50:15,203 [xiaomipl] INFO: ⏭️ Moving to next product (35/65) | Remaining: 31 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:50:16,654 [xiaomipl] INFO: [35/65] BN2008741: 2099.00 PLN | Instock | 30 remaining
+2025-04-25 08:50:16,655 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:50:17,671 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 2.01 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:50:19,693 [xiaomipl] INFO: ⏭️ Moving to next product (36/65) | Remaining: 30 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:50:21,195 [xiaomipl] INFO: [36/65] BN2008742: 1249.00 PLN | Instock | 29 remaining
+2025-04-25 08:50:21,196 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:50:22,202 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.90 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:50:26,117 [xiaomipl] INFO: ⏭️ Moving to next product (37/65) | Remaining: 29 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:50:27,590 [xiaomipl] INFO: [37/65] BN2008771: 0.00 PLN | Outstock | 28 remaining
+2025-04-25 08:50:27,591 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:50:28,593 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.17 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:50:31,774 [xiaomipl] INFO: ⏭️ Moving to next product (38/65) | Remaining: 28 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:50:33,595 [xiaomipl] INFO: [38/65] BN2009387: 1399.00 PLN | Instock | 27 remaining
+2025-04-25 08:50:33,597 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:50:34,599 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 2.90 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:50:37,503 [xiaomipl] INFO: ⏭️ Moving to next product (39/65) | Remaining: 27 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:50:39,093 [xiaomipl] INFO: [39/65] BN2009089: 499.00 PLN | Instock | 26 remaining
+2025-04-25 08:50:39,095 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:50:40,111 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 1.91 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:50:42,030 [xiaomipl] INFO: ⏭️ Moving to next product (40/65) | Remaining: 26 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:50:43,395 [xiaomipl] INFO: [40/65] BN2009110: 1499.00 PLN | Instock | 25 remaining
+2025-04-25 08:50:43,396 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:50:44,399 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 4.12 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:50:48,531 [xiaomipl] INFO: ⏭️ Moving to next product (41/65) | Remaining: 25 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:50:49,937 [xiaomipl] INFO: [41/65] BN2009090: 795.00 PLN | Instock | 24 remaining
+2025-04-25 08:50:49,938 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:50:50,948 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 4.84 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:50:55,792 [xiaomipl] INFO: ⏭️ Moving to next product (42/65) | Remaining: 24 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:50:57,774 [xiaomipl] INFO: [42/65] BN2009091: 1899.00 PLN | Instock | 23 remaining
+2025-04-25 08:50:57,776 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:50:58,785 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 1.92 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:51:00,722 [xiaomipl] INFO: ⏭️ Moving to next product (43/65) | Remaining: 23 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:51:02,279 [xiaomipl] INFO: [43/65] BN2009248: 999.00 PLN | Instock | 22 remaining
+2025-04-25 08:51:02,280 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:51:03,288 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 2.98 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:51:06,268 [xiaomipl] INFO: ⏭️ Moving to next product (44/65) | Remaining: 22 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:51:07,819 [xiaomipl] INFO: [44/65] BN2009111: 2499.00 PLN | Instock | 21 remaining
+2025-04-25 08:51:07,821 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:51:08,826 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.13 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:51:11,969 [xiaomipl] INFO: ⏭️ Moving to next product (45/65) | Remaining: 21 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:51:13,351 [xiaomipl] INFO: [45/65] BN2009810: 0.00 PLN | Outstock | 20 remaining
+2025-04-25 08:51:13,352 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:51:14,360 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.21 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:51:17,576 [xiaomipl] INFO: ⏭️ Moving to next product (46/65) | Remaining: 20 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:51:18,976 [xiaomipl] INFO: [46/65] BN2009812: 1394.00 PLN | Instock | 19 remaining
+2025-04-25 08:51:18,978 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:51:19,990 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.69 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:51:23,681 [xiaomipl] INFO: ⏭️ Moving to next product (47/65) | Remaining: 19 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:51:25,088 [xiaomipl] INFO: [47/65] AN00000032: 0.00 PLN | Outstock | 18 remaining
+2025-04-25 08:51:25,089 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:51:26,100 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.32 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:51:29,422 [xiaomipl] INFO: ⏭️ Moving to next product (48/65) | Remaining: 18 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:51:30,726 [xiaomipl] INFO: [48/65] AN00000173: 199.00 PLN | Instock | 17 remaining
+2025-04-25 08:51:30,727 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:51:31,737 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 4.77 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:51:36,520 [xiaomipl] INFO: ⏭️ Moving to next product (49/65) | Remaining: 17 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:51:37,952 [xiaomipl] INFO: [49/65] BN4000679: 350.00 PLN | Instock | 16 remaining
+2025-04-25 08:51:37,953 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:51:38,966 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.22 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:51:42,194 [xiaomipl] INFO: ⏭️ Moving to next product (50/65) | Remaining: 16 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:51:43,528 [xiaomipl] INFO: [50/65] BN2009160: 294.00 PLN | Instock | 15 remaining
+2025-04-25 08:51:43,529 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:51:44,540 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 1.72 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:51:46,261 [xiaomipl] INFO: ⏭️ Moving to next product (51/65) | Remaining: 15 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:51:47,732 [xiaomipl] INFO: [51/65] BN4000677: 899.00 PLN | Instock | 14 remaining
+2025-04-25 08:51:47,733 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:51:48,747 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 1.52 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:51:50,278 [xiaomipl] INFO: ⏭️ Moving to next product (52/65) | Remaining: 14 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:51:51,809 [xiaomipl] INFO: [52/65] BN2008537: 0.00 PLN | Outstock | 13 remaining
+2025-04-25 08:51:51,810 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:51:52,813 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 2.70 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:51:55,515 [xiaomipl] INFO: ⏭️ Moving to next product (53/65) | Remaining: 13 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:51:58,034 [xiaomipl] INFO: [53/65] BN2008594: 0.00 PLN | Outstock | 12 remaining
+2025-04-25 08:51:58,035 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:51:59,049 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.18 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:52:02,244 [xiaomipl] INFO: ⏭️ Moving to next product (54/65) | Remaining: 12 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:52:03,903 [xiaomipl] INFO: [54/65] BN2008852: 2999.00 PLN | Instock | 11 remaining
+2025-04-25 08:52:03,905 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:52:04,906 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 1.10 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:52:06,010 [xiaomipl] INFO: ⏭️ Moving to next product (55/65) | Remaining: 11 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:52:07,481 [xiaomipl] INFO: [55/65] BN2009094: 3494.00 PLN | Instock | 10 remaining
+2025-04-25 08:52:07,482 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:52:08,486 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.85 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:52:12,335 [xiaomipl] INFO: ⏭️ Moving to next product (56/65) | Remaining: 10 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:52:13,880 [xiaomipl] INFO: [56/65] BN2009303: 5494.00 PLN | Instock | 9 remaining
+2025-04-25 08:52:13,882 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:52:14,888 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.54 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:52:18,439 [xiaomipl] INFO: ⏭️ Moving to next product (57/65) | Remaining: 9 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:52:19,882 [xiaomipl] INFO: [57/65] BN2009425: 1894.00 PLN | Instock | 8 remaining
+2025-04-25 08:52:19,883 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:52:20,885 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 1.16 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:52:22,057 [xiaomipl] INFO: ⏭️ Moving to next product (58/65) | Remaining: 8 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:52:23,454 [xiaomipl] INFO: [58/65] BN2009446: 2694.00 PLN | Instock | 7 remaining
+2025-04-25 08:52:23,456 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:52:24,459 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.98 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:52:28,452 [xiaomipl] INFO: ⏭️ Moving to next product (59/65) | Remaining: 7 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:52:29,848 [xiaomipl] INFO: [59/65] BN2009814: 4199.00 PLN | Instock | 6 remaining
+2025-04-25 08:52:29,850 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:52:30,859 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.58 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:52:34,449 [xiaomipl] INFO: ⏭️ Moving to next product (60/65) | Remaining: 6 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:52:36,069 [xiaomipl] INFO: [60/65] BN2009815: 6299.00 PLN | Instock | 5 remaining
+2025-04-25 08:52:36,070 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:52:37,087 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 4.27 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:52:41,372 [xiaomipl] INFO: ⏭️ Moving to next product (61/65) | Remaining: 5 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:52:42,749 [xiaomipl] INFO: [61/65] AN00000234: 4394.00 PLN | Instock | 4 remaining
+2025-04-25 08:52:42,750 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:52:43,760 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 2.76 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:52:46,521 [xiaomipl] INFO: ⏭️ Moving to next product (62/65) | Remaining: 4 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:52:47,956 [xiaomipl] INFO: [62/65] AN00000248: 744.00 PLN | Instock | 3 remaining
+2025-04-25 08:52:47,957 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:52:48,972 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.62 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:52:52,602 [xiaomipl] INFO: ⏭️ Moving to next product (63/65) | Remaining: 3 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:52:54,002 [xiaomipl] INFO: [63/65] AN00000249: 1994.00 PLN | Instock | 2 remaining
+2025-04-25 08:52:54,003 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:52:55,009 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 3.70 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:52:58,714 [xiaomipl] INFO: ⏭️ Moving to next product (64/65) | Remaining: 2 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:53:00,592 [xiaomipl] INFO: [64/65] BN2009158: 719.00 PLN | Instock | 1 remaining
+2025-04-25 08:53:00,593 [xiaomipl] INFO: ⏱️ Waiting 1 seconds between products (from xiaomipl's settings)
+2025-04-25 08:53:01,596 [xiaomipl] INFO: 😴 Human-like delay: Sleeping for 1.23 seconds (using xiaomipl's range: 1-5s)
+2025-04-25 08:53:02,829 [xiaomipl] INFO: ⏭️ Moving to next product (65/65) | Remaining: 1 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-25 08:53:04,361 [xiaomipl] INFO: [65/65] AN00000183: 540.00 PLN | Instock | 0 remaining
+2025-04-25 08:53:04,364 [xiaomipl] INFO: ✅ All products processed!
+2025-04-25 08:53:04,367 [xiaomipl] INFO: ✅ Spider xiaomipl completed
+2025-04-25 08:53:04,368 [xiaomipl] INFO: 🕒 Total time: 00:06:03
+2025-04-25 08:53:04,368 [xiaomipl] INFO: 📊 Processed 65 items
+2025-04-25 08:53:04,369 [xiaomipl] INFO: ⚡ Performance: 10.74 items/minute
+2025-04-25 08:53:18,035 [xiaomipl] INFO: ==================================================
+2025-04-25 08:53:18,037 [xiaomipl] INFO: SPIDER RUN COMPLETED: xiaomipl
+2025-04-25 08:53:18,038 [xiaomipl] INFO: Items processed: 65
+2025-04-25 08:53:18,038 [xiaomipl] INFO: Duration: 00:06:16
+2025-04-25 08:53:18,039 [xiaomipl] INFO: Performance: 10.35 items/minute
+2025-04-25 08:53:18,039 [xiaomipl] INFO: ==================================================

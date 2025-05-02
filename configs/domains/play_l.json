@@ -1,0 +1,4 @@
+{
+    "xpath_price": "//div[@class='price']/text()",
+    "xpath_stock": "//span[@class='availability']/text()"
+}

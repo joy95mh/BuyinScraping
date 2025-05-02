@@ -1,0 +1,326 @@
+2025-04-24 16:21:47,580 [vobis] INFO: 🕷️ Initializing vobis spider
+2025-04-24 16:21:47,582 [vobis] INFO: 🔄 Proxy Manager: Disabled
+2025-04-24 16:21:47,583 [vobis] INFO: 🕒 Human-like delays: Enabled
+2025-04-24 16:21:47,671 [vobis] INFO: 🕷️ Starting Vobis spider
+2025-04-24 16:21:47,672 [vobis] INFO: 🔍 Total products to scrape: 103
+2025-04-24 16:21:47,672 [vobis] INFO: ⏱️ Using sleep time range: 1-5 seconds
+2025-04-24 16:21:47,673 [vobis] INFO: Using direct requests without proxy manager
+2025-04-24 16:21:47,676 [vobis] INFO: 😴 Sleeping for 3.25 seconds before request 1/103
+2025-04-24 16:21:50,946 [vobis] INFO: 🚀 Sending request 1/103 for BN2009582
+2025-04-24 16:21:53,470 [vobis] INFO: 😴 Sleeping for 2.18 seconds before request 2/103
+2025-04-24 16:21:55,676 [vobis] INFO: 🚀 Sending request 2/103 for BN2010117
+2025-04-24 16:21:55,800 [vobis] INFO: [1/103] BN2009582: 4299.00 PLN | Instock | 102 remaining
+2025-04-24 16:21:57,415 [vobis] INFO: 😴 Sleeping for 4.52 seconds before request 3/103
+2025-04-24 16:22:01,952 [vobis] INFO: 🚀 Sending request 3/103 for BN2010121
+2025-04-24 16:22:02,037 [vobis] INFO: [2/103] BN2010117: 2879.00 PLN | Instock | 101 remaining
+2025-04-24 16:22:03,618 [vobis] INFO: 😴 Sleeping for 3.73 seconds before request 4/103
+2025-04-24 16:22:07,369 [vobis] INFO: 🚀 Sending request 4/103 for BN2010118
+2025-04-24 16:22:07,455 [vobis] INFO: [3/103] BN2010121: 3629.00 PLN | Instock | 100 remaining
+2025-04-24 16:22:08,868 [vobis] INFO: 😴 Sleeping for 2.00 seconds before request 5/103
+2025-04-24 16:22:10,889 [vobis] INFO: 🚀 Sending request 5/103 for BN2009579
+2025-04-24 16:22:10,976 [vobis] INFO: [4/103] BN2010118: 3499.00 PLN | Instock | 99 remaining
+2025-04-24 16:22:12,926 [vobis] INFO: 😴 Sleeping for 2.45 seconds before request 6/103
+2025-04-24 16:22:15,392 [vobis] INFO: 🚀 Sending request 6/103 for BN2009596
+2025-04-24 16:22:15,481 [vobis] INFO: [5/103] BN2009579: 4187.20 PLN | Instock | 98 remaining
+2025-04-24 16:22:16,116 [vobis] INFO: 😴 Sleeping for 4.66 seconds before request 7/103
+2025-04-24 16:22:20,793 [vobis] INFO: 🚀 Sending request 7/103 for BN2010125
+2025-04-24 16:22:20,880 [vobis] INFO: [6/103] BN2009596: 4498.00 PLN | Instock | 97 remaining
+2025-04-24 16:22:22,172 [vobis] INFO: 😴 Sleeping for 4.05 seconds before request 8/103
+2025-04-24 16:22:26,239 [vobis] INFO: 🚀 Sending request 8/103 for BN2010129
+2025-04-24 16:22:26,337 [vobis] INFO: [7/103] BN2010125: 3829.00 PLN | Instock | 96 remaining
+2025-04-24 16:22:27,647 [vobis] INFO: 😴 Sleeping for 4.23 seconds before request 9/103
+2025-04-24 16:22:31,895 [vobis] INFO: 🚀 Sending request 9/103 for BN2010126
+2025-04-24 16:22:31,981 [vobis] INFO: [8/103] BN2010129: 4779.00 PLN | Instock | 95 remaining
+2025-04-24 16:22:33,512 [vobis] INFO: 😴 Sleeping for 1.78 seconds before request 10/103
+2025-04-24 16:22:35,300 [vobis] INFO: 🚀 Sending request 10/103 for BN2010130
+2025-04-24 16:22:35,387 [vobis] INFO: [9/103] BN2010126: 4229.00 PLN | Instock | 94 remaining
+2025-04-24 16:22:37,044 [vobis] INFO: 😴 Sleeping for 3.67 seconds before request 11/103
+2025-04-24 16:22:40,722 [vobis] INFO: 🚀 Sending request 11/103 for BN2009580
+2025-04-24 16:22:40,813 [vobis] INFO: [10/103] BN2010130: 5299.00 PLN | Instock | 93 remaining
+2025-04-24 16:22:41,245 [vobis] INFO: 😴 Sleeping for 1.63 seconds before request 12/103
+2025-04-24 16:22:42,888 [vobis] INFO: 🚀 Sending request 12/103 for BN2009581
+2025-04-24 16:22:42,967 [vobis] INFO: [11/103] BN2009580: 0.00 PLN | Outstock | 92 remaining
+2025-04-24 16:22:43,419 [vobis] INFO: 😴 Sleeping for 4.34 seconds before request 13/103
+2025-04-24 16:22:47,766 [vobis] INFO: 🚀 Sending request 13/103 for BN2009606
+2025-04-24 16:22:47,852 [vobis] INFO: [12/103] BN2009581: 7289.00 PLN | Instock | 91 remaining
+2025-04-24 16:22:49,336 [vobis] INFO: 😴 Sleeping for 4.01 seconds before request 14/103
+2025-04-24 16:22:53,361 [vobis] INFO: 🚀 Sending request 14/103 for BN2006936
+2025-04-24 16:22:53,441 [vobis] INFO: [13/103] BN2009606: 0.00 PLN | Outstock | 90 remaining
+2025-04-24 16:22:54,766 [vobis] INFO: 😴 Sleeping for 3.82 seconds before request 15/103
+2025-04-24 16:22:58,601 [vobis] INFO: 🚀 Sending request 15/103 for BN2006935
+2025-04-24 16:22:58,685 [vobis] INFO: [14/103] BN2006936: 0.00 PLN | Outstock | 89 remaining
+2025-04-24 16:22:59,129 [vobis] INFO: 😴 Sleeping for 3.50 seconds before request 16/103
+2025-04-24 16:23:02,646 [vobis] INFO: 🚀 Sending request 16/103 for BN2007613
+2025-04-24 16:23:02,733 [vobis] INFO: [15/103] BN2006935: 2299.00 PLN | Instock | 88 remaining
+2025-04-24 16:23:05,620 [vobis] INFO: 😴 Sleeping for 1.07 seconds before request 17/103
+2025-04-24 16:23:06,704 [vobis] INFO: 🚀 Sending request 17/103 for BN2007612
+2025-04-24 16:23:06,804 [vobis] INFO: [16/103] BN2007613: 2399.00 PLN | Instock | 87 remaining
+2025-04-24 16:23:08,351 [vobis] INFO: 😴 Sleeping for 3.26 seconds before request 18/103
+2025-04-24 16:23:11,630 [vobis] INFO: 🚀 Sending request 18/103 for BN2007979
+2025-04-24 16:23:11,723 [vobis] INFO: [17/103] BN2007612: 2807.14 PLN | Instock | 86 remaining
+2025-04-24 16:23:13,978 [vobis] INFO: 😴 Sleeping for 4.60 seconds before request 19/103
+2025-04-24 16:23:18,590 [vobis] INFO: 🚀 Sending request 19/103 for BN2007981
+2025-04-24 16:23:18,682 [vobis] INFO: [18/103] BN2007979: 2239.00 PLN | Instock | 85 remaining
+2025-04-24 16:23:20,747 [vobis] INFO: 😴 Sleeping for 4.32 seconds before request 20/103
+2025-04-24 16:23:25,073 [vobis] INFO: 🚀 Sending request 20/103 for BN2008517
+2025-04-24 16:23:25,169 [vobis] INFO: [19/103] BN2007981: 3713.59 PLN | Instock | 84 remaining
+2025-04-24 16:23:27,017 [vobis] INFO: 😴 Sleeping for 1.76 seconds before request 21/103
+2025-04-24 16:23:28,788 [vobis] INFO: 🚀 Sending request 21/103 for BN2008518
+2025-04-24 16:23:28,873 [vobis] INFO: [20/103] BN2008517: 2639.00 PLN | Instock | 83 remaining
+2025-04-24 16:23:31,873 [vobis] INFO: 😴 Sleeping for 4.04 seconds before request 22/103
+2025-04-24 16:23:35,924 [vobis] INFO: 🚀 Sending request 22/103 for BN2008519
+2025-04-24 16:23:36,023 [vobis] INFO: [21/103] BN2008518: 3199.00 PLN | Instock | 82 remaining
+2025-04-24 16:23:36,464 [vobis] INFO: 😴 Sleeping for 3.98 seconds before request 23/103
+2025-04-24 16:23:40,454 [vobis] INFO: 🚀 Sending request 23/103 for BN2008514
+2025-04-24 16:23:40,547 [vobis] INFO: [22/103] BN2008519: 4100.91 PLN | Instock | 81 remaining
+2025-04-24 16:23:43,133 [vobis] INFO: 😴 Sleeping for 3.65 seconds before request 24/103
+2025-04-24 16:23:46,797 [vobis] INFO: 🚀 Sending request 24/103 for BN2008515
+2025-04-24 16:23:46,879 [vobis] INFO: [23/103] BN2008514: 0.00 PLN | Outstock | 80 remaining
+2025-04-24 16:23:49,252 [vobis] INFO: 😴 Sleeping for 1.45 seconds before request 25/103
+2025-04-24 16:23:50,723 [vobis] INFO: 🚀 Sending request 25/103 for BN2008516
+2025-04-24 16:23:50,809 [vobis] INFO: [24/103] BN2008515: 0.00 PLN | Outstock | 79 remaining
+2025-04-24 16:23:53,087 [vobis] INFO: 😴 Sleeping for 1.01 seconds before request 26/103
+2025-04-24 16:23:54,111 [vobis] INFO: 🚀 Sending request 26/103 for BN2009133
+2025-04-24 16:23:54,194 [vobis] INFO: [25/103] BN2008516: 0.00 PLN | Outstock | 78 remaining
+2025-04-24 16:23:55,674 [vobis] INFO: 😴 Sleeping for 3.02 seconds before request 27/103
+2025-04-24 16:23:58,713 [vobis] INFO: 🚀 Sending request 27/103 for BN2009142
+2025-04-24 16:23:58,804 [vobis] INFO: [26/103] BN2009133: 2999.00 PLN | Instock | 77 remaining
+2025-04-24 16:23:59,259 [vobis] INFO: 😴 Sleeping for 2.53 seconds before request 28/103
+2025-04-24 16:24:01,802 [vobis] INFO: 🚀 Sending request 28/103 for BN2009143
+2025-04-24 16:24:01,895 [vobis] INFO: [27/103] BN2009142: 3385.76 PLN | Instock | 76 remaining
+2025-04-24 16:24:04,736 [vobis] INFO: 😴 Sleeping for 1.73 seconds before request 29/103
+2025-04-24 16:24:06,489 [vobis] INFO: 🚀 Sending request 29/103 for BN2009134
+2025-04-24 16:24:06,601 [vobis] INFO: [28/103] BN2009143: 4840.62 PLN | Instock | 75 remaining
+2025-04-24 16:24:09,632 [vobis] INFO: 😴 Sleeping for 1.65 seconds before request 30/103
+2025-04-24 16:24:11,305 [vobis] INFO: 🚀 Sending request 30/103 for BN2009144
+2025-04-24 16:24:11,402 [vobis] INFO: [29/103] BN2009134: 3479.00 PLN | Instock | 74 remaining
+2025-04-24 16:24:14,117 [vobis] INFO: 😴 Sleeping for 3.21 seconds before request 31/103
+2025-04-24 16:24:17,345 [vobis] INFO: 🚀 Sending request 31/103 for BN2009145
+2025-04-24 16:24:17,435 [vobis] INFO: [30/103] BN2009144: 4399.00 PLN | Instock | 73 remaining
+2025-04-24 16:24:20,028 [vobis] INFO: 😴 Sleeping for 4.01 seconds before request 32/103
+2025-04-24 16:24:24,050 [vobis] INFO: 🚀 Sending request 32/103 for BN2009135
+2025-04-24 16:24:24,143 [vobis] INFO: [31/103] BN2009145: 4988.39 PLN | Instock | 72 remaining
+2025-04-24 16:24:24,573 [vobis] INFO: 😴 Sleeping for 2.32 seconds before request 33/103
+2025-04-24 16:24:26,908 [vobis] INFO: 🚀 Sending request 33/103 for BN2009136
+2025-04-24 16:24:26,995 [vobis] INFO: [32/103] BN2009135: 0.00 PLN | Outstock | 71 remaining
+2025-04-24 16:24:30,642 [vobis] INFO: 😴 Sleeping for 2.27 seconds before request 34/103
+2025-04-24 16:24:32,933 [vobis] INFO: 🚀 Sending request 34/103 for BN2009874
+2025-04-24 16:24:33,019 [vobis] INFO: [33/103] BN2009136: 0.00 PLN | Outstock | 70 remaining
+2025-04-24 16:24:35,228 [vobis] INFO: 😴 Sleeping for 2.24 seconds before request 35/103
+2025-04-24 16:24:37,488 [vobis] INFO: 🚀 Sending request 35/103 for BN2009878
+2025-04-24 16:24:37,584 [vobis] INFO: [34/103] BN2009874: 3449.00 PLN | Instock | 69 remaining
+2025-04-24 16:24:40,200 [vobis] INFO: 😴 Sleeping for 2.18 seconds before request 36/103
+2025-04-24 16:24:42,397 [vobis] INFO: 🚀 Sending request 36/103 for BN2009875
+2025-04-24 16:24:42,512 [vobis] INFO: [35/103] BN2009878: 3949.00 PLN | Instock | 68 remaining
+2025-04-24 16:24:44,948 [vobis] INFO: 😴 Sleeping for 3.64 seconds before request 37/103
+2025-04-24 16:24:48,598 [vobis] INFO: 🚀 Sending request 37/103 for BN2009876
+2025-04-24 16:24:48,688 [vobis] INFO: [36/103] BN2009875: 0.00 PLN | Outstock | 67 remaining
+2025-04-24 16:24:49,639 [vobis] INFO: 😴 Sleeping for 3.56 seconds before request 38/103
+2025-04-24 16:24:53,220 [vobis] INFO: 🚀 Sending request 38/103 for BN2009884
+2025-04-24 16:24:53,320 [vobis] INFO: [37/103] BN2009876: 4569.00 PLN | Instock | 66 remaining
+2025-04-24 16:24:55,574 [vobis] INFO: 😴 Sleeping for 4.76 seconds before request 39/103
+2025-04-24 16:25:00,345 [vobis] INFO: 🚀 Sending request 39/103 for BN2009882
+2025-04-24 16:25:00,442 [vobis] INFO: [38/103] BN2009884: 7134.65 PLN | Instock | 65 remaining
+2025-04-24 16:25:03,747 [vobis] INFO: 😴 Sleeping for 2.62 seconds before request 40/103
+2025-04-24 16:25:06,383 [vobis] INFO: 🚀 Sending request 40/103 for BN2009883
+2025-04-24 16:25:06,480 [vobis] INFO: [39/103] BN2009882: 5039.00 PLN | Instock | 64 remaining
+2025-04-24 16:25:08,747 [vobis] INFO: 😴 Sleeping for 4.00 seconds before request 41/103
+2025-04-24 16:25:12,759 [vobis] INFO: 🚀 Sending request 41/103 for BN2009877
+2025-04-24 16:25:12,851 [vobis] INFO: [40/103] BN2009883: 5999.00 PLN | Instock | 63 remaining
+2025-04-24 16:25:13,288 [vobis] INFO: 😴 Sleeping for 4.70 seconds before request 42/103
+2025-04-24 16:25:18,008 [vobis] INFO: 🚀 Sending request 42/103 for BN2009885
+2025-04-24 16:25:18,114 [vobis] INFO: [41/103] BN2009877: 5499.00 PLN | Instock | 62 remaining
+2025-04-24 16:25:20,856 [vobis] INFO: 😴 Sleeping for 4.11 seconds before request 43/103
+2025-04-24 16:25:24,985 [vobis] INFO: 🚀 Sending request 43/103 for BN2010109
+2025-04-24 16:25:25,083 [vobis] INFO: [42/103] BN2009885: 6449.00 PLN | Instock | 61 remaining
+2025-04-24 16:25:27,442 [vobis] INFO: 😴 Sleeping for 1.41 seconds before request 44/103
+2025-04-24 16:25:28,869 [vobis] INFO: 🚀 Sending request 44/103 for BN2010110
+2025-04-24 16:25:28,961 [vobis] INFO: [43/103] BN2010109: 2799.00 PLN | Instock | 60 remaining
+2025-04-24 16:25:31,490 [vobis] INFO: 😴 Sleeping for 4.95 seconds before request 45/103
+2025-04-24 16:25:36,448 [vobis] INFO: 🚀 Sending request 45/103 for BN2010108
+2025-04-24 16:25:36,543 [vobis] INFO: [44/103] BN2010110: 3299.00 PLN | Instock | 59 remaining
+2025-04-24 16:25:39,127 [vobis] INFO: 😴 Sleeping for 2.95 seconds before request 46/103
+2025-04-24 16:25:42,088 [vobis] INFO: 🚀 Sending request 46/103 for BN2008971
+2025-04-24 16:25:42,182 [vobis] INFO: [45/103] BN2010108: 4199.00 PLN | Instock | 58 remaining
+2025-04-24 16:25:43,895 [vobis] INFO: 😴 Sleeping for 1.96 seconds before request 47/103
+2025-04-24 16:25:45,873 [vobis] INFO: 🚀 Sending request 47/103 for BN2008665
+2025-04-24 16:25:45,960 [vobis] INFO: [46/103] BN2008971: 398.99 PLN | Instock | 57 remaining
+2025-04-24 16:25:47,342 [vobis] INFO: 😴 Sleeping for 4.28 seconds before request 48/103
+2025-04-24 16:25:51,646 [vobis] INFO: 🚀 Sending request 48/103 for BN2009233
+2025-04-24 16:25:51,737 [vobis] INFO: [47/103] BN2008665: 1798.99 PLN | Instock | 56 remaining
+2025-04-24 16:25:54,200 [vobis] INFO: 😴 Sleeping for 4.19 seconds before request 49/103
+2025-04-24 16:25:58,403 [vobis] INFO: 🚀 Sending request 49/103 for BN2009895
+2025-04-24 16:25:58,511 [vobis] INFO: [48/103] BN2009233: 0.00 PLN | Outstock | 55 remaining
+2025-04-24 16:26:00,496 [vobis] INFO: 😴 Sleeping for 2.23 seconds before request 50/103
+2025-04-24 16:26:02,746 [vobis] INFO: 🚀 Sending request 50/103 for BN2009896
+2025-04-24 16:26:02,837 [vobis] INFO: [49/103] BN2009895: 1398.99 PLN | Instock | 54 remaining
+2025-04-24 16:26:04,864 [vobis] INFO: 😴 Sleeping for 3.23 seconds before request 51/103
+2025-04-24 16:26:08,115 [vobis] INFO: 🚀 Sending request 51/103 for BN2009231
+2025-04-24 16:26:08,204 [vobis] INFO: [50/103] BN2009896: 1698.99 PLN | Instock | 53 remaining
+2025-04-24 16:26:10,576 [vobis] INFO: 😴 Sleeping for 2.71 seconds before request 52/103
+2025-04-24 16:26:13,297 [vobis] INFO: 🚀 Sending request 52/103 for BN2009795
+2025-04-24 16:26:13,384 [vobis] INFO: [51/103] BN2009231: 0.00 PLN | Outstock | 52 remaining
+2025-04-24 16:26:15,076 [vobis] INFO: 😴 Sleeping for 1.13 seconds before request 53/103
+2025-04-24 16:26:16,223 [vobis] INFO: 🚀 Sending request 53/103 for BN2009848
+2025-04-24 16:26:16,310 [vobis] INFO: [52/103] BN2009795: 1999.00 PLN | Instock | 51 remaining
+2025-04-24 16:26:19,411 [vobis] INFO: 😴 Sleeping for 2.47 seconds before request 54/103
+2025-04-24 16:26:21,887 [vobis] INFO: 🚀 Sending request 54/103 for BN2009334
+2025-04-24 16:26:21,978 [vobis] INFO: [53/103] BN2009848: 1998.99 PLN | Instock | 50 remaining
+2025-04-24 16:26:22,417 [vobis] INFO: 😴 Sleeping for 4.96 seconds before request 55/103
+2025-04-24 16:26:27,392 [vobis] INFO: 🚀 Sending request 55/103 for BN2009085
+2025-04-24 16:26:27,477 [vobis] INFO: [54/103] BN2009334: 158.99 PLN | Instock | 49 remaining
+2025-04-24 16:26:28,808 [vobis] INFO: 😴 Sleeping for 3.02 seconds before request 56/103
+2025-04-24 16:26:31,852 [vobis] INFO: 🚀 Sending request 56/103 for BN2009086
+2025-04-24 16:26:31,942 [vobis] INFO: [55/103] BN2009085: 0.00 PLN | Outstock | 48 remaining
+2025-04-24 16:26:33,481 [vobis] INFO: 😴 Sleeping for 3.60 seconds before request 57/103
+2025-04-24 16:26:37,099 [vobis] INFO: 🚀 Sending request 57/103 for BN2008585
+2025-04-24 16:26:37,177 [vobis] INFO: [56/103] BN2009086: 0.00 PLN | Outstock | 47 remaining
+2025-04-24 16:26:38,622 [vobis] INFO: 😴 Sleeping for 3.84 seconds before request 58/103
+2025-04-24 16:26:42,469 [vobis] INFO: 🚀 Sending request 58/103 for BN2009166
+2025-04-24 16:26:42,546 [vobis] INFO: [57/103] BN2008585: 0.00 PLN | Outstock | 46 remaining
+2025-04-24 16:26:42,980 [vobis] INFO: 😴 Sleeping for 3.87 seconds before request 59/103
+2025-04-24 16:26:46,869 [vobis] INFO: 🚀 Sending request 59/103 for BN2009167
+2025-04-24 16:26:46,963 [vobis] INFO: [58/103] BN2009166: 2798.99 PLN | Instock | 45 remaining
+2025-04-24 16:26:49,729 [vobis] INFO: 😴 Sleeping for 2.82 seconds before request 60/103
+2025-04-24 16:26:52,565 [vobis] INFO: 🚀 Sending request 60/103 for BN2009488
+2025-04-24 16:26:52,663 [vobis] INFO: [59/103] BN2009167: 3048.99 PLN | Instock | 44 remaining
+2025-04-24 16:26:54,686 [vobis] INFO: 😴 Sleeping for 2.11 seconds before request 61/103
+2025-04-24 16:26:56,806 [vobis] INFO: 🚀 Sending request 61/103 for BN2009489
+2025-04-24 16:26:56,898 [vobis] INFO: [60/103] BN2009488: 2498.99 PLN | Instock | 43 remaining
+2025-04-24 16:26:59,193 [vobis] INFO: 😴 Sleeping for 1.19 seconds before request 62/103
+2025-04-24 16:27:00,404 [vobis] INFO: 🚀 Sending request 62/103 for BN2009173
+2025-04-24 16:27:00,493 [vobis] INFO: [61/103] BN2009489: 2748.99 PLN | Instock | 42 remaining
+2025-04-24 16:27:03,472 [vobis] INFO: 😴 Sleeping for 2.95 seconds before request 63/103
+2025-04-24 16:27:06,438 [vobis] INFO: 🚀 Sending request 63/103 for BN2009171
+2025-04-24 16:27:06,533 [vobis] INFO: [62/103] BN2009173: 0.00 PLN | Outstock | 41 remaining
+2025-04-24 16:27:08,694 [vobis] INFO: 😴 Sleeping for 1.00 seconds before request 64/103
+2025-04-24 16:27:09,709 [vobis] INFO: 🚀 Sending request 64/103 for BN2009172
+2025-04-24 16:27:09,792 [vobis] INFO: [63/103] BN2009171: 0.00 PLN | Outstock | 40 remaining
+2025-04-24 16:27:10,628 [vobis] INFO: 😴 Sleeping for 1.04 seconds before request 65/103
+2025-04-24 16:27:11,681 [vobis] INFO: 🚀 Sending request 65/103 for BN2009169
+2025-04-24 16:27:11,765 [vobis] INFO: [64/103] BN2009172: 0.00 PLN | Outstock | 39 remaining
+2025-04-24 16:27:16,427 [vobis] INFO: 😴 Sleeping for 4.98 seconds before request 66/103
+2025-04-24 16:27:21,425 [vobis] INFO: 🚀 Sending request 66/103 for BN2009796
+2025-04-24 16:27:21,511 [vobis] INFO: [65/103] BN2009169: 0.00 PLN | Outstock | 38 remaining
+2025-04-24 16:27:24,741 [vobis] INFO: 😴 Sleeping for 3.49 seconds before request 67/103
+2025-04-24 16:27:28,245 [vobis] INFO: 🚀 Sending request 67/103 for BN2009900
+2025-04-24 16:27:28,342 [vobis] INFO: [66/103] BN2009796: 3698.99 PLN | Instock | 37 remaining
+2025-04-24 16:27:31,462 [vobis] INFO: 😴 Sleeping for 3.34 seconds before request 68/103
+2025-04-24 16:27:34,826 [vobis] INFO: 🚀 Sending request 68/103 for BN2009849
+2025-04-24 16:27:34,923 [vobis] INFO: [67/103] BN2009900: 3898.99 PLN | Instock | 36 remaining
+2025-04-24 16:27:35,355 [vobis] INFO: 😴 Sleeping for 1.48 seconds before request 69/103
+2025-04-24 16:27:36,840 [vobis] INFO: 🚀 Sending request 69/103 for BN2009851
+2025-04-24 16:27:36,926 [vobis] INFO: [68/103] BN2009849: 4398.99 PLN | Instock | 35 remaining
+2025-04-24 16:27:37,586 [vobis] INFO: 😴 Sleeping for 2.91 seconds before request 70/103
+2025-04-24 16:27:40,518 [vobis] INFO: 🚀 Sending request 70/103 for BN2009798
+2025-04-24 16:27:40,625 [vobis] INFO: [69/103] BN2009851: 7698.99 PLN | Instock | 34 remaining
+2025-04-24 16:27:44,697 [vobis] INFO: 😴 Sleeping for 4.20 seconds before request 71/103
+2025-04-24 16:27:48,912 [vobis] INFO: 🚀 Sending request 71/103 for BN2009852
+2025-04-24 16:27:49,012 [vobis] INFO: [70/103] BN2009798: 6098.99 PLN | Instock | 33 remaining
+2025-04-24 16:27:49,462 [vobis] INFO: 😴 Sleeping for 3.52 seconds before request 72/103
+2025-04-24 16:27:53,003 [vobis] INFO: 🚀 Sending request 72/103 for BN2009797
+2025-04-24 16:27:53,105 [vobis] INFO: [71/103] BN2009852: 6598.99 PLN | Instock | 32 remaining
+2025-04-24 16:27:53,544 [vobis] INFO: 😴 Sleeping for 1.85 seconds before request 73/103
+2025-04-24 16:27:55,409 [vobis] INFO: 🚀 Sending request 73/103 for BN2009850
+2025-04-24 16:27:55,503 [vobis] INFO: [72/103] BN2009797: 4698.99 PLN | Instock | 31 remaining
+2025-04-24 16:27:59,217 [vobis] INFO: 😴 Sleeping for 3.79 seconds before request 74/103
+2025-04-24 16:28:03,018 [vobis] INFO: 🚀 Sending request 74/103 for BN2009046
+2025-04-24 16:28:03,112 [vobis] INFO: [73/103] BN2009850: 5198.99 PLN | Instock | 30 remaining
+2025-04-24 16:28:05,960 [vobis] INFO: 😴 Sleeping for 1.71 seconds before request 75/103
+2025-04-24 16:28:07,678 [vobis] INFO: 🚀 Sending request 75/103 for BN2009043
+2025-04-24 16:28:07,772 [vobis] INFO: [74/103] BN2009046: 498.99 PLN | Instock | 29 remaining
+2025-04-24 16:28:10,149 [vobis] INFO: 😴 Sleeping for 2.68 seconds before request 76/103
+2025-04-24 16:28:12,843 [vobis] INFO: 🚀 Sending request 76/103 for BN2008983
+2025-04-24 16:28:12,945 [vobis] INFO: [75/103] BN2009043: 898.99 PLN | Instock | 28 remaining
+2025-04-24 16:28:14,338 [vobis] INFO: 😴 Sleeping for 3.99 seconds before request 77/103
+2025-04-24 16:28:18,347 [vobis] INFO: 🚀 Sending request 77/103 for BN2008977
+2025-04-24 16:28:18,438 [vobis] INFO: [76/103] BN2008983: 648.99 PLN | Instock | 27 remaining
+2025-04-24 16:28:21,065 [vobis] INFO: 😴 Sleeping for 1.69 seconds before request 78/103
+2025-04-24 16:28:22,762 [vobis] INFO: 🚀 Sending request 78/103 for BN2008979
+2025-04-24 16:28:22,856 [vobis] INFO: [77/103] BN2008977: 2798.99 PLN | Instock | 26 remaining
+2025-04-24 16:28:25,591 [vobis] INFO: 😴 Sleeping for 1.26 seconds before request 79/103
+2025-04-24 16:28:26,872 [vobis] INFO: 🚀 Sending request 79/103 for BN2008976
+2025-04-24 16:28:26,967 [vobis] INFO: [78/103] BN2008979: 2398.99 PLN | Instock | 25 remaining
+2025-04-24 16:28:29,254 [vobis] INFO: 😴 Sleeping for 4.52 seconds before request 80/103
+2025-04-24 16:28:33,796 [vobis] INFO: 🚀 Sending request 80/103 for BN2008925
+2025-04-24 16:28:33,880 [vobis] INFO: [79/103] BN2008976: 0.00 PLN | Outstock | 24 remaining
+2025-04-24 16:28:34,311 [vobis] INFO: 😴 Sleeping for 4.86 seconds before request 81/103
+2025-04-24 16:28:39,191 [vobis] INFO: 🚀 Sending request 81/103 for BN2008926
+2025-04-24 16:28:39,276 [vobis] INFO: [80/103] BN2008925: 0.00 PLN | Outstock | 23 remaining
+2025-04-24 16:28:41,289 [vobis] INFO: 😴 Sleeping for 3.18 seconds before request 82/103
+2025-04-24 16:28:44,478 [vobis] INFO: 🚀 Sending request 82/103 for BN2008924
+2025-04-24 16:28:44,578 [vobis] INFO: [81/103] BN2008926: 5998.99 PLN | Instock | 22 remaining
+2025-04-24 16:28:47,197 [vobis] INFO: 😴 Sleeping for 1.16 seconds before request 83/103
+2025-04-24 16:28:48,364 [vobis] INFO: 🚀 Sending request 83/103 for BN2008931
+2025-04-24 16:28:48,459 [vobis] INFO: [82/103] BN2008924: 6798.99 PLN | Instock | 21 remaining
+2025-04-24 16:28:51,096 [vobis] INFO: 😴 Sleeping for 1.09 seconds before request 84/103
+2025-04-24 16:28:52,203 [vobis] INFO: 🚀 Sending request 84/103 for BN2008928
+2025-04-24 16:28:52,295 [vobis] INFO: [83/103] BN2008931: 6398.99 PLN | Instock | 20 remaining
+2025-04-24 16:28:54,559 [vobis] INFO: 😴 Sleeping for 1.90 seconds before request 85/103
+2025-04-24 16:28:56,483 [vobis] INFO: 🚀 Sending request 85/103 for BN4000699
+2025-04-24 16:28:56,571 [vobis] INFO: [84/103] BN2008928: 0.00 PLN | Outstock | 19 remaining
+2025-04-24 16:28:58,625 [vobis] INFO: 😴 Sleeping for 4.02 seconds before request 86/103
+2025-04-24 16:29:02,663 [vobis] INFO: 🚀 Sending request 86/103 for BN4000698
+2025-04-24 16:29:02,754 [vobis] INFO: [85/103] BN4000699: 1598.99 PLN | Instock | 18 remaining
+2025-04-24 16:29:03,190 [vobis] INFO: 😴 Sleeping for 3.50 seconds before request 87/103
+2025-04-24 16:29:06,718 [vobis] INFO: 🚀 Sending request 87/103 for BN2009474
+2025-04-24 16:29:06,808 [vobis] INFO: [86/103] BN4000698: 1748.99 PLN | Instock | 17 remaining
+2025-04-24 16:29:08,856 [vobis] INFO: 😴 Sleeping for 1.14 seconds before request 88/103
+2025-04-24 16:29:10,009 [vobis] INFO: 🚀 Sending request 88/103 for BN2009475
+2025-04-24 16:29:10,091 [vobis] INFO: [87/103] BN2009474: 0.00 PLN | Outstock | 16 remaining
+2025-04-24 16:29:13,560 [vobis] INFO: 😴 Sleeping for 4.53 seconds before request 89/103
+2025-04-24 16:29:18,104 [vobis] INFO: 🚀 Sending request 89/103 for BN2009476
+2025-04-24 16:29:18,198 [vobis] INFO: [88/103] BN2009475: 0.00 PLN | Outstock | 15 remaining
+2025-04-24 16:29:20,351 [vobis] INFO: 😴 Sleeping for 2.56 seconds before request 90/103
+2025-04-24 16:29:22,931 [vobis] INFO: 🚀 Sending request 90/103 for BN2009477
+2025-04-24 16:29:23,014 [vobis] INFO: [89/103] BN2009476: 0.00 PLN | Outstock | 14 remaining
+2025-04-24 16:29:25,328 [vobis] INFO: 😴 Sleeping for 1.24 seconds before request 91/103
+2025-04-24 16:29:26,579 [vobis] INFO: 🚀 Sending request 91/103 for BN2009478
+2025-04-24 16:29:26,660 [vobis] INFO: [90/103] BN2009477: 0.00 PLN | Outstock | 13 remaining
+2025-04-24 16:29:29,401 [vobis] INFO: 😴 Sleeping for 4.27 seconds before request 92/103
+2025-04-24 16:29:33,696 [vobis] INFO: 🚀 Sending request 92/103 for AN00000247
+2025-04-24 16:29:33,779 [vobis] INFO: [91/103] BN2009478: 0.00 PLN | Outstock | 12 remaining
+2025-04-24 16:29:34,211 [vobis] INFO: 😴 Sleeping for 1.59 seconds before request 93/103
+2025-04-24 16:29:35,813 [vobis] INFO: 🚀 Sending request 93/103 for AN00000246
+2025-04-24 16:29:35,895 [vobis] INFO: [92/103] AN00000247: 0.00 PLN | Outstock | 11 remaining
+2025-04-24 16:29:40,342 [vobis] INFO: 😴 Sleeping for 3.44 seconds before request 94/103
+2025-04-24 16:29:43,789 [vobis] INFO: 🚀 Sending request 94/103 for BN4000617
+2025-04-24 16:29:43,882 [vobis] INFO: [93/103] AN00000246: 5198.99 PLN | Instock | 10 remaining
+2025-04-24 16:29:45,375 [vobis] INFO: 😴 Sleeping for 3.09 seconds before request 95/103
+2025-04-24 16:29:48,484 [vobis] INFO: 🚀 Sending request 95/103 for BN4000615
+2025-04-24 16:29:48,568 [vobis] INFO: [94/103] BN4000617: 0.00 PLN | Outstock | 9 remaining
+2025-04-24 16:29:50,222 [vobis] INFO: 😴 Sleeping for 1.89 seconds before request 96/103
+2025-04-24 16:29:52,125 [vobis] INFO: 🚀 Sending request 96/103 for BN2009331
+2025-04-24 16:29:52,222 [vobis] INFO: [95/103] BN4000615: 798.99 PLN | Instock | 8 remaining
+2025-04-24 16:29:52,652 [vobis] INFO: 😴 Sleeping for 4.43 seconds before request 97/103
+2025-04-24 16:29:57,093 [vobis] INFO: 🚀 Sending request 97/103 for BN2009278
+2025-04-24 16:29:57,177 [vobis] INFO: [96/103] BN2009331: 788.99 PLN | Instock | 7 remaining
+2025-04-24 16:29:58,532 [vobis] INFO: 😴 Sleeping for 1.63 seconds before request 98/103
+2025-04-24 16:30:00,171 [vobis] INFO: 🚀 Sending request 98/103 for BN2009089
+2025-04-24 16:30:00,261 [vobis] INFO: [97/103] BN2009278: 259.88 PLN | Instock | 6 remaining
+2025-04-24 16:30:02,290 [vobis] INFO: 😴 Sleeping for 1.70 seconds before request 99/103
+2025-04-24 16:30:04,015 [vobis] INFO: 🚀 Sending request 99/103 for BN2009090
+2025-04-24 16:30:04,102 [vobis] INFO: [98/103] BN2009089: 1164.95 PLN | Instock | 5 remaining
+2025-04-24 16:30:06,088 [vobis] INFO: 😴 Sleeping for 1.82 seconds before request 100/103
+2025-04-24 16:30:07,925 [vobis] INFO: 🚀 Sending request 100/103 for BN2009091
+2025-04-24 16:30:08,009 [vobis] INFO: [99/103] BN2009090: 1270.95 PLN | Instock | 4 remaining
+2025-04-24 16:30:08,876 [vobis] INFO: 😴 Sleeping for 1.90 seconds before request 101/103
+2025-04-24 16:30:10,797 [vobis] INFO: 🚀 Sending request 101/103 for BN2009111
+2025-04-24 16:30:10,882 [vobis] INFO: [100/103] BN2009091: 1379.00 PLN | Instock | 3 remaining
+2025-04-24 16:30:13,498 [vobis] INFO: 😴 Sleeping for 1.14 seconds before request 102/103
+2025-04-24 16:30:14,651 [vobis] INFO: 🚀 Sending request 102/103 for BN2008537
+2025-04-24 16:30:14,739 [vobis] INFO: [101/103] BN2009111: 2199.00 PLN | Instock | 2 remaining
+2025-04-24 16:30:17,806 [vobis] INFO: 😴 Sleeping for 2.37 seconds before request 103/103
+2025-04-24 16:30:20,179 [vobis] INFO: 🚀 Sending request 103/103 for BN2008852
+2025-04-24 16:30:20,267 [vobis] INFO: [102/103] BN2008537: 2749.00 PLN | Instock | 1 remaining
+2025-04-24 16:30:21,961 [vobis] INFO: [103/103] BN2008852: 1949.00 PLN | Instock | 0 remaining
+2025-04-24 16:30:21,964 [vobis] INFO: ✅ Spider vobis completed
+2025-04-24 16:30:21,965 [vobis] INFO: 🕒 Total time: 00:08:34
+2025-04-24 16:30:21,965 [vobis] INFO: 📊 Processed 103 items
+2025-04-24 16:30:21,965 [vobis] INFO: ⚡ Performance: 12.01 items/minute
+2025-04-24 16:30:33,642 [vobis] INFO: ==================================================
+2025-04-24 16:30:33,642 [vobis] INFO: SPIDER RUN COMPLETED: vobis
+2025-04-24 16:30:33,643 [vobis] INFO: Items processed: 103
+2025-04-24 16:30:33,643 [vobis] INFO: Duration: 00:08:46
+2025-04-24 16:30:33,643 [vobis] INFO: Performance: 11.75 items/minute
+2025-04-24 16:30:33,644 [vobis] INFO: ==================================================

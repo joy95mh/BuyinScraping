@@ -1,0 +1,121 @@
+2025-05-02 15:41:52,448 [oleole] INFO: 🕷️ Initializing oleole spider
+2025-05-02 15:41:52,448 [oleole] INFO: 🔄 Proxy Manager: Enabled
+2025-05-02 15:41:52,448 [oleole] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 15:41:52,552 [oleole] INFO: 🕷️ Starting Oleole spider with custom headers
+2025-05-02 15:41:52,552 [oleole] INFO: 🔍 Total products to scrape: 264
+2025-05-02 15:41:52,555 [oleole] INFO: Using proxy manager with your own proxy first
+2025-05-02 15:41:52,555 [oleole] INFO: 🔄 Getting proxies from https://free-proxy-list.net/
+2025-05-02 15:41:52,938 [oleole] INFO: 🔍 Found 31 HTTPS proxies out of 300 total proxies
+2025-05-02 15:41:52,938 [oleole] INFO:   Proxy #1: 52.73.224.54:3128 (HTTPS)
+2025-05-02 15:41:52,940 [oleole] INFO:   Proxy #2: 81.162.242.127:8021 (HTTPS)
+2025-05-02 15:41:52,940 [oleole] INFO:   Proxy #3: 44.218.183.55:80 (HTTPS)
+2025-05-02 15:41:52,940 [oleole] INFO:   Proxy #4: 8.219.97.248:80 (HTTPS)
+2025-05-02 15:41:52,940 [oleole] INFO:   Proxy #5: 15.223.105.115:3128 (HTTPS)
+2025-05-02 15:41:52,940 [oleole] INFO:   ... and 26 more
+2025-05-02 15:41:52,940 [oleole] INFO: Added your own proxy + 31 public proxies (limited to 100 total)
+2025-05-02 15:41:52,943 [oleole] INFO: 🔄 Starting with your own proxy: 192.168.101.27:8080 (1/32)
+2025-05-02 15:41:52,950 [oleole] INFO: Using proxy URL: http://192.168.101.27:8080
+2025-05-02 15:41:54,705 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:41:54,705 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 52.73.224.54:3128 (2/32)
+2025-05-02 15:41:57,640 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:41:57,640 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 81.162.242.127:8021 (3/32)
+2025-05-02 15:42:30,919 [oleole] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://81.162.242.127:8021: User timeout caused connection failure: Getting https://www.oleole.pl/routery-gsm-3g/tcl-link-zone-lte-cat6-mobile-wifi-mw63vk.bhtml took longer than 30.0 seconds..
+2025-05-02 15:42:30,919 [oleole] INFO: 🔄 Moving to next proxy (3/32)
+2025-05-02 15:42:30,919 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-05-02 15:42:32,929 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 44.218.183.55:80
+2025-05-02 15:42:34,107 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:42:34,108 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 8.219.97.248:80 (5/32)
+2025-05-02 15:43:06,802 [oleole] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://8.219.97.248:80: User timeout caused connection failure: Getting https://www.oleole.pl/routery-gsm-3g/tcl-link-zone-lte-cat6-mobile-wifi-mw63vk.bhtml took longer than 30.0 seconds..
+2025-05-02 15:43:06,802 [oleole] INFO: 🔄 Moving to next proxy (5/32)
+2025-05-02 15:43:06,802 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-05-02 15:43:08,806 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 15.223.105.115:3128
+2025-05-02 15:43:10,043 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:43:10,044 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 44.219.175.186:80 (7/32)
+2025-05-02 15:43:12,743 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:43:12,744 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 185.233.118.31:8080 (8/32)
+2025-05-02 15:43:45,719 [oleole] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://185.233.118.31:8080: User timeout caused connection failure: Getting https://www.oleole.pl/routery-gsm-3g/tcl-link-zone-lte-cat6-mobile-wifi-mw63vk.bhtml took longer than 30.0 seconds..
+2025-05-02 15:43:45,719 [oleole] INFO: 🔄 Moving to next proxy (8/32)
+2025-05-02 15:43:45,721 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-05-02 15:43:47,724 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 3.212.148.199:3128
+2025-05-02 15:43:48,894 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:43:48,894 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 15.207.54.63:20201 (10/32)
+2025-05-02 15:43:50,544 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:43:50,545 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 44.195.247.145:80 (11/32)
+2025-05-02 15:43:54,061 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:43:54,061 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 137.184.174.32:4857 (12/32)
+2025-05-02 15:44:16,820 [oleole] ERROR: ❌ Error [unknown]: TCPTimedOutError occurred with https://137.184.174.32:4857: TCP connection timed out: 10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond..
+2025-05-02 15:44:16,821 [oleole] INFO: 🔄 Moving to next proxy (12/32)
+2025-05-02 15:44:16,821 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-05-02 15:44:18,837 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 47.251.43.115:33333
+2025-05-02 15:44:48,963 [oleole] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://47.251.43.115:33333: User timeout caused connection failure: Getting https://www.oleole.pl/routery-gsm-3g/tcl-link-zone-lte-cat6-mobile-wifi-mw63vk.bhtml took longer than 30.0 seconds..
+2025-05-02 15:44:48,963 [oleole] INFO: 🔄 Moving to next proxy (13/32)
+2025-05-02 15:44:48,964 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-05-02 15:44:50,972 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 15.207.35.241:80
+2025-05-02 15:44:57,337 [oleole] ERROR: ❌ Error [unknown]: TunnelError occurred with https://15.207.35.241:80: Could not open CONNECT tunnel with proxy 15.207.35.241:80 [{'status': 502, 'reason': b'Bad Gateway'}]
+2025-05-02 15:44:57,337 [oleole] INFO: 🔄 Moving to next proxy (14/32)
+2025-05-02 15:44:57,337 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-05-02 15:44:59,342 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 3.90.100.12:80
+2025-05-02 15:45:00,782 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:45:00,784 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 15.156.24.206:3128 (16/32)
+2025-05-02 15:45:06,315 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:45:06,315 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 155.138.223.151:3128 (17/32)
+2025-05-02 15:46:22,993 [oleole] INFO: 🕷️ Initializing oleole spider
+2025-05-02 15:46:22,994 [oleole] INFO: 🔄 Proxy Manager: Enabled
+2025-05-02 15:46:22,994 [oleole] INFO: 🕒 Human-like delays: Enabled
+2025-05-02 15:46:24,071 [oleole] INFO: 🕷️ Starting Oleole spider with custom headers
+2025-05-02 15:46:24,071 [oleole] INFO: 🔍 Total products to scrape: 264
+2025-05-02 15:46:24,072 [oleole] INFO: Using proxy manager with your own proxy first
+2025-05-02 15:46:24,072 [oleole] INFO: 🔄 Getting proxies from https://free-proxy-list.net/
+2025-05-02 15:46:24,540 [oleole] INFO: 🔍 Found 32 HTTPS proxies out of 300 total proxies
+2025-05-02 15:46:24,540 [oleole] INFO:   Proxy #1: 52.194.186.70:1080 (HTTPS)
+2025-05-02 15:46:24,540 [oleole] INFO:   Proxy #2: 27.76.212.94:20294 (HTTPS)
+2025-05-02 15:46:24,540 [oleole] INFO:   Proxy #3: 44.219.175.186:80 (HTTPS)
+2025-05-02 15:46:24,540 [oleole] INFO:   Proxy #4: 3.96.92.88:3128 (HTTPS)
+2025-05-02 15:46:24,540 [oleole] INFO:   Proxy #5: 57.128.37.47:3128 (HTTPS)
+2025-05-02 15:46:24,546 [oleole] INFO:   ... and 27 more
+2025-05-02 15:46:24,546 [oleole] INFO: Added your own proxy + 32 public proxies (limited to 100 total)
+2025-05-02 15:46:24,546 [oleole] INFO: 🔄 Starting with your own proxy: 192.168.101.27:8080 (1/33)
+2025-05-02 15:46:24,553 [oleole] INFO: Using proxy URL: http://192.168.101.27:8080
+2025-05-02 15:46:26,024 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:46:26,024 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 52.194.186.70:1080 (2/33)
+2025-05-02 15:46:28,706 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:46:28,706 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 27.76.212.94:20294 (3/33)
+2025-05-02 15:46:42,240 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:46:42,241 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 44.219.175.186:80 (4/33)
+2025-05-02 15:46:43,419 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:46:43,419 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 3.96.92.88:3128 (5/33)
+2025-05-02 15:46:45,822 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:46:45,822 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 57.128.37.47:3128 (6/33)
+2025-05-02 15:47:18,887 [oleole] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://57.128.37.47:3128: User timeout caused connection failure: Getting https://www.oleole.pl/routery-gsm-3g/tcl-link-zone-lte-cat6-mobile-wifi-mw63vk.bhtml took longer than 30.0 seconds..
+2025-05-02 15:47:18,887 [oleole] INFO: 🔄 Moving to next proxy (6/33)
+2025-05-02 15:47:18,889 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-05-02 15:47:20,905 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 3.97.176.251:3128
+2025-05-02 15:47:22,124 [oleole] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-05-02 15:47:22,125 [oleole] INFO: 🔄 Switching to public HTTPS proxy: 45.140.143.77:18080 (8/33)
+2025-05-02 15:47:28,303 [oleole] INFO: [1/264] BN2008152: 0.00 PLN | Outstock | 263 remaining | 0:01:05.307674
+2025-05-02 15:47:28,303 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-05-02 15:47:29,305 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.79 seconds (using oleole's range: 1-2s)
+2025-05-02 15:47:31,106 [oleole] INFO: ⏭️ Moving to next product (2/264) | Remaining: 263 | Using working public HTTPS proxy: 45.140.143.77:18080
+2025-05-02 15:47:33,524 [oleole] INFO: [2/264] BN2008420: 0.00 PLN | Outstock | 262 remaining | 0:01:10.528285
+2025-05-02 15:47:33,524 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-05-02 15:47:34,531 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.14 seconds (using oleole's range: 1-2s)
+2025-05-02 15:47:35,675 [oleole] INFO: ⏭️ Moving to next product (3/264) | Remaining: 262 | Using working public HTTPS proxy: 45.140.143.77:18080
+2025-05-02 15:47:38,079 [oleole] INFO: [3/264] BN2009367: 0.00 PLN | Outstock | 261 remaining | 0:01:15.084145
+2025-05-02 15:47:38,079 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-05-02 15:47:39,091 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.06 seconds (using oleole's range: 1-2s)
+2025-05-02 15:47:40,157 [oleole] INFO: ⏭️ Moving to next product (4/264) | Remaining: 261 | Using working public HTTPS proxy: 45.140.143.77:18080
+2025-05-02 15:47:42,548 [oleole] INFO: [4/264] BN2008834: 0.00 PLN | Outstock | 260 remaining | 0:01:19.552852
+2025-05-02 15:47:42,550 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-05-02 15:47:43,560 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.21 seconds (using oleole's range: 1-2s)
+2025-05-02 15:47:44,790 [oleole] INFO: ⏭️ Moving to next product (5/264) | Remaining: 260 | Using working public HTTPS proxy: 45.140.143.77:18080
+2025-05-02 15:47:47,180 [oleole] INFO: [5/264] BN2009333: 0.00 PLN | Outstock | 259 remaining | 0:01:24.184769
+2025-05-02 15:47:47,182 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-05-02 15:47:48,195 [oleole] INFO: 😴 Human-like delay: Sleeping for 2.00 seconds (using oleole's range: 1-2s)
+2025-05-02 15:47:50,206 [oleole] INFO: ⏭️ Moving to next product (6/264) | Remaining: 259 | Using working public HTTPS proxy: 45.140.143.77:18080
+2025-05-02 15:47:52,634 [oleole] INFO: [6/264] BN2009076: 0.00 PLN | Outstock | 258 remaining | 0:01:29.638924
+2025-05-02 15:47:52,636 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-05-02 15:47:53,640 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.77 seconds (using oleole's range: 1-2s)
+2025-05-02 15:47:55,419 [oleole] INFO: ⏭️ Moving to next product (7/264) | Remaining: 258 | Using working public HTTPS proxy: 45.140.143.77:18080
+2025-05-02 15:47:57,830 [oleole] INFO: [7/264] BN2009296: 0.00 PLN | Outstock | 257 remaining | 0:01:34.834363
+2025-05-02 15:47:57,831 [oleole] INFO: ⏱️ Waiting 1 seconds between products (from oleole's settings)
+2025-05-02 15:47:58,841 [oleole] INFO: 😴 Human-like delay: Sleeping for 1.70 seconds (using oleole's range: 1-2s)

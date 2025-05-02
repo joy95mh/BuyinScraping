@@ -1,0 +1,681 @@
+2025-04-25 08:45:18,636 [play] INFO: 🕷️ Initializing play spider
+2025-04-25 08:45:18,636 [play] INFO: 🔄 Proxy Manager: Disabled
+2025-04-25 08:45:18,637 [play] INFO: 🕒 Human-like delays: Enabled
+2025-04-25 08:45:18,734 [play] INFO: 🕷️ Starting Play spider
+2025-04-25 08:45:18,734 [play] INFO: 🔍 Total products to scrape: 203
+2025-04-25 08:45:18,735 [play] INFO: ⏱️ Using sleep time range: 1-3 seconds
+2025-04-25 08:45:18,735 [play] INFO: Using direct requests without proxy manager
+2025-04-25 08:45:18,736 [play] INFO: 😴 Sleeping for 1.41 seconds before request 1/203
+2025-04-25 08:45:20,164 [play] INFO: 🚀 Sending request 1/203 for BN2008152
+2025-04-25 08:45:24,149 [play] INFO: 😴 Sleeping for 1.21 seconds before request 2/203
+2025-04-25 08:45:25,383 [play] INFO: 🚀 Sending request 2/203 for BN2009344
+2025-04-25 08:45:25,445 [play] INFO: [1/203] BN2008152: 299.00 PLN | Instock | 202 remaining
+2025-04-25 08:45:26,795 [play] INFO: 😴 Sleeping for 1.62 seconds before request 3/203
+2025-04-25 08:45:28,432 [play] INFO: 🚀 Sending request 3/203 for BN2008639
+2025-04-25 08:45:28,494 [play] INFO: [2/203] BN2009344: 0.00 PLN | Outstock | 201 remaining
+2025-04-25 08:45:29,727 [play] INFO: 😴 Sleeping for 2.07 seconds before request 4/203
+2025-04-25 08:45:31,808 [play] INFO: 🚀 Sending request 4/203 for BN2007979
+2025-04-25 08:45:31,871 [play] INFO: [3/203] BN2008639: 0.00 PLN | Outstock | 200 remaining
+2025-04-25 08:45:33,178 [play] INFO: 😴 Sleeping for 2.82 seconds before request 5/203
+2025-04-25 08:45:36,007 [play] INFO: 🚀 Sending request 5/203 for BN2008514
+2025-04-25 08:45:36,074 [play] INFO: [4/203] BN2007979: 0.00 PLN | Outstock | 199 remaining
+2025-04-25 08:45:37,264 [play] INFO: 😴 Sleeping for 2.63 seconds before request 6/203
+2025-04-25 08:45:39,908 [play] INFO: 🚀 Sending request 6/203 for BN2009133
+2025-04-25 08:45:39,977 [play] INFO: [5/203] BN2008514: 0.00 PLN | Outstock | 198 remaining
+2025-04-25 08:45:41,222 [play] INFO: 😴 Sleeping for 2.19 seconds before request 7/203
+2025-04-25 08:45:43,426 [play] INFO: 🚀 Sending request 7/203 for BN2009142
+2025-04-25 08:45:43,488 [play] INFO: [6/203] BN2009133: 3299.00 PLN | Instock | 197 remaining
+2025-04-25 08:45:44,758 [play] INFO: 😴 Sleeping for 2.95 seconds before request 8/203
+2025-04-25 08:45:47,725 [play] INFO: 🚀 Sending request 8/203 for BN2009134
+2025-04-25 08:45:47,783 [play] INFO: [7/203] BN2009142: 0.00 PLN | Outstock | 196 remaining
+2025-04-25 08:45:49,073 [play] INFO: 😴 Sleeping for 1.78 seconds before request 9/203
+2025-04-25 08:45:50,872 [play] INFO: 🚀 Sending request 9/203 for BN2009135
+2025-04-25 08:45:50,934 [play] INFO: [8/203] BN2009134: 4299.00 PLN | Instock | 195 remaining
+2025-04-25 08:45:52,146 [play] INFO: 😴 Sleeping for 1.36 seconds before request 10/203
+2025-04-25 08:45:53,531 [play] INFO: 🚀 Sending request 10/203 for BN2009146
+2025-04-25 08:45:53,591 [play] INFO: [9/203] BN2009135: 0.00 PLN | Outstock | 194 remaining
+2025-04-25 08:45:54,819 [play] INFO: 😴 Sleeping for 1.14 seconds before request 11/203
+2025-04-25 08:45:55,974 [play] INFO: 🚀 Sending request 11/203 for BN2009136
+2025-04-25 08:45:56,044 [play] INFO: [10/203] BN2009146: 0.00 PLN | Outstock | 193 remaining
+2025-04-25 08:45:57,401 [play] INFO: 😴 Sleeping for 2.00 seconds before request 12/203
+2025-04-25 08:45:59,417 [play] INFO: 🚀 Sending request 12/203 for BN2009150
+2025-04-25 08:45:59,479 [play] INFO: [11/203] BN2009136: 0.00 PLN | Outstock | 192 remaining
+2025-04-25 08:46:00,710 [play] INFO: 😴 Sleeping for 2.86 seconds before request 13/203
+2025-04-25 08:46:03,591 [play] INFO: 🚀 Sending request 13/203 for BN2009874
+2025-04-25 08:46:03,653 [play] INFO: [12/203] BN2009150: 0.00 PLN | Outstock | 191 remaining
+2025-04-25 08:46:04,868 [play] INFO: 😴 Sleeping for 1.21 seconds before request 14/203
+2025-04-25 08:46:06,104 [play] INFO: 🚀 Sending request 14/203 for BN2009878
+2025-04-25 08:46:06,166 [play] INFO: [13/203] BN2009874: 3799.00 PLN | Instock | 190 remaining
+2025-04-25 08:46:07,439 [play] INFO: 😴 Sleeping for 1.29 seconds before request 15/203
+2025-04-25 08:46:08,746 [play] INFO: 🚀 Sending request 15/203 for BN2009879
+2025-04-25 08:46:08,805 [play] INFO: [14/203] BN2009878: 4399.00 PLN | Instock | 189 remaining
+2025-04-25 08:46:10,018 [play] INFO: 😴 Sleeping for 1.13 seconds before request 16/203
+2025-04-25 08:46:11,170 [play] INFO: 🚀 Sending request 16/203 for BN2009875
+2025-04-25 08:46:11,232 [play] INFO: [15/203] BN2009879: 5499.00 PLN | Instock | 188 remaining
+2025-04-25 08:46:12,471 [play] INFO: 😴 Sleeping for 1.55 seconds before request 17/203
+2025-04-25 08:46:14,045 [play] INFO: 🚀 Sending request 17/203 for BN2009880
+2025-04-25 08:46:14,108 [play] INFO: [16/203] BN2009875: 4399.00 PLN | Instock | 187 remaining
+2025-04-25 08:46:15,364 [play] INFO: 😴 Sleeping for 2.31 seconds before request 18/203
+2025-04-25 08:46:17,695 [play] INFO: 🚀 Sending request 18/203 for BN2009881
+2025-04-25 08:46:17,758 [play] INFO: [17/203] BN2009880: 4899.00 PLN | Instock | 186 remaining
+2025-04-25 08:46:19,011 [play] INFO: 😴 Sleeping for 1.31 seconds before request 19/203
+2025-04-25 08:46:20,340 [play] INFO: 🚀 Sending request 19/203 for BN2009876
+2025-04-25 08:46:20,401 [play] INFO: [18/203] BN2009881: 5999.00 PLN | Instock | 185 remaining
+2025-04-25 08:46:21,624 [play] INFO: 😴 Sleeping for 2.83 seconds before request 20/203
+2025-04-25 08:46:24,462 [play] INFO: 🚀 Sending request 20/203 for BN2009884
+2025-04-25 08:46:24,522 [play] INFO: [19/203] BN2009876: 4999.00 PLN | Instock | 184 remaining
+2025-04-25 08:46:25,740 [play] INFO: 😴 Sleeping for 1.27 seconds before request 21/203
+2025-04-25 08:46:27,021 [play] INFO: 🚀 Sending request 21/203 for BN2009882
+2025-04-25 08:46:27,084 [play] INFO: [20/203] BN2009884: 7599.00 PLN | Instock | 183 remaining
+2025-04-25 08:46:28,305 [play] INFO: 😴 Sleeping for 1.06 seconds before request 22/203
+2025-04-25 08:46:29,382 [play] INFO: 🚀 Sending request 22/203 for BN2009883
+2025-04-25 08:46:29,452 [play] INFO: [21/203] BN2009882: 5599.00 PLN | Instock | 182 remaining
+2025-04-25 08:46:30,724 [play] INFO: 😴 Sleeping for 2.79 seconds before request 23/203
+2025-04-25 08:46:33,524 [play] INFO: 🚀 Sending request 23/203 for BN2009886
+2025-04-25 08:46:33,593 [play] INFO: [22/203] BN2009883: 6499.00 PLN | Instock | 181 remaining
+2025-04-25 08:46:34,810 [play] INFO: 😴 Sleeping for 1.37 seconds before request 24/203
+2025-04-25 08:46:36,198 [play] INFO: 🚀 Sending request 24/203 for BN2009877
+2025-04-25 08:46:36,264 [play] INFO: [23/203] BN2009886: 0.00 PLN | Outstock | 180 remaining
+2025-04-25 08:46:37,395 [play] INFO: 😴 Sleeping for 1.16 seconds before request 25/203
+2025-04-25 08:46:38,569 [play] INFO: 🚀 Sending request 25/203 for BN2009885
+2025-04-25 08:46:38,629 [play] INFO: [24/203] BN2009877: 5999.00 PLN | Instock | 179 remaining
+2025-04-25 08:46:39,842 [play] INFO: 😴 Sleeping for 2.37 seconds before request 26/203
+2025-04-25 08:46:42,236 [play] INFO: 🚀 Sending request 26/203 for BN2010109
+2025-04-25 08:46:42,298 [play] INFO: [25/203] BN2009885: 6999.00 PLN | Instock | 178 remaining
+2025-04-25 08:46:43,479 [play] INFO: 😴 Sleeping for 1.45 seconds before request 27/203
+2025-04-25 08:46:44,942 [play] INFO: 🚀 Sending request 27/203 for BN2010110
+2025-04-25 08:46:45,005 [play] INFO: [26/203] BN2010109: 3099.00 PLN | Instock | 177 remaining
+2025-04-25 08:46:46,247 [play] INFO: 😴 Sleeping for 2.45 seconds before request 28/203
+2025-04-25 08:46:48,711 [play] INFO: 🚀 Sending request 28/203 for BN2010108
+2025-04-25 08:46:48,770 [play] INFO: [27/203] BN2010110: 3599.00 PLN | Instock | 176 remaining
+2025-04-25 08:46:49,983 [play] INFO: 😴 Sleeping for 1.49 seconds before request 29/203
+2025-04-25 08:46:51,481 [play] INFO: 🚀 Sending request 29/203 for BN2009903
+2025-04-25 08:46:51,548 [play] INFO: [28/203] BN2010108: 4599.00 PLN | Instock | 175 remaining
+2025-04-25 08:46:52,792 [play] INFO: 😴 Sleeping for 2.64 seconds before request 30/203
+2025-04-25 08:46:55,444 [play] INFO: 🚀 Sending request 30/203 for BN2009905
+2025-04-25 08:46:55,501 [play] INFO: [29/203] BN2009903: 2499.00 PLN | Instock | 174 remaining
+2025-04-25 08:46:56,747 [play] INFO: 😴 Sleeping for 1.36 seconds before request 31/203
+2025-04-25 08:46:58,117 [play] INFO: 🚀 Sending request 31/203 for BN2009137
+2025-04-25 08:46:58,171 [play] INFO: [30/203] BN2009905: 2699.00 PLN | Instock | 173 remaining
+2025-04-25 08:46:59,417 [play] INFO: 😴 Sleeping for 2.89 seconds before request 32/203
+2025-04-25 08:47:02,320 [play] INFO: 🚀 Sending request 32/203 for BN2008453
+2025-04-25 08:47:02,377 [play] INFO: [31/203] BN2009137: 3999.00 PLN | Instock | 172 remaining
+2025-04-25 08:47:04,642 [play] INFO: 😴 Sleeping for 1.36 seconds before request 33/203
+2025-04-25 08:47:06,013 [play] INFO: 🚀 Sending request 33/203 for BN2009218
+2025-04-25 08:47:06,077 [play] INFO: [32/203] BN2008453: 0.00 PLN | Outstock | 171 remaining
+2025-04-25 08:47:07,946 [play] INFO: 😴 Sleeping for 2.90 seconds before request 34/203
+2025-04-25 08:47:10,861 [play] INFO: 🚀 Sending request 34/203 for BN2009219
+2025-04-25 08:47:10,920 [play] INFO: [33/203] BN2009218: 2399.00 PLN | Instock | 170 remaining
+2025-04-25 08:47:12,452 [play] INFO: 😴 Sleeping for 2.65 seconds before request 35/203
+2025-04-25 08:47:15,123 [play] INFO: 🚀 Sending request 35/203 for BN2009570
+2025-04-25 08:47:15,183 [play] INFO: [34/203] BN2009219: 0.00 PLN | Outstock | 169 remaining
+2025-04-25 08:47:16,765 [play] INFO: 😴 Sleeping for 1.38 seconds before request 36/203
+2025-04-25 08:47:18,155 [play] INFO: 🚀 Sending request 36/203 for BN2009762
+2025-04-25 08:47:18,216 [play] INFO: [35/203] BN2009570: 1689.00 PLN | Instock | 168 remaining
+2025-04-25 08:47:19,406 [play] INFO: 😴 Sleeping for 1.93 seconds before request 37/203
+2025-04-25 08:47:21,351 [play] INFO: 🚀 Sending request 37/203 for BN2009766
+2025-04-25 08:47:21,414 [play] INFO: [36/203] BN2009762: 2949.00 PLN | Instock | 167 remaining
+2025-04-25 08:47:22,597 [play] INFO: 😴 Sleeping for 2.03 seconds before request 38/203
+2025-04-25 08:47:24,636 [play] INFO: 🚀 Sending request 38/203 for BN2009765
+2025-04-25 08:47:24,698 [play] INFO: [37/203] BN2009766: 0.00 PLN | Outstock | 166 remaining
+2025-04-25 08:47:25,911 [play] INFO: 😴 Sleeping for 1.41 seconds before request 39/203
+2025-04-25 08:47:27,350 [play] INFO: 🚀 Sending request 39/203 for BN2009770
+2025-04-25 08:47:27,436 [play] INFO: [38/203] BN2009765: 3799.00 PLN | Instock | 165 remaining
+2025-04-25 08:47:28,721 [play] INFO: 😴 Sleeping for 1.43 seconds before request 40/203
+2025-04-25 08:47:30,157 [play] INFO: 🚀 Sending request 40/203 for BN2009764
+2025-04-25 08:47:30,217 [play] INFO: [39/203] BN2009770: 4199.00 PLN | Instock | 164 remaining
+2025-04-25 08:47:31,450 [play] INFO: 😴 Sleeping for 2.12 seconds before request 41/203
+2025-04-25 08:47:33,585 [play] INFO: 🚀 Sending request 41/203 for BN2009768
+2025-04-25 08:47:33,650 [play] INFO: [40/203] BN2009764: 4299.00 PLN | Instock | 163 remaining
+2025-04-25 08:47:36,654 [play] INFO: 😴 Sleeping for 1.26 seconds before request 42/203
+2025-04-25 08:47:37,925 [play] INFO: 🚀 Sending request 42/203 for BN2009769
+2025-04-25 08:47:37,990 [play] INFO: [41/203] BN2009768: 0.00 PLN | Outstock | 162 remaining
+2025-04-25 08:47:41,879 [play] INFO: 😴 Sleeping for 2.19 seconds before request 43/203
+2025-04-25 08:47:44,088 [play] INFO: 🚀 Sending request 43/203 for BN2008421
+2025-04-25 08:47:44,150 [play] INFO: [42/203] BN2009769: 5299.00 PLN | Instock | 161 remaining
+2025-04-25 08:47:45,713 [play] INFO: 😴 Sleeping for 2.99 seconds before request 44/203
+2025-04-25 08:47:48,719 [play] INFO: 🚀 Sending request 44/203 for BN2009390
+2025-04-25 08:47:48,810 [play] INFO: [43/203] BN2008421: 349.00 PLN | Instock | 160 remaining
+2025-04-25 08:47:50,495 [play] INFO: 😴 Sleeping for 2.03 seconds before request 45/203
+2025-04-25 08:47:52,539 [play] INFO: 🚀 Sending request 45/203 for BN2009095
+2025-04-25 08:47:52,597 [play] INFO: [44/203] BN2009390: 1799.00 PLN | Instock | 159 remaining
+2025-04-25 08:47:54,205 [play] INFO: 😴 Sleeping for 1.37 seconds before request 46/203
+2025-04-25 08:47:55,584 [play] INFO: 🚀 Sending request 46/203 for BN2009096
+2025-04-25 08:47:55,652 [play] INFO: [45/203] BN2009095: 1099.00 PLN | Instock | 158 remaining
+2025-04-25 08:47:56,888 [play] INFO: 😴 Sleeping for 2.79 seconds before request 47/203
+2025-04-25 08:47:59,693 [play] INFO: 🚀 Sending request 47/203 for BN2008163
+2025-04-25 08:47:59,763 [play] INFO: [46/203] BN2009096: 0.00 PLN | Outstock | 157 remaining
+2025-04-25 08:48:00,968 [play] INFO: 😴 Sleeping for 1.80 seconds before request 48/203
+2025-04-25 08:48:02,786 [play] INFO: 🚀 Sending request 48/203 for BN2008165
+2025-04-25 08:48:02,848 [play] INFO: [47/203] BN2008163: 499.00 PLN | Instock | 156 remaining
+2025-04-25 08:48:04,278 [play] INFO: 😴 Sleeping for 1.83 seconds before request 49/203
+2025-04-25 08:48:06,118 [play] INFO: 🚀 Sending request 49/203 for AN00000223
+2025-04-25 08:48:06,178 [play] INFO: [48/203] BN2008165: 299.00 PLN | Instock | 155 remaining
+2025-04-25 08:48:07,466 [play] INFO: 😴 Sleeping for 2.73 seconds before request 50/203
+2025-04-25 08:48:10,208 [play] INFO: 🚀 Sending request 50/203 for AN00000225
+2025-04-25 08:48:10,269 [play] INFO: [49/203] AN00000223: 1299.00 PLN | Instock | 154 remaining
+2025-04-25 08:48:11,483 [play] INFO: 😴 Sleeping for 2.51 seconds before request 51/203
+2025-04-25 08:48:14,006 [play] INFO: 🚀 Sending request 51/203 for AN00000224
+2025-04-25 08:48:14,070 [play] INFO: [50/203] AN00000225: 1099.00 PLN | Instock | 153 remaining
+2025-04-25 08:48:15,258 [play] INFO: 😴 Sleeping for 1.87 seconds before request 52/203
+2025-04-25 08:48:17,150 [play] INFO: 🚀 Sending request 52/203 for AN00000227
+2025-04-25 08:48:17,216 [play] INFO: [51/203] AN00000224: 1099.00 PLN | Instock | 152 remaining
+2025-04-25 08:48:18,427 [play] INFO: 😴 Sleeping for 1.01 seconds before request 53/203
+2025-04-25 08:48:19,449 [play] INFO: 🚀 Sending request 53/203 for BN2009056
+2025-04-25 08:48:19,521 [play] INFO: [52/203] AN00000227: 1899.00 PLN | Instock | 151 remaining
+2025-04-25 08:48:20,727 [play] INFO: 😴 Sleeping for 1.16 seconds before request 54/203
+2025-04-25 08:48:21,903 [play] INFO: 🚀 Sending request 54/203 for BN2009528
+2025-04-25 08:48:21,963 [play] INFO: [53/203] BN2009056: 1999.00 PLN | Instock | 150 remaining
+2025-04-25 08:48:23,146 [play] INFO: 😴 Sleeping for 2.26 seconds before request 55/203
+2025-04-25 08:48:25,417 [play] INFO: 🚀 Sending request 55/203 for AN00000164
+2025-04-25 08:48:25,490 [play] INFO: [54/203] BN2009528: 2199.00 PLN | Instock | 149 remaining
+2025-04-25 08:48:26,680 [play] INFO: 😴 Sleeping for 2.92 seconds before request 56/203
+2025-04-25 08:48:29,612 [play] INFO: 🚀 Sending request 56/203 for AN00000165
+2025-04-25 08:48:29,679 [play] INFO: [55/203] AN00000164: 0.00 PLN | Outstock | 148 remaining
+2025-04-25 08:48:30,970 [play] INFO: 😴 Sleeping for 1.76 seconds before request 57/203
+2025-04-25 08:48:32,742 [play] INFO: 🚀 Sending request 57/203 for AN00000167
+2025-04-25 08:48:32,807 [play] INFO: [56/203] AN00000165: 0.00 PLN | Outstock | 147 remaining
+2025-04-25 08:48:34,014 [play] INFO: 😴 Sleeping for 1.40 seconds before request 58/203
+2025-04-25 08:48:35,434 [play] INFO: 🚀 Sending request 58/203 for AN00000169
+2025-04-25 08:48:35,495 [play] INFO: [57/203] AN00000167: 799.00 PLN | Instock | 146 remaining
+2025-04-25 08:48:36,771 [play] INFO: 😴 Sleeping for 1.33 seconds before request 59/203
+2025-04-25 08:48:38,116 [play] INFO: 🚀 Sending request 59/203 for BN2008455
+2025-04-25 08:48:38,175 [play] INFO: [58/203] AN00000169: 0.00 PLN | Outstock | 145 remaining
+2025-04-25 08:48:39,477 [play] INFO: 😴 Sleeping for 2.03 seconds before request 60/203
+2025-04-25 08:48:41,528 [play] INFO: 🚀 Sending request 60/203 for BN2008718
+2025-04-25 08:48:41,593 [play] INFO: [59/203] BN2008455: 0.00 PLN | Outstock | 144 remaining
+2025-04-25 08:48:42,836 [play] INFO: 😴 Sleeping for 1.72 seconds before request 61/203
+2025-04-25 08:48:44,569 [play] INFO: 🚀 Sending request 61/203 for BN2008969
+2025-04-25 08:48:44,636 [play] INFO: [60/203] BN2008718: 0.00 PLN | Outstock | 143 remaining
+2025-04-25 08:48:46,279 [play] INFO: 😴 Sleeping for 2.88 seconds before request 62/203
+2025-04-25 08:48:49,167 [play] INFO: 🚀 Sending request 62/203 for BN2009433
+2025-04-25 08:48:49,239 [play] INFO: [61/203] BN2008969: 0.00 PLN | Outstock | 142 remaining
+2025-04-25 08:48:50,455 [play] INFO: 😴 Sleeping for 1.11 seconds before request 63/203
+2025-04-25 08:48:51,572 [play] INFO: 🚀 Sending request 63/203 for BN2009287
+2025-04-25 08:48:51,640 [play] INFO: [62/203] BN2009433: 1799.00 PLN | Instock | 141 remaining
+2025-04-25 08:48:52,959 [play] INFO: 😴 Sleeping for 2.73 seconds before request 64/203
+2025-04-25 08:48:55,702 [play] INFO: 🚀 Sending request 64/203 for BN2009157
+2025-04-25 08:48:55,772 [play] INFO: [63/203] BN2009287: 1999.00 PLN | Instock | 140 remaining
+2025-04-25 08:48:57,080 [play] INFO: 😴 Sleeping for 2.95 seconds before request 65/203
+2025-04-25 08:49:00,034 [play] INFO: 🚀 Sending request 65/203 for BN2009152
+2025-04-25 08:49:00,106 [play] INFO: [64/203] BN2009157: 3499.00 PLN | Instock | 139 remaining
+2025-04-25 08:49:01,296 [play] INFO: 😴 Sleeping for 2.72 seconds before request 66/203
+2025-04-25 08:49:04,031 [play] INFO: 🚀 Sending request 66/203 for BN2008705
+2025-04-25 08:49:04,094 [play] INFO: [65/203] BN2009152: 449.00 PLN | Instock | 138 remaining
+2025-04-25 08:49:05,301 [play] INFO: 😴 Sleeping for 2.86 seconds before request 67/203
+2025-04-25 08:49:08,164 [play] INFO: 🚀 Sending request 67/203 for BN2009154
+2025-04-25 08:49:08,232 [play] INFO: [66/203] BN2008705: 0.00 PLN | Outstock | 137 remaining
+2025-04-25 08:49:09,435 [play] INFO: 😴 Sleeping for 2.28 seconds before request 68/203
+2025-04-25 08:49:11,725 [play] INFO: 🚀 Sending request 68/203 for BN2009461
+2025-04-25 08:49:11,793 [play] INFO: [67/203] BN2009154: 0.00 PLN | Outstock | 136 remaining
+2025-04-25 08:49:12,989 [play] INFO: 😴 Sleeping for 1.11 seconds before request 69/203
+2025-04-25 08:49:14,106 [play] INFO: 🚀 Sending request 69/203 for BN2009941
+2025-04-25 08:49:14,171 [play] INFO: [68/203] BN2009461: 0.00 PLN | Outstock | 135 remaining
+2025-04-25 08:49:15,373 [play] INFO: 😴 Sleeping for 1.31 seconds before request 70/203
+2025-04-25 08:49:16,694 [play] INFO: 🚀 Sending request 70/203 for BN2008966
+2025-04-25 08:49:16,761 [play] INFO: [69/203] BN2009941: 799.00 PLN | Instock | 134 remaining
+2025-04-25 08:49:17,999 [play] INFO: 😴 Sleeping for 2.10 seconds before request 71/203
+2025-04-25 08:49:20,117 [play] INFO: 🚀 Sending request 71/203 for BN2008968
+2025-04-25 08:49:20,179 [play] INFO: [70/203] BN2008966: 0.00 PLN | Outstock | 133 remaining
+2025-04-25 08:49:21,606 [play] INFO: 😴 Sleeping for 1.69 seconds before request 72/203
+2025-04-25 08:49:23,305 [play] INFO: 🚀 Sending request 72/203 for BN2009289
+2025-04-25 08:49:23,373 [play] INFO: [71/203] BN2008968: 0.00 PLN | Outstock | 132 remaining
+2025-04-25 08:49:24,585 [play] INFO: 😴 Sleeping for 1.97 seconds before request 73/203
+2025-04-25 08:49:26,564 [play] INFO: 🚀 Sending request 73/203 for BN2008845
+2025-04-25 08:49:26,632 [play] INFO: [72/203] BN2009289: 0.00 PLN | Outstock | 131 remaining
+2025-04-25 08:49:27,888 [play] INFO: 😴 Sleeping for 2.88 seconds before request 74/203
+2025-04-25 08:49:30,773 [play] INFO: 🚀 Sending request 74/203 for BN2008719
+2025-04-25 08:49:30,833 [play] INFO: [73/203] BN2008845: 0.00 PLN | Outstock | 130 remaining
+2025-04-25 08:49:32,027 [play] INFO: 😴 Sleeping for 1.45 seconds before request 75/203
+2025-04-25 08:49:33,500 [play] INFO: 🚀 Sending request 75/203 for AN00000256
+2025-04-25 08:49:33,571 [play] INFO: [74/203] BN2008719: 0.00 PLN | Outstock | 129 remaining
+2025-04-25 08:49:34,844 [play] INFO: 😴 Sleeping for 2.88 seconds before request 76/203
+2025-04-25 08:49:37,736 [play] INFO: 🚀 Sending request 76/203 for BN2009286
+2025-04-25 08:49:37,800 [play] INFO: [75/203] AN00000256: 1599.00 PLN | Instock | 128 remaining
+2025-04-25 08:49:39,003 [play] INFO: 😴 Sleeping for 1.92 seconds before request 77/203
+2025-04-25 08:49:40,934 [play] INFO: 🚀 Sending request 77/203 for BN2009285
+2025-04-25 08:49:41,003 [play] INFO: [76/203] BN2009286: 3299.00 PLN | Instock | 127 remaining
+2025-04-25 08:49:42,222 [play] INFO: 😴 Sleeping for 2.63 seconds before request 78/203
+2025-04-25 08:49:44,868 [play] INFO: 🚀 Sending request 78/203 for BN2009165
+2025-04-25 08:49:44,930 [play] INFO: [77/203] BN2009285: 3999.00 PLN | Instock | 126 remaining
+2025-04-25 08:49:46,164 [play] INFO: 😴 Sleeping for 1.40 seconds before request 79/203
+2025-04-25 08:49:47,576 [play] INFO: 🚀 Sending request 79/203 for AN00000186
+2025-04-25 08:49:47,634 [play] INFO: [78/203] BN2009165: 1199.00 PLN | Instock | 125 remaining
+2025-04-25 08:49:50,949 [play] INFO: 😴 Sleeping for 2.34 seconds before request 80/203
+2025-04-25 08:49:53,296 [play] INFO: 🚀 Sending request 80/203 for BN2007888
+2025-04-25 08:49:53,356 [play] INFO: [79/203] AN00000186: 399.00 PLN | Instock | 124 remaining
+2025-04-25 08:49:55,527 [play] INFO: 😴 Sleeping for 1.15 seconds before request 81/203
+2025-04-25 08:49:56,686 [play] INFO: 🚀 Sending request 81/203 for BN2007637
+2025-04-25 08:49:56,752 [play] INFO: [80/203] BN2007888: 299.00 PLN | Instock | 123 remaining
+2025-04-25 08:49:58,362 [play] INFO: 😴 Sleeping for 2.32 seconds before request 82/203
+2025-04-25 08:50:00,697 [play] INFO: 🚀 Sending request 82/203 for BN2008794
+2025-04-25 08:50:00,760 [play] INFO: [81/203] BN2007637: 299.00 PLN | Instock | 122 remaining
+2025-04-25 08:50:02,315 [play] INFO: 😴 Sleeping for 2.83 seconds before request 83/203
+2025-04-25 08:50:05,170 [play] INFO: 🚀 Sending request 83/203 for BN2008952
+2025-04-25 08:50:05,236 [play] INFO: [82/203] BN2008794: 0.00 PLN | Outstock | 121 remaining
+2025-04-25 08:50:06,753 [play] INFO: 😴 Sleeping for 1.89 seconds before request 84/203
+2025-04-25 08:50:08,654 [play] INFO: 🚀 Sending request 84/203 for AN00000240
+2025-04-25 08:50:08,724 [play] INFO: [83/203] BN2008952: 1199.00 PLN | Instock | 120 remaining
+2025-04-25 08:50:09,947 [play] INFO: 😴 Sleeping for 1.51 seconds before request 85/203
+2025-04-25 08:50:11,471 [play] INFO: 🚀 Sending request 85/203 for AN00000241
+2025-04-25 08:50:11,533 [play] INFO: [84/203] AN00000240: 1599.00 PLN | Instock | 119 remaining
+2025-04-25 08:50:12,754 [play] INFO: 😴 Sleeping for 2.24 seconds before request 86/203
+2025-04-25 08:50:15,008 [play] INFO: 🚀 Sending request 86/203 for BN2009370
+2025-04-25 08:50:15,075 [play] INFO: [85/203] AN00000241: 2499.00 PLN | Instock | 118 remaining
+2025-04-25 08:50:16,291 [play] INFO: 😴 Sleeping for 1.84 seconds before request 87/203
+2025-04-25 08:50:18,143 [play] INFO: 🚀 Sending request 87/203 for BN2009368
+2025-04-25 08:50:18,211 [play] INFO: [86/203] BN2009370: 699.00 PLN | Instock | 117 remaining
+2025-04-25 08:50:19,505 [play] INFO: 😴 Sleeping for 1.52 seconds before request 88/203
+2025-04-25 08:50:21,047 [play] INFO: 🚀 Sending request 88/203 for BN2009369
+2025-04-25 08:50:21,109 [play] INFO: [87/203] BN2009368: 4299.00 PLN | Instock | 116 remaining
+2025-04-25 08:50:22,302 [play] INFO: 😴 Sleeping for 1.26 seconds before request 89/203
+2025-04-25 08:50:23,575 [play] INFO: 🚀 Sending request 89/203 for AN00000245
+2025-04-25 08:50:23,647 [play] INFO: [88/203] BN2009369: 2799.00 PLN | Instock | 115 remaining
+2025-04-25 08:50:24,966 [play] INFO: 😴 Sleeping for 2.32 seconds before request 90/203
+2025-04-25 08:50:27,311 [play] INFO: 🚀 Sending request 90/203 for AN00000244
+2025-04-25 08:50:27,378 [play] INFO: [89/203] AN00000245: 4899.00 PLN | Instock | 114 remaining
+2025-04-25 08:50:28,682 [play] INFO: 😴 Sleeping for 2.76 seconds before request 91/203
+2025-04-25 08:50:31,454 [play] INFO: 🚀 Sending request 91/203 for BN2008963
+2025-04-25 08:50:31,522 [play] INFO: [90/203] AN00000244: 3399.00 PLN | Instock | 113 remaining
+2025-04-25 08:50:32,731 [play] INFO: 😴 Sleeping for 2.01 seconds before request 92/203
+2025-04-25 08:50:34,759 [play] INFO: 🚀 Sending request 92/203 for BN2009360
+2025-04-25 08:50:34,826 [play] INFO: [91/203] BN2008963: 499.00 PLN | Instock | 112 remaining
+2025-04-25 08:50:36,057 [play] INFO: 😴 Sleeping for 1.29 seconds before request 93/203
+2025-04-25 08:50:37,354 [play] INFO: 🚀 Sending request 93/203 for BN2008534
+2025-04-25 08:50:37,421 [play] INFO: [92/203] BN2009360: 649.00 PLN | Instock | 111 remaining
+2025-04-25 08:50:38,724 [play] INFO: 😴 Sleeping for 2.00 seconds before request 94/203
+2025-04-25 08:50:40,741 [play] INFO: 🚀 Sending request 94/203 for BN2009053
+2025-04-25 08:50:40,809 [play] INFO: [93/203] BN2008534: 0.00 PLN | Outstock | 110 remaining
+2025-04-25 08:50:42,028 [play] INFO: 😴 Sleeping for 2.09 seconds before request 95/203
+2025-04-25 08:50:44,140 [play] INFO: 🚀 Sending request 95/203 for BN2009426
+2025-04-25 08:50:44,208 [play] INFO: [94/203] BN2009053: 0.00 PLN | Outstock | 109 remaining
+2025-04-25 08:50:45,408 [play] INFO: 😴 Sleeping for 2.09 seconds before request 96/203
+2025-04-25 08:50:47,508 [play] INFO: 🚀 Sending request 96/203 for BN2008531
+2025-04-25 08:50:47,569 [play] INFO: [95/203] BN2009426: 899.00 PLN | Instock | 108 remaining
+2025-04-25 08:50:48,851 [play] INFO: 😴 Sleeping for 2.24 seconds before request 97/203
+2025-04-25 08:50:51,095 [play] INFO: 🚀 Sending request 97/203 for AN00000243
+2025-04-25 08:50:51,155 [play] INFO: [96/203] BN2008531: 3999.00 PLN | Instock | 107 remaining
+2025-04-25 08:50:52,380 [play] INFO: 😴 Sleeping for 2.30 seconds before request 98/203
+2025-04-25 08:50:54,691 [play] INFO: 🚀 Sending request 98/203 for AN00000254
+2025-04-25 08:50:54,765 [play] INFO: [97/203] AN00000243: 5399.00 PLN | Instock | 106 remaining
+2025-04-25 08:50:59,924 [play] INFO: 😴 Sleeping for 1.39 seconds before request 99/203
+2025-04-25 08:51:01,332 [play] INFO: 🚀 Sending request 99/203 for BN2008708
+2025-04-25 08:51:01,404 [play] INFO: [98/203] AN00000254: 1499.00 PLN | Instock | 105 remaining
+2025-04-25 08:51:03,983 [play] INFO: 😴 Sleeping for 2.90 seconds before request 100/203
+2025-04-25 08:51:06,893 [play] INFO: 🚀 Sending request 100/203 for BN2008916
+2025-04-25 08:51:06,957 [play] INFO: [99/203] BN2008708: 0.00 PLN | Outstock | 104 remaining
+2025-04-25 08:51:09,200 [play] INFO: 😴 Sleeping for 2.10 seconds before request 101/203
+2025-04-25 08:51:11,324 [play] INFO: 🚀 Sending request 101/203 for BN2009104
+2025-04-25 08:51:11,391 [play] INFO: [100/203] BN2008916: 0.00 PLN | Outstock | 103 remaining
+2025-04-25 08:51:13,241 [play] INFO: 😴 Sleeping for 2.48 seconds before request 102/203
+2025-04-25 08:51:15,742 [play] INFO: 🚀 Sending request 102/203 for BN2009427
+2025-04-25 08:51:15,815 [play] INFO: [101/203] BN2009104: 999.00 PLN | Instock | 102 remaining
+2025-04-25 08:51:17,490 [play] INFO: 😴 Sleeping for 1.39 seconds before request 103/203
+2025-04-25 08:51:18,898 [play] INFO: 🚀 Sending request 103/203 for BN2009428
+2025-04-25 08:51:18,966 [play] INFO: [102/203] BN2009427: 0.00 PLN | Outstock | 101 remaining
+2025-04-25 08:51:20,553 [play] INFO: 😴 Sleeping for 1.09 seconds before request 104/203
+2025-04-25 08:51:21,656 [play] INFO: 🚀 Sending request 104/203 for BN2009282
+2025-04-25 08:51:21,724 [play] INFO: [103/203] BN2009428: 999.00 PLN | Instock | 100 remaining
+2025-04-25 08:51:23,267 [play] INFO: 😴 Sleeping for 1.08 seconds before request 105/203
+2025-04-25 08:51:24,367 [play] INFO: 🚀 Sending request 105/203 for BN2008672
+2025-04-25 08:51:24,443 [play] INFO: [104/203] BN2009282: 0.00 PLN | Outstock | 99 remaining
+2025-04-25 08:51:25,660 [play] INFO: 😴 Sleeping for 1.62 seconds before request 106/203
+2025-04-25 08:51:27,289 [play] INFO: 🚀 Sending request 106/203 for BN2008676
+2025-04-25 08:51:27,361 [play] INFO: [105/203] BN2008672: 0.00 PLN | Outstock | 98 remaining
+2025-04-25 08:51:28,611 [play] INFO: 😴 Sleeping for 2.55 seconds before request 107/203
+2025-04-25 08:51:31,177 [play] INFO: 🚀 Sending request 107/203 for AN00000174
+2025-04-25 08:51:31,256 [play] INFO: [106/203] BN2008676: 899.00 PLN | Instock | 97 remaining
+2025-04-25 08:51:32,477 [play] INFO: 😴 Sleeping for 2.99 seconds before request 108/203
+2025-04-25 08:51:35,484 [play] INFO: 🚀 Sending request 108/203 for BN2009059
+2025-04-25 08:51:35,549 [play] INFO: [107/203] AN00000174: 0.00 PLN | Outstock | 96 remaining
+2025-04-25 08:51:36,761 [play] INFO: 😴 Sleeping for 2.36 seconds before request 109/203
+2025-04-25 08:51:39,144 [play] INFO: 🚀 Sending request 109/203 for AN00000251
+2025-04-25 08:51:39,205 [play] INFO: [108/203] BN2009059: 0.00 PLN | Outstock | 95 remaining
+2025-04-25 08:51:40,476 [play] INFO: 😴 Sleeping for 1.93 seconds before request 110/203
+2025-04-25 08:51:42,417 [play] INFO: 🚀 Sending request 110/203 for BN2009276
+2025-04-25 08:51:42,481 [play] INFO: [109/203] AN00000251: 999.00 PLN | Instock | 94 remaining
+2025-04-25 08:51:43,755 [play] INFO: 😴 Sleeping for 2.32 seconds before request 111/203
+2025-04-25 08:51:46,081 [play] INFO: 🚀 Sending request 111/203 for BN2009564
+2025-04-25 08:51:46,145 [play] INFO: [110/203] BN2009276: 999.00 PLN | Instock | 93 remaining
+2025-04-25 08:51:47,406 [play] INFO: 😴 Sleeping for 1.11 seconds before request 112/203
+2025-04-25 08:51:48,536 [play] INFO: 🚀 Sending request 112/203 for BN2009180
+2025-04-25 08:51:48,603 [play] INFO: [111/203] BN2009564: 1599.00 PLN | Instock | 92 remaining
+2025-04-25 08:51:49,871 [play] INFO: 😴 Sleeping for 2.75 seconds before request 113/203
+2025-04-25 08:51:52,624 [play] INFO: 🚀 Sending request 113/203 for AN00000260
+2025-04-25 08:51:52,696 [play] INFO: [112/203] BN2009180: 1849.00 PLN | Instock | 91 remaining
+2025-04-25 08:51:53,907 [play] INFO: 😴 Sleeping for 2.57 seconds before request 114/203
+2025-04-25 08:51:56,498 [play] INFO: 🚀 Sending request 114/203 for AN00000259
+2025-04-25 08:51:56,685 [play] INFO: [113/203] AN00000260: 2499.00 PLN | Instock | 90 remaining
+2025-04-25 08:51:58,086 [play] INFO: 😴 Sleeping for 2.75 seconds before request 115/203
+2025-04-25 08:52:00,854 [play] INFO: 🚀 Sending request 115/203 for AN00000034
+2025-04-25 08:52:00,923 [play] INFO: [114/203] AN00000259: 849.00 PLN | Instock | 89 remaining
+2025-04-25 08:52:02,464 [play] INFO: 😴 Sleeping for 1.83 seconds before request 116/203
+2025-04-25 08:52:04,307 [play] INFO: 🚀 Sending request 116/203 for BN2008847
+2025-04-25 08:52:04,369 [play] INFO: [115/203] AN00000034: 799.00 PLN | Instock | 88 remaining
+2025-04-25 08:52:05,604 [play] INFO: 😴 Sleeping for 2.33 seconds before request 117/203
+2025-04-25 08:52:07,953 [play] INFO: 🚀 Sending request 117/203 for BN2009060
+2025-04-25 08:52:08,018 [play] INFO: [116/203] BN2008847: 499.00 PLN | Instock | 87 remaining
+2025-04-25 08:52:09,252 [play] INFO: 😴 Sleeping for 2.75 seconds before request 118/203
+2025-04-25 08:52:12,019 [play] INFO: 🚀 Sending request 118/203 for BN2008848
+2025-04-25 08:52:12,095 [play] INFO: [117/203] BN2009060: 599.00 PLN | Instock | 86 remaining
+2025-04-25 08:52:13,350 [play] INFO: 😴 Sleeping for 2.48 seconds before request 119/203
+2025-04-25 08:52:15,846 [play] INFO: 🚀 Sending request 119/203 for BN2009048
+2025-04-25 08:52:15,915 [play] INFO: [118/203] BN2008848: 599.00 PLN | Instock | 85 remaining
+2025-04-25 08:52:17,170 [play] INFO: 😴 Sleeping for 1.35 seconds before request 120/203
+2025-04-25 08:52:18,537 [play] INFO: 🚀 Sending request 120/203 for BN2009183
+2025-04-25 08:52:18,599 [play] INFO: [119/203] BN2009048: 0.00 PLN | Outstock | 84 remaining
+2025-04-25 08:52:19,821 [play] INFO: 😴 Sleeping for 2.84 seconds before request 121/203
+2025-04-25 08:52:22,671 [play] INFO: 🚀 Sending request 121/203 for BN2009650
+2025-04-25 08:52:22,742 [play] INFO: [120/203] BN2009183: 799.00 PLN | Instock | 83 remaining
+2025-04-25 08:52:24,015 [play] INFO: 😴 Sleeping for 1.74 seconds before request 122/203
+2025-04-25 08:52:25,773 [play] INFO: 🚀 Sending request 122/203 for AN00000239
+2025-04-25 08:52:25,884 [play] INFO: [121/203] BN2009650: 2799.00 PLN | Instock | 82 remaining
+2025-04-25 08:52:26,734 [play] INFO: 😴 Sleeping for 1.43 seconds before request 123/203
+2025-04-25 08:52:28,175 [play] INFO: 🚀 Sending request 123/203 for BN2008551
+2025-04-25 08:52:28,201 [play] INFO: [122/203] AN00000239:  PLN | Instock | 81 remaining
+2025-04-25 08:52:29,548 [play] INFO: 😴 Sleeping for 1.38 seconds before request 124/203
+2025-04-25 08:52:30,944 [play] INFO: 🚀 Sending request 124/203 for BN2009106
+2025-04-25 08:52:31,012 [play] INFO: [123/203] BN2008551: 0.00 PLN | Outstock | 80 remaining
+2025-04-25 08:52:32,228 [play] INFO: 😴 Sleeping for 2.72 seconds before request 125/203
+2025-04-25 08:52:34,964 [play] INFO: 🚀 Sending request 125/203 for BN2009107
+2025-04-25 08:52:35,029 [play] INFO: [124/203] BN2009106: 0.00 PLN | Outstock | 79 remaining
+2025-04-25 08:52:36,262 [play] INFO: 😴 Sleeping for 2.45 seconds before request 126/203
+2025-04-25 08:52:38,733 [play] INFO: 🚀 Sending request 126/203 for BN2009662
+2025-04-25 08:52:38,795 [play] INFO: [125/203] BN2009107: 0.00 PLN | Outstock | 78 remaining
+2025-04-25 08:52:40,034 [play] INFO: 😴 Sleeping for 1.66 seconds before request 127/203
+2025-04-25 08:52:41,702 [play] INFO: 🚀 Sending request 127/203 for BN2008918
+2025-04-25 08:52:41,768 [play] INFO: [126/203] BN2009662: 899.00 PLN | Instock | 77 remaining
+2025-04-25 08:52:43,008 [play] INFO: 😴 Sleeping for 1.28 seconds before request 128/203
+2025-04-25 08:52:44,296 [play] INFO: 🚀 Sending request 128/203 for BN2008665
+2025-04-25 08:52:44,360 [play] INFO: [127/203] BN2008918: 0.00 PLN | Outstock | 76 remaining
+2025-04-25 08:52:45,608 [play] INFO: 😴 Sleeping for 2.57 seconds before request 129/203
+2025-04-25 08:52:48,200 [play] INFO: 🚀 Sending request 129/203 for BN2009234
+2025-04-25 08:52:48,265 [play] INFO: [128/203] BN2008665: 0.00 PLN | Outstock | 75 remaining
+2025-04-25 08:52:49,505 [play] INFO: 😴 Sleeping for 2.14 seconds before request 130/203
+2025-04-25 08:52:51,661 [play] INFO: 🚀 Sending request 130/203 for BN2009896
+2025-04-25 08:52:51,728 [play] INFO: [129/203] BN2009234: 0.00 PLN | Outstock | 74 remaining
+2025-04-25 08:52:52,952 [play] INFO: 😴 Sleeping for 2.04 seconds before request 131/203
+2025-04-25 08:52:55,017 [play] INFO: 🚀 Sending request 131/203 for BN2008677
+2025-04-25 08:52:55,093 [play] INFO: [130/203] BN2009896: 1749.00 PLN | Instock | 73 remaining
+2025-04-25 08:52:56,480 [play] INFO: 😴 Sleeping for 2.44 seconds before request 132/203
+2025-04-25 08:52:58,937 [play] INFO: 🚀 Sending request 132/203 for BN2009232
+2025-04-25 08:52:59,009 [play] INFO: [131/203] BN2008677: 1499.00 PLN | Instock | 72 remaining
+2025-04-25 08:53:00,194 [play] INFO: 😴 Sleeping for 1.78 seconds before request 133/203
+2025-04-25 08:53:02,003 [play] INFO: 🚀 Sending request 133/203 for BN2009848
+2025-04-25 08:53:02,081 [play] INFO: [132/203] BN2009232: 0.00 PLN | Outstock | 71 remaining
+2025-04-25 08:53:03,273 [play] INFO: 😴 Sleeping for 1.00 seconds before request 134/203
+2025-04-25 08:53:04,284 [play] INFO: 🚀 Sending request 134/203 for BN2009334
+2025-04-25 08:53:04,366 [play] INFO: [133/203] BN2009848: 2149.00 PLN | Instock | 70 remaining
+2025-04-25 08:53:05,751 [play] INFO: 😴 Sleeping for 1.41 seconds before request 135/203
+2025-04-25 08:53:07,184 [play] INFO: 🚀 Sending request 135/203 for BN2008582
+2025-04-25 08:53:07,250 [play] INFO: [134/203] BN2009334: 269.00 PLN | Instock | 69 remaining
+2025-04-25 08:53:08,437 [play] INFO: 😴 Sleeping for 2.32 seconds before request 136/203
+2025-04-25 08:53:10,775 [play] INFO: 🚀 Sending request 136/203 for BN2009085
+2025-04-25 08:53:10,839 [play] INFO: [135/203] BN2008582: 0.00 PLN | Outstock | 68 remaining
+2025-04-25 08:53:12,086 [play] INFO: 😴 Sleeping for 2.34 seconds before request 137/203
+2025-04-25 08:53:14,431 [play] INFO: 🚀 Sending request 137/203 for BN2008588
+2025-04-25 08:53:14,507 [play] INFO: [136/203] BN2009085: 2699.00 PLN | Instock | 67 remaining
+2025-04-25 08:53:15,755 [play] INFO: 😴 Sleeping for 2.03 seconds before request 138/203
+2025-04-25 08:53:17,804 [play] INFO: 🚀 Sending request 138/203 for BN2008586
+2025-04-25 08:53:17,875 [play] INFO: [137/203] BN2008588: 5499.00 PLN | Instock | 66 remaining
+2025-04-25 08:53:19,188 [play] INFO: 😴 Sleeping for 1.88 seconds before request 139/203
+2025-04-25 08:53:21,081 [play] INFO: 🚀 Sending request 139/203 for BN2008584
+2025-04-25 08:53:21,148 [play] INFO: [138/203] BN2008586: 0.00 PLN | Outstock | 65 remaining
+2025-04-25 08:53:22,386 [play] INFO: 😴 Sleeping for 1.11 seconds before request 140/203
+2025-04-25 08:53:23,504 [play] INFO: 🚀 Sending request 140/203 for BN2008585
+2025-04-25 08:53:23,565 [play] INFO: [139/203] BN2008584: 0.00 PLN | Outstock | 64 remaining
+2025-04-25 08:53:24,766 [play] INFO: 😴 Sleeping for 1.56 seconds before request 141/203
+2025-04-25 08:53:26,337 [play] INFO: 🚀 Sending request 141/203 for BN2009166
+2025-04-25 08:53:26,401 [play] INFO: [140/203] BN2008585: 0.00 PLN | Outstock | 63 remaining
+2025-04-25 08:53:27,696 [play] INFO: 😴 Sleeping for 2.17 seconds before request 142/203
+2025-04-25 08:53:29,881 [play] INFO: 🚀 Sending request 142/203 for BN2009167
+2025-04-25 08:53:29,954 [play] INFO: [141/203] BN2009166: 2899.00 PLN | Instock | 62 remaining
+2025-04-25 08:53:31,211 [play] INFO: 😴 Sleeping for 1.93 seconds before request 143/203
+2025-04-25 08:53:33,146 [play] INFO: 🚀 Sending request 143/203 for BN2009488
+2025-04-25 08:53:33,217 [play] INFO: [142/203] BN2009167: 3499.00 PLN | Instock | 61 remaining
+2025-04-25 08:53:34,453 [play] INFO: 😴 Sleeping for 2.16 seconds before request 144/203
+2025-04-25 08:53:36,633 [play] INFO: 🚀 Sending request 144/203 for BN2009173
+2025-04-25 08:53:36,694 [play] INFO: [143/203] BN2009488: 2799.00 PLN | Instock | 60 remaining
+2025-04-25 08:53:37,968 [play] INFO: 😴 Sleeping for 2.94 seconds before request 145/203
+2025-04-25 08:53:40,916 [play] INFO: 🚀 Sending request 145/203 for BN2009171
+2025-04-25 08:53:40,983 [play] INFO: [144/203] BN2009173: 6799.00 PLN | Instock | 59 remaining
+2025-04-25 08:53:42,246 [play] INFO: 😴 Sleeping for 1.65 seconds before request 146/203
+2025-04-25 08:53:43,913 [play] INFO: 🚀 Sending request 146/203 for BN2009172
+2025-04-25 08:53:43,978 [play] INFO: [145/203] BN2009171: 5499.00 PLN | Instock | 58 remaining
+2025-04-25 08:53:45,214 [play] INFO: 😴 Sleeping for 1.09 seconds before request 147/203
+2025-04-25 08:53:46,320 [play] INFO: 🚀 Sending request 147/203 for BN2009169
+2025-04-25 08:53:46,391 [play] INFO: [146/203] BN2009172: 5999.00 PLN | Instock | 57 remaining
+2025-04-25 08:53:47,693 [play] INFO: 😴 Sleeping for 2.04 seconds before request 148/203
+2025-04-25 08:53:49,741 [play] INFO: 🚀 Sending request 148/203 for BN2009170
+2025-04-25 08:53:49,807 [play] INFO: [147/203] BN2009169: 4199.00 PLN | Instock | 56 remaining
+2025-04-25 08:53:51,114 [play] INFO: 😴 Sleeping for 2.86 seconds before request 149/203
+2025-04-25 08:53:53,978 [play] INFO: 🚀 Sending request 149/203 for BN2009796
+2025-04-25 08:53:54,044 [play] INFO: [148/203] BN2009170: 4599.00 PLN | Instock | 55 remaining
+2025-04-25 08:53:55,270 [play] INFO: 😴 Sleeping for 2.83 seconds before request 150/203
+2025-04-25 08:53:58,120 [play] INFO: 🚀 Sending request 150/203 for BN2009900
+2025-04-25 08:53:58,184 [play] INFO: [149/203] BN2009796: 3999.00 PLN | Instock | 54 remaining
+2025-04-25 08:53:59,382 [play] INFO: 😴 Sleeping for 2.00 seconds before request 151/203
+2025-04-25 08:54:01,390 [play] INFO: 🚀 Sending request 151/203 for BN2009849
+2025-04-25 08:54:01,456 [play] INFO: [150/203] BN2009900: 4199.00 PLN | Instock | 53 remaining
+2025-04-25 08:54:02,730 [play] INFO: 😴 Sleeping for 2.77 seconds before request 152/203
+2025-04-25 08:54:05,524 [play] INFO: 🚀 Sending request 152/203 for BN2009851
+2025-04-25 08:54:05,586 [play] INFO: [151/203] BN2009849: 4699.00 PLN | Instock | 52 remaining
+2025-04-25 08:54:06,784 [play] INFO: 😴 Sleeping for 1.30 seconds before request 153/203
+2025-04-25 08:54:08,099 [play] INFO: 🚀 Sending request 153/203 for BN2009798
+2025-04-25 08:54:08,168 [play] INFO: [152/203] BN2009851: 7999.00 PLN | Instock | 51 remaining
+2025-04-25 08:54:09,388 [play] INFO: 😴 Sleeping for 2.80 seconds before request 154/203
+2025-04-25 08:54:12,199 [play] INFO: 🚀 Sending request 154/203 for BN2009852
+2025-04-25 08:54:12,266 [play] INFO: [153/203] BN2009798: 6399.00 PLN | Instock | 50 remaining
+2025-04-25 08:54:13,460 [play] INFO: 😴 Sleeping for 2.06 seconds before request 155/203
+2025-04-25 08:54:15,543 [play] INFO: 🚀 Sending request 155/203 for BN2009797
+2025-04-25 08:54:15,612 [play] INFO: [154/203] BN2009852: 6899.00 PLN | Instock | 49 remaining
+2025-04-25 08:54:16,817 [play] INFO: 😴 Sleeping for 2.43 seconds before request 156/203
+2025-04-25 08:54:19,258 [play] INFO: 🚀 Sending request 156/203 for BN2009850
+2025-04-25 08:54:19,325 [play] INFO: [155/203] BN2009797: 4999.00 PLN | Instock | 48 remaining
+2025-04-25 08:54:20,676 [play] INFO: 😴 Sleeping for 2.57 seconds before request 157/203
+2025-04-25 08:54:23,261 [play] INFO: 🚀 Sending request 157/203 for BN2008981
+2025-04-25 08:54:23,328 [play] INFO: [156/203] BN2009850: 5499.00 PLN | Instock | 47 remaining
+2025-04-25 08:54:24,527 [play] INFO: 😴 Sleeping for 1.84 seconds before request 158/203
+2025-04-25 08:54:26,376 [play] INFO: 🚀 Sending request 158/203 for BN2008977
+2025-04-25 08:54:26,437 [play] INFO: [157/203] BN2008981: 1299.00 PLN | Instock | 46 remaining
+2025-04-25 08:54:27,618 [play] INFO: 😴 Sleeping for 2.00 seconds before request 159/203
+2025-04-25 08:54:29,634 [play] INFO: 🚀 Sending request 159/203 for BN4000698
+2025-04-25 08:54:29,697 [play] INFO: [158/203] BN2008977: 0.00 PLN | Outstock | 45 remaining
+2025-04-25 08:54:30,903 [play] INFO: 😴 Sleeping for 1.11 seconds before request 160/203
+2025-04-25 08:54:32,036 [play] INFO: 🚀 Sending request 160/203 for BN2009406
+2025-04-25 08:54:32,100 [play] INFO: [159/203] BN4000698: 0.00 PLN | Outstock | 44 remaining
+2025-04-25 08:54:33,328 [play] INFO: 😴 Sleeping for 2.20 seconds before request 161/203
+2025-04-25 08:54:35,552 [play] INFO: 🚀 Sending request 161/203 for BN2009404
+2025-04-25 08:54:35,618 [play] INFO: [160/203] BN2009406: 0.00 PLN | Outstock | 43 remaining
+2025-04-25 08:54:36,815 [play] INFO: 😴 Sleeping for 2.59 seconds before request 162/203
+2025-04-25 08:54:39,412 [play] INFO: 🚀 Sending request 162/203 for BN2008354
+2025-04-25 08:54:39,473 [play] INFO: [161/203] BN2009404: 0.00 PLN | Outstock | 42 remaining
+2025-04-25 08:54:40,694 [play] INFO: 😴 Sleeping for 1.65 seconds before request 163/203
+2025-04-25 08:54:42,363 [play] INFO: 🚀 Sending request 163/203 for BN2009163
+2025-04-25 08:54:42,425 [play] INFO: [162/203] BN2008354: 2499.00 PLN | Instock | 41 remaining
+2025-04-25 08:54:43,591 [play] INFO: 😴 Sleeping for 1.38 seconds before request 164/203
+2025-04-25 08:54:44,983 [play] INFO: 🚀 Sending request 164/203 for BN2008922
+2025-04-25 08:54:45,047 [play] INFO: [163/203] BN2009163: 1399.00 PLN | Instock | 40 remaining
+2025-04-25 08:54:46,243 [play] INFO: 😴 Sleeping for 1.27 seconds before request 165/203
+2025-04-25 08:54:47,528 [play] INFO: 🚀 Sending request 165/203 for BN2009474
+2025-04-25 08:54:47,592 [play] INFO: [164/203] BN2008922: 0.00 PLN | Outstock | 39 remaining
+2025-04-25 08:54:48,885 [play] INFO: 😴 Sleeping for 1.85 seconds before request 166/203
+2025-04-25 08:54:50,742 [play] INFO: 🚀 Sending request 166/203 for BN2009475
+2025-04-25 08:54:50,809 [play] INFO: [165/203] BN2009474: 4599.00 PLN | Instock | 38 remaining
+2025-04-25 08:54:52,069 [play] INFO: 😴 Sleeping for 1.86 seconds before request 167/203
+2025-04-25 08:54:53,941 [play] INFO: 🚀 Sending request 167/203 for BN2008919
+2025-04-25 08:54:54,004 [play] INFO: [166/203] BN2009475: 5099.00 PLN | Instock | 37 remaining
+2025-04-25 08:54:55,220 [play] INFO: 😴 Sleeping for 1.74 seconds before request 168/203
+2025-04-25 08:54:56,980 [play] INFO: 🚀 Sending request 168/203 for BN2008920
+2025-04-25 08:54:57,044 [play] INFO: [167/203] BN2008919: 7999.00 PLN | Instock | 36 remaining
+2025-04-25 08:54:58,259 [play] INFO: 😴 Sleeping for 1.75 seconds before request 169/203
+2025-04-25 08:55:00,022 [play] INFO: 🚀 Sending request 169/203 for BN2009476
+2025-04-25 08:55:00,083 [play] INFO: [168/203] BN2008920: 0.00 PLN | Outstock | 35 remaining
+2025-04-25 08:55:01,372 [play] INFO: 😴 Sleeping for 2.06 seconds before request 170/203
+2025-04-25 08:55:03,439 [play] INFO: 🚀 Sending request 170/203 for BN2009477
+2025-04-25 08:55:03,504 [play] INFO: [169/203] BN2009476: 8999.00 PLN | Instock | 34 remaining
+2025-04-25 08:55:04,705 [play] INFO: 😴 Sleeping for 2.74 seconds before request 171/203
+2025-04-25 08:55:07,460 [play] INFO: 🚀 Sending request 171/203 for BN2009478
+2025-04-25 08:55:07,523 [play] INFO: [170/203] BN2009477: 7499.00 PLN | Instock | 33 remaining
+2025-04-25 08:55:08,833 [play] INFO: 😴 Sleeping for 1.04 seconds before request 172/203
+2025-04-25 08:55:09,893 [play] INFO: 🚀 Sending request 172/203 for AN00000202
+2025-04-25 08:55:09,957 [play] INFO: [171/203] BN2009478: 7999.00 PLN | Instock | 32 remaining
+2025-04-25 08:55:11,191 [play] INFO: 😴 Sleeping for 2.32 seconds before request 173/203
+2025-04-25 08:55:13,517 [play] INFO: 🚀 Sending request 173/203 for AN00000203
+2025-04-25 08:55:13,577 [play] INFO: [172/203] AN00000202: 599.00 PLN | Instock | 31 remaining
+2025-04-25 08:55:14,802 [play] INFO: 😴 Sleeping for 1.81 seconds before request 174/203
+2025-04-25 08:55:16,636 [play] INFO: 🚀 Sending request 174/203 for BN2009402
+2025-04-25 08:55:16,752 [play] INFO: [173/203] AN00000203: 0.00 PLN | Outstock | 30 remaining
+2025-04-25 08:55:17,938 [play] INFO: 😴 Sleeping for 1.42 seconds before request 175/203
+2025-04-25 08:55:19,369 [play] INFO: 🚀 Sending request 175/203 for BN2008850
+2025-04-25 08:55:19,431 [play] INFO: [174/203] BN2009402: 1999.00 PLN | Instock | 29 remaining
+2025-04-25 08:55:20,644 [play] INFO: 😴 Sleeping for 1.42 seconds before request 176/203
+2025-04-25 08:55:22,081 [play] INFO: 🚀 Sending request 176/203 for BN2008897
+2025-04-25 08:55:22,156 [play] INFO: [175/203] BN2008850: 699.00 PLN | Instock | 28 remaining
+2025-04-25 08:55:23,429 [play] INFO: 😴 Sleeping for 2.61 seconds before request 177/203
+2025-04-25 08:55:26,046 [play] INFO: 🚀 Sending request 177/203 for BN2008616
+2025-04-25 08:55:26,112 [play] INFO: [176/203] BN2008897: 0.00 PLN | Outstock | 27 remaining
+2025-04-25 08:55:27,288 [play] INFO: 😴 Sleeping for 2.46 seconds before request 178/203
+2025-04-25 08:55:29,752 [play] INFO: 🚀 Sending request 178/203 for BN2009331
+2025-04-25 08:55:29,818 [play] INFO: [177/203] BN2008616: 0.00 PLN | Outstock | 26 remaining
+2025-04-25 08:55:31,096 [play] INFO: 😴 Sleeping for 1.92 seconds before request 179/203
+2025-04-25 08:55:33,030 [play] INFO: 🚀 Sending request 179/203 for BN2009279
+2025-04-25 08:55:33,112 [play] INFO: [178/203] BN2009331: 799.00 PLN | Instock | 25 remaining
+2025-04-25 08:55:34,337 [play] INFO: 😴 Sleeping for 1.61 seconds before request 180/203
+2025-04-25 08:55:35,966 [play] INFO: 🚀 Sending request 180/203 for BN2009087
+2025-04-25 08:55:36,047 [play] INFO: [179/203] BN2009279: 649.00 PLN | Instock | 24 remaining
+2025-04-25 08:55:37,267 [play] INFO: 😴 Sleeping for 1.40 seconds before request 181/203
+2025-04-25 08:55:38,684 [play] INFO: 🚀 Sending request 181/203 for BN2009638
+2025-04-25 08:55:38,765 [play] INFO: [180/203] BN2009087: 0.00 PLN | Outstock | 23 remaining
+2025-04-25 08:55:40,067 [play] INFO: 😴 Sleeping for 1.96 seconds before request 182/203
+2025-04-25 08:55:42,039 [play] INFO: 🚀 Sending request 182/203 for BN2009278
+2025-04-25 08:55:42,106 [play] INFO: [181/203] BN2009638: 459.00 PLN | Instock | 22 remaining
+2025-04-25 08:55:43,313 [play] INFO: 😴 Sleeping for 1.58 seconds before request 183/203
+2025-04-25 08:55:44,906 [play] INFO: 🚀 Sending request 183/203 for BN2009176
+2025-04-25 08:55:44,984 [play] INFO: [182/203] BN2009278: 349.00 PLN | Instock | 21 remaining
+2025-04-25 08:55:46,238 [play] INFO: 😴 Sleeping for 2.77 seconds before request 184/203
+2025-04-25 08:55:49,024 [play] INFO: 🚀 Sending request 184/203 for BN2008741
+2025-04-25 08:55:49,090 [play] INFO: [183/203] BN2009176: 0.00 PLN | Outstock | 20 remaining
+2025-04-25 08:55:50,295 [play] INFO: 😴 Sleeping for 1.57 seconds before request 185/203
+2025-04-25 08:55:51,878 [play] INFO: 🚀 Sending request 185/203 for BN2008767
+2025-04-25 08:55:51,941 [play] INFO: [184/203] BN2008741: 0.00 PLN | Outstock | 19 remaining
+2025-04-25 08:55:53,128 [play] INFO: 😴 Sleeping for 2.73 seconds before request 186/203
+2025-04-25 08:55:55,875 [play] INFO: 🚀 Sending request 186/203 for BN2008771
+2025-04-25 08:55:55,936 [play] INFO: [185/203] BN2008767: 1199.00 PLN | Instock | 18 remaining
+2025-04-25 08:55:57,144 [play] INFO: 😴 Sleeping for 2.97 seconds before request 187/203
+2025-04-25 08:56:00,120 [play] INFO: 🚀 Sending request 187/203 for BN2009110
+2025-04-25 08:56:00,181 [play] INFO: [186/203] BN2008771: 1199.00 PLN | Instock | 17 remaining
+2025-04-25 08:56:01,402 [play] INFO: 😴 Sleeping for 2.86 seconds before request 188/203
+2025-04-25 08:56:04,270 [play] INFO: 🚀 Sending request 188/203 for BN2009090
+2025-04-25 08:56:04,331 [play] INFO: [187/203] BN2009110: 0.00 PLN | Outstock | 16 remaining
+2025-04-25 08:56:05,605 [play] INFO: 😴 Sleeping for 1.89 seconds before request 189/203
+2025-04-25 08:56:07,509 [play] INFO: 🚀 Sending request 189/203 for BN2009091
+2025-04-25 08:56:07,577 [play] INFO: [188/203] BN2009090: 0.00 PLN | Outstock | 15 remaining
+2025-04-25 08:56:08,754 [play] INFO: 😴 Sleeping for 1.77 seconds before request 190/203
+2025-04-25 08:56:10,532 [play] INFO: 🚀 Sending request 190/203 for BN2009111
+2025-04-25 08:56:10,599 [play] INFO: [189/203] BN2009091: 1499.00 PLN | Instock | 14 remaining
+2025-04-25 08:56:11,792 [play] INFO: 😴 Sleeping for 2.85 seconds before request 191/203
+2025-04-25 08:56:14,648 [play] INFO: 🚀 Sending request 191/203 for BN2009810
+2025-04-25 08:56:14,712 [play] INFO: [190/203] BN2009111: 0.00 PLN | Outstock | 13 remaining
+2025-04-25 08:56:15,907 [play] INFO: 😴 Sleeping for 2.27 seconds before request 192/203
+2025-04-25 08:56:18,190 [play] INFO: 🚀 Sending request 192/203 for BN2009812
+2025-04-25 08:56:18,256 [play] INFO: [191/203] BN2009810: 1299.00 PLN | Instock | 12 remaining
+2025-04-25 08:56:19,463 [play] INFO: 😴 Sleeping for 1.50 seconds before request 193/203
+2025-04-25 08:56:20,982 [play] INFO: 🚀 Sending request 193/203 for AN00000173
+2025-04-25 08:56:21,046 [play] INFO: [192/203] BN2009812: 1599.00 PLN | Instock | 11 remaining
+2025-04-25 08:56:22,261 [play] INFO: 😴 Sleeping for 2.42 seconds before request 194/203
+2025-04-25 08:56:24,697 [play] INFO: 🚀 Sending request 194/203 for BN2008852
+2025-04-25 08:56:24,754 [play] INFO: [193/203] AN00000173: 0.00 PLN | Outstock | 10 remaining
+2025-04-25 08:56:25,982 [play] INFO: 😴 Sleeping for 2.50 seconds before request 195/203
+2025-04-25 08:56:28,498 [play] INFO: 🚀 Sending request 195/203 for BN2008861
+2025-04-25 08:56:28,559 [play] INFO: [194/203] BN2008852: 1999.00 PLN | Instock | 9 remaining
+2025-04-25 08:56:29,744 [play] INFO: 😴 Sleeping for 2.66 seconds before request 196/203
+2025-04-25 08:56:32,421 [play] INFO: 🚀 Sending request 196/203 for BN2009094
+2025-04-25 08:56:32,485 [play] INFO: [195/203] BN2008861: 2999.00 PLN | Instock | 8 remaining
+2025-04-25 08:56:33,677 [play] INFO: 😴 Sleeping for 2.89 seconds before request 197/203
+2025-04-25 08:56:36,590 [play] INFO: 🚀 Sending request 197/203 for BN2009303
+2025-04-25 08:56:36,655 [play] INFO: [196/203] BN2009094: 3899.00 PLN | Instock | 7 remaining
+2025-04-25 08:56:37,844 [play] INFO: 😴 Sleeping for 1.27 seconds before request 198/203
+2025-04-25 08:56:39,125 [play] INFO: 🚀 Sending request 198/203 for BN2009425
+2025-04-25 08:56:39,188 [play] INFO: [197/203] BN2009303: 0.00 PLN | Outstock | 6 remaining
+2025-04-25 08:56:40,412 [play] INFO: 😴 Sleeping for 1.64 seconds before request 199/203
+2025-04-25 08:56:42,074 [play] INFO: 🚀 Sending request 199/203 for BN2009446
+2025-04-25 08:56:42,137 [play] INFO: [198/203] BN2009425: 1899.00 PLN | Instock | 5 remaining
+2025-04-25 08:56:43,319 [play] INFO: 😴 Sleeping for 1.81 seconds before request 200/203
+2025-04-25 08:56:45,151 [play] INFO: 🚀 Sending request 200/203 for BN2009814
+2025-04-25 08:56:45,215 [play] INFO: [199/203] BN2009446: 2699.00 PLN | Instock | 4 remaining
+2025-04-25 08:56:46,423 [play] INFO: 😴 Sleeping for 2.54 seconds before request 201/203
+2025-04-25 08:56:48,979 [play] INFO: 🚀 Sending request 201/203 for BN2009815
+2025-04-25 08:56:49,044 [play] INFO: [200/203] BN2009814: 4199.00 PLN | Instock | 3 remaining
+2025-04-25 08:56:50,365 [play] INFO: 😴 Sleeping for 2.97 seconds before request 202/203
+2025-04-25 08:56:53,341 [play] INFO: 🚀 Sending request 202/203 for AN00000248
+2025-04-25 08:56:53,404 [play] INFO: [201/203] BN2009815: 6299.00 PLN | Instock | 2 remaining
+2025-04-25 08:56:54,587 [play] INFO: 😴 Sleeping for 1.84 seconds before request 203/203
+2025-04-25 08:56:56,441 [play] INFO: 🚀 Sending request 203/203 for AN00000249
+2025-04-25 08:56:56,507 [play] INFO: [202/203] AN00000248: 999.00 PLN | Instock | 1 remaining
+2025-04-25 08:56:57,911 [play] INFO: [203/203] AN00000249: 2199.00 PLN | Instock | 0 remaining
+2025-04-25 08:56:57,914 [play] INFO: ✅ Spider play completed
+2025-04-25 08:56:57,915 [play] INFO: 🕒 Total time: 00:11:39
+2025-04-25 08:56:57,915 [play] INFO: 📊 Processed 203 items
+2025-04-25 08:56:57,915 [play] INFO: ⚡ Performance: 17.42 items/minute
+2025-04-25 08:57:09,877 [play] INFO: ==================================================
+2025-04-25 08:57:09,877 [play] INFO: SPIDER RUN COMPLETED: play
+2025-04-25 08:57:09,877 [play] INFO: Items processed: 203
+2025-04-25 08:57:09,878 [play] INFO: Duration: 00:11:51
+2025-04-25 08:57:09,878 [play] INFO: Performance: 17.13 items/minute
+2025-04-25 08:57:09,880 [play] INFO: ==================================================
+2025-04-25 12:57:03,577 [play] INFO: 🕷️ Initializing play spider
+2025-04-25 12:57:03,579 [play] INFO: 🔄 Proxy Manager: Disabled
+2025-04-25 12:57:03,580 [play] INFO: 🕒 Human-like delays: Enabled
+2025-04-25 12:57:03,671 [play] INFO: 🕷️ Starting Play spider
+2025-04-25 12:57:03,672 [play] INFO: 🔍 Total products to scrape: 1
+2025-04-25 12:57:03,672 [play] INFO: ⏱️ Using sleep time range: 1-3 seconds
+2025-04-25 12:57:03,674 [play] INFO: Using direct requests without proxy manager
+2025-04-25 12:57:03,674 [play] INFO: 😴 Sleeping for 1.05 seconds before request 1/1
+2025-04-25 12:57:04,738 [play] INFO: 🚀 Sending request 1/1 for AN00000239
+2025-04-25 12:57:34,981 [play] INFO: ==================================================
+2025-04-25 12:57:34,982 [play] INFO: SPIDER RUN COMPLETED: play
+2025-04-25 12:57:34,982 [play] INFO: Items processed: 0
+2025-04-25 12:57:34,982 [play] INFO: Duration: 00:00:31
+2025-04-25 12:57:34,983 [play] INFO: Performance: 0.00 items/minute
+2025-04-25 12:57:34,983 [play] INFO: ==================================================
+2025-04-25 13:03:56,751 [play] INFO: 🕷️ Initializing play spider
+2025-04-25 13:03:56,752 [play] INFO: 🔄 Proxy Manager: Disabled
+2025-04-25 13:03:56,752 [play] INFO: 🕒 Human-like delays: Enabled
+2025-04-25 13:03:56,845 [play] INFO: 🕷️ Starting Play spider
+2025-04-25 13:03:56,845 [play] INFO: 🔍 Total products to scrape: 1
+2025-04-25 13:03:56,846 [play] INFO: ⏱️ Using sleep time range: 1-3 seconds
+2025-04-25 13:03:56,846 [play] INFO: Using direct requests without proxy manager
+2025-04-25 13:03:56,846 [play] INFO: 😴 Sleeping for 2.41 seconds before request 1/1
+2025-04-25 13:03:59,271 [play] INFO: 🚀 Sending request 1/1 for AN00000239
+2025-04-25 13:04:01,543 [play] INFO: [1/1] AN00000239:  PLN | Instock | 0 remaining
+2025-04-25 13:04:01,546 [play] INFO: ✅ Spider play completed
+2025-04-25 13:04:01,546 [play] INFO: 🕒 Total time: 00:00:04
+2025-04-25 13:04:01,548 [play] INFO: 📊 Processed 1 items
+2025-04-25 13:04:01,548 [play] INFO: ⚡ Performance: 12.52 items/minute
+2025-04-25 13:04:13,052 [play] INFO: ==================================================
+2025-04-25 13:04:13,052 [play] INFO: SPIDER RUN COMPLETED: play
+2025-04-25 13:04:13,054 [play] INFO: Items processed: 1
+2025-04-25 13:04:13,054 [play] INFO: Duration: 00:00:16
+2025-04-25 13:04:13,055 [play] INFO: Performance: 3.68 items/minute
+2025-04-25 13:04:13,062 [play] INFO: ==================================================
+2025-04-25 13:08:28,309 [play] INFO: 🕷️ Initializing play spider
+2025-04-25 13:08:28,310 [play] INFO: 🔄 Proxy Manager: Disabled
+2025-04-25 13:08:28,311 [play] INFO: 🕒 Human-like delays: Enabled
+2025-04-25 13:08:28,409 [play] INFO: 🕷️ Starting Play spider
+2025-04-25 13:08:28,410 [play] INFO: 🔍 Total products to scrape: 1
+2025-04-25 13:08:28,411 [play] INFO: ⏱️ Using sleep time range: 1-3 seconds
+2025-04-25 13:08:28,412 [play] INFO: Using direct requests without proxy manager
+2025-04-25 13:08:28,412 [play] INFO: 😴 Sleeping for 1.00 seconds before request 1/1
+2025-04-25 13:08:29,428 [play] INFO: 🚀 Sending request 1/1 for AN00000239
+2025-04-25 13:08:31,719 [play] INFO: [1/1] AN00000239:  PLN | Instock | 0 remaining
+2025-04-25 13:08:31,722 [play] INFO: ✅ Spider play completed
+2025-04-25 13:08:31,723 [play] INFO: 🕒 Total time: 00:00:03
+2025-04-25 13:08:31,724 [play] INFO: 📊 Processed 1 items
+2025-04-25 13:08:31,724 [play] INFO: ⚡ Performance: 17.59 items/minute
+2025-04-25 13:08:43,586 [play] INFO: ==================================================
+2025-04-25 13:08:43,586 [play] INFO: SPIDER RUN COMPLETED: play
+2025-04-25 13:08:43,586 [play] INFO: Items processed: 1
+2025-04-25 13:08:43,587 [play] INFO: Duration: 00:00:15
+2025-04-25 13:08:43,587 [play] INFO: Performance: 3.93 items/minute
+2025-04-25 13:08:43,587 [play] INFO: ==================================================

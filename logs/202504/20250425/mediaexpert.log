@@ -1,0 +1,675 @@
+2025-04-25 11:26:09,317 [mediaexpert] INFO: 🕷️ Initializing mediaexpert spider
+2025-04-25 11:26:09,318 [mediaexpert] INFO: 🔄 Proxy Manager: Disabled
+2025-04-25 11:26:09,319 [mediaexpert] INFO: 🕒 Human-like delays: Enabled
+2025-04-25 11:26:10,456 [mediaexpert] INFO: 🕷️ Starting Media Expert spider with optimized Selenium WebDriver
+2025-04-25 11:26:10,457 [mediaexpert] INFO: 🔍 Total products to scrape: 354
+2025-04-25 11:26:10,457 [mediaexpert] INFO: Initializing Chrome WebDriver...
+2025-04-25 11:26:16,258 [mediaexpert] INFO: WebDriver initialized successfully
+2025-04-25 11:26:19,071 [mediaexpert] INFO: Processing product: AN00000124 - URL: https://www.mediaexpert.pl/komputery-i-tablety/laptopy-i-ultrabooki/laptopy/laptop-acer-aspire-5-a515-56-15-6-ips-i5-1135g7-8gb-ram-512gb-ssd-windows-11-home
+2025-04-25 11:26:19,072 [mediaexpert] INFO: 😴 Sleeping for 2.01 seconds before processing AN00000124
+2025-04-25 11:26:21,102 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/laptopy-i-ultrabooki/laptopy/laptop-acer-aspire-5-a515-56-15-6-ips-i5-1135g7-8gb-ram-512gb-ssd-windows-11-home with WebDriver...
+2025-04-25 11:26:25,801 [mediaexpert] INFO: Page for AN00000124 loaded successfully
+2025-04-25 11:26:25,871 [mediaexpert] INFO: Price: 0.00 PLN , Stock: Outstock, url: https://www.mediaexpert.pl/komputery-i-tablety/laptopy-i-ultrabooki/laptopy/laptop-acer-aspire-5-a515-56-15-6-ips-i5-1135g7-8gb-ram-512gb-ssd-windows-11-home
+2025-04-25 11:26:28,446 [mediaexpert] INFO: Processing product: AN00000054 - URL: https://www.mediaexpert.pl/komputery-i-tablety/laptopy-i-ultrabooki/laptopy/laptop-acer-nitro-5-an515-58-15-6-ips-144hz-i5-12450h-16gb-ram-512gb-ssd-geforce-rtx3050-windows-11-home
+2025-04-25 11:26:28,447 [mediaexpert] INFO: 😴 Sleeping for 3.16 seconds before processing AN00000054
+2025-04-25 11:26:31,616 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/laptopy-i-ultrabooki/laptopy/laptop-acer-nitro-5-an515-58-15-6-ips-144hz-i5-12450h-16gb-ram-512gb-ssd-geforce-rtx3050-windows-11-home with WebDriver...
+2025-04-25 11:26:32,813 [mediaexpert] INFO: Page for AN00000054 loaded successfully
+2025-04-25 11:26:32,870 [mediaexpert] INFO: Price: 4179.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/laptopy-i-ultrabooki/laptopy/laptop-acer-nitro-5-an515-58-15-6-ips-144hz-i5-12450h-16gb-ram-512gb-ssd-geforce-rtx3050-windows-11-home
+2025-04-25 11:26:35,084 [mediaexpert] INFO: Processing product: BN2007274 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/telefon-gsm-alcatel-3082-4g-szary
+2025-04-25 11:26:35,085 [mediaexpert] INFO: 😴 Sleeping for 3.88 seconds before processing BN2007274
+2025-04-25 11:26:38,969 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/telefon-gsm-alcatel-3082-4g-szary with WebDriver...
+2025-04-25 11:26:40,385 [mediaexpert] INFO: Page for BN2007274 loaded successfully
+2025-04-25 11:26:40,439 [mediaexpert] INFO: Price: 269.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/telefon-gsm-alcatel-3082-4g-szary
+2025-04-25 11:26:42,957 [mediaexpert] INFO: Processing product: BN2007402 - URL: https://www.mediaexpert.pl/komputery-i-tablety/urzadzenia-sieciowe/modemy/modem-alcatel-link-key-4g-lte-ik41ve1
+2025-04-25 11:26:42,958 [mediaexpert] INFO: 😴 Sleeping for 2.53 seconds before processing BN2007402
+2025-04-25 11:26:45,493 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/urzadzenia-sieciowe/modemy/modem-alcatel-link-key-4g-lte-ik41ve1 with WebDriver...
+2025-04-25 11:26:47,596 [mediaexpert] INFO: Page for BN2007402 loaded successfully
+2025-04-25 11:26:47,636 [mediaexpert] INFO: Price: 139.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/urzadzenia-sieciowe/modemy/modem-alcatel-link-key-4g-lte-ik41ve1
+2025-04-25 11:26:49,964 [mediaexpert] INFO: Processing product: BN2009344 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-tcl-40-nxtpaper-8-256gb-6-78-90hz-niebieski
+2025-04-25 11:26:49,965 [mediaexpert] INFO: 😴 Sleeping for 3.03 seconds before processing BN2009344
+2025-04-25 11:26:53,008 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-tcl-40-nxtpaper-8-256gb-6-78-90hz-niebieski with WebDriver...
+2025-04-25 11:26:53,894 [mediaexpert] INFO: Page for BN2009344 loaded successfully
+2025-04-25 11:26:53,966 [mediaexpert] INFO: Price: 699.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-tcl-40-nxtpaper-8-256gb-6-78-90hz-niebieski
+2025-04-25 11:26:56,443 [mediaexpert] INFO: Processing product: BN2009367 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/telefon-tcl-onetouch-4022s-szary
+2025-04-25 11:26:56,443 [mediaexpert] INFO: 😴 Sleeping for 3.31 seconds before processing BN2009367
+2025-04-25 11:26:59,759 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/telefon-tcl-onetouch-4022s-szary with WebDriver...
+2025-04-25 11:27:00,504 [mediaexpert] INFO: Page for BN2009367 loaded successfully
+2025-04-25 11:27:00,554 [mediaexpert] INFO: Price: 132.41 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/telefon-tcl-onetouch-4022s-szary
+2025-04-25 11:27:03,078 [mediaexpert] INFO: Processing product: BN2008834 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/telefon-tcl-4042s-szary
+2025-04-25 11:27:03,079 [mediaexpert] INFO: 😴 Sleeping for 3.42 seconds before processing BN2008834
+2025-04-25 11:27:06,502 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/telefon-tcl-4042s-szary with WebDriver...
+2025-04-25 11:27:07,245 [mediaexpert] INFO: Page for BN2008834 loaded successfully
+2025-04-25 11:27:07,294 [mediaexpert] INFO: Price: 199.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/telefon-tcl-4042s-szary
+2025-04-25 11:27:09,814 [mediaexpert] INFO: Processing product: BN2009333 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/telefon-tcl-onetouch-4043-szary
+2025-04-25 11:27:09,815 [mediaexpert] INFO: 😴 Sleeping for 3.59 seconds before processing BN2009333
+2025-04-25 11:27:13,414 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/telefon-tcl-onetouch-4043-szary with WebDriver...
+2025-04-25 11:27:14,165 [mediaexpert] INFO: Page for BN2009333 loaded successfully
+2025-04-25 11:27:14,222 [mediaexpert] INFO: Price: 279.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/telefon-tcl-onetouch-4043-szary
+2025-04-25 11:27:16,715 [mediaexpert] INFO: Processing product: AN00000235 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-tcl-50-pro-nxtpaper-5g-8-512gb-6-8-120hz-grafitowy
+2025-04-25 11:27:16,716 [mediaexpert] INFO: 😴 Sleeping for 2.96 seconds before processing AN00000235
+2025-04-25 11:27:19,679 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-tcl-50-pro-nxtpaper-5g-8-512gb-6-8-120hz-grafitowy with WebDriver...
+2025-04-25 11:27:21,852 [mediaexpert] INFO: Page for AN00000235 loaded successfully
+2025-04-25 11:27:21,901 [mediaexpert] INFO: Price: 1199.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-tcl-50-pro-nxtpaper-5g-8-512gb-6-8-120hz-grafitowy
+2025-04-25 11:27:24,293 [mediaexpert] INFO: Processing product: BN2009076 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-tcl-50se-6-256gb-6-78-90hz-niebieski-t611b1
+2025-04-25 11:27:24,294 [mediaexpert] INFO: 😴 Sleeping for 2.07 seconds before processing BN2009076
+2025-04-25 11:27:26,377 [mediaexpert] INFO: Refreshing browser after 10 products
+2025-04-25 11:27:26,378 [mediaexpert] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-04-25 11:27:28,513 [mediaexpert] INFO: Initializing Chrome WebDriver...
+2025-04-25 11:27:30,010 [mediaexpert] INFO: WebDriver initialized successfully
+2025-04-25 11:27:30,010 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-tcl-50se-6-256gb-6-78-90hz-niebieski-t611b1 with WebDriver...
+2025-04-25 11:27:34,516 [mediaexpert] INFO: Page for BN2009076 loaded successfully
+2025-04-25 11:27:34,560 [mediaexpert] INFO: Price: 529.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-tcl-50se-6-256gb-6-78-90hz-niebieski-t611b1
+2025-04-25 11:27:37,098 [mediaexpert] INFO: Processing product: BN2009296 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-tcl-501-2-32gb-6-0-czarny-t433d
+2025-04-25 11:27:37,099 [mediaexpert] INFO: 😴 Sleeping for 2.86 seconds before processing BN2009296
+2025-04-25 11:27:39,971 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-tcl-501-2-32gb-6-0-czarny-t433d with WebDriver...
+2025-04-25 11:27:41,006 [mediaexpert] INFO: Page for BN2009296 loaded successfully
+2025-04-25 11:27:41,050 [mediaexpert] INFO: Price: 213.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-tcl-501-2-32gb-6-0-czarny-t433d
+2025-04-25 11:27:43,385 [mediaexpert] INFO: Processing product: BN2009357 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-tcl-505-4-128gb-6-75-90hz-czarny
+2025-04-25 11:27:43,386 [mediaexpert] INFO: 😴 Sleeping for 3.83 seconds before processing BN2009357
+2025-04-25 11:27:47,235 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-tcl-505-4-128gb-6-75-90hz-czarny with WebDriver...
+2025-04-25 11:27:49,453 [mediaexpert] INFO: Page for BN2009357 loaded successfully
+2025-04-25 11:27:49,506 [mediaexpert] INFO: Price: 329.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-tcl-505-4-128gb-6-75-90hz-czarny
+2025-04-25 11:27:52,022 [mediaexpert] INFO: Processing product: BN2008728 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-tcl-nxtpaper-11-11-4-128-gb-wi-fi-szary
+2025-04-25 11:27:52,023 [mediaexpert] INFO: 😴 Sleeping for 3.27 seconds before processing BN2008728
+2025-04-25 11:27:55,292 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-tcl-nxtpaper-11-11-4-128-gb-wi-fi-szary with WebDriver...
+2025-04-25 11:27:56,022 [mediaexpert] INFO: Page for BN2008728 loaded successfully
+2025-04-25 11:27:56,072 [mediaexpert] INFO: Price: 1049.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-tcl-nxtpaper-11-11-4-128-gb-wi-fi-szary
+2025-04-25 11:27:58,841 [mediaexpert] INFO: Processing product: AN00000120 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-amazfit-bip-3-pro-pink
+2025-04-25 11:27:58,842 [mediaexpert] INFO: 😴 Sleeping for 3.26 seconds before processing AN00000120
+2025-04-25 11:28:02,111 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-amazfit-bip-3-pro-pink with WebDriver...
+2025-04-25 11:28:03,396 [mediaexpert] INFO: Page for AN00000120 loaded successfully
+2025-04-25 11:28:03,450 [mediaexpert] INFO: Price: 199.97 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-amazfit-bip-3-pro-pink
+2025-04-25 11:28:05,781 [mediaexpert] INFO: Processing product: AN00000007 - URL: https://www.mediaexpert.pl/telewizory-i-rtv/sluchawki/wszystkie-sluchawki/sluchawki-apple-airpods-max-nauszne-orange-1
+2025-04-25 11:28:05,783 [mediaexpert] INFO: 😴 Sleeping for 3.25 seconds before processing AN00000007
+2025-04-25 11:28:09,051 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/telewizory-i-rtv/sluchawki/wszystkie-sluchawki/sluchawki-apple-airpods-max-nauszne-orange-1 with WebDriver...
+2025-04-25 11:28:09,848 [mediaexpert] INFO: Page for AN00000007 loaded successfully
+2025-04-25 11:28:09,904 [mediaexpert] INFO: Price: 2215.07 PLN , Stock: Instock, url: https://www.mediaexpert.pl/telewizory-i-rtv/sluchawki/wszystkie-sluchawki/sluchawki-apple-airpods-max-nauszne-orange-1
+2025-04-25 11:28:12,413 [mediaexpert] INFO: Processing product: AN00000008 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/rysiki-do-tabletow/rysik-apple-mu8f2zm-a
+2025-04-25 11:28:12,414 [mediaexpert] INFO: 😴 Sleeping for 3.62 seconds before processing AN00000008
+2025-04-25 11:28:16,048 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/rysiki-do-tabletow/rysik-apple-mu8f2zm-a with WebDriver...
+2025-04-25 11:28:17,502 [mediaexpert] INFO: Page for AN00000008 loaded successfully
+2025-04-25 11:28:17,557 [mediaexpert] INFO: Price: 599.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/rysiki-do-tabletow/rysik-apple-mu8f2zm-a
+2025-04-25 11:28:19,893 [mediaexpert] INFO: Processing product: AN00000219 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-10-42-jb-al-bk-sb-sm-cel-ell
+2025-04-25 11:28:19,893 [mediaexpert] INFO: 😴 Sleeping for 3.93 seconds before processing AN00000219
+2025-04-25 11:28:23,824 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-10-42-jb-al-bk-sb-sm-cel-ell with WebDriver...
+2025-04-25 11:28:33,521 [mediaexpert] INFO: Page for AN00000219 loaded successfully
+2025-04-25 11:28:33,576 [mediaexpert] INFO: Price: 2249.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-10-42-jb-al-bk-sb-sm-cel-ell
+2025-04-25 11:28:35,904 [mediaexpert] INFO: Processing product: AN00000220 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-10-46-si-al-dn-sb-ml-cel-ell
+2025-04-25 11:28:35,904 [mediaexpert] INFO: 😴 Sleeping for 2.96 seconds before processing AN00000220
+2025-04-25 11:28:38,877 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-10-46-si-al-dn-sb-ml-cel-ell with WebDriver...
+2025-04-25 11:28:39,588 [mediaexpert] INFO: Page for AN00000220 loaded successfully
+2025-04-25 11:28:39,635 [mediaexpert] INFO: Price: 2449.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-10-46-si-al-dn-sb-ml-cel-ell
+2025-04-25 11:28:42,120 [mediaexpert] INFO: Processing product: BN2007993 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-10-2-2021-mk2n3fd-a-a13-8gb-256gb-wifi-10-2-ipados-grey
+2025-04-25 11:28:42,120 [mediaexpert] INFO: 😴 Sleeping for 3.95 seconds before processing BN2007993
+2025-04-25 11:28:46,077 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-10-2-2021-mk2n3fd-a-a13-8gb-256gb-wifi-10-2-ipados-grey with WebDriver...
+2025-04-25 11:28:47,388 [mediaexpert] INFO: Page for BN2007993 loaded successfully
+2025-04-25 11:28:47,453 [mediaexpert] INFO: Price: 2699.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-10-2-2021-mk2n3fd-a-a13-8gb-256gb-wifi-10-2-ipados-grey
+2025-04-25 11:28:49,949 [mediaexpert] INFO: Processing product: BN2007991 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-10-2-2021-mk4e3fd-a-a13-8gb-256gb-lte-10-2-ipados-grey
+2025-04-25 11:28:49,950 [mediaexpert] INFO: 😴 Sleeping for 2.85 seconds before processing BN2007991
+2025-04-25 11:28:52,814 [mediaexpert] INFO: Refreshing browser after 10 products
+2025-04-25 11:28:52,814 [mediaexpert] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-04-25 11:28:54,989 [mediaexpert] INFO: Initializing Chrome WebDriver...
+2025-04-25 11:28:56,323 [mediaexpert] INFO: WebDriver initialized successfully
+2025-04-25 11:28:56,324 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-10-2-2021-mk4e3fd-a-a13-8gb-256gb-lte-10-2-ipados-grey with WebDriver...
+2025-04-25 11:29:00,904 [mediaexpert] INFO: Page for BN2007991 loaded successfully
+2025-04-25 11:29:00,944 [mediaexpert] INFO: Price: 3479.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-10-2-2021-mk4e3fd-a-a13-8gb-256gb-lte-10-2-ipados-grey
+2025-04-25 11:29:04,086 [mediaexpert] INFO: Processing product: BN2007992 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-10-2-2021-mk2k3fd-a-a13-8gb-64gb-wifi-10-2-ipados-grey
+2025-04-25 11:29:04,086 [mediaexpert] INFO: 😴 Sleeping for 3.31 seconds before processing BN2007992
+2025-04-25 11:29:07,403 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-10-2-2021-mk2k3fd-a-a13-8gb-64gb-wifi-10-2-ipados-grey with WebDriver...
+2025-04-25 11:29:08,761 [mediaexpert] INFO: Page for BN2007992 loaded successfully
+2025-04-25 11:29:08,814 [mediaexpert] INFO: Price: 1299.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-10-2-2021-mk2k3fd-a-a13-8gb-64gb-wifi-10-2-ipados-grey
+2025-04-25 11:29:11,494 [mediaexpert] INFO: Processing product: BN2008639 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-10-9-2024-mcmj4hc-a-a14-64gb-10-9-5g-silver
+2025-04-25 11:29:11,495 [mediaexpert] INFO: 😴 Sleeping for 2.37 seconds before processing BN2008639
+2025-04-25 11:29:13,873 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-10-9-2024-mcmj4hc-a-a14-64gb-10-9-5g-silver with WebDriver...
+2025-04-25 11:29:14,765 [mediaexpert] INFO: Page for BN2008639 loaded successfully
+2025-04-25 11:29:14,810 [mediaexpert] INFO: Price: 0.00 PLN , Stock: Outstock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-10-9-2024-mcmj4hc-a-a14-64gb-10-9-5g-silver
+2025-04-25 11:29:17,293 [mediaexpert] INFO: Processing product: BN2008651 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-10-9-2022-a14-64gb-wifi-10-9-ipados-blue-mpq13fd-a
+2025-04-25 11:29:17,294 [mediaexpert] INFO: 😴 Sleeping for 3.46 seconds before processing BN2008651
+2025-04-25 11:29:20,762 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-10-9-2022-a14-64gb-wifi-10-9-ipados-blue-mpq13fd-a with WebDriver...
+2025-04-25 11:29:21,527 [mediaexpert] INFO: Page for BN2008651 loaded successfully
+2025-04-25 11:29:21,587 [mediaexpert] INFO: Price: 1649.65 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-10-9-2022-a14-64gb-wifi-10-9-ipados-blue-mpq13fd-a
+2025-04-25 11:29:23,873 [mediaexpert] INFO: Processing product: BN2010111 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-ipad-11-2025-md3y4hc-a-a16-128gb-11-wifi-silver
+2025-04-25 11:29:23,874 [mediaexpert] INFO: 😴 Sleeping for 2.65 seconds before processing BN2010111
+2025-04-25 11:29:26,530 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-ipad-11-2025-md3y4hc-a-a16-128gb-11-wifi-silver with WebDriver...
+2025-04-25 11:29:27,309 [mediaexpert] INFO: Page for BN2010111 loaded successfully
+2025-04-25 11:29:27,368 [mediaexpert] INFO: Price: 1799.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-ipad-11-2025-md3y4hc-a-a16-128gb-11-wifi-silver
+2025-04-25 11:29:29,646 [mediaexpert] INFO: Processing product: BN2010112 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-ipad-11-2025-md4g4hc-a-a16-256gb-11-wifi-silver
+2025-04-25 11:29:29,646 [mediaexpert] INFO: 😴 Sleeping for 3.21 seconds before processing BN2010112
+2025-04-25 11:29:32,863 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-ipad-11-2025-md4g4hc-a-a16-256gb-11-wifi-silver with WebDriver...
+2025-04-25 11:29:33,593 [mediaexpert] INFO: Page for BN2010112 loaded successfully
+2025-04-25 11:29:33,634 [mediaexpert] INFO: Price: 2299.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-ipad-11-2025-md4g4hc-a-a16-256gb-11-wifi-silver
+2025-04-25 11:29:36,204 [mediaexpert] INFO: Processing product: BN2010115 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-ipad-11-2025-md7m4hc-a-a16-256gb-11-5g-yellow
+2025-04-25 11:29:36,205 [mediaexpert] INFO: 😴 Sleeping for 2.56 seconds before processing BN2010115
+2025-04-25 11:29:38,767 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-ipad-11-2025-md7m4hc-a-a16-256gb-11-5g-yellow with WebDriver...
+2025-04-25 11:29:42,995 [mediaexpert] INFO: Page for BN2010115 loaded successfully
+2025-04-25 11:29:43,033 [mediaexpert] INFO: Price: 0.00 PLN , Stock: Outstock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-ipad-11-2025-md7m4hc-a-a16-256gb-11-5g-yellow
+2025-04-25 11:29:45,513 [mediaexpert] INFO: Processing product: BN2008378 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-m1-8x-8gb-256gb-10-9-5g-starlight-ipados15
+2025-04-25 11:29:45,513 [mediaexpert] INFO: 😴 Sleeping for 3.42 seconds before processing BN2008378
+2025-04-25 11:29:48,941 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-m1-8x-8gb-256gb-10-9-5g-starlight-ipados15 with WebDriver...
+2025-04-25 11:29:50,214 [mediaexpert] INFO: Page for BN2008378 loaded successfully
+2025-04-25 11:29:50,250 [mediaexpert] INFO: Price: 5099.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-m1-8x-8gb-256gb-10-9-5g-starlight-ipados15
+2025-04-25 11:29:52,743 [mediaexpert] INFO: Processing product: BN2009589 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-128gb-11-wifi-blue
+2025-04-25 11:29:52,743 [mediaexpert] INFO: 😴 Sleeping for 2.56 seconds before processing BN2009589
+2025-04-25 11:29:55,305 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-128gb-11-wifi-blue with WebDriver...
+2025-04-25 11:29:56,404 [mediaexpert] INFO: Page for BN2009589 loaded successfully
+2025-04-25 11:29:56,462 [mediaexpert] INFO: Price: 0.00 PLN , Stock: Outstock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-128gb-11-wifi-blue
+2025-04-25 11:29:58,719 [mediaexpert] INFO: Processing product: BN2009584 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-1tb-11-5g-starlight
+2025-04-25 11:29:58,721 [mediaexpert] INFO: 😴 Sleeping for 3.54 seconds before processing BN2009584
+2025-04-25 11:30:02,265 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-1tb-11-5g-starlight with WebDriver...
+2025-04-25 11:30:03,329 [mediaexpert] INFO: Page for BN2009584 loaded successfully
+2025-04-25 11:30:03,374 [mediaexpert] INFO: Price: 5999.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-1tb-11-5g-starlight
+2025-04-25 11:30:05,884 [mediaexpert] INFO: Processing product: BN2009582 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-256gb-11-5g-purple
+2025-04-25 11:30:05,884 [mediaexpert] INFO: 😴 Sleeping for 3.49 seconds before processing BN2009582
+2025-04-25 11:30:09,382 [mediaexpert] INFO: Refreshing browser after 10 products
+2025-04-25 11:30:09,383 [mediaexpert] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-04-25 11:30:11,550 [mediaexpert] INFO: Initializing Chrome WebDriver...
+2025-04-25 11:30:12,950 [mediaexpert] INFO: WebDriver initialized successfully
+2025-04-25 11:30:12,951 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-256gb-11-5g-purple with WebDriver...
+2025-04-25 11:30:37,955 [mediaexpert] ERROR: WebDriver error for BN2009582: Message: timeout: Timed out receiving message from renderer: 18.024
+  (Session info: chrome=135.0.7049.96)
+Stacktrace:
+	GetHandleVerifier [0x00007FF656E7EFA5+77893]
+	GetHandleVerifier [0x00007FF656E7F000+77984]
+	(No symbol) [0x00007FF656C491BA]
+	(No symbol) [0x00007FF656C365CC]
+	(No symbol) [0x00007FF656C362BA]
+	(No symbol) [0x00007FF656C33F67]
+	(No symbol) [0x00007FF656C3491F]
+	(No symbol) [0x00007FF656C434FE]
+	(No symbol) [0x00007FF656C59931]
+	(No symbol) [0x00007FF656C608DA]
+	(No symbol) [0x00007FF656C3508D]
+	(No symbol) [0x00007FF656C59665]
+	(No symbol) [0x00007FF656CEF415]
+	(No symbol) [0x00007FF656CC6F03]
+	(No symbol) [0x00007FF656C90328]
+	(No symbol) [0x00007FF656C91093]
+	GetHandleVerifier [0x00007FF657137B6D+2931725]
+	GetHandleVerifier [0x00007FF657132132+2908626]
+	GetHandleVerifier [0x00007FF6571500F3+3031443]
+	GetHandleVerifier [0x00007FF656E991EA+184970]
+	GetHandleVerifier [0x00007FF656EA086F+215311]
+	GetHandleVerifier [0x00007FF656E86EC4+110436]
+	GetHandleVerifier [0x00007FF656E87072+110866]
+	GetHandleVerifier [0x00007FF656E6D479+5401]
+	BaseThreadInitThunk [0x00007FFFAC32E8D7+23]
+	RtlUserThreadStart [0x00007FFFADE114FC+44]
+
+2025-04-25 11:30:56,006 [mediaexpert] INFO: Processing product: BN2009588 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-256gb-11-wifi-blue
+2025-04-25 11:30:56,007 [mediaexpert] INFO: 😴 Sleeping for 2.09 seconds before processing BN2009588
+2025-04-25 11:30:58,111 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-256gb-11-wifi-blue with WebDriver...
+2025-04-25 11:31:21,519 [mediaexpert] INFO: Page for BN2009588 loaded successfully
+2025-04-25 11:31:21,577 [mediaexpert] INFO: Price: 0.00 PLN , Stock: Outstock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-256gb-11-wifi-blue
+2025-04-25 11:31:23,819 [mediaexpert] INFO: Processing product: BN2009583 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-512gb-11-5g-blue
+2025-04-25 11:31:23,820 [mediaexpert] INFO: 😴 Sleeping for 2.24 seconds before processing BN2009583
+2025-04-25 11:31:26,072 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-512gb-11-5g-blue with WebDriver...
+2025-04-25 11:31:27,681 [mediaexpert] INFO: Page for BN2009583 loaded successfully
+2025-04-25 11:31:27,724 [mediaexpert] INFO: Price: 4899.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-512gb-11-5g-blue
+2025-04-25 11:31:30,303 [mediaexpert] INFO: Processing product: BN2010117 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mc9w4hc-a-m3-128gb-11-wifi-gray
+2025-04-25 11:31:30,304 [mediaexpert] INFO: 😴 Sleeping for 2.95 seconds before processing BN2010117
+2025-04-25 11:31:33,263 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mc9w4hc-a-m3-128gb-11-wifi-gray with WebDriver...
+2025-04-25 11:31:41,212 [mediaexpert] INFO: Page for BN2010117 loaded successfully
+2025-04-25 11:31:41,313 [mediaexpert] INFO: Price: 2999.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mc9w4hc-a-m3-128gb-11-wifi-gray
+2025-04-25 11:31:43,645 [mediaexpert] INFO: Processing product: BN2010121 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mcfv4hc-a-m3-128gb-11-5g-gray
+2025-04-25 11:31:43,646 [mediaexpert] INFO: 😴 Sleeping for 2.01 seconds before processing BN2010121
+2025-04-25 11:31:45,670 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mcfv4hc-a-m3-128gb-11-5g-gray with WebDriver...
+2025-04-25 11:31:46,967 [mediaexpert] INFO: Page for BN2010121 loaded successfully
+2025-04-25 11:31:47,013 [mediaexpert] INFO: Price: 3799.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mcfv4hc-a-m3-128gb-11-5g-gray
+2025-04-25 11:31:49,608 [mediaexpert] INFO: Processing product: BN2010118 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mca14hc-a-m3-256gb-11-wifi-gray
+2025-04-25 11:31:49,609 [mediaexpert] INFO: 😴 Sleeping for 3.97 seconds before processing BN2010118
+2025-04-25 11:31:53,594 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mca14hc-a-m3-256gb-11-wifi-gray with WebDriver...
+2025-04-25 11:31:59,599 [mediaexpert] INFO: Page for BN2010118 loaded successfully
+2025-04-25 11:31:59,648 [mediaexpert] INFO: Price: 3499.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mca14hc-a-m3-256gb-11-wifi-gray
+2025-04-25 11:32:02,034 [mediaexpert] INFO: Processing product: BN2010122 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mcg14hc-a-m3-256gb-11-5g-blue
+2025-04-25 11:32:02,034 [mediaexpert] INFO: 😴 Sleeping for 2.23 seconds before processing BN2010122
+2025-04-25 11:32:04,265 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mcg14hc-a-m3-256gb-11-5g-blue with WebDriver...
+2025-04-25 11:32:05,807 [mediaexpert] INFO: Page for BN2010122 loaded successfully
+2025-04-25 11:32:05,845 [mediaexpert] INFO: Price: 0.00 PLN , Stock: Outstock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mcg14hc-a-m3-256gb-11-5g-blue
+2025-04-25 11:32:08,350 [mediaexpert] INFO: Processing product: BN2009579 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-128gb-13-5g-blue
+2025-04-25 11:32:08,350 [mediaexpert] INFO: 😴 Sleeping for 3.34 seconds before processing BN2009579
+2025-04-25 11:32:11,711 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-128gb-13-5g-blue with WebDriver...
+2025-04-25 11:32:12,632 [mediaexpert] INFO: Page for BN2009579 loaded successfully
+2025-04-25 11:32:12,676 [mediaexpert] INFO: Price: 4499.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-128gb-13-5g-blue
+2025-04-25 11:32:15,208 [mediaexpert] INFO: Processing product: BN2009597 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-128gb-13-wifi-gray
+2025-04-25 11:32:15,209 [mediaexpert] INFO: 😴 Sleeping for 3.46 seconds before processing BN2009597
+2025-04-25 11:32:18,668 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-128gb-13-wifi-gray with WebDriver...
+2025-04-25 11:32:19,944 [mediaexpert] INFO: Page for BN2009597 loaded successfully
+2025-04-25 11:32:19,992 [mediaexpert] INFO: Price: 0.00 PLN , Stock: Outstock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-128gb-13-wifi-gray
+2025-04-25 11:32:22,571 [mediaexpert] INFO: Processing product: BN2009592 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-1tb-13-5g-blue
+2025-04-25 11:32:22,571 [mediaexpert] INFO: 😴 Sleeping for 2.88 seconds before processing BN2009592
+2025-04-25 11:32:25,467 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-1tb-13-5g-blue with WebDriver...
+2025-04-25 11:32:26,172 [mediaexpert] INFO: Page for BN2009592 loaded successfully
+2025-04-25 11:32:26,220 [mediaexpert] INFO: Price: 6417.94 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-1tb-13-5g-blue
+2025-04-25 11:32:28,735 [mediaexpert] INFO: Processing product: BN2009591 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-512gb-13-5g-blue
+2025-04-25 11:32:28,736 [mediaexpert] INFO: 😴 Sleeping for 2.01 seconds before processing BN2009591
+2025-04-25 11:32:30,757 [mediaexpert] INFO: Refreshing browser after 10 products
+2025-04-25 11:32:30,758 [mediaexpert] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-04-25 11:32:32,914 [mediaexpert] INFO: Initializing Chrome WebDriver...
+2025-04-25 11:32:34,272 [mediaexpert] INFO: WebDriver initialized successfully
+2025-04-25 11:32:34,273 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-512gb-13-5g-blue with WebDriver...
+2025-04-25 11:32:38,889 [mediaexpert] INFO: Page for BN2009591 loaded successfully
+2025-04-25 11:32:38,924 [mediaexpert] INFO: Price: 5999.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-512gb-13-5g-blue
+2025-04-25 11:32:41,250 [mediaexpert] INFO: Processing product: BN2009596 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-256gb-13-wifi-starlight
+2025-04-25 11:32:41,251 [mediaexpert] INFO: 😴 Sleeping for 2.88 seconds before processing BN2009596
+2025-04-25 11:32:44,132 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-256gb-13-wifi-starlight with WebDriver...
+2025-04-25 11:32:45,238 [mediaexpert] INFO: Page for BN2009596 loaded successfully
+2025-04-25 11:32:45,284 [mediaexpert] INFO: Price: 4199.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2024-m2-8gb-256gb-13-wifi-starlight
+2025-04-25 11:32:47,833 [mediaexpert] INFO: Processing product: BN2010125 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mcnh4hc-a-m3-128gb-13-wifi-gray
+2025-04-25 11:32:47,834 [mediaexpert] INFO: 😴 Sleeping for 2.57 seconds before processing BN2010125
+2025-04-25 11:32:50,413 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mcnh4hc-a-m3-128gb-13-wifi-gray with WebDriver...
+2025-04-25 11:32:55,853 [mediaexpert] INFO: Page for BN2010125 loaded successfully
+2025-04-25 11:32:55,899 [mediaexpert] INFO: Price: 3868.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mcnh4hc-a-m3-128gb-13-wifi-gray
+2025-04-25 11:32:58,402 [mediaexpert] INFO: Processing product: BN2010129 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mcj14hc-a-m3-128gb-13-5g-gray
+2025-04-25 11:32:58,404 [mediaexpert] INFO: 😴 Sleeping for 3.54 seconds before processing BN2010129
+2025-04-25 11:33:01,959 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mcj14hc-a-m3-128gb-13-5g-gray with WebDriver...
+2025-04-25 11:33:03,016 [mediaexpert] INFO: Page for BN2010129 loaded successfully
+2025-04-25 11:33:03,058 [mediaexpert] INFO: Price: 4799.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mcj14hc-a-m3-128gb-13-5g-gray
+2025-04-25 11:33:05,565 [mediaexpert] INFO: Processing product: BN2010126 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mcnn4hc-a-m3-256gb-13-wifi-gray
+2025-04-25 11:33:05,565 [mediaexpert] INFO: 😴 Sleeping for 2.45 seconds before processing BN2010126
+2025-04-25 11:33:08,019 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mcnn4hc-a-m3-256gb-13-wifi-gray with WebDriver...
+2025-04-25 11:33:08,821 [mediaexpert] INFO: Page for BN2010126 loaded successfully
+2025-04-25 11:33:08,867 [mediaexpert] INFO: Price: 4499.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mcnn4hc-a-m3-256gb-13-wifi-gray
+2025-04-25 11:33:11,444 [mediaexpert] INFO: Processing product: BN2010130 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mcj64hc-a-m3-256gb-13-5g-blue
+2025-04-25 11:33:11,445 [mediaexpert] INFO: 😴 Sleeping for 2.26 seconds before processing BN2010130
+2025-04-25 11:33:13,716 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mcj64hc-a-m3-256gb-13-5g-blue with WebDriver...
+2025-04-25 11:33:14,741 [mediaexpert] INFO: Page for BN2010130 loaded successfully
+2025-04-25 11:33:14,806 [mediaexpert] INFO: Price: 5299.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-air-2025-mcj64hc-a-m3-256gb-13-5g-blue
+2025-04-25 11:33:17,136 [mediaexpert] INFO: Processing product: BN2009599 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-1tb-11-retina-5g-srebrny
+2025-04-25 11:33:17,136 [mediaexpert] INFO: 😴 Sleeping for 2.28 seconds before processing BN2009599
+2025-04-25 11:33:19,431 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-1tb-11-retina-5g-srebrny with WebDriver...
+2025-04-25 11:33:21,247 [mediaexpert] INFO: Page for BN2009599 loaded successfully
+2025-04-25 11:33:21,290 [mediaexpert] INFO: Price: 0.00 PLN , Stock: Outstock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-1tb-11-retina-5g-srebrny
+2025-04-25 11:33:23,810 [mediaexpert] INFO: Processing product: BN2009580 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-256gb-11-retina-5g-srebrny
+2025-04-25 11:33:23,810 [mediaexpert] INFO: 😴 Sleeping for 3.35 seconds before processing BN2009580
+2025-04-25 11:33:27,164 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-256gb-11-retina-5g-srebrny with WebDriver...
+2025-04-25 11:33:28,417 [mediaexpert] INFO: Page for BN2009580 loaded successfully
+2025-04-25 11:33:28,455 [mediaexpert] INFO: Price: 0.00 PLN , Stock: Outstock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-256gb-11-retina-5g-srebrny
+2025-04-25 11:33:30,984 [mediaexpert] INFO: Processing product: BN2009605 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-256gb-11-retina-wifi-czarny
+2025-04-25 11:33:30,985 [mediaexpert] INFO: 😴 Sleeping for 2.16 seconds before processing BN2009605
+2025-04-25 11:33:33,146 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-256gb-11-retina-wifi-czarny with WebDriver...
+2025-04-25 11:33:34,067 [mediaexpert] INFO: Page for BN2009605 loaded successfully
+2025-04-25 11:33:34,131 [mediaexpert] INFO: Price: 4999.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-256gb-11-retina-wifi-czarny
+2025-04-25 11:33:36,731 [mediaexpert] INFO: Processing product: BN2009598 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-512gb-11-retina-5g-srebrny
+2025-04-25 11:33:36,732 [mediaexpert] INFO: 😴 Sleeping for 2.99 seconds before processing BN2009598
+2025-04-25 11:33:39,730 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-512gb-11-retina-5g-srebrny with WebDriver...
+2025-04-25 11:33:40,869 [mediaexpert] INFO: Page for BN2009598 loaded successfully
+2025-04-25 11:33:40,911 [mediaexpert] INFO: Price: 6699.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-512gb-11-retina-5g-srebrny
+2025-04-25 11:33:43,241 [mediaexpert] INFO: Processing product: BN2008661 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-12-9-2022-m2-8gb-512gb-wifi-srebrny-mnxv3fd-a
+2025-04-25 11:33:43,241 [mediaexpert] INFO: 😴 Sleeping for 3.70 seconds before processing BN2008661
+2025-04-25 11:33:46,950 [mediaexpert] INFO: Refreshing browser after 10 products
+2025-04-25 11:33:46,951 [mediaexpert] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-04-25 11:33:49,108 [mediaexpert] INFO: Initializing Chrome WebDriver...
+2025-04-25 11:33:50,424 [mediaexpert] INFO: WebDriver initialized successfully
+2025-04-25 11:33:50,425 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-12-9-2022-m2-8gb-512gb-wifi-srebrny-mnxv3fd-a with WebDriver...
+2025-04-25 11:33:55,249 [mediaexpert] INFO: Page for BN2008661 loaded successfully
+2025-04-25 11:33:55,285 [mediaexpert] INFO: Price: 8099.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-12-9-2022-m2-8gb-512gb-wifi-srebrny-mnxv3fd-a
+2025-04-25 11:33:57,786 [mediaexpert] INFO: Processing product: BN2009607 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-1tb-13-retina-5g-srebrny
+2025-04-25 11:33:57,788 [mediaexpert] INFO: 😴 Sleeping for 2.91 seconds before processing BN2009607
+2025-04-25 11:34:00,713 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-1tb-13-retina-5g-srebrny with WebDriver...
+2025-04-25 11:34:02,359 [mediaexpert] INFO: Page for BN2009607 loaded successfully
+2025-04-25 11:34:02,402 [mediaexpert] INFO: Price: 0.00 PLN , Stock: Outstock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-1tb-13-retina-5g-srebrny
+2025-04-25 11:34:04,740 [mediaexpert] INFO: Processing product: BN2009581 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-256gb-13-retina-5g-czarny
+2025-04-25 11:34:04,740 [mediaexpert] INFO: 😴 Sleeping for 2.08 seconds before processing BN2009581
+2025-04-25 11:34:06,831 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-256gb-13-retina-5g-czarny with WebDriver...
+2025-04-25 11:34:07,792 [mediaexpert] INFO: Page for BN2009581 loaded successfully
+2025-04-25 11:34:07,838 [mediaexpert] INFO: Price: 7999.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-256gb-13-retina-5g-czarny
+2025-04-25 11:34:10,724 [mediaexpert] INFO: Processing product: BN2009613 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-256gb-13-retina-wifi-czarny
+2025-04-25 11:34:10,725 [mediaexpert] INFO: 😴 Sleeping for 2.70 seconds before processing BN2009613
+2025-04-25 11:34:13,432 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-256gb-13-retina-wifi-czarny with WebDriver...
+2025-04-25 11:34:14,189 [mediaexpert] INFO: Page for BN2009613 loaded successfully
+2025-04-25 11:34:14,240 [mediaexpert] INFO: Price: 6399.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-256gb-13-retina-wifi-czarny
+2025-04-25 11:34:16,512 [mediaexpert] INFO: Processing product: BN2009606 - URL: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-512gb-13-retina-wifi-srebrny
+2025-04-25 11:34:16,512 [mediaexpert] INFO: 😴 Sleeping for 3.86 seconds before processing BN2009606
+2025-04-25 11:34:20,388 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-512gb-13-retina-wifi-srebrny with WebDriver...
+2025-04-25 11:34:21,219 [mediaexpert] INFO: Page for BN2009606 loaded successfully
+2025-04-25 11:34:21,259 [mediaexpert] INFO: Price: 0.00 PLN , Stock: Outstock, url: https://www.mediaexpert.pl/komputery-i-tablety/tablety-i-e-booki/tablety/tablet-apple-ipad-pro-2024-m4-10x-512gb-13-retina-wifi-srebrny
+2025-04-25 11:34:23,740 [mediaexpert] INFO: Processing product: BN2006935 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-11-black-64gb-1
+2025-04-25 11:34:23,742 [mediaexpert] INFO: 😴 Sleeping for 2.13 seconds before processing BN2006935
+2025-04-25 11:34:25,880 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-11-black-64gb-1 with WebDriver...
+2025-04-25 11:34:26,967 [mediaexpert] INFO: Page for BN2006935 loaded successfully
+2025-04-25 11:34:27,039 [mediaexpert] INFO: Price: 1599.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-11-black-64gb-1
+2025-04-25 11:34:29,547 [mediaexpert] INFO: Processing product: BN2007613 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-12-5g-black-128gb
+2025-04-25 11:34:29,547 [mediaexpert] INFO: 😴 Sleeping for 2.66 seconds before processing BN2007613
+2025-04-25 11:34:32,212 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-12-5g-black-128gb with WebDriver...
+2025-04-25 11:34:33,339 [mediaexpert] INFO: Page for BN2007613 loaded successfully
+2025-04-25 11:34:33,430 [mediaexpert] INFO: Price: 2249.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-12-5g-black-128gb
+2025-04-25 11:34:35,931 [mediaexpert] INFO: Processing product: BN2007612 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-12-5g-white-64gb
+2025-04-25 11:34:35,931 [mediaexpert] INFO: 😴 Sleeping for 3.12 seconds before processing BN2007612
+2025-04-25 11:34:39,059 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-12-5g-white-64gb with WebDriver...
+2025-04-25 11:34:40,391 [mediaexpert] INFO: Page for BN2007612 loaded successfully
+2025-04-25 11:34:40,455 [mediaexpert] INFO: Price: 1999.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-12-5g-white-64gb
+2025-04-25 11:34:42,707 [mediaexpert] INFO: Processing product: BN2007979 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-13-128gb-5g-6-1-bialy-mlpg3pm-a
+2025-04-25 11:34:42,708 [mediaexpert] INFO: 😴 Sleeping for 2.63 seconds before processing BN2007979
+2025-04-25 11:34:45,346 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-13-128gb-5g-6-1-bialy-mlpg3pm-a with WebDriver...
+2025-04-25 11:34:46,105 [mediaexpert] INFO: Page for BN2007979 loaded successfully
+2025-04-25 11:34:46,172 [mediaexpert] INFO: Price: 2249.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-13-128gb-5g-6-1-bialy-mlpg3pm-a
+2025-04-25 11:34:48,680 [mediaexpert] INFO: Processing product: BN2007980 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-13-256gb-5g-6-1-czerwony-mlq93pm-a
+2025-04-25 11:34:48,680 [mediaexpert] INFO: 😴 Sleeping for 3.58 seconds before processing BN2007980
+2025-04-25 11:34:52,267 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-13-256gb-5g-6-1-czerwony-mlq93pm-a with WebDriver...
+2025-04-25 11:34:53,534 [mediaexpert] INFO: Page for BN2007980 loaded successfully
+2025-04-25 11:34:53,593 [mediaexpert] INFO: Price: 0.00 PLN , Stock: Outstock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-13-256gb-5g-6-1-czerwony-mlq93pm-a
+2025-04-25 11:34:56,174 [mediaexpert] INFO: Processing product: BN2007981 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-13-512gb-5g-6-1-bialy-mlqd3pm-a
+2025-04-25 11:34:56,174 [mediaexpert] INFO: 😴 Sleeping for 3.38 seconds before processing BN2007981
+2025-04-25 11:34:59,571 [mediaexpert] INFO: Refreshing browser after 10 products
+2025-04-25 11:34:59,571 [mediaexpert] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-04-25 11:35:01,743 [mediaexpert] INFO: Initializing Chrome WebDriver...
+2025-04-25 11:35:03,070 [mediaexpert] INFO: WebDriver initialized successfully
+2025-04-25 11:35:03,070 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-13-512gb-5g-6-1-bialy-mlqd3pm-a with WebDriver...
+2025-04-25 11:35:07,931 [mediaexpert] INFO: Page for BN2007981 loaded successfully
+2025-04-25 11:35:07,973 [mediaexpert] INFO: Price: 4099.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-13-512gb-5g-6-1-bialy-mlqd3pm-a
+2025-04-25 11:35:10,403 [mediaexpert] INFO: Processing product: BN2008517 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-14-5g-starlight-128gb
+2025-04-25 11:35:10,403 [mediaexpert] INFO: 😴 Sleeping for 2.60 seconds before processing BN2008517
+2025-04-25 11:35:13,010 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-14-5g-starlight-128gb with WebDriver...
+2025-04-25 11:35:14,324 [mediaexpert] INFO: Page for BN2008517 loaded successfully
+2025-04-25 11:35:14,382 [mediaexpert] INFO: Price: 0.00 PLN , Stock: Outstock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-14-5g-starlight-128gb
+2025-04-25 11:35:16,720 [mediaexpert] INFO: Processing product: BN2008518 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-14-5g-midnight-256gb
+2025-04-25 11:35:16,721 [mediaexpert] INFO: 😴 Sleeping for 3.28 seconds before processing BN2008518
+2025-04-25 11:35:20,007 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-14-5g-midnight-256gb with WebDriver...
+2025-04-25 11:35:20,733 [mediaexpert] INFO: Page for BN2008518 loaded successfully
+2025-04-25 11:35:20,795 [mediaexpert] INFO: Price: 3799.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-14-5g-midnight-256gb
+2025-04-25 11:35:23,056 [mediaexpert] INFO: Processing product: BN2008519 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-14-5g-blue-512gb
+2025-04-25 11:35:23,057 [mediaexpert] INFO: 😴 Sleeping for 2.62 seconds before processing BN2008519
+2025-04-25 11:35:25,687 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-14-5g-blue-512gb with WebDriver...
+2025-04-25 11:35:26,499 [mediaexpert] INFO: Page for BN2008519 loaded successfully
+2025-04-25 11:35:26,537 [mediaexpert] INFO: Price: 4499.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-14-5g-blue-512gb
+2025-04-25 11:35:28,870 [mediaexpert] INFO: Processing product: BN2008514 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-14-plus-5g-midnight-128gb
+2025-04-25 11:35:28,870 [mediaexpert] INFO: 😴 Sleeping for 2.13 seconds before processing BN2008514
+2025-04-25 11:35:31,015 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-14-plus-5g-midnight-128gb with WebDriver...
+2025-04-25 11:35:32,005 [mediaexpert] INFO: Page for BN2008514 loaded successfully
+2025-04-25 11:35:32,308 [mediaexpert] INFO: Price: 3499.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-14-plus-5g-midnight-128gb
+2025-04-25 11:35:34,822 [mediaexpert] INFO: Processing product: BN2008515 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-14-plus-5g-purple-256gb
+2025-04-25 11:35:34,822 [mediaexpert] INFO: 😴 Sleeping for 2.96 seconds before processing BN2008515
+2025-04-25 11:35:37,787 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-14-plus-5g-purple-256gb with WebDriver...
+2025-04-25 11:35:39,450 [mediaexpert] INFO: Page for BN2008515 loaded successfully
+2025-04-25 11:35:39,501 [mediaexpert] INFO: Price: 3999.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-14-plus-5g-purple-256gb
+2025-04-25 11:35:41,882 [mediaexpert] INFO: Processing product: BN2008516 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-14-plus-5g-yellow-512gb
+2025-04-25 11:35:41,882 [mediaexpert] INFO: 😴 Sleeping for 3.74 seconds before processing BN2008516
+2025-04-25 11:35:45,630 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-14-plus-5g-yellow-512gb with WebDriver...
+2025-04-25 11:35:46,474 [mediaexpert] INFO: Page for BN2008516 loaded successfully
+2025-04-25 11:35:46,513 [mediaexpert] INFO: Price: 4999.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-14-plus-5g-yellow-512gb
+2025-04-25 11:35:49,014 [mediaexpert] INFO: Processing product: BN2009133 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-5g-green-128gb
+2025-04-25 11:35:49,014 [mediaexpert] INFO: 😴 Sleeping for 3.29 seconds before processing BN2009133
+2025-04-25 11:35:52,320 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-5g-green-128gb with WebDriver...
+2025-04-25 11:35:53,141 [mediaexpert] INFO: Page for BN2009133 loaded successfully
+2025-04-25 11:35:53,208 [mediaexpert] INFO: Price: 3149.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-5g-green-128gb
+2025-04-25 11:35:55,751 [mediaexpert] INFO: Processing product: BN2009142 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-5g-black-256gb
+2025-04-25 11:35:55,752 [mediaexpert] INFO: 😴 Sleeping for 3.64 seconds before processing BN2009142
+2025-04-25 11:35:59,396 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-5g-black-256gb with WebDriver...
+2025-04-25 11:36:00,177 [mediaexpert] INFO: Page for BN2009142 loaded successfully
+2025-04-25 11:36:00,236 [mediaexpert] INFO: Price: 3799.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-5g-black-256gb
+2025-04-25 11:36:02,737 [mediaexpert] INFO: Processing product: BN2009143 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-5g-black-512gb
+2025-04-25 11:36:02,737 [mediaexpert] INFO: 😴 Sleeping for 2.72 seconds before processing BN2009143
+2025-04-25 11:36:05,475 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-5g-black-512gb with WebDriver...
+2025-04-25 11:36:06,347 [mediaexpert] INFO: Page for BN2009143 loaded successfully
+2025-04-25 11:36:06,418 [mediaexpert] INFO: Price: 4999.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-5g-black-512gb
+2025-04-25 11:36:08,903 [mediaexpert] INFO: Processing product: BN2009134 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-plus-128gb-5g-6-7-czarny
+2025-04-25 11:36:08,904 [mediaexpert] INFO: 😴 Sleeping for 2.83 seconds before processing BN2009134
+2025-04-25 11:36:11,748 [mediaexpert] INFO: Refreshing browser after 10 products
+2025-04-25 11:36:11,749 [mediaexpert] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-04-25 11:36:13,915 [mediaexpert] INFO: Initializing Chrome WebDriver...
+2025-04-25 11:36:15,282 [mediaexpert] INFO: WebDriver initialized successfully
+2025-04-25 11:36:15,283 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-plus-128gb-5g-6-7-czarny with WebDriver...
+2025-04-25 11:36:20,283 [mediaexpert] INFO: Page for BN2009134 loaded successfully
+2025-04-25 11:36:20,344 [mediaexpert] INFO: Price: 3999.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-plus-128gb-5g-6-7-czarny
+2025-04-25 11:36:22,855 [mediaexpert] INFO: Processing product: BN2009144 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-plus-256gb-5g-6-7-zielony
+2025-04-25 11:36:22,856 [mediaexpert] INFO: 😴 Sleeping for 2.29 seconds before processing BN2009144
+2025-04-25 11:36:25,155 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-plus-256gb-5g-6-7-zielony with WebDriver...
+2025-04-25 11:36:26,416 [mediaexpert] INFO: Page for BN2009144 loaded successfully
+2025-04-25 11:36:26,467 [mediaexpert] INFO: Price: 4499.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-plus-256gb-5g-6-7-zielony
+2025-04-25 11:36:28,992 [mediaexpert] INFO: Processing product: BN2009145 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-plus-512gb-5g-6-7-rozowy
+2025-04-25 11:36:28,994 [mediaexpert] INFO: 😴 Sleeping for 2.21 seconds before processing BN2009145
+2025-04-25 11:36:31,220 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-plus-512gb-5g-6-7-rozowy with WebDriver...
+2025-04-25 11:36:31,985 [mediaexpert] INFO: Page for BN2009145 loaded successfully
+2025-04-25 11:36:32,029 [mediaexpert] INFO: Price: 5499.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-plus-512gb-5g-6-7-rozowy
+2025-04-25 11:36:34,345 [mediaexpert] INFO: Processing product: BN2009135 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-pro-128gb-5g-6-1-120hz-tytan-czarny
+2025-04-25 11:36:34,345 [mediaexpert] INFO: 😴 Sleeping for 2.76 seconds before processing BN2009135
+2025-04-25 11:36:37,118 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-pro-128gb-5g-6-1-120hz-tytan-czarny with WebDriver...
+2025-04-25 11:36:38,417 [mediaexpert] INFO: Page for BN2009135 loaded successfully
+2025-04-25 11:36:38,503 [mediaexpert] INFO: Price: 0.00 PLN , Stock: Outstock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-pro-128gb-5g-6-1-120hz-tytan-czarny
+2025-04-25 11:36:41,019 [mediaexpert] INFO: Processing product: BN2009146 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-pro-256gb-5g-6-1-120hz-tytan-blekitny
+2025-04-25 11:36:41,020 [mediaexpert] INFO: 😴 Sleeping for 3.07 seconds before processing BN2009146
+2025-04-25 11:36:44,096 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-pro-256gb-5g-6-1-120hz-tytan-blekitny with WebDriver...
+2025-04-25 11:36:44,887 [mediaexpert] INFO: Page for BN2009146 loaded successfully
+2025-04-25 11:36:44,955 [mediaexpert] INFO: Price: 5499.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-pro-256gb-5g-6-1-120hz-tytan-blekitny
+2025-04-25 11:36:47,450 [mediaexpert] INFO: Processing product: BN2009151 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-pro-max-1tb-5g-6-7-120hz-tytan-czarny
+2025-04-25 11:36:47,450 [mediaexpert] INFO: 😴 Sleeping for 2.92 seconds before processing BN2009151
+2025-04-25 11:36:50,377 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-pro-max-1tb-5g-6-7-120hz-tytan-czarny with WebDriver...
+2025-04-25 11:36:55,733 [mediaexpert] INFO: Page for BN2009151 loaded successfully
+2025-04-25 11:36:55,776 [mediaexpert] INFO: Price: 0.00 PLN , Stock: Outstock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-pro-max-1tb-5g-6-7-120hz-tytan-czarny
+2025-04-25 11:36:58,295 [mediaexpert] INFO: Processing product: BN2009136 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-pro-max-256gb-5g-6-7-120hz-tytan-czarny
+2025-04-25 11:36:58,295 [mediaexpert] INFO: 😴 Sleeping for 3.81 seconds before processing BN2009136
+2025-04-25 11:37:02,117 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-pro-max-256gb-5g-6-7-120hz-tytan-czarny with WebDriver...
+2025-04-25 11:37:03,161 [mediaexpert] INFO: Page for BN2009136 loaded successfully
+2025-04-25 11:37:03,233 [mediaexpert] INFO: Price: 0.00 PLN , Stock: Outstock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-pro-max-256gb-5g-6-7-120hz-tytan-czarny
+2025-04-25 11:37:05,764 [mediaexpert] INFO: Processing product: BN2009150 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-pro-max-512gb-5g-6-7-120hz-tytan-blekitny
+2025-04-25 11:37:05,764 [mediaexpert] INFO: 😴 Sleeping for 3.52 seconds before processing BN2009150
+2025-04-25 11:37:09,298 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-pro-max-512gb-5g-6-7-120hz-tytan-blekitny with WebDriver...
+2025-04-25 11:37:10,215 [mediaexpert] INFO: Page for BN2009150 loaded successfully
+2025-04-25 11:37:10,272 [mediaexpert] INFO: Price: 6999.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-15-pro-max-512gb-5g-6-7-120hz-tytan-blekitny
+2025-04-25 11:37:12,793 [mediaexpert] INFO: Processing product: BN2009874 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-5g-black-128gb
+2025-04-25 11:37:12,794 [mediaexpert] INFO: 😴 Sleeping for 3.78 seconds before processing BN2009874
+2025-04-25 11:37:16,577 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-5g-black-128gb with WebDriver...
+2025-04-25 11:37:17,355 [mediaexpert] INFO: Page for BN2009874 loaded successfully
+2025-04-25 11:37:17,439 [mediaexpert] INFO: Price: 3599.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-5g-black-128gb
+2025-04-25 11:37:19,957 [mediaexpert] INFO: Processing product: BN2009878 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-5g-black-256gb
+2025-04-25 11:37:19,958 [mediaexpert] INFO: 😴 Sleeping for 3.45 seconds before processing BN2009878
+2025-04-25 11:37:23,418 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-5g-black-256gb with WebDriver...
+2025-04-25 11:37:24,191 [mediaexpert] INFO: Page for BN2009878 loaded successfully
+2025-04-25 11:37:24,276 [mediaexpert] INFO: Price: 4499.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-5g-black-256gb
+2025-04-25 11:37:26,628 [mediaexpert] INFO: Processing product: BN2009879 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-5g-ultramarine-512gb
+2025-04-25 11:37:26,629 [mediaexpert] INFO: 😴 Sleeping for 2.90 seconds before processing BN2009879
+2025-04-25 11:37:29,534 [mediaexpert] INFO: Refreshing browser after 10 products
+2025-04-25 11:37:29,534 [mediaexpert] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-04-25 11:37:31,697 [mediaexpert] INFO: Initializing Chrome WebDriver...
+2025-04-25 11:37:33,075 [mediaexpert] INFO: WebDriver initialized successfully
+2025-04-25 11:37:33,075 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-5g-ultramarine-512gb with WebDriver...
+2025-04-25 11:37:37,948 [mediaexpert] INFO: Page for BN2009879 loaded successfully
+2025-04-25 11:37:37,984 [mediaexpert] INFO: Price: 5499.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-5g-ultramarine-512gb
+2025-04-25 11:37:40,346 [mediaexpert] INFO: Processing product: BN2009875 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-plus-5g-teal-128gb
+2025-04-25 11:37:40,347 [mediaexpert] INFO: 😴 Sleeping for 2.21 seconds before processing BN2009875
+2025-04-25 11:37:42,566 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-plus-5g-teal-128gb with WebDriver...
+2025-04-25 11:37:43,709 [mediaexpert] INFO: Page for BN2009875 loaded successfully
+2025-04-25 11:37:43,766 [mediaexpert] INFO: Price: 4199.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-plus-5g-teal-128gb
+2025-04-25 11:37:46,155 [mediaexpert] INFO: Processing product: BN2009880 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-plus-5g-black-256gb
+2025-04-25 11:37:46,156 [mediaexpert] INFO: 😴 Sleeping for 2.09 seconds before processing BN2009880
+2025-04-25 11:37:48,254 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-plus-5g-black-256gb with WebDriver...
+2025-04-25 11:37:49,197 [mediaexpert] INFO: Page for BN2009880 loaded successfully
+2025-04-25 11:37:49,244 [mediaexpert] INFO: Price: 4999.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-plus-5g-black-256gb
+2025-04-25 11:37:51,508 [mediaexpert] INFO: Processing product: BN2009881 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-plus-5g-white-512gb
+2025-04-25 11:37:51,509 [mediaexpert] INFO: 😴 Sleeping for 2.74 seconds before processing BN2009881
+2025-04-25 11:37:54,259 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-plus-5g-white-512gb with WebDriver...
+2025-04-25 11:38:00,821 [mediaexpert] INFO: Page for BN2009881 loaded successfully
+2025-04-25 11:38:00,865 [mediaexpert] INFO: Price: 5699.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-plus-5g-white-512gb
+2025-04-25 11:38:03,415 [mediaexpert] INFO: Processing product: BN2009876 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-pro-5g-natural-titanium-128gb
+2025-04-25 11:38:03,415 [mediaexpert] INFO: 😴 Sleeping for 2.12 seconds before processing BN2009876
+2025-04-25 11:38:05,545 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-pro-5g-natural-titanium-128gb with WebDriver...
+2025-04-25 11:38:06,661 [mediaexpert] INFO: Page for BN2009876 loaded successfully
+2025-04-25 11:38:06,722 [mediaexpert] INFO: Price: 4646.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-pro-5g-natural-titanium-128gb
+2025-04-25 11:38:09,214 [mediaexpert] INFO: Processing product: BN2009884 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-pro-5g-black-titanium-1tb
+2025-04-25 11:38:09,215 [mediaexpert] INFO: 😴 Sleeping for 3.22 seconds before processing BN2009884
+2025-04-25 11:38:12,440 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-pro-5g-black-titanium-1tb with WebDriver...
+2025-04-25 11:38:13,304 [mediaexpert] INFO: Page for BN2009884 loaded successfully
+2025-04-25 11:38:13,366 [mediaexpert] INFO: Price: 7099.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-pro-5g-black-titanium-1tb
+2025-04-25 11:38:15,845 [mediaexpert] INFO: Processing product: BN2009882 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-pro-5g-black-titanium-256gb
+2025-04-25 11:38:15,846 [mediaexpert] INFO: 😴 Sleeping for 2.67 seconds before processing BN2009882
+2025-04-25 11:38:18,515 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-pro-5g-black-titanium-256gb with WebDriver...
+2025-04-25 11:38:19,367 [mediaexpert] INFO: Page for BN2009882 loaded successfully
+2025-04-25 11:38:19,431 [mediaexpert] INFO: Price: 5149.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-pro-5g-black-titanium-256gb
+2025-04-25 11:38:22,457 [mediaexpert] INFO: Processing product: BN2009883 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-pro-5g-black-titanium-512gb
+2025-04-25 11:38:22,458 [mediaexpert] INFO: 😴 Sleeping for 2.89 seconds before processing BN2009883
+2025-04-25 11:38:25,361 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-pro-5g-black-titanium-512gb with WebDriver...
+2025-04-25 11:38:29,152 [mediaexpert] INFO: Page for BN2009883 loaded successfully
+2025-04-25 11:38:29,212 [mediaexpert] INFO: Price: 6169.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-pro-5g-black-titanium-512gb
+2025-04-25 11:38:32,636 [mediaexpert] INFO: Processing product: BN2009886 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-pro-max-5g-black-titanium-1tb
+2025-04-25 11:38:32,638 [mediaexpert] INFO: 😴 Sleeping for 3.20 seconds before processing BN2009886
+2025-04-25 11:38:35,844 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-pro-max-5g-black-titanium-1tb with WebDriver...
+2025-04-25 11:38:46,915 [mediaexpert] INFO: Page for BN2009886 loaded successfully
+2025-04-25 11:38:46,998 [mediaexpert] INFO: Price: 7689.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-pro-max-5g-black-titanium-1tb
+2025-04-25 11:38:51,733 [mediaexpert] INFO: Processing product: BN2009877 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-pro-max-5g-black-titanium-256gb
+2025-04-25 11:38:51,734 [mediaexpert] INFO: 😴 Sleeping for 3.91 seconds before processing BN2009877
+2025-04-25 11:38:55,652 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-pro-max-5g-black-titanium-256gb with WebDriver...
+2025-04-25 11:39:12,987 [mediaexpert] INFO: Page for BN2009877 loaded successfully
+2025-04-25 11:39:13,050 [mediaexpert] INFO: Price: 5699.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-pro-max-5g-black-titanium-256gb
+2025-04-25 11:39:19,845 [mediaexpert] INFO: Processing product: BN2009885 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-pro-max-5g-natural-titanium-512gb
+2025-04-25 11:39:19,847 [mediaexpert] INFO: 😴 Sleeping for 3.80 seconds before processing BN2009885
+2025-04-25 11:39:23,654 [mediaexpert] INFO: Refreshing browser after 10 products
+2025-04-25 11:39:23,654 [mediaexpert] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-04-25 11:39:25,823 [mediaexpert] INFO: Initializing Chrome WebDriver...
+2025-04-25 11:39:27,382 [mediaexpert] INFO: WebDriver initialized successfully
+2025-04-25 11:39:27,382 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-pro-max-5g-natural-titanium-512gb with WebDriver...
+2025-04-25 11:39:32,291 [mediaexpert] INFO: Page for BN2009885 loaded successfully
+2025-04-25 11:39:32,341 [mediaexpert] INFO: Price: 6499.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16-pro-max-5g-natural-titanium-512gb
+2025-04-25 11:39:34,702 [mediaexpert] INFO: Processing product: BN2010109 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16e-black-128gb
+2025-04-25 11:39:34,703 [mediaexpert] INFO: 😴 Sleeping for 3.34 seconds before processing BN2010109
+2025-04-25 11:39:38,048 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16e-black-128gb with WebDriver...
+2025-04-25 11:39:40,866 [mediaexpert] INFO: Page for BN2010109 loaded successfully
+2025-04-25 11:39:40,939 [mediaexpert] INFO: Price: 2999.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16e-black-128gb
+2025-04-25 11:39:43,456 [mediaexpert] INFO: Processing product: BN2010110 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16e-white-256gb
+2025-04-25 11:39:43,456 [mediaexpert] INFO: 😴 Sleeping for 3.17 seconds before processing BN2010110
+2025-04-25 11:39:46,635 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16e-white-256gb with WebDriver...
+2025-04-25 11:39:47,423 [mediaexpert] INFO: Page for BN2010110 loaded successfully
+2025-04-25 11:39:47,468 [mediaexpert] INFO: Price: 3499.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16e-white-256gb
+2025-04-25 11:39:49,956 [mediaexpert] INFO: Processing product: BN2010108 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16e-black-512gb
+2025-04-25 11:39:49,957 [mediaexpert] INFO: 😴 Sleeping for 2.57 seconds before processing BN2010108
+2025-04-25 11:39:52,541 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16e-black-512gb with WebDriver...
+2025-04-25 11:39:54,274 [mediaexpert] INFO: Page for BN2010108 loaded successfully
+2025-04-25 11:39:54,319 [mediaexpert] INFO: Price: 4449.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-apple-iphone-16e-black-512gb
+2025-04-25 11:39:56,664 [mediaexpert] INFO: Processing product: BN2009221 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-se-gps-44mm-midnight-alum-midnight-sport
+2025-04-25 11:39:56,665 [mediaexpert] INFO: 😴 Sleeping for 2.08 seconds before processing BN2009221
+2025-04-25 11:39:58,746 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-se-gps-44mm-midnight-alum-midnight-sport with WebDriver...
+2025-04-25 11:40:08,274 [mediaexpert] INFO: Page for BN2009221 loaded successfully
+2025-04-25 11:40:08,345 [mediaexpert] INFO: Price: 0.00 PLN , Stock: Outstock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-se-gps-44mm-midnight-alum-midnight-sport
+2025-04-25 11:40:10,854 [mediaexpert] INFO: Processing product: AN00000170 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-se-40-st-al-st-sb-sm-cel-ell
+2025-04-25 11:40:10,855 [mediaexpert] INFO: 😴 Sleeping for 2.58 seconds before processing AN00000170
+2025-04-25 11:40:13,448 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-se-40-st-al-st-sb-sm-cel-ell with WebDriver...
+2025-04-25 11:40:14,977 [mediaexpert] INFO: Page for AN00000170 loaded successfully
+2025-04-25 11:40:15,033 [mediaexpert] INFO: Price: 1299.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-se-40-st-al-st-sb-sm-cel-ell
+2025-04-25 11:40:17,525 [mediaexpert] INFO: Processing product: AN00000171 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-se-44-mi-al-mi-sb-ml-cel-ell
+2025-04-25 11:40:17,526 [mediaexpert] INFO: 😴 Sleeping for 3.25 seconds before processing AN00000171
+2025-04-25 11:40:20,778 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-se-44-mi-al-mi-sb-ml-cel-ell with WebDriver...
+2025-04-25 11:40:21,503 [mediaexpert] INFO: Page for AN00000171 loaded successfully
+2025-04-25 11:40:21,556 [mediaexpert] INFO: Price: 1384.80 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-se-44-mi-al-mi-sb-ml-cel-ell
+2025-04-25 11:40:24,152 [mediaexpert] INFO: Processing product: BN4000655 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-series-8-gps-45mm-midnight-alum-midnight-sport
+2025-04-25 11:40:24,154 [mediaexpert] INFO: 😴 Sleeping for 3.80 seconds before processing BN4000655
+2025-04-25 11:40:27,961 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-series-8-gps-45mm-midnight-alum-midnight-sport with WebDriver...
+2025-04-25 11:40:29,134 [mediaexpert] INFO: Page for BN4000655 loaded successfully
+2025-04-25 11:40:29,193 [mediaexpert] INFO: Price: 2049.97 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-series-8-gps-45mm-midnight-alum-midnight-sport
+2025-04-25 11:40:31,438 [mediaexpert] INFO: Processing product: BN2009141 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/apple-watch-9-gps-41mm-koperta-z-aluminium-srebrny-pasek-sportowy-rozmiar-s-m-sztormowy-blekit
+2025-04-25 11:40:31,438 [mediaexpert] INFO: 😴 Sleeping for 2.61 seconds before processing BN2009141
+2025-04-25 11:40:34,059 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/apple-watch-9-gps-41mm-koperta-z-aluminium-srebrny-pasek-sportowy-rozmiar-s-m-sztormowy-blekit with WebDriver...
+2025-04-25 11:40:35,014 [mediaexpert] INFO: Page for BN2009141 loaded successfully
+2025-04-25 11:40:35,063 [mediaexpert] INFO: Price: 2249.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/apple-watch-9-gps-41mm-koperta-z-aluminium-srebrny-pasek-sportowy-rozmiar-s-m-sztormowy-blekit
+2025-04-25 11:40:37,426 [mediaexpert] INFO: Processing product: BN2009140 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/apple-watch-9-gps-45mm-koperta-z-aluminium-czerwony-pasek-sportowy-s-m-czerwony
+2025-04-25 11:40:37,427 [mediaexpert] INFO: 😴 Sleeping for 2.47 seconds before processing BN2009140
+2025-04-25 11:40:39,909 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/apple-watch-9-gps-45mm-koperta-z-aluminium-czerwony-pasek-sportowy-s-m-czerwony with WebDriver...
+2025-04-25 11:40:41,189 [mediaexpert] INFO: Page for BN2009140 loaded successfully
+2025-04-25 11:40:41,234 [mediaexpert] INFO: Price: 2449.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/apple-watch-9-gps-45mm-koperta-z-aluminium-czerwony-pasek-sportowy-s-m-czerwony
+2025-04-25 11:40:43,781 [mediaexpert] INFO: Processing product: BN2009139 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/apple-watch-9-gps-cellular-41mm-koperta-z-aluminium-ksiezycowa-poswiata-pasek-sportowy-rozmiar-m-l-ksiezycowa-poswiata
+2025-04-25 11:40:43,782 [mediaexpert] INFO: 😴 Sleeping for 2.47 seconds before processing BN2009139
+2025-04-25 11:40:46,260 [mediaexpert] INFO: Refreshing browser after 10 products
+2025-04-25 11:40:46,260 [mediaexpert] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-04-25 11:40:48,424 [mediaexpert] INFO: Initializing Chrome WebDriver...
+2025-04-25 11:40:49,796 [mediaexpert] INFO: WebDriver initialized successfully
+2025-04-25 11:40:49,797 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/apple-watch-9-gps-cellular-41mm-koperta-z-aluminium-ksiezycowa-poswiata-pasek-sportowy-rozmiar-m-l-ksiezycowa-poswiata with WebDriver...
+2025-04-25 11:40:54,758 [mediaexpert] INFO: Page for BN2009139 loaded successfully
+2025-04-25 11:40:54,794 [mediaexpert] INFO: Price: 2749.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/apple-watch-9-gps-cellular-41mm-koperta-z-aluminium-ksiezycowa-poswiata-pasek-sportowy-rozmiar-m-l-ksiezycowa-poswiata
+2025-04-25 11:40:57,029 [mediaexpert] INFO: Processing product: BN2009138 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-series9-gps-cell-45mm-silver-alu-storm-blue-ml
+2025-04-25 11:40:57,030 [mediaexpert] INFO: 😴 Sleeping for 2.30 seconds before processing BN2009138
+2025-04-25 11:40:59,340 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-series9-gps-cell-45mm-silver-alu-storm-blue-ml with WebDriver...
+2025-04-25 11:41:01,023 [mediaexpert] INFO: Page for BN2009138 loaded successfully
+2025-04-25 11:41:01,072 [mediaexpert] INFO: Price: 2649.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-series9-gps-cell-45mm-silver-alu-storm-blue-ml
+2025-04-25 11:41:03,545 [mediaexpert] INFO: Processing product: BN2009903 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-10-42-rg-al-lb-sb-sm-cel-ell
+2025-04-25 11:41:03,545 [mediaexpert] INFO: 😴 Sleeping for 2.91 seconds before processing BN2009903
+2025-04-25 11:41:06,461 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-10-42-rg-al-lb-sb-sm-cel-ell with WebDriver...
+2025-04-25 11:41:07,254 [mediaexpert] INFO: Page for BN2009903 loaded successfully
+2025-04-25 11:41:07,312 [mediaexpert] INFO: Price: 2249.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-10-42-rg-al-lb-sb-sm-cel-ell
+2025-04-25 11:41:09,664 [mediaexpert] INFO: Processing product: BN2009905 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-10-46-jb-al-bk-sb-ml-cel-ell
+2025-04-25 11:41:09,665 [mediaexpert] INFO: 😴 Sleeping for 2.49 seconds before processing BN2009905
+2025-04-25 11:41:12,158 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-10-46-jb-al-bk-sb-ml-cel-ell with WebDriver...
+2025-04-25 11:41:12,871 [mediaexpert] INFO: Page for BN2009905 loaded successfully
+2025-04-25 11:41:12,931 [mediaexpert] INFO: Price: 2599.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-10-46-jb-al-bk-sb-ml-cel-ell
+2025-04-25 11:41:15,192 [mediaexpert] INFO: Processing product: BN2009906 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-10-46-nt-ti-nt-ml-ml-cel-ell
+2025-04-25 11:41:15,193 [mediaexpert] INFO: 😴 Sleeping for 3.39 seconds before processing BN2009906
+2025-04-25 11:41:18,590 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-10-46-nt-ti-nt-ml-ml-cel-ell with WebDriver...
+2025-04-25 11:41:19,324 [mediaexpert] INFO: Page for BN2009906 loaded successfully
+2025-04-25 11:41:19,372 [mediaexpert] INFO: Price: 3849.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-10-46-nt-ti-nt-ml-ml-cel-ell
+2025-04-25 11:41:21,944 [mediaexpert] INFO: Processing product: BN2009137 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-ultra2-49-nt-ti-nt-tml-m-pro
+2025-04-25 11:41:21,944 [mediaexpert] INFO: 😴 Sleeping for 3.54 seconds before processing BN2009137
+2025-04-25 11:41:25,494 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-ultra2-49-nt-ti-nt-tml-m-pro with WebDriver...
+2025-04-25 11:41:26,220 [mediaexpert] INFO: Page for BN2009137 loaded successfully
+2025-04-25 11:41:26,266 [mediaexpert] INFO: Price: 4499.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-apple-watch-ultra2-49-nt-ti-nt-tml-m-pro
+2025-04-25 11:41:28,767 [mediaexpert] INFO: Processing product: AN00000125 - URL: https://www.mediaexpert.pl/komputery-i-tablety/laptopy-i-ultrabooki/laptopy/laptop-asus-expertbook-b1502cba-bq0147-15-6-i5-1235u-8gb-ram-512gb-ssd
+2025-04-25 11:41:28,767 [mediaexpert] INFO: 😴 Sleeping for 3.20 seconds before processing AN00000125
+2025-04-25 11:41:31,968 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/komputery-i-tablety/laptopy-i-ultrabooki/laptopy/laptop-asus-expertbook-b1502cba-bq0147-15-6-i5-1235u-8gb-ram-512gb-ssd with WebDriver...
+2025-04-25 11:41:34,054 [mediaexpert] INFO: Page for AN00000125 loaded successfully
+2025-04-25 11:41:34,093 [mediaexpert] INFO: Price: 0.00 PLN , Stock: Outstock, url: https://www.mediaexpert.pl/komputery-i-tablety/laptopy-i-ultrabooki/laptopy/laptop-asus-expertbook-b1502cba-bq0147-15-6-i5-1235u-8gb-ram-512gb-ssd
+2025-04-25 11:41:36,323 [mediaexpert] INFO: Processing product: AN00000123 - URL: https://www.mediaexpert.pl/foto-i-kamery/gimbale/gimbal-dji-osmo-mobile-6
+2025-04-25 11:41:36,324 [mediaexpert] INFO: 😴 Sleeping for 2.49 seconds before processing AN00000123
+2025-04-25 11:41:38,820 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/foto-i-kamery/gimbale/gimbal-dji-osmo-mobile-6 with WebDriver...
+2025-04-25 11:41:40,135 [mediaexpert] INFO: Page for AN00000123 loaded successfully
+2025-04-25 11:41:40,191 [mediaexpert] INFO: Price: 629.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/foto-i-kamery/gimbale/gimbal-dji-osmo-mobile-6
+2025-04-25 11:41:42,757 [mediaexpert] INFO: Processing product: AN00000122 - URL: https://www.mediaexpert.pl/foto-i-kamery/gimbale/gimbal-dji-osmo-mobile-se
+2025-04-25 11:41:42,759 [mediaexpert] INFO: 😴 Sleeping for 3.76 seconds before processing AN00000122
+2025-04-25 11:41:46,533 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/foto-i-kamery/gimbale/gimbal-dji-osmo-mobile-se with WebDriver...
+2025-04-25 11:41:47,773 [mediaexpert] INFO: Page for AN00000122 loaded successfully
+2025-04-25 11:41:47,854 [mediaexpert] INFO: Price: 379.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/foto-i-kamery/gimbale/gimbal-dji-osmo-mobile-se
+2025-04-25 11:41:50,357 [mediaexpert] INFO: Processing product: AN00000228 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/zegarek-sportowy-garmin-fenix-7-pro-solar-szaro-czarny
+2025-04-25 11:41:50,358 [mediaexpert] INFO: 😴 Sleeping for 2.67 seconds before processing AN00000228
+2025-04-25 11:41:53,035 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/zegarek-sportowy-garmin-fenix-7-pro-solar-szaro-czarny with WebDriver...
+2025-04-25 11:41:53,864 [mediaexpert] INFO: Page for AN00000228 loaded successfully
+2025-04-25 11:41:53,921 [mediaexpert] INFO: Price: 2519.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/zegarek-sportowy-garmin-fenix-7-pro-solar-szaro-czarny
+2025-04-25 11:41:56,257 [mediaexpert] INFO: Processing product: AN00000195 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/zegarek-sportowy-garmin-fenix-7x-pro-solar-czarny
+2025-04-25 11:41:56,258 [mediaexpert] INFO: 😴 Sleeping for 2.72 seconds before processing AN00000195
+2025-04-25 11:41:58,979 [mediaexpert] INFO: Refreshing browser after 10 products
+2025-04-25 11:41:58,979 [mediaexpert] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-04-25 11:42:01,145 [mediaexpert] INFO: Initializing Chrome WebDriver...
+2025-04-25 11:42:02,571 [mediaexpert] INFO: WebDriver initialized successfully
+2025-04-25 11:42:02,572 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/zegarek-sportowy-garmin-fenix-7x-pro-solar-czarny with WebDriver...
+2025-04-25 11:42:07,128 [mediaexpert] INFO: Page for AN00000195 loaded successfully
+2025-04-25 11:42:07,188 [mediaexpert] INFO: Price: 2980.57 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/zegarek-sportowy-garmin-fenix-7x-pro-solar-czarny
+2025-04-25 11:42:09,720 [mediaexpert] INFO: Processing product: AN00000236 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-garmin-fenix-8-51mm-czarny
+2025-04-25 11:42:09,721 [mediaexpert] INFO: 😴 Sleeping for 3.67 seconds before processing AN00000236
+2025-04-25 11:42:13,397 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-garmin-fenix-8-51mm-czarny with WebDriver...
+2025-04-25 11:42:14,666 [mediaexpert] INFO: Page for AN00000236 loaded successfully
+2025-04-25 11:42:14,727 [mediaexpert] INFO: Price: 4148.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-garmin-fenix-8-51mm-czarny
+2025-04-25 11:42:17,248 [mediaexpert] INFO: Processing product: AN00000193 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-garmin-forerunner-165-czarny
+2025-04-25 11:42:17,248 [mediaexpert] INFO: 😴 Sleeping for 2.24 seconds before processing AN00000193
+2025-04-25 11:42:19,506 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-garmin-forerunner-165-czarny with WebDriver...
+2025-04-25 11:42:20,318 [mediaexpert] INFO: Page for AN00000193 loaded successfully
+2025-04-25 11:42:20,375 [mediaexpert] INFO: Price: 898.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-garmin-forerunner-165-czarny
+2025-04-25 11:42:22,603 [mediaexpert] INFO: Processing product: AN00000194 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-garmin-venu-3s-pebble-gray
+2025-04-25 11:42:22,604 [mediaexpert] INFO: 😴 Sleeping for 2.20 seconds before processing AN00000194
+2025-04-25 11:42:24,815 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-garmin-venu-3s-pebble-gray with WebDriver...
+2025-04-25 11:42:25,603 [mediaexpert] INFO: Page for AN00000194 loaded successfully
+2025-04-25 11:42:25,672 [mediaexpert] INFO: Price: 1648.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-garmin-venu-3s-pebble-gray
+2025-04-25 11:42:28,178 [mediaexpert] INFO: Processing product: AN00000257 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-google-pixel-watch-3-41mm-czarny
+2025-04-25 11:42:28,179 [mediaexpert] INFO: 😴 Sleeping for 3.54 seconds before processing AN00000257
+2025-04-25 11:42:31,724 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-google-pixel-watch-3-41mm-czarny with WebDriver...
+2025-04-25 11:42:32,850 [mediaexpert] INFO: Page for AN00000257 loaded successfully
+2025-04-25 11:42:32,896 [mediaexpert] INFO: Price: 2100.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-google-pixel-watch-3-41mm-czarny
+2025-04-25 11:42:35,412 [mediaexpert] INFO: Processing product: AN00000258 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-google-pixel-watch-3-45mm-porcelanowy
+2025-04-25 11:42:35,413 [mediaexpert] INFO: 😴 Sleeping for 2.66 seconds before processing AN00000258
+2025-04-25 11:42:38,085 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-google-pixel-watch-3-45mm-porcelanowy with WebDriver...
+2025-04-25 11:42:39,251 [mediaexpert] INFO: Page for AN00000258 loaded successfully
+2025-04-25 11:42:39,309 [mediaexpert] INFO: Price: 1949.00 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartwatche-i-zegarki/smartwatche/smartwatch-google-pixel-watch-3-45mm-porcelanowy
+2025-04-25 11:42:41,791 [mediaexpert] INFO: Processing product: BN2009218 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-google-pixel-8-8-128gb-5g-6-2-120hz-czarny
+2025-04-25 11:42:41,792 [mediaexpert] INFO: 😴 Sleeping for 3.55 seconds before processing BN2009218
+2025-04-25 11:42:45,360 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-google-pixel-8-8-128gb-5g-6-2-120hz-czarny with WebDriver...
+2025-04-25 11:42:46,484 [mediaexpert] INFO: Page for BN2009218 loaded successfully
+2025-04-25 11:42:46,548 [mediaexpert] INFO: Price: 2399.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-google-pixel-8-8-128gb-5g-6-2-120hz-czarny
+2025-04-25 11:42:49,066 [mediaexpert] INFO: Processing product: BN2009219 - URL: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-google-pixel-8-pro-5g-12-128gb-6-7-120hz-czarny
+2025-04-25 11:42:49,066 [mediaexpert] INFO: 😴 Sleeping for 2.96 seconds before processing BN2009219
+2025-04-25 11:42:52,024 [mediaexpert] INFO: Loading https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-google-pixel-8-pro-5g-12-128gb-6-7-120hz-czarny with WebDriver...
+2025-04-25 11:42:57,097 [mediaexpert] INFO: Page for BN2009219 loaded successfully
+2025-04-25 11:42:57,151 [mediaexpert] INFO: Price: 2699.99 PLN , Stock: Instock, url: https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-google-pixel-8-pro-5g-12-128gb-6-7-120hz-czarny
+2025-04-25 11:43:13,001 [mediaexpert] INFO: ✅ Spider mediaexpert completed
+2025-04-25 11:43:13,002 [mediaexpert] INFO: 🕒 Total time: 00:17:03
+2025-04-25 11:43:13,002 [mediaexpert] INFO: 📊 Processed 117 items
+2025-04-25 11:43:13,003 [mediaexpert] INFO: ⚡ Performance: 6.86 items/minute
+2025-04-25 11:43:26,695 [mediaexpert] INFO: ==================================================
+2025-04-25 11:43:26,695 [mediaexpert] INFO: SPIDER RUN COMPLETED: mediaexpert
+2025-04-25 11:43:26,696 [mediaexpert] INFO: Items processed: 117
+2025-04-25 11:43:26,696 [mediaexpert] INFO: Duration: 00:17:17
+2025-04-25 11:43:26,697 [mediaexpert] INFO: Performance: 6.77 items/minute
+2025-04-25 11:43:26,697 [mediaexpert] INFO: ==================================================
+2025-04-25 11:43:27,084 [mediaexpert] INFO: Closing WebDriver...

@@ -1,0 +1,1305 @@
+2025-04-22 16:03:09,492 [play_variants] INFO: 🕷️ Initializing play_variants spider
+2025-04-22 16:03:09,492 [play_variants] INFO: 🔄 Proxy Manager: Disabled
+2025-04-22 16:03:09,492 [play_variants] INFO: 🕒 Human-like delays: Enabled
+2025-04-22 16:03:09,492 [play_variants] INFO: Using specified market_player: Play S
+2025-04-22 16:03:09,593 [play_variants] INFO: 🕷️ Starting Play S spider
+2025-04-22 16:03:09,594 [play_variants] INFO: 🔍 Total products to scrape: 209
+2025-04-22 16:03:09,594 [play_variants] INFO: Using direct requests without proxy manager
+2025-04-22 16:03:09,594 [play_variants] INFO: 😴 Sleeping for 1.26 seconds before request 1/209
+2025-04-22 16:03:14,764 [play_variants] INFO: 😴 Sleeping for 2.39 seconds before request 2/209
+2025-04-22 16:03:17,225 [play_variants] INFO: [1/209] Play S BN2009344: 0.00 PLN | Outstock | 208 remaining
+2025-04-22 16:03:18,711 [play_variants] INFO: 😴 Sleeping for 1.78 seconds before request 3/209
+2025-04-22 16:03:20,561 [play_variants] INFO: [2/209] Play S BN2007979: 0.00 PLN | Outstock | 207 remaining
+2025-04-22 16:03:21,825 [play_variants] INFO: 😴 Sleeping for 2.70 seconds before request 4/209
+2025-04-22 16:03:22,087 [play_variants] INFO: 🕷️ Initializing play_variants spider
+2025-04-22 16:03:22,087 [play_variants] INFO: 🔄 Proxy Manager: Disabled
+2025-04-22 16:03:22,087 [play_variants] INFO: 🕒 Human-like delays: Enabled
+2025-04-22 16:03:22,087 [play_variants] INFO: Using specified market_player: Play M
+2025-04-22 16:03:22,176 [play_variants] INFO: 🕷️ Starting Play M spider
+2025-04-22 16:03:22,176 [play_variants] INFO: 🔍 Total products to scrape: 209
+2025-04-22 16:03:22,176 [play_variants] INFO: Using direct requests without proxy manager
+2025-04-22 16:03:22,176 [play_variants] INFO: 😴 Sleeping for 1.71 seconds before request 1/209
+2025-04-22 16:03:24,601 [play_variants] INFO: [3/209] Play S BN2008518: 0.00 PLN | Outstock | 206 remaining
+2025-04-22 16:03:25,895 [play_variants] INFO: 😴 Sleeping for 1.69 seconds before request 5/209
+2025-04-22 16:03:27,352 [play_variants] INFO: 😴 Sleeping for 2.72 seconds before request 2/209
+2025-04-22 16:03:27,656 [play_variants] INFO: [4/209] Play S BN2008514: 0.00 PLN | Outstock | 205 remaining
+2025-04-22 16:03:28,999 [play_variants] INFO: 😴 Sleeping for 1.16 seconds before request 6/209
+2025-04-22 16:03:29,439 [play_variants] INFO: 🕷️ Initializing play_variants spider
+2025-04-22 16:03:29,439 [play_variants] INFO: 🔄 Proxy Manager: Disabled
+2025-04-22 16:03:29,439 [play_variants] INFO: 🕒 Human-like delays: Enabled
+2025-04-22 16:03:29,439 [play_variants] INFO: Using specified market_player: Play L
+2025-04-22 16:03:29,545 [play_variants] INFO: 🕷️ Starting Play L spider
+2025-04-22 16:03:29,545 [play_variants] INFO: 🔍 Total products to scrape: 209
+2025-04-22 16:03:29,545 [play_variants] INFO: Using direct requests without proxy manager
+2025-04-22 16:03:29,545 [play_variants] INFO: 😴 Sleeping for 2.85 seconds before request 1/209
+2025-04-22 16:03:30,145 [play_variants] INFO: [1/209] Play M BN2009344: 0.00 PLN | Outstock | 208 remaining
+2025-04-22 16:03:30,225 [play_variants] INFO: [5/209] Play S BN2008515: 0.00 PLN | Outstock | 204 remaining
+2025-04-22 16:03:31,405 [play_variants] INFO: 😴 Sleeping for 1.57 seconds before request 3/209
+2025-04-22 16:03:31,469 [play_variants] INFO: 😴 Sleeping for 2.42 seconds before request 7/209
+2025-04-22 16:03:33,057 [play_variants] INFO: [2/209] Play M BN2007979: 0.00 PLN | Outstock | 207 remaining
+2025-04-22 16:03:33,965 [play_variants] INFO: [6/209] Play S BN2009133: 3199.00 PLN | Instock | 203 remaining
+2025-04-22 16:03:34,333 [play_variants] INFO: 😴 Sleeping for 2.35 seconds before request 4/209
+2025-04-22 16:03:35,262 [play_variants] INFO: 😴 Sleeping for 1.26 seconds before request 8/209
+2025-04-22 16:03:35,727 [play_variants] INFO: 😴 Sleeping for 1.00 seconds before request 2/209
+2025-04-22 16:03:36,613 [play_variants] INFO: [7/209] Play S BN2009142: 0.00 PLN | Outstock | 202 remaining
+2025-04-22 16:03:36,770 [play_variants] INFO: [3/209] Play M BN2008518: 0.00 PLN | Outstock | 206 remaining
+2025-04-22 16:03:36,802 [play_variants] INFO: [1/209] Play L BN2009344: 0.00 PLN | Outstock | 208 remaining
+2025-04-22 16:03:37,902 [play_variants] INFO: 😴 Sleeping for 2.89 seconds before request 9/209
+2025-04-22 16:03:38,044 [play_variants] INFO: 😴 Sleeping for 1.57 seconds before request 5/209
+2025-04-22 16:03:38,148 [play_variants] INFO: 😴 Sleeping for 1.18 seconds before request 3/209
+2025-04-22 16:03:39,400 [play_variants] INFO: [2/209] Play L BN2007979: 0.00 PLN | Outstock | 207 remaining
+2025-04-22 16:03:39,699 [play_variants] INFO: [4/209] Play M BN2008514: 0.00 PLN | Outstock | 205 remaining
+2025-04-22 16:03:40,619 [play_variants] INFO: 😴 Sleeping for 2.06 seconds before request 4/209
+2025-04-22 16:03:40,865 [play_variants] INFO: [8/209] Play S BN2009134: 4299.00 PLN | Instock | 201 remaining
+2025-04-22 16:03:40,941 [play_variants] INFO: 😴 Sleeping for 1.64 seconds before request 6/209
+2025-04-22 16:03:42,155 [play_variants] INFO: 😴 Sleeping for 1.56 seconds before request 10/209
+2025-04-22 16:03:42,650 [play_variants] INFO: [5/209] Play M BN2008515: 0.00 PLN | Outstock | 204 remaining
+2025-04-22 16:03:42,761 [play_variants] INFO: [3/209] Play L BN2008518: 0.00 PLN | Outstock | 206 remaining
+2025-04-22 16:03:43,795 [play_variants] INFO: [9/209] Play S BN2009135: 0.00 PLN | Outstock | 200 remaining
+2025-04-22 16:03:43,910 [play_variants] INFO: 😴 Sleeping for 2.06 seconds before request 7/209
+2025-04-22 16:03:44,286 [play_variants] INFO: 😴 Sleeping for 2.49 seconds before request 5/209
+2025-04-22 16:03:45,041 [play_variants] INFO: 😴 Sleeping for 2.69 seconds before request 11/209
+2025-04-22 16:03:46,036 [play_variants] INFO: [6/209] Play M BN2009133: 3199.00 PLN | Instock | 203 remaining
+2025-04-22 16:03:46,844 [play_variants] INFO: [4/209] Play L BN2008514: 0.00 PLN | Outstock | 205 remaining
+2025-04-22 16:03:47,292 [play_variants] INFO: 😴 Sleeping for 1.84 seconds before request 8/209
+2025-04-22 16:03:47,810 [play_variants] INFO: [10/209] Play S BN2009146: 0.00 PLN | Outstock | 199 remaining
+2025-04-22 16:03:48,104 [play_variants] INFO: 😴 Sleeping for 1.41 seconds before request 6/209
+2025-04-22 16:03:49,201 [play_variants] INFO: [7/209] Play M BN2009142: 0.00 PLN | Outstock | 202 remaining
+2025-04-22 16:03:49,267 [play_variants] INFO: 😴 Sleeping for 1.52 seconds before request 12/209
+2025-04-22 16:03:49,571 [play_variants] INFO: [5/209] Play L BN2008515: 0.00 PLN | Outstock | 204 remaining
+2025-04-22 16:03:50,465 [play_variants] INFO: 😴 Sleeping for 1.13 seconds before request 9/209
+2025-04-22 16:03:50,862 [play_variants] INFO: [11/209] Play S BN2009147: 0.00 PLN | Outstock | 198 remaining
+2025-04-22 16:03:50,862 [play_variants] INFO: 😴 Sleeping for 2.24 seconds before request 7/209
+2025-04-22 16:03:51,673 [play_variants] INFO: [8/209] Play M BN2009134: 4299.00 PLN | Instock | 201 remaining
+2025-04-22 16:03:52,076 [play_variants] INFO: 😴 Sleeping for 2.79 seconds before request 13/209
+2025-04-22 16:03:53,016 [play_variants] INFO: 😴 Sleeping for 2.97 seconds before request 10/209
+2025-04-22 16:03:53,174 [play_variants] INFO: [6/209] Play L BN2009133: 3199.00 PLN | Instock | 203 remaining
+2025-04-22 16:03:54,438 [play_variants] INFO: 😴 Sleeping for 2.23 seconds before request 8/209
+2025-04-22 16:03:54,919 [play_variants] INFO: [12/209] Play S BN2009151: 0.00 PLN | Outstock | 197 remaining
+2025-04-22 16:03:56,057 [play_variants] INFO: [9/209] Play M BN2009135: 0.00 PLN | Outstock | 200 remaining
+2025-04-22 16:03:56,201 [play_variants] INFO: 😴 Sleeping for 1.48 seconds before request 14/209
+2025-04-22 16:03:56,740 [play_variants] INFO: [7/209] Play L BN2009142: 0.00 PLN | Outstock | 202 remaining
+2025-04-22 16:03:57,317 [play_variants] INFO: 😴 Sleeping for 2.58 seconds before request 11/209
+2025-04-22 16:03:57,756 [play_variants] INFO: [13/209] Play S BN2009136: 0.00 PLN | Outstock | 196 remaining
+2025-04-22 16:03:58,000 [play_variants] INFO: 😴 Sleeping for 1.82 seconds before request 9/209
+2025-04-22 16:03:58,979 [play_variants] INFO: 😴 Sleeping for 2.71 seconds before request 15/209
+2025-04-22 16:03:59,884 [play_variants] INFO: [8/209] Play L BN2009134: 4299.00 PLN | Instock | 201 remaining
+2025-04-22 16:03:59,986 [play_variants] INFO: [10/209] Play M BN2009146: 0.00 PLN | Outstock | 199 remaining
+2025-04-22 16:04:01,155 [play_variants] INFO: 😴 Sleeping for 2.48 seconds before request 10/209
+2025-04-22 16:04:01,200 [play_variants] INFO: 😴 Sleeping for 2.90 seconds before request 12/209
+2025-04-22 16:04:01,787 [play_variants] INFO: [14/209] Play S BN2009150: 0.00 PLN | Outstock | 195 remaining
+2025-04-22 16:04:03,137 [play_variants] INFO: 😴 Sleeping for 1.91 seconds before request 16/209
+2025-04-22 16:04:03,719 [play_variants] INFO: [9/209] Play L BN2009135: 0.00 PLN | Outstock | 200 remaining
+2025-04-22 16:04:04,169 [play_variants] INFO: [11/209] Play M BN2009147: 0.00 PLN | Outstock | 198 remaining
+2025-04-22 16:04:05,128 [play_variants] INFO: [15/209] Play S BN2009874: 3699.00 PLN | Instock | 194 remaining
+2025-04-22 16:04:05,417 [play_variants] INFO: 😴 Sleeping for 1.17 seconds before request 13/209
+2025-04-22 16:04:06,312 [play_variants] INFO: 😴 Sleeping for 1.87 seconds before request 11/209
+2025-04-22 16:04:06,393 [play_variants] INFO: 😴 Sleeping for 1.00 seconds before request 17/209
+2025-04-22 16:04:06,661 [play_variants] INFO: [12/209] Play M BN2009151: 0.00 PLN | Outstock | 197 remaining
+2025-04-22 16:04:07,472 [play_variants] INFO: [16/209] Play S BN2009878: 4299.00 PLN | Instock | 193 remaining
+2025-04-22 16:04:07,912 [play_variants] INFO: 😴 Sleeping for 1.60 seconds before request 14/209
+2025-04-22 16:04:08,258 [play_variants] INFO: [10/209] Play L BN2009146: 0.00 PLN | Outstock | 199 remaining
+2025-04-22 16:04:08,842 [play_variants] INFO: 😴 Sleeping for 1.38 seconds before request 18/209
+2025-04-22 16:04:09,569 [play_variants] INFO: 😴 Sleeping for 2.25 seconds before request 12/209
+2025-04-22 16:04:09,575 [play_variants] INFO: [13/209] Play M BN2009136: 0.00 PLN | Outstock | 196 remaining
+2025-04-22 16:04:10,293 [play_variants] INFO: [17/209] Play S BN2009879: 5399.00 PLN | Instock | 192 remaining
+2025-04-22 16:04:10,910 [play_variants] INFO: 😴 Sleeping for 2.46 seconds before request 15/209
+2025-04-22 16:04:11,553 [play_variants] INFO: 😴 Sleeping for 1.13 seconds before request 19/209
+2025-04-22 16:04:11,903 [play_variants] INFO: [11/209] Play L BN2009147: 0.00 PLN | Outstock | 198 remaining
+2025-04-22 16:04:12,758 [play_variants] INFO: [18/209] Play S BN2009875: 4299.00 PLN | Instock | 191 remaining
+2025-04-22 16:04:13,141 [play_variants] INFO: 😴 Sleeping for 1.15 seconds before request 13/209
+2025-04-22 16:04:13,444 [play_variants] INFO: [14/209] Play M BN2009150: 0.00 PLN | Outstock | 195 remaining
+2025-04-22 16:04:13,994 [play_variants] INFO: 😴 Sleeping for 2.75 seconds before request 20/209
+2025-04-22 16:04:14,360 [play_variants] INFO: [12/209] Play L BN2009151: 0.00 PLN | Outstock | 197 remaining
+2025-04-22 16:04:14,681 [play_variants] INFO: 😴 Sleeping for 1.94 seconds before request 16/209
+2025-04-22 16:04:15,689 [play_variants] INFO: 😴 Sleeping for 1.08 seconds before request 14/209
+2025-04-22 16:04:16,704 [play_variants] INFO: [15/209] Play M BN2009874: 3699.00 PLN | Instock | 194 remaining
+2025-04-22 16:04:16,825 [play_variants] INFO: [19/209] Play S BN2009880: 4799.00 PLN | Instock | 190 remaining
+2025-04-22 16:04:16,851 [play_variants] INFO: [13/209] Play L BN2009136: 0.00 PLN | Outstock | 196 remaining
+2025-04-22 16:04:17,955 [play_variants] INFO: 😴 Sleeping for 2.24 seconds before request 17/209
+2025-04-22 16:04:18,072 [play_variants] INFO: 😴 Sleeping for 1.25 seconds before request 15/209
+2025-04-22 16:04:18,146 [play_variants] INFO: 😴 Sleeping for 2.49 seconds before request 21/209
+2025-04-22 16:04:19,386 [play_variants] INFO: [14/209] Play L BN2009150: 0.00 PLN | Outstock | 195 remaining
+2025-04-22 16:04:20,271 [play_variants] INFO: [16/209] Play M BN2009878: 4299.00 PLN | Instock | 193 remaining
+2025-04-22 16:04:20,624 [play_variants] INFO: 😴 Sleeping for 2.15 seconds before request 16/209
+2025-04-22 16:04:20,703 [play_variants] INFO: [20/209] Play S BN2009881: 5899.00 PLN | Instock | 189 remaining
+2025-04-22 16:04:21,528 [play_variants] INFO: 😴 Sleeping for 1.82 seconds before request 18/209
+2025-04-22 16:04:22,006 [play_variants] INFO: 😴 Sleeping for 2.33 seconds before request 22/209
+2025-04-22 16:04:22,853 [play_variants] INFO: [15/209] Play L BN2009874: 3699.00 PLN | Instock | 194 remaining
+2025-04-22 16:04:23,427 [play_variants] INFO: [17/209] Play M BN2009879: 5399.00 PLN | Instock | 192 remaining
+2025-04-22 16:04:24,126 [play_variants] INFO: 😴 Sleeping for 2.51 seconds before request 17/209
+2025-04-22 16:04:24,476 [play_variants] INFO: [21/209] Play S BN2009876: 4899.00 PLN | Instock | 188 remaining
+2025-04-22 16:04:24,648 [play_variants] INFO: 😴 Sleeping for 1.95 seconds before request 19/209
+2025-04-22 16:04:25,654 [play_variants] INFO: 😴 Sleeping for 1.18 seconds before request 23/209
+2025-04-22 16:04:26,683 [play_variants] INFO: [18/209] Play M BN2009875: 4299.00 PLN | Instock | 191 remaining
+2025-04-22 16:04:26,720 [play_variants] INFO: [16/209] Play L BN2009878: 4299.00 PLN | Instock | 193 remaining
+2025-04-22 16:04:26,897 [play_variants] INFO: [22/209] Play S BN2009884: 7499.00 PLN | Instock | 187 remaining
+2025-04-22 16:04:27,960 [play_variants] INFO: 😴 Sleeping for 2.39 seconds before request 20/209
+2025-04-22 16:04:27,988 [play_variants] INFO: 😴 Sleeping for 2.47 seconds before request 18/209
+2025-04-22 16:04:28,177 [play_variants] INFO: 😴 Sleeping for 1.82 seconds before request 24/209
+2025-04-22 16:04:30,087 [play_variants] INFO: [23/209] Play S BN2009882: 5499.00 PLN | Instock | 186 remaining
+2025-04-22 16:04:30,422 [play_variants] INFO: [19/209] Play M BN2009880: 4799.00 PLN | Instock | 190 remaining
+2025-04-22 16:04:30,536 [play_variants] INFO: [17/209] Play L BN2009879: 5399.00 PLN | Instock | 192 remaining
+2025-04-22 16:04:31,486 [play_variants] INFO: 😴 Sleeping for 1.00 seconds before request 25/209
+2025-04-22 16:04:31,630 [play_variants] INFO: 😴 Sleeping for 2.07 seconds before request 21/209
+2025-04-22 16:04:31,789 [play_variants] INFO: 😴 Sleeping for 1.80 seconds before request 19/209
+2025-04-22 16:04:32,559 [play_variants] INFO: [24/209] Play S BN2009883: 6399.00 PLN | Instock | 185 remaining
+2025-04-22 16:04:33,658 [play_variants] INFO: [18/209] Play L BN2009875: 4299.00 PLN | Instock | 191 remaining
+2025-04-22 16:04:33,784 [play_variants] INFO: [20/209] Play M BN2009881: 5899.00 PLN | Instock | 189 remaining
+2025-04-22 16:04:34,103 [play_variants] INFO: 😴 Sleeping for 1.15 seconds before request 26/209
+2025-04-22 16:04:35,046 [play_variants] INFO: 😴 Sleeping for 1.88 seconds before request 22/209
+2025-04-22 16:04:35,062 [play_variants] INFO: 😴 Sleeping for 1.96 seconds before request 20/209
+2025-04-22 16:04:35,333 [play_variants] INFO: [25/209] Play S BN2009886: 7899.00 PLN | Instock | 184 remaining
+2025-04-22 16:04:36,566 [play_variants] INFO: 😴 Sleeping for 2.47 seconds before request 27/209
+2025-04-22 16:04:37,010 [play_variants] INFO: [21/209] Play M BN2009876: 4899.00 PLN | Instock | 188 remaining
+2025-04-22 16:04:37,075 [play_variants] INFO: [19/209] Play L BN2009880: 4799.00 PLN | Instock | 190 remaining
+2025-04-22 16:04:39,113 [play_variants] INFO: [26/209] Play S BN2009877: 5899.00 PLN | Instock | 183 remaining
+2025-04-22 16:04:39,568 [play_variants] INFO: 😴 Sleeping for 1.49 seconds before request 23/209
+2025-04-22 16:04:39,703 [play_variants] INFO: 😴 Sleeping for 1.53 seconds before request 21/209
+2025-04-22 16:04:40,486 [play_variants] INFO: 😴 Sleeping for 2.95 seconds before request 28/209
+2025-04-22 16:04:41,126 [play_variants] INFO: [22/209] Play M BN2009884: 7499.00 PLN | Instock | 187 remaining
+2025-04-22 16:04:41,303 [play_variants] INFO: [20/209] Play L BN2009881: 5899.00 PLN | Instock | 189 remaining
+2025-04-22 16:04:42,322 [play_variants] INFO: 😴 Sleeping for 2.87 seconds before request 24/209
+2025-04-22 16:04:42,522 [play_variants] INFO: 😴 Sleeping for 1.56 seconds before request 22/209
+2025-04-22 16:04:43,509 [play_variants] INFO: [27/209] Play S BN2009885: 6899.00 PLN | Instock | 182 remaining
+2025-04-22 16:04:44,169 [play_variants] INFO: [21/209] Play L BN2009876: 4899.00 PLN | Instock | 188 remaining
+2025-04-22 16:04:44,818 [play_variants] INFO: 😴 Sleeping for 1.21 seconds before request 29/209
+2025-04-22 16:04:45,264 [play_variants] INFO: [23/209] Play M BN2009882: 5499.00 PLN | Instock | 186 remaining
+2025-04-22 16:04:45,582 [play_variants] INFO: 😴 Sleeping for 1.14 seconds before request 23/209
+2025-04-22 16:04:46,093 [play_variants] INFO: [28/209] Play S BN2010109: 2999.00 PLN | Instock | 181 remaining
+2025-04-22 16:04:46,473 [play_variants] INFO: 😴 Sleeping for 1.11 seconds before request 25/209
+2025-04-22 16:04:46,783 [play_variants] INFO: [22/209] Play L BN2009884: 7499.00 PLN | Instock | 187 remaining
+2025-04-22 16:04:47,352 [play_variants] INFO: 😴 Sleeping for 2.71 seconds before request 30/209
+2025-04-22 16:04:47,667 [play_variants] INFO: [24/209] Play M BN2009883: 6399.00 PLN | Instock | 185 remaining
+2025-04-22 16:04:48,111 [play_variants] INFO: 😴 Sleeping for 2.08 seconds before request 24/209
+2025-04-22 16:04:48,910 [play_variants] INFO: 😴 Sleeping for 2.49 seconds before request 26/209
+2025-04-22 16:04:50,137 [play_variants] INFO: [29/209] Play S BN2010110: 3499.00 PLN | Instock | 180 remaining
+2025-04-22 16:04:50,281 [play_variants] INFO: [23/209] Play L BN2009882: 5499.00 PLN | Instock | 186 remaining
+2025-04-22 16:04:51,344 [play_variants] INFO: 😴 Sleeping for 1.72 seconds before request 31/209
+2025-04-22 16:04:51,470 [play_variants] INFO: [25/209] Play M BN2009886: 7899.00 PLN | Instock | 184 remaining
+2025-04-22 16:04:51,575 [play_variants] INFO: 😴 Sleeping for 2.28 seconds before request 25/209
+2025-04-22 16:04:52,712 [play_variants] INFO: 😴 Sleeping for 1.56 seconds before request 27/209
+2025-04-22 16:04:53,135 [play_variants] INFO: [30/209] Play S BN2010108: 4499.00 PLN | Instock | 179 remaining
+2025-04-22 16:04:53,920 [play_variants] INFO: [24/209] Play L BN2009883: 6399.00 PLN | Instock | 185 remaining
+2025-04-22 16:04:54,355 [play_variants] INFO: [26/209] Play M BN2009877: 5899.00 PLN | Instock | 183 remaining
+2025-04-22 16:04:54,383 [play_variants] INFO: 😴 Sleeping for 1.14 seconds before request 32/209
+2025-04-22 16:04:55,151 [play_variants] INFO: 😴 Sleeping for 2.47 seconds before request 26/209
+2025-04-22 16:04:55,623 [play_variants] INFO: [31/209] Play S BN4000658: 0.00 PLN | Outstock | 178 remaining
+2025-04-22 16:04:55,703 [play_variants] INFO: 😴 Sleeping for 2.70 seconds before request 28/209
+2025-04-22 16:04:56,858 [play_variants] INFO: 😴 Sleeping for 2.42 seconds before request 33/209
+2025-04-22 16:04:57,706 [play_variants] INFO: [25/209] Play L BN2009886: 7899.00 PLN | Instock | 184 remaining
+2025-04-22 16:04:58,475 [play_variants] INFO: [27/209] Play M BN2009885: 6899.00 PLN | Instock | 182 remaining
+2025-04-22 16:04:59,335 [play_variants] INFO: [32/209] Play S BN2009903: 2499.00 PLN | Instock | 177 remaining
+2025-04-22 16:04:59,705 [play_variants] INFO: 😴 Sleeping for 2.28 seconds before request 29/209
+2025-04-22 16:05:00,343 [play_variants] INFO: 😴 Sleeping for 2.47 seconds before request 27/209
+2025-04-22 16:05:00,579 [play_variants] INFO: 😴 Sleeping for 1.07 seconds before request 34/209
+2025-04-22 16:05:01,726 [play_variants] INFO: [33/209] Play S BN2009905: 2699.00 PLN | Instock | 176 remaining
+2025-04-22 16:05:02,044 [play_variants] INFO: [28/209] Play M BN2010109: 2999.00 PLN | Instock | 181 remaining
+2025-04-22 16:05:02,878 [play_variants] INFO: [26/209] Play L BN2009877: 5899.00 PLN | Instock | 183 remaining
+2025-04-22 16:05:02,956 [play_variants] INFO: 😴 Sleeping for 1.68 seconds before request 35/209
+2025-04-22 16:05:03,405 [play_variants] INFO: 😴 Sleeping for 1.24 seconds before request 30/209
+2025-04-22 16:05:04,169 [play_variants] INFO: 😴 Sleeping for 1.06 seconds before request 28/209
+2025-04-22 16:05:04,712 [play_variants] INFO: [34/209] Play S BN2009137: 3999.00 PLN | Instock | 175 remaining
+2025-04-22 16:05:04,730 [play_variants] INFO: [29/209] Play M BN2010110: 3499.00 PLN | Instock | 180 remaining
+2025-04-22 16:05:05,301 [play_variants] INFO: [27/209] Play L BN2009885: 6899.00 PLN | Instock | 182 remaining
+2025-04-22 16:05:05,955 [play_variants] INFO: 😴 Sleeping for 2.63 seconds before request 31/209
+2025-04-22 16:05:05,955 [play_variants] INFO: 😴 Sleeping for 2.90 seconds before request 36/209
+2025-04-22 16:05:06,706 [play_variants] INFO: 😴 Sleeping for 1.97 seconds before request 29/209
+2025-04-22 16:05:08,665 [play_variants] INFO: [30/209] Play M BN2010108: 4499.00 PLN | Instock | 179 remaining
+2025-04-22 16:05:08,745 [play_variants] INFO: [28/209] Play L BN2010109: 2999.00 PLN | Instock | 181 remaining
+2025-04-22 16:05:08,917 [play_variants] INFO: [35/209] Play S BN2008453: 0.00 PLN | Outstock | 174 remaining
+2025-04-22 16:05:09,958 [play_variants] INFO: 😴 Sleeping for 1.07 seconds before request 32/209
+2025-04-22 16:05:10,005 [play_variants] INFO: 😴 Sleeping for 1.31 seconds before request 30/209
+2025-04-22 16:05:10,186 [play_variants] INFO: 😴 Sleeping for 1.89 seconds before request 37/209
+2025-04-22 16:05:11,078 [play_variants] INFO: [31/209] Play M BN4000658: 0.00 PLN | Outstock | 178 remaining
+2025-04-22 16:05:11,380 [play_variants] INFO: [29/209] Play L BN2010110: 3499.00 PLN | Instock | 180 remaining
+2025-04-22 16:05:12,161 [play_variants] INFO: [36/209] Play S BN2009218: 1999.00 PLN | Instock | 173 remaining
+2025-04-22 16:05:12,342 [play_variants] INFO: 😴 Sleeping for 1.76 seconds before request 33/209
+2025-04-22 16:05:12,679 [play_variants] INFO: 😴 Sleeping for 1.13 seconds before request 31/209
+2025-04-22 16:05:13,438 [play_variants] INFO: 😴 Sleeping for 2.37 seconds before request 38/209
+2025-04-22 16:05:13,888 [play_variants] INFO: [30/209] Play L BN2010108: 4499.00 PLN | Instock | 179 remaining
+2025-04-22 16:05:14,167 [play_variants] INFO: [32/209] Play M BN2009903: 2499.00 PLN | Instock | 177 remaining
+2025-04-22 16:05:15,135 [play_variants] INFO: 😴 Sleeping for 2.54 seconds before request 32/209
+2025-04-22 16:05:15,423 [play_variants] INFO: 😴 Sleeping for 2.87 seconds before request 34/209
+2025-04-22 16:05:15,882 [play_variants] INFO: [37/209] Play S BN2009219: 0.00 PLN | Outstock | 172 remaining
+2025-04-22 16:05:17,106 [play_variants] INFO: 😴 Sleeping for 2.06 seconds before request 39/209
+2025-04-22 16:05:17,743 [play_variants] INFO: [31/209] Play L BN4000658: 0.00 PLN | Outstock | 178 remaining
+2025-04-22 16:05:18,357 [play_variants] INFO: [33/209] Play M BN2009905: 2699.00 PLN | Instock | 176 remaining
+2025-04-22 16:05:19,025 [play_variants] INFO: 😴 Sleeping for 1.79 seconds before request 33/209
+2025-04-22 16:05:19,245 [play_variants] INFO: [38/209] Play S BN2009220: 0.00 PLN | Outstock | 171 remaining
+2025-04-22 16:05:19,790 [play_variants] INFO: 😴 Sleeping for 1.86 seconds before request 35/209
+2025-04-22 16:05:20,542 [play_variants] INFO: 😴 Sleeping for 1.14 seconds before request 40/209
+2025-04-22 16:05:20,876 [play_variants] INFO: [32/209] Play L BN2009903: 2499.00 PLN | Instock | 177 remaining
+2025-04-22 16:05:21,731 [play_variants] INFO: [34/209] Play M BN2009137: 3999.00 PLN | Instock | 175 remaining
+2025-04-22 16:05:21,748 [play_variants] INFO: [39/209] Play S BN2009570: 1599.00 PLN | Instock | 170 remaining
+2025-04-22 16:05:22,163 [play_variants] INFO: 😴 Sleeping for 2.34 seconds before request 34/209
+2025-04-22 16:05:22,940 [play_variants] INFO: 😴 Sleeping for 1.66 seconds before request 36/209
+2025-04-22 16:05:23,032 [play_variants] INFO: 😴 Sleeping for 2.06 seconds before request 41/209
+2025-04-22 16:05:24,557 [play_variants] INFO: [33/209] Play L BN2009905: 2699.00 PLN | Instock | 176 remaining
+2025-04-22 16:05:24,669 [play_variants] INFO: [35/209] Play M BN2008453: 0.00 PLN | Outstock | 174 remaining
+2025-04-22 16:05:25,163 [play_variants] INFO: [40/209] Play S BN2009616: 0.00 PLN | Outstock | 169 remaining
+2025-04-22 16:05:25,801 [play_variants] INFO: 😴 Sleeping for 1.38 seconds before request 35/209
+2025-04-22 16:05:25,895 [play_variants] INFO: 😴 Sleeping for 1.79 seconds before request 37/209
+2025-04-22 16:05:26,392 [play_variants] INFO: 😴 Sleeping for 2.57 seconds before request 42/209
+2025-04-22 16:05:27,228 [play_variants] INFO: [34/209] Play L BN2009137: 3999.00 PLN | Instock | 175 remaining
+2025-04-22 16:05:27,756 [play_variants] INFO: [36/209] Play M BN2009218: 1999.00 PLN | Instock | 173 remaining
+2025-04-22 16:05:28,514 [play_variants] INFO: 😴 Sleeping for 2.60 seconds before request 36/209
+2025-04-22 16:05:29,032 [play_variants] INFO: 😴 Sleeping for 2.45 seconds before request 38/209
+2025-04-22 16:05:29,036 [play_variants] INFO: [41/209] Play S BN2009762: 2949.00 PLN | Instock | 168 remaining
+2025-04-22 16:05:30,268 [play_variants] INFO: 😴 Sleeping for 2.39 seconds before request 43/209
+2025-04-22 16:05:31,184 [play_variants] INFO: [35/209] Play L BN2008453: 0.00 PLN | Outstock | 174 remaining
+2025-04-22 16:05:31,567 [play_variants] INFO: [37/209] Play M BN2009219: 0.00 PLN | Outstock | 172 remaining
+2025-04-22 16:05:32,495 [play_variants] INFO: 😴 Sleeping for 2.05 seconds before request 37/209
+2025-04-22 16:05:32,721 [play_variants] INFO: [42/209] Play S BN2009766: 0.00 PLN | Outstock | 167 remaining
+2025-04-22 16:05:32,831 [play_variants] INFO: 😴 Sleeping for 2.64 seconds before request 39/209
+2025-04-22 16:05:33,975 [play_variants] INFO: 😴 Sleeping for 1.19 seconds before request 44/209
+2025-04-22 16:05:34,618 [play_variants] INFO: [36/209] Play L BN2009218: 1999.00 PLN | Instock | 173 remaining
+2025-04-22 16:05:35,242 [play_variants] INFO: [43/209] Play S BN2009765: 3799.00 PLN | Instock | 166 remaining
+2025-04-22 16:05:35,554 [play_variants] INFO: [38/209] Play M BN2009220: 0.00 PLN | Outstock | 171 remaining
+2025-04-22 16:05:35,872 [play_variants] INFO: 😴 Sleeping for 1.02 seconds before request 38/209
+2025-04-22 16:05:36,497 [play_variants] INFO: 😴 Sleeping for 2.26 seconds before request 45/209
+2025-04-22 16:05:36,815 [play_variants] INFO: 😴 Sleeping for 2.58 seconds before request 40/209
+2025-04-22 16:05:36,960 [play_variants] INFO: [37/209] Play L BN2009219: 0.00 PLN | Outstock | 172 remaining
+2025-04-22 16:05:38,478 [play_variants] INFO: 😴 Sleeping for 1.80 seconds before request 39/209
+2025-04-22 16:05:38,821 [play_variants] INFO: [44/209] Play S BN2009770: 4199.00 PLN | Instock | 165 remaining
+2025-04-22 16:05:39,465 [play_variants] INFO: [39/209] Play M BN2009570: 1599.00 PLN | Instock | 170 remaining
+2025-04-22 16:05:40,057 [play_variants] INFO: 😴 Sleeping for 1.15 seconds before request 46/209
+2025-04-22 16:05:40,348 [play_variants] INFO: [38/209] Play L BN2009220: 0.00 PLN | Outstock | 171 remaining
+2025-04-22 16:05:40,699 [play_variants] INFO: 😴 Sleeping for 2.46 seconds before request 41/209
+2025-04-22 16:05:41,286 [play_variants] INFO: [45/209] Play S BN2009764: 4399.00 PLN | Instock | 164 remaining
+2025-04-22 16:05:41,611 [play_variants] INFO: 😴 Sleeping for 1.75 seconds before request 40/209
+2025-04-22 16:05:42,581 [play_variants] INFO: 😴 Sleeping for 1.10 seconds before request 47/209
+2025-04-22 16:05:43,222 [play_variants] INFO: [40/209] Play M BN2009616: 0.00 PLN | Outstock | 169 remaining
+2025-04-22 16:05:43,447 [play_variants] INFO: [39/209] Play L BN2009570: 1599.00 PLN | Instock | 170 remaining
+2025-04-22 16:05:43,762 [play_variants] INFO: [46/209] Play S BN2009768: 0.00 PLN | Outstock | 163 remaining
+2025-04-22 16:05:44,511 [play_variants] INFO: 😴 Sleeping for 1.38 seconds before request 42/209
+2025-04-22 16:05:44,805 [play_variants] INFO: 😴 Sleeping for 2.23 seconds before request 41/209
+2025-04-22 16:05:44,981 [play_variants] INFO: 😴 Sleeping for 1.50 seconds before request 48/209
+2025-04-22 16:05:45,968 [play_variants] INFO: [41/209] Play M BN2009762: 2949.00 PLN | Instock | 168 remaining
+2025-04-22 16:05:46,543 [play_variants] INFO: [47/209] Play S BN2009769: 5399.00 PLN | Instock | 162 remaining
+2025-04-22 16:05:47,106 [play_variants] INFO: [40/209] Play L BN2009616: 0.00 PLN | Outstock | 169 remaining
+2025-04-22 16:05:47,297 [play_variants] INFO: 😴 Sleeping for 2.16 seconds before request 43/209
+2025-04-22 16:05:47,823 [play_variants] INFO: 😴 Sleeping for 1.23 seconds before request 49/209
+2025-04-22 16:05:48,371 [play_variants] INFO: 😴 Sleeping for 1.97 seconds before request 42/209
+2025-04-22 16:05:49,109 [play_variants] INFO: [48/209] Play S BN2008421: 349.00 PLN | Instock | 161 remaining
+2025-04-22 16:05:49,521 [play_variants] INFO: [42/209] Play M BN2009766: 0.00 PLN | Outstock | 167 remaining
+2025-04-22 16:05:50,369 [play_variants] INFO: 😴 Sleeping for 1.16 seconds before request 50/209
+2025-04-22 16:05:50,448 [play_variants] INFO: [41/209] Play L BN2009762: 2949.00 PLN | Instock | 168 remaining
+2025-04-22 16:05:50,874 [play_variants] INFO: 😴 Sleeping for 1.40 seconds before request 44/209
+2025-04-22 16:05:51,610 [play_variants] INFO: [49/209] Play S BN2009390: 1799.00 PLN | Instock | 160 remaining
+2025-04-22 16:05:51,769 [play_variants] INFO: 😴 Sleeping for 1.54 seconds before request 43/209
+2025-04-22 16:05:52,344 [play_variants] INFO: [43/209] Play M BN2009765: 3799.00 PLN | Instock | 166 remaining
+2025-04-22 16:05:52,902 [play_variants] INFO: 😴 Sleeping for 2.40 seconds before request 51/209
+2025-04-22 16:05:53,379 [play_variants] INFO: [42/209] Play L BN2009766: 0.00 PLN | Outstock | 167 remaining
+2025-04-22 16:05:53,602 [play_variants] INFO: 😴 Sleeping for 2.15 seconds before request 45/209
+2025-04-22 16:05:54,752 [play_variants] INFO: 😴 Sleeping for 2.66 seconds before request 44/209
+2025-04-22 16:05:55,368 [play_variants] INFO: [50/209] Play S BN2008841: 0.00 PLN | Outstock | 159 remaining
+2025-04-22 16:05:55,830 [play_variants] INFO: [44/209] Play M BN2009770: 4199.00 PLN | Instock | 165 remaining
+2025-04-22 16:05:56,619 [play_variants] INFO: 😴 Sleeping for 2.82 seconds before request 52/209
+2025-04-22 16:05:57,043 [play_variants] INFO: 😴 Sleeping for 1.55 seconds before request 46/209
+2025-04-22 16:05:57,489 [play_variants] INFO: [43/209] Play L BN2009765: 3799.00 PLN | Instock | 166 remaining
+2025-04-22 16:05:58,669 [play_variants] INFO: [45/209] Play M BN2009764: 4399.00 PLN | Instock | 164 remaining
+2025-04-22 16:05:58,772 [play_variants] INFO: 😴 Sleeping for 1.96 seconds before request 45/209
+2025-04-22 16:05:59,524 [play_variants] INFO: [51/209] Play S BN2009095: 1099.00 PLN | Instock | 158 remaining
+2025-04-22 16:05:59,920 [play_variants] INFO: 😴 Sleeping for 1.80 seconds before request 47/209
+2025-04-22 16:06:00,758 [play_variants] INFO: 😴 Sleeping for 2.91 seconds before request 53/209
+2025-04-22 16:06:00,812 [play_variants] INFO: [44/209] Play L BN2009770: 4199.00 PLN | Instock | 165 remaining
+2025-04-22 16:06:01,790 [play_variants] INFO: [46/209] Play M BN2009768: 0.00 PLN | Outstock | 163 remaining
+2025-04-22 16:06:02,100 [play_variants] INFO: 😴 Sleeping for 2.02 seconds before request 46/209
+2025-04-22 16:06:03,056 [play_variants] INFO: 😴 Sleeping for 1.17 seconds before request 48/209
+2025-04-22 16:06:03,734 [play_variants] INFO: [52/209] Play S BN2009096: 0.00 PLN | Outstock | 157 remaining
+2025-04-22 16:06:04,199 [play_variants] INFO: [45/209] Play L BN2009764: 4399.00 PLN | Instock | 164 remaining
+2025-04-22 16:06:04,291 [play_variants] INFO: [47/209] Play M BN2009769: 5399.00 PLN | Instock | 162 remaining
+2025-04-22 16:06:04,963 [play_variants] INFO: 😴 Sleeping for 1.42 seconds before request 54/209
+2025-04-22 16:06:05,424 [play_variants] INFO: 😴 Sleeping for 1.58 seconds before request 47/209
+2025-04-22 16:06:05,696 [play_variants] INFO: 😴 Sleeping for 2.87 seconds before request 49/209
+2025-04-22 16:06:06,449 [play_variants] INFO: [53/209] Play S BN2009097: 0.00 PLN | Outstock | 156 remaining
+2025-04-22 16:06:07,072 [play_variants] INFO: [46/209] Play L BN2009768: 0.00 PLN | Outstock | 163 remaining
+2025-04-22 16:06:07,743 [play_variants] INFO: 😴 Sleeping for 1.15 seconds before request 55/209
+2025-04-22 16:06:08,311 [play_variants] INFO: 😴 Sleeping for 2.84 seconds before request 48/209
+2025-04-22 16:06:08,640 [play_variants] INFO: [48/209] Play M BN2008421: 349.00 PLN | Instock | 161 remaining
+2025-04-22 16:06:08,981 [play_variants] INFO: [54/209] Play S AN00000223: 1299.00 PLN | Instock | 155 remaining
+2025-04-22 16:06:09,864 [play_variants] INFO: 😴 Sleeping for 1.84 seconds before request 50/209
+2025-04-22 16:06:10,245 [play_variants] INFO: 😴 Sleeping for 2.41 seconds before request 56/209
+2025-04-22 16:06:11,219 [play_variants] INFO: [47/209] Play L BN2009769: 5399.00 PLN | Instock | 162 remaining
+2025-04-22 16:06:11,779 [play_variants] INFO: [49/209] Play M BN2009390: 1799.00 PLN | Instock | 160 remaining
+2025-04-22 16:06:12,571 [play_variants] INFO: 😴 Sleeping for 1.62 seconds before request 49/209
+2025-04-22 16:06:12,731 [play_variants] INFO: [55/209] Play S AN00000225: 999.00 PLN | Instock | 154 remaining
+2025-04-22 16:06:13,078 [play_variants] INFO: 😴 Sleeping for 1.87 seconds before request 51/209
+2025-04-22 16:06:13,971 [play_variants] INFO: 😴 Sleeping for 2.61 seconds before request 57/209
+2025-04-22 16:06:14,246 [play_variants] INFO: [48/209] Play L BN2008421: 349.00 PLN | Instock | 161 remaining
+2025-04-22 16:06:15,025 [play_variants] INFO: [50/209] Play M BN2008841: 0.00 PLN | Outstock | 159 remaining
+2025-04-22 16:06:15,535 [play_variants] INFO: 😴 Sleeping for 1.23 seconds before request 50/209
+2025-04-22 16:06:16,272 [play_variants] INFO: 😴 Sleeping for 1.63 seconds before request 52/209
+2025-04-22 16:06:16,653 [play_variants] INFO: [56/209] Play S AN00000224: 999.00 PLN | Instock | 153 remaining
+2025-04-22 16:06:16,828 [play_variants] INFO: [49/209] Play L BN2009390: 1799.00 PLN | Instock | 160 remaining
+2025-04-22 16:06:17,952 [play_variants] INFO: 😴 Sleeping for 2.61 seconds before request 58/209
+2025-04-22 16:06:17,992 [play_variants] INFO: [51/209] Play M BN2009095: 1049.00 PLN | Instock | 158 remaining
+2025-04-22 16:06:18,080 [play_variants] INFO: 😴 Sleeping for 2.15 seconds before request 51/209
+2025-04-22 16:06:19,309 [play_variants] INFO: 😴 Sleeping for 2.30 seconds before request 53/209
+2025-04-22 16:06:20,315 [play_variants] INFO: [50/209] Play L BN2008841: 0.00 PLN | Outstock | 159 remaining
+2025-04-22 16:06:20,631 [play_variants] INFO: [57/209] Play S AN00000227: 1899.00 PLN | Instock | 152 remaining
+2025-04-22 16:06:21,685 [play_variants] INFO: [52/209] Play M BN2009096: 0.00 PLN | Outstock | 157 remaining
+2025-04-22 16:06:21,733 [play_variants] INFO: 😴 Sleeping for 1.93 seconds before request 52/209
+2025-04-22 16:06:21,912 [play_variants] INFO: 😴 Sleeping for 1.59 seconds before request 59/209
+2025-04-22 16:06:23,073 [play_variants] INFO: 😴 Sleeping for 1.17 seconds before request 54/209
+2025-04-22 16:06:23,568 [play_variants] INFO: [58/209] Play S BN2009056: 1999.00 PLN | Instock | 151 remaining
+2025-04-22 16:06:23,745 [play_variants] INFO: [51/209] Play L BN2009095: 1029.00 PLN | Instock | 158 remaining
+2025-04-22 16:06:24,318 [play_variants] INFO: [53/209] Play M BN2009097: 0.00 PLN | Outstock | 156 remaining
+2025-04-22 16:06:24,865 [play_variants] INFO: 😴 Sleeping for 1.73 seconds before request 60/209
+2025-04-22 16:06:25,116 [play_variants] INFO: 😴 Sleeping for 2.59 seconds before request 53/209
+2025-04-22 16:06:26,666 [play_variants] INFO: [59/209] Play S BN2009528: 2199.00 PLN | Instock | 150 remaining
+2025-04-22 16:06:27,127 [play_variants] INFO: 😴 Sleeping for 1.35 seconds before request 55/209
+2025-04-22 16:06:27,779 [play_variants] INFO: [52/209] Play L BN2009096: 0.00 PLN | Outstock | 157 remaining
+2025-04-22 16:06:27,937 [play_variants] INFO: 😴 Sleeping for 2.37 seconds before request 61/209
+2025-04-22 16:06:28,558 [play_variants] INFO: [54/209] Play M AN00000223: 1259.00 PLN | Instock | 155 remaining
+2025-04-22 16:06:29,090 [play_variants] INFO: 😴 Sleeping for 2.37 seconds before request 54/209
+2025-04-22 16:06:29,775 [play_variants] INFO: 😴 Sleeping for 2.30 seconds before request 56/209
+2025-04-22 16:06:30,385 [play_variants] INFO: [60/209] Play S AN00000164: 0.00 PLN | Outstock | 149 remaining
+2025-04-22 16:06:31,536 [play_variants] INFO: [53/209] Play L BN2009097: 0.00 PLN | Outstock | 156 remaining
+2025-04-22 16:06:31,615 [play_variants] INFO: 😴 Sleeping for 1.24 seconds before request 62/209
+2025-04-22 16:06:32,144 [play_variants] INFO: [55/209] Play M AN00000225: 969.00 PLN | Instock | 154 remaining
+2025-04-22 16:06:32,929 [play_variants] INFO: [61/209] Play S AN00000165: 0.00 PLN | Outstock | 148 remaining
+2025-04-22 16:06:33,409 [play_variants] INFO: 😴 Sleeping for 1.88 seconds before request 57/209
+2025-04-22 16:06:34,112 [play_variants] INFO: 😴 Sleeping for 1.06 seconds before request 55/209
+2025-04-22 16:06:34,176 [play_variants] INFO: 😴 Sleeping for 1.07 seconds before request 63/209
+2025-04-22 16:06:35,249 [play_variants] INFO: [54/209] Play L AN00000223: 1249.00 PLN | Instock | 155 remaining
+2025-04-22 16:06:35,340 [play_variants] INFO: [62/209] Play S AN00000167: 799.00 PLN | Instock | 147 remaining
+2025-04-22 16:06:35,366 [play_variants] INFO: [56/209] Play M AN00000224: 969.00 PLN | Instock | 153 remaining
+2025-04-22 16:06:36,569 [play_variants] INFO: 😴 Sleeping for 1.16 seconds before request 58/209
+2025-04-22 16:06:36,583 [play_variants] INFO: 😴 Sleeping for 2.48 seconds before request 64/209
+2025-04-22 16:06:37,176 [play_variants] INFO: 😴 Sleeping for 2.40 seconds before request 56/209
+2025-04-22 16:06:37,803 [play_variants] INFO: [57/209] Play M AN00000227: 1899.00 PLN | Instock | 152 remaining
+2025-04-22 16:06:39,050 [play_variants] INFO: 😴 Sleeping for 2.69 seconds before request 59/209
+2025-04-22 16:06:39,129 [play_variants] INFO: [63/209] Play S AN00000169: 0.00 PLN | Outstock | 146 remaining
+2025-04-22 16:06:39,658 [play_variants] INFO: [55/209] Play L AN00000225: 959.00 PLN | Instock | 154 remaining
+2025-04-22 16:06:41,593 [play_variants] INFO: 😴 Sleeping for 1.11 seconds before request 57/209
+2025-04-22 16:06:41,804 [play_variants] INFO: 😴 Sleeping for 1.78 seconds before request 65/209
+2025-04-22 16:06:41,823 [play_variants] INFO: [58/209] Play M BN2009056: 1899.00 PLN | Instock | 151 remaining
+2025-04-22 16:06:42,775 [play_variants] INFO: [56/209] Play L AN00000224: 959.00 PLN | Instock | 153 remaining
+2025-04-22 16:06:43,131 [play_variants] INFO: 😴 Sleeping for 2.26 seconds before request 60/209
+2025-04-22 16:06:43,639 [play_variants] INFO: [64/209] Play S BN2008455: 0.00 PLN | Outstock | 145 remaining
+2025-04-22 16:06:44,886 [play_variants] INFO: 😴 Sleeping for 2.08 seconds before request 58/209
+2025-04-22 16:06:44,933 [play_variants] INFO: 😴 Sleeping for 2.22 seconds before request 66/209
+2025-04-22 16:06:45,458 [play_variants] INFO: [59/209] Play M BN2009528: 2199.00 PLN | Instock | 150 remaining
+2025-04-22 16:06:46,717 [play_variants] INFO: 😴 Sleeping for 1.19 seconds before request 61/209
+2025-04-22 16:06:47,045 [play_variants] INFO: [57/209] Play L AN00000227: 1899.00 PLN | Instock | 152 remaining
+2025-04-22 16:06:47,223 [play_variants] INFO: [65/209] Play S BN2008718: 0.00 PLN | Outstock | 144 remaining
+2025-04-22 16:06:47,983 [play_variants] INFO: [60/209] Play M AN00000164: 0.00 PLN | Outstock | 149 remaining
+2025-04-22 16:06:48,458 [play_variants] INFO: 😴 Sleeping for 1.93 seconds before request 67/209
+2025-04-22 16:06:48,657 [play_variants] INFO: 😴 Sleeping for 2.82 seconds before request 59/209
+2025-04-22 16:06:49,211 [play_variants] INFO: 😴 Sleeping for 1.31 seconds before request 62/209
+2025-04-22 16:06:50,454 [play_variants] INFO: [66/209] Play S BN2008969: 0.00 PLN | Outstock | 143 remaining
+2025-04-22 16:06:50,596 [play_variants] INFO: [61/209] Play M AN00000165: 0.00 PLN | Outstock | 148 remaining
+2025-04-22 16:06:51,554 [play_variants] INFO: [58/209] Play L BN2009056: 1849.00 PLN | Instock | 151 remaining
+2025-04-22 16:06:51,802 [play_variants] INFO: 😴 Sleeping for 1.51 seconds before request 68/209
+2025-04-22 16:06:51,857 [play_variants] INFO: 😴 Sleeping for 1.92 seconds before request 63/209
+2025-04-22 16:06:53,153 [play_variants] INFO: 😴 Sleeping for 1.91 seconds before request 60/209
+2025-04-22 16:06:53,385 [play_variants] INFO: [67/209] Play S BN2009433: 1719.00 PLN | Instock | 142 remaining
+2025-04-22 16:06:53,850 [play_variants] INFO: [62/209] Play M AN00000167: 799.00 PLN | Instock | 147 remaining
+2025-04-22 16:06:54,598 [play_variants] INFO: 😴 Sleeping for 2.15 seconds before request 69/209
+2025-04-22 16:06:55,083 [play_variants] INFO: 😴 Sleeping for 2.30 seconds before request 64/209
+2025-04-22 16:06:55,139 [play_variants] INFO: [59/209] Play L BN2009528: 2199.00 PLN | Instock | 150 remaining
+2025-04-22 16:06:56,355 [play_variants] INFO: 😴 Sleeping for 1.06 seconds before request 61/209
+2025-04-22 16:06:56,823 [play_variants] INFO: [68/209] Play S BN2009287: 1999.00 PLN | Instock | 141 remaining
+2025-04-22 16:06:57,444 [play_variants] INFO: [63/209] Play M AN00000169: 0.00 PLN | Outstock | 146 remaining
+2025-04-22 16:06:57,476 [play_variants] INFO: [60/209] Play L AN00000164: 0.00 PLN | Outstock | 149 remaining
+2025-04-22 16:06:58,082 [play_variants] INFO: 😴 Sleeping for 1.26 seconds before request 70/209
+2025-04-22 16:06:58,675 [play_variants] INFO: 😴 Sleeping for 1.15 seconds before request 65/209
+2025-04-22 16:06:58,714 [play_variants] INFO: 😴 Sleeping for 1.80 seconds before request 62/209
+2025-04-22 16:06:59,435 [play_variants] INFO: [69/209] Play S BN2009157: 2799.00 PLN | Instock | 140 remaining
+2025-04-22 16:06:59,908 [play_variants] INFO: [64/209] Play M BN2008455: 0.00 PLN | Outstock | 145 remaining
+2025-04-22 16:07:00,561 [play_variants] INFO: [61/209] Play L AN00000165: 0.00 PLN | Outstock | 148 remaining
+2025-04-22 16:07:00,737 [play_variants] INFO: 😴 Sleeping for 2.86 seconds before request 71/209
+2025-04-22 16:07:01,203 [play_variants] INFO: 😴 Sleeping for 2.43 seconds before request 66/209
+2025-04-22 16:07:01,845 [play_variants] INFO: 😴 Sleeping for 2.56 seconds before request 63/209
+2025-04-22 16:07:03,669 [play_variants] INFO: [70/209] Play S BN2009152: 449.00 PLN | Instock | 139 remaining
+2025-04-22 16:07:03,710 [play_variants] INFO: [65/209] Play M BN2008718: 0.00 PLN | Outstock | 144 remaining
+2025-04-22 16:07:04,481 [play_variants] INFO: [62/209] Play L AN00000167: 799.00 PLN | Instock | 147 remaining
+2025-04-22 16:07:04,907 [play_variants] INFO: 😴 Sleeping for 1.45 seconds before request 72/209
+2025-04-22 16:07:04,938 [play_variants] INFO: 😴 Sleeping for 1.61 seconds before request 67/209
+2025-04-22 16:07:05,707 [play_variants] INFO: 😴 Sleeping for 1.98 seconds before request 64/209
+2025-04-22 16:07:06,433 [play_variants] INFO: [71/209] Play S BN2008705: 0.00 PLN | Outstock | 138 remaining
+2025-04-22 16:07:06,606 [play_variants] INFO: [66/209] Play M BN2008969: 0.00 PLN | Outstock | 143 remaining
+2025-04-22 16:07:07,747 [play_variants] INFO: [63/209] Play L AN00000169: 0.00 PLN | Outstock | 146 remaining
+2025-04-22 16:07:07,787 [play_variants] INFO: 😴 Sleeping for 1.51 seconds before request 73/209
+2025-04-22 16:07:07,850 [play_variants] INFO: 😴 Sleeping for 1.28 seconds before request 68/209
+2025-04-22 16:07:08,977 [play_variants] INFO: 😴 Sleeping for 2.65 seconds before request 65/209
+2025-04-22 16:07:09,201 [play_variants] INFO: [67/209] Play M BN2009433: 1599.00 PLN | Instock | 142 remaining
+2025-04-22 16:07:09,360 [play_variants] INFO: [72/209] Play S BN2009154: 0.00 PLN | Outstock | 137 remaining
+2025-04-22 16:07:10,471 [play_variants] INFO: 😴 Sleeping for 2.43 seconds before request 69/209
+2025-04-22 16:07:10,800 [play_variants] INFO: 😴 Sleeping for 1.21 seconds before request 74/209
+2025-04-22 16:07:11,706 [play_variants] INFO: [64/209] Play L BN2008455: 0.00 PLN | Outstock | 145 remaining
+2025-04-22 16:07:12,088 [play_variants] INFO: [73/209] Play S BN2009461: 0.00 PLN | Outstock | 136 remaining
+2025-04-22 16:07:12,982 [play_variants] INFO: [68/209] Play M BN2009287: 1799.00 PLN | Instock | 141 remaining
+2025-04-22 16:07:13,067 [play_variants] INFO: 😴 Sleeping for 1.17 seconds before request 66/209
+2025-04-22 16:07:13,387 [play_variants] INFO: 😴 Sleeping for 2.68 seconds before request 75/209
+2025-04-22 16:07:14,234 [play_variants] INFO: 😴 Sleeping for 1.24 seconds before request 70/209
+2025-04-22 16:07:14,288 [play_variants] INFO: [65/209] Play L BN2008718: 0.00 PLN | Outstock | 144 remaining
+2025-04-22 16:07:15,545 [play_variants] INFO: 😴 Sleeping for 2.42 seconds before request 67/209
+2025-04-22 16:07:15,545 [play_variants] INFO: [69/209] Play M BN2009157: 2639.00 PLN | Instock | 140 remaining
+2025-04-22 16:07:16,148 [play_variants] INFO: [74/209] Play S BN2009941: 799.00 PLN | Instock | 135 remaining
+2025-04-22 16:07:16,805 [play_variants] INFO: 😴 Sleeping for 2.73 seconds before request 71/209
+2025-04-22 16:07:17,516 [play_variants] INFO: 😴 Sleeping for 2.28 seconds before request 76/209
+2025-04-22 16:07:18,043 [play_variants] INFO: [66/209] Play L BN2008969: 0.00 PLN | Outstock | 143 remaining
+2025-04-22 16:07:19,288 [play_variants] INFO: 😴 Sleeping for 2.98 seconds before request 68/209
+2025-04-22 16:07:19,606 [play_variants] INFO: [70/209] Play M BN2009152: 399.00 PLN | Instock | 139 remaining
+2025-04-22 16:07:19,864 [play_variants] INFO: [75/209] Play S BN2008966: 0.00 PLN | Outstock | 134 remaining
+2025-04-22 16:07:20,810 [play_variants] INFO: 😴 Sleeping for 2.68 seconds before request 72/209
+2025-04-22 16:07:21,093 [play_variants] INFO: 😴 Sleeping for 1.49 seconds before request 77/209
+2025-04-22 16:07:22,348 [play_variants] INFO: [67/209] Play L BN2009433: 1499.00 PLN | Instock | 142 remaining
+2025-04-22 16:07:22,665 [play_variants] INFO: [76/209] Play S BN2008968: 0.00 PLN | Outstock | 133 remaining
+2025-04-22 16:07:23,557 [play_variants] INFO: [71/209] Play M BN2008705: 0.00 PLN | Outstock | 138 remaining
+2025-04-22 16:07:23,684 [play_variants] INFO: 😴 Sleeping for 1.85 seconds before request 69/209
+2025-04-22 16:07:23,924 [play_variants] INFO: 😴 Sleeping for 1.29 seconds before request 78/209
+2025-04-22 16:07:24,873 [play_variants] INFO: 😴 Sleeping for 2.85 seconds before request 73/209
+2025-04-22 16:07:25,285 [play_variants] INFO: [77/209] Play S BN2009289: 1199.00 PLN | Instock | 132 remaining
+2025-04-22 16:07:25,640 [play_variants] INFO: [68/209] Play L BN2009287: 1799.00 PLN | Instock | 141 remaining
+2025-04-22 16:07:26,569 [play_variants] INFO: 😴 Sleeping for 1.26 seconds before request 79/209
+2025-04-22 16:07:26,879 [play_variants] INFO: 😴 Sleeping for 2.99 seconds before request 70/209
+2025-04-22 16:07:27,804 [play_variants] INFO: [72/209] Play M BN2009154: 0.00 PLN | Outstock | 137 remaining
+2025-04-22 16:07:27,910 [play_variants] INFO: [78/209] Play S BN2008845: 0.00 PLN | Outstock | 131 remaining
+2025-04-22 16:07:29,071 [play_variants] INFO: 😴 Sleeping for 1.83 seconds before request 74/209
+2025-04-22 16:07:29,167 [play_variants] INFO: 😴 Sleeping for 1.16 seconds before request 80/209
+2025-04-22 16:07:29,951 [play_variants] INFO: [69/209] Play L BN2009157: 2549.00 PLN | Instock | 140 remaining
+2025-04-22 16:07:30,414 [play_variants] INFO: [79/209] Play S BN2008719: 0.00 PLN | Outstock | 130 remaining
+2025-04-22 16:07:30,971 [play_variants] INFO: [73/209] Play M BN2009461: 0.00 PLN | Outstock | 136 remaining
+2025-04-22 16:07:31,194 [play_variants] INFO: 😴 Sleeping for 1.33 seconds before request 71/209
+2025-04-22 16:07:31,709 [play_variants] INFO: 😴 Sleeping for 2.08 seconds before request 81/209
+2025-04-22 16:07:32,170 [play_variants] INFO: 😴 Sleeping for 2.96 seconds before request 75/209
+2025-04-22 16:07:32,598 [play_variants] INFO: [70/209] Play L BN2009152: 369.00 PLN | Instock | 139 remaining
+2025-04-22 16:07:33,846 [play_variants] INFO: 😴 Sleeping for 2.96 seconds before request 72/209
+2025-04-22 16:07:33,857 [play_variants] INFO: [80/209] Play S AN00000256: 1419.00 PLN | Instock | 129 remaining
+2025-04-22 16:07:35,165 [play_variants] INFO: 😴 Sleeping for 2.33 seconds before request 82/209
+2025-04-22 16:07:35,203 [play_variants] INFO: [74/209] Play M BN2009941: 739.00 PLN | Instock | 135 remaining
+2025-04-22 16:07:36,594 [play_variants] INFO: 😴 Sleeping for 1.28 seconds before request 76/209
+2025-04-22 16:07:36,881 [play_variants] INFO: [71/209] Play L BN2008705: 0.00 PLN | Outstock | 138 remaining
+2025-04-22 16:07:37,567 [play_variants] INFO: [81/209] Play S BN2009286: 0.00 PLN | Outstock | 128 remaining
+2025-04-22 16:07:37,950 [play_variants] INFO: [75/209] Play M BN2008966: 0.00 PLN | Outstock | 134 remaining
+2025-04-22 16:07:38,293 [play_variants] INFO: 😴 Sleeping for 2.06 seconds before request 73/209
+2025-04-22 16:07:38,829 [play_variants] INFO: 😴 Sleeping for 2.27 seconds before request 83/209
+2025-04-22 16:07:39,176 [play_variants] INFO: 😴 Sleeping for 2.96 seconds before request 77/209
+2025-04-22 16:07:40,424 [play_variants] INFO: [72/209] Play L BN2009154: 0.00 PLN | Outstock | 137 remaining
+2025-04-22 16:07:41,258 [play_variants] INFO: [82/209] Play S BN2009285: 0.00 PLN | Outstock | 127 remaining
+2025-04-22 16:07:41,716 [play_variants] INFO: 😴 Sleeping for 1.28 seconds before request 74/209
+2025-04-22 16:07:42,216 [play_variants] INFO: [76/209] Play M BN2008968: 0.00 PLN | Outstock | 133 remaining
+2025-04-22 16:07:42,520 [play_variants] INFO: 😴 Sleeping for 2.93 seconds before request 84/209
+2025-04-22 16:07:43,080 [play_variants] INFO: [73/209] Play L BN2009461: 0.00 PLN | Outstock | 136 remaining
+2025-04-22 16:07:43,430 [play_variants] INFO: 😴 Sleeping for 2.16 seconds before request 78/209
+2025-04-22 16:07:44,576 [play_variants] INFO: 😴 Sleeping for 2.19 seconds before request 75/209
+2025-04-22 16:07:45,521 [play_variants] INFO: [83/209] Play S AN00000186: 399.00 PLN | Instock | 126 remaining
+2025-04-22 16:07:45,667 [play_variants] INFO: [77/209] Play M BN2009289: 1169.00 PLN | Instock | 132 remaining
+2025-04-22 16:07:46,739 [play_variants] INFO: 😴 Sleeping for 2.96 seconds before request 85/209
+2025-04-22 16:07:46,832 [play_variants] INFO: [74/209] Play L BN2009941: 699.00 PLN | Instock | 135 remaining
+2025-04-22 16:07:46,880 [play_variants] INFO: 😴 Sleeping for 2.21 seconds before request 79/209
+2025-04-22 16:07:49,169 [play_variants] INFO: [78/209] Play M BN2008845: 0.00 PLN | Outstock | 131 remaining
+2025-04-22 16:07:49,410 [play_variants] INFO: 😴 Sleeping for 2.27 seconds before request 76/209
+2025-04-22 16:07:49,774 [play_variants] INFO: [84/209] Play S BN2007888: 299.00 PLN | Instock | 125 remaining
+2025-04-22 16:07:50,397 [play_variants] INFO: 😴 Sleeping for 1.08 seconds before request 80/209
+2025-04-22 16:07:51,013 [play_variants] INFO: 😴 Sleeping for 1.29 seconds before request 86/209
+2025-04-22 16:07:51,552 [play_variants] INFO: [79/209] Play M BN2008719: 0.00 PLN | Outstock | 130 remaining
+2025-04-22 16:07:51,743 [play_variants] INFO: [75/209] Play L BN2008966: 0.00 PLN | Outstock | 134 remaining
+2025-04-22 16:07:52,379 [play_variants] INFO: [85/209] Play S BN2007637: 299.00 PLN | Instock | 124 remaining
+2025-04-22 16:07:52,748 [play_variants] INFO: 😴 Sleeping for 2.35 seconds before request 81/209
+2025-04-22 16:07:52,976 [play_variants] INFO: 😴 Sleeping for 2.48 seconds before request 77/209
+2025-04-22 16:07:53,614 [play_variants] INFO: 😴 Sleeping for 2.49 seconds before request 87/209
+2025-04-22 16:07:55,169 [play_variants] INFO: [80/209] Play M AN00000256: 1299.00 PLN | Instock | 129 remaining
+2025-04-22 16:07:55,538 [play_variants] INFO: [76/209] Play L BN2008968: 0.00 PLN | Outstock | 133 remaining
+2025-04-22 16:07:56,185 [play_variants] INFO: [86/209] Play S BN2008794: 0.00 PLN | Outstock | 123 remaining
+2025-04-22 16:07:56,485 [play_variants] INFO: 😴 Sleeping for 2.90 seconds before request 82/209
+2025-04-22 16:07:56,811 [play_variants] INFO: 😴 Sleeping for 1.42 seconds before request 78/209
+2025-04-22 16:07:57,456 [play_variants] INFO: 😴 Sleeping for 1.26 seconds before request 88/209
+2025-04-22 16:07:58,300 [play_variants] INFO: [77/209] Play L BN2009289: 1149.00 PLN | Instock | 132 remaining
+2025-04-22 16:07:58,796 [play_variants] INFO: [87/209] Play S BN2008952: 1139.00 PLN | Instock | 122 remaining
+2025-04-22 16:07:59,451 [play_variants] INFO: [81/209] Play M BN2009286: 0.00 PLN | Outstock | 128 remaining
+2025-04-22 16:07:59,565 [play_variants] INFO: 😴 Sleeping for 2.78 seconds before request 79/209
+2025-04-22 16:08:00,076 [play_variants] INFO: 😴 Sleeping for 1.39 seconds before request 89/209
+2025-04-22 16:08:00,749 [play_variants] INFO: 😴 Sleeping for 1.84 seconds before request 83/209
+2025-04-22 16:08:01,540 [play_variants] INFO: [88/209] Play S AN00000240: 1599.00 PLN | Instock | 121 remaining
+2025-04-22 16:08:02,415 [play_variants] INFO: [78/209] Play L BN2008845: 0.00 PLN | Outstock | 131 remaining
+2025-04-22 16:08:02,765 [play_variants] INFO: 😴 Sleeping for 2.50 seconds before request 90/209
+2025-04-22 16:08:02,777 [play_variants] INFO: [82/209] Play M BN2009285: 0.00 PLN | Outstock | 127 remaining
+2025-04-22 16:08:03,678 [play_variants] INFO: 😴 Sleeping for 2.45 seconds before request 80/209
+2025-04-22 16:08:04,046 [play_variants] INFO: 😴 Sleeping for 2.67 seconds before request 84/209
+2025-04-22 16:08:05,343 [play_variants] INFO: [89/209] Play S AN00000241: 2379.00 PLN | Instock | 120 remaining
+2025-04-22 16:08:06,201 [play_variants] INFO: [79/209] Play L BN2008719: 0.00 PLN | Outstock | 130 remaining
+2025-04-22 16:08:06,595 [play_variants] INFO: 😴 Sleeping for 1.83 seconds before request 91/209
+2025-04-22 16:08:06,788 [play_variants] INFO: [83/209] Play M AN00000186: 369.00 PLN | Instock | 126 remaining
+2025-04-22 16:08:07,456 [play_variants] INFO: 😴 Sleeping for 1.47 seconds before request 81/209
+2025-04-22 16:08:08,049 [play_variants] INFO: 😴 Sleeping for 2.03 seconds before request 85/209
+2025-04-22 16:08:08,499 [play_variants] INFO: [90/209] Play S BN2009370: 699.00 PLN | Instock | 119 remaining
+2025-04-22 16:08:08,994 [play_variants] INFO: [80/209] Play L AN00000256: 1199.00 PLN | Instock | 129 remaining
+2025-04-22 16:08:10,149 [play_variants] INFO: [84/209] Play M BN2007888: 299.00 PLN | Instock | 125 remaining
+2025-04-22 16:08:10,309 [play_variants] INFO: 😴 Sleeping for 1.63 seconds before request 82/209
+2025-04-22 16:08:11,099 [play_variants] INFO: 😴 Sleeping for 2.05 seconds before request 92/209
+2025-04-22 16:08:11,382 [play_variants] INFO: 😴 Sleeping for 2.47 seconds before request 86/209
+2025-04-22 16:08:12,016 [play_variants] INFO: [81/209] Play L BN2009286: 0.00 PLN | Outstock | 128 remaining
+2025-04-22 16:08:13,214 [play_variants] INFO: [91/209] Play S BN2009368: 4299.00 PLN | Instock | 118 remaining
+2025-04-22 16:08:13,315 [play_variants] INFO: 😴 Sleeping for 2.11 seconds before request 83/209
+2025-04-22 16:08:13,919 [play_variants] INFO: [85/209] Play M BN2007637: 299.00 PLN | Instock | 124 remaining
+2025-04-22 16:08:14,475 [play_variants] INFO: 😴 Sleeping for 1.44 seconds before request 93/209
+2025-04-22 16:08:15,139 [play_variants] INFO: 😴 Sleeping for 2.98 seconds before request 87/209
+2025-04-22 16:08:15,575 [play_variants] INFO: [82/209] Play L BN2009285: 0.00 PLN | Outstock | 127 remaining
+2025-04-22 16:08:16,009 [play_variants] INFO: [92/209] Play S BN2009369: 0.00 PLN | Outstock | 117 remaining
+2025-04-22 16:08:16,964 [play_variants] INFO: 😴 Sleeping for 2.64 seconds before request 84/209
+2025-04-22 16:08:17,401 [play_variants] INFO: 😴 Sleeping for 2.12 seconds before request 94/209
+2025-04-22 16:08:18,205 [play_variants] INFO: [86/209] Play M BN2008794: 0.00 PLN | Outstock | 123 remaining
+2025-04-22 16:08:19,526 [play_variants] INFO: 😴 Sleeping for 2.87 seconds before request 88/209
+2025-04-22 16:08:19,590 [play_variants] INFO: [93/209] Play S AN00000245: 4899.00 PLN | Instock | 116 remaining
+2025-04-22 16:08:19,653 [play_variants] INFO: [83/209] Play L AN00000186: 359.00 PLN | Instock | 126 remaining
+2025-04-22 16:08:20,826 [play_variants] INFO: 😴 Sleeping for 1.47 seconds before request 95/209
+2025-04-22 16:08:20,901 [play_variants] INFO: 😴 Sleeping for 2.02 seconds before request 85/209
+2025-04-22 16:08:22,361 [play_variants] INFO: [94/209] Play S AN00000244: 3399.00 PLN | Instock | 115 remaining
+2025-04-22 16:08:22,486 [play_variants] INFO: [87/209] Play M BN2008952: 1059.00 PLN | Instock | 122 remaining
+2025-04-22 16:08:22,984 [play_variants] INFO: [84/209] Play L BN2007888: 299.00 PLN | Instock | 125 remaining
+2025-04-22 16:08:23,707 [play_variants] INFO: 😴 Sleeping for 2.19 seconds before request 96/209
+2025-04-22 16:08:23,834 [play_variants] INFO: 😴 Sleeping for 1.29 seconds before request 89/209
+2025-04-22 16:08:25,196 [play_variants] INFO: [88/209] Play M AN00000240: 1449.00 PLN | Instock | 121 remaining
+2025-04-22 16:08:25,549 [play_variants] INFO: 😴 Sleeping for 1.18 seconds before request 86/209
+2025-04-22 16:08:25,971 [play_variants] INFO: [95/209] Play S BN2008963: 479.00 PLN | Instock | 114 remaining
+2025-04-22 16:08:26,484 [play_variants] INFO: 😴 Sleeping for 1.71 seconds before request 90/209
+2025-04-22 16:08:26,801 [play_variants] INFO: [85/209] Play L BN2007637: 299.00 PLN | Instock | 124 remaining
+2025-04-22 16:08:27,205 [play_variants] INFO: 😴 Sleeping for 1.08 seconds before request 97/209
+2025-04-22 16:08:28,119 [play_variants] INFO: 😴 Sleeping for 2.16 seconds before request 87/209
+2025-04-22 16:08:28,267 [play_variants] INFO: [89/209] Play M AN00000241: 2189.00 PLN | Instock | 120 remaining
+2025-04-22 16:08:28,363 [play_variants] INFO: [96/209] Play S BN2009360: 619.00 PLN | Instock | 113 remaining
+2025-04-22 16:08:29,488 [play_variants] INFO: 😴 Sleeping for 1.01 seconds before request 91/209
+2025-04-22 16:08:29,615 [play_variants] INFO: 😴 Sleeping for 1.50 seconds before request 98/209
+2025-04-22 16:08:30,346 [play_variants] INFO: [86/209] Play L BN2008794: 0.00 PLN | Outstock | 123 remaining
+2025-04-22 16:08:30,571 [play_variants] INFO: [90/209] Play M BN2009370: 669.00 PLN | Instock | 119 remaining
+2025-04-22 16:08:31,179 [play_variants] INFO: [97/209] Play S BN2008534: 0.00 PLN | Outstock | 112 remaining
+2025-04-22 16:08:31,579 [play_variants] INFO: 😴 Sleeping for 1.09 seconds before request 88/209
+2025-04-22 16:08:32,444 [play_variants] INFO: 😴 Sleeping for 2.69 seconds before request 99/209
+2025-04-22 16:08:32,745 [play_variants] INFO: [87/209] Play L BN2008952: 969.00 PLN | Instock | 122 remaining
+2025-04-22 16:08:33,128 [play_variants] INFO: 😴 Sleeping for 2.79 seconds before request 92/209
+2025-04-22 16:08:34,125 [play_variants] INFO: 😴 Sleeping for 2.67 seconds before request 89/209
+2025-04-22 16:08:35,201 [play_variants] INFO: [98/209] Play S BN2009053: 699.00 PLN | Instock | 111 remaining
+2025-04-22 16:08:35,982 [play_variants] INFO: [91/209] Play M BN2009368: 4009.00 PLN | Instock | 118 remaining
+2025-04-22 16:08:36,495 [play_variants] INFO: 😴 Sleeping for 1.56 seconds before request 100/209
+2025-04-22 16:08:36,874 [play_variants] INFO: [88/209] Play L AN00000240: 1349.00 PLN | Instock | 121 remaining
+2025-04-22 16:08:37,168 [play_variants] INFO: 😴 Sleeping for 2.03 seconds before request 93/209
+2025-04-22 16:08:38,128 [play_variants] INFO: [99/209] Play S BN2009426: 899.00 PLN | Instock | 110 remaining
+2025-04-22 16:08:38,199 [play_variants] INFO: 😴 Sleeping for 1.03 seconds before request 90/209
+2025-04-22 16:08:39,263 [play_variants] INFO: [92/209] Play M BN2009369: 0.00 PLN | Outstock | 117 remaining
+2025-04-22 16:08:39,310 [play_variants] INFO: [89/209] Play L AN00000241: 1999.00 PLN | Instock | 120 remaining
+2025-04-22 16:08:39,431 [play_variants] INFO: 😴 Sleeping for 2.34 seconds before request 101/209
+2025-04-22 16:08:40,506 [play_variants] INFO: 😴 Sleeping for 1.08 seconds before request 94/209
+2025-04-22 16:08:40,555 [play_variants] INFO: 😴 Sleeping for 2.48 seconds before request 91/209
+2025-04-22 16:08:41,671 [play_variants] INFO: [93/209] Play M AN00000245: 4899.00 PLN | Instock | 116 remaining
+2025-04-22 16:08:41,852 [play_variants] INFO: [100/209] Play S BN2008531: 3999.00 PLN | Instock | 109 remaining
+2025-04-22 16:08:42,932 [play_variants] INFO: 😴 Sleeping for 1.32 seconds before request 95/209
+2025-04-22 16:08:43,102 [play_variants] INFO: 😴 Sleeping for 2.49 seconds before request 102/209
+2025-04-22 16:08:43,118 [play_variants] INFO: [90/209] Play L BN2009370: 649.00 PLN | Instock | 119 remaining
+2025-04-22 16:08:44,334 [play_variants] INFO: [94/209] Play M AN00000244: 3399.00 PLN | Instock | 115 remaining
+2025-04-22 16:08:44,348 [play_variants] INFO: 😴 Sleeping for 1.40 seconds before request 92/209
+2025-04-22 16:08:45,622 [play_variants] INFO: 😴 Sleeping for 2.70 seconds before request 96/209
+2025-04-22 16:08:45,662 [play_variants] INFO: [101/209] Play S AN00000243: 5399.00 PLN | Instock | 108 remaining
+2025-04-22 16:08:45,821 [play_variants] INFO: [91/209] Play L BN2009368: 3819.00 PLN | Instock | 118 remaining
+2025-04-22 16:08:47,004 [play_variants] INFO: 😴 Sleeping for 2.19 seconds before request 103/209
+2025-04-22 16:08:47,145 [play_variants] INFO: 😴 Sleeping for 1.90 seconds before request 93/209
+2025-04-22 16:08:48,409 [play_variants] INFO: [95/209] Play M BN2008963: 449.00 PLN | Instock | 114 remaining
+2025-04-22 16:08:49,114 [play_variants] INFO: [92/209] Play L BN2009369: 0.00 PLN | Outstock | 117 remaining
+2025-04-22 16:08:49,262 [play_variants] INFO: [102/209] Play S AN00000254: 1439.00 PLN | Instock | 107 remaining
+2025-04-22 16:08:49,730 [play_variants] INFO: 😴 Sleeping for 1.89 seconds before request 97/209
+2025-04-22 16:08:50,378 [play_variants] INFO: 😴 Sleeping for 2.49 seconds before request 94/209
+2025-04-22 16:08:50,490 [play_variants] INFO: 😴 Sleeping for 2.42 seconds before request 104/209
+2025-04-22 16:08:51,687 [play_variants] INFO: [96/209] Play M BN2009360: 599.00 PLN | Instock | 113 remaining
+2025-04-22 16:08:52,964 [play_variants] INFO: [93/209] Play L AN00000245: 4799.00 PLN | Instock | 116 remaining
+2025-04-22 16:08:52,968 [play_variants] INFO: 😴 Sleeping for 2.55 seconds before request 98/209
+2025-04-22 16:08:52,980 [play_variants] INFO: [103/209] Play S BN2008708: 0.00 PLN | Outstock | 106 remaining
+2025-04-22 16:08:54,192 [play_variants] INFO: 😴 Sleeping for 1.38 seconds before request 95/209
+2025-04-22 16:08:54,233 [play_variants] INFO: 😴 Sleeping for 1.96 seconds before request 105/209
+2025-04-22 16:08:55,581 [play_variants] INFO: [97/209] Play M BN2008534: 0.00 PLN | Outstock | 112 remaining
+2025-04-22 16:08:55,647 [play_variants] INFO: [94/209] Play L AN00000244: 3399.00 PLN | Instock | 115 remaining
+2025-04-22 16:08:56,269 [play_variants] INFO: [104/209] Play S BN2008916: 0.00 PLN | Outstock | 105 remaining
+2025-04-22 16:08:56,813 [play_variants] INFO: 😴 Sleeping for 2.40 seconds before request 99/209
+2025-04-22 16:08:56,895 [play_variants] INFO: 😴 Sleeping for 1.29 seconds before request 96/209
+2025-04-22 16:08:57,559 [play_variants] INFO: 😴 Sleeping for 2.92 seconds before request 106/209
+2025-04-22 16:08:58,280 [play_variants] INFO: [95/209] Play L BN2008963: 419.00 PLN | Instock | 114 remaining
+2025-04-22 16:08:59,287 [play_variants] INFO: [98/209] Play M BN2009053: 699.00 PLN | Instock | 111 remaining
+2025-04-22 16:08:59,575 [play_variants] INFO: 😴 Sleeping for 2.67 seconds before request 97/209
+2025-04-22 16:09:00,555 [play_variants] INFO: 😴 Sleeping for 2.02 seconds before request 100/209
+2025-04-22 16:09:00,560 [play_variants] INFO: [105/209] Play S BN2009104: 999.00 PLN | Instock | 104 remaining
+2025-04-22 16:09:01,829 [play_variants] INFO: 😴 Sleeping for 2.53 seconds before request 107/209
+2025-04-22 16:09:02,319 [play_variants] INFO: [96/209] Play L BN2009360: 569.00 PLN | Instock | 113 remaining
+2025-04-22 16:09:02,654 [play_variants] INFO: [99/209] Play M BN2009426: 819.00 PLN | Instock | 110 remaining
+2025-04-22 16:09:03,700 [play_variants] INFO: 😴 Sleeping for 1.02 seconds before request 98/209
+2025-04-22 16:09:03,908 [play_variants] INFO: 😴 Sleeping for 1.65 seconds before request 101/209
+2025-04-22 16:09:04,433 [play_variants] INFO: [106/209] Play S BN2009427: 0.00 PLN | Outstock | 103 remaining
+2025-04-22 16:09:04,802 [play_variants] INFO: [97/209] Play L BN2008534: 0.00 PLN | Outstock | 112 remaining
+2025-04-22 16:09:05,616 [play_variants] INFO: [100/209] Play M BN2008531: 3999.00 PLN | Instock | 109 remaining
+2025-04-22 16:09:05,744 [play_variants] INFO: 😴 Sleeping for 1.37 seconds before request 108/209
+2025-04-22 16:09:06,047 [play_variants] INFO: 😴 Sleeping for 2.76 seconds before request 99/209
+2025-04-22 16:09:07,194 [play_variants] INFO: [107/209] Play S BN2009428: 999.00 PLN | Instock | 102 remaining
+2025-04-22 16:09:08,187 [play_variants] INFO: 😴 Sleeping for 1.97 seconds before request 102/209
+2025-04-22 16:09:08,446 [play_variants] INFO: 😴 Sleeping for 2.90 seconds before request 109/209
+2025-04-22 16:09:08,888 [play_variants] INFO: [98/209] Play L BN2009053: 699.00 PLN | Instock | 111 remaining
+2025-04-22 16:09:10,238 [play_variants] INFO: [101/209] Play M AN00000243: 5199.00 PLN | Instock | 108 remaining
+2025-04-22 16:09:10,381 [play_variants] INFO: 😴 Sleeping for 1.65 seconds before request 100/209
+2025-04-22 16:09:11,425 [play_variants] INFO: [108/209] Play S BN2009282: 0.00 PLN | Outstock | 101 remaining
+2025-04-22 16:09:11,625 [play_variants] INFO: 😴 Sleeping for 1.77 seconds before request 103/209
+2025-04-22 16:09:12,113 [play_variants] INFO: [99/209] Play L BN2009426: 779.00 PLN | Instock | 110 remaining
+2025-04-22 16:09:12,888 [play_variants] INFO: 😴 Sleeping for 2.64 seconds before request 110/209
+2025-04-22 16:09:13,319 [play_variants] INFO: 😴 Sleeping for 1.86 seconds before request 101/209
+2025-04-22 16:09:13,461 [play_variants] INFO: [102/209] Play M AN00000254: 1369.00 PLN | Instock | 107 remaining
+2025-04-22 16:09:14,686 [play_variants] INFO: 😴 Sleeping for 1.62 seconds before request 104/209
+2025-04-22 16:09:15,258 [play_variants] INFO: [100/209] Play L BN2008531: 3999.00 PLN | Instock | 109 remaining
+2025-04-22 16:09:15,606 [play_variants] INFO: [109/209] Play S BN2008672: 0.00 PLN | Outstock | 100 remaining
+2025-04-22 16:09:16,387 [play_variants] INFO: [103/209] Play M BN2008708: 0.00 PLN | Outstock | 106 remaining
+2025-04-22 16:09:16,515 [play_variants] INFO: 😴 Sleeping for 1.88 seconds before request 102/209
+2025-04-22 16:09:16,886 [play_variants] INFO: 😴 Sleeping for 1.71 seconds before request 111/209
+2025-04-22 16:09:17,574 [play_variants] INFO: 😴 Sleeping for 2.90 seconds before request 105/209
+2025-04-22 16:09:18,469 [play_variants] INFO: [101/209] Play L AN00000243: 5099.00 PLN | Instock | 108 remaining
+2025-04-22 16:09:18,660 [play_variants] INFO: [110/209] Play S BN2008676: 699.00 PLN | Instock | 99 remaining
+2025-04-22 16:09:19,693 [play_variants] INFO: 😴 Sleeping for 1.41 seconds before request 103/209
+2025-04-22 16:09:19,933 [play_variants] INFO: 😴 Sleeping for 2.04 seconds before request 112/209
+2025-04-22 16:09:20,546 [play_variants] INFO: [104/209] Play M BN2008916: 0.00 PLN | Outstock | 105 remaining
+2025-04-22 16:09:21,194 [play_variants] INFO: [102/209] Play L AN00000254: 1289.00 PLN | Instock | 107 remaining
+2025-04-22 16:09:21,764 [play_variants] INFO: 😴 Sleeping for 2.94 seconds before request 106/209
+2025-04-22 16:09:22,054 [play_variants] INFO: [111/209] Play S AN00000174: 0.00 PLN | Outstock | 98 remaining
+2025-04-22 16:09:22,475 [play_variants] INFO: 😴 Sleeping for 1.47 seconds before request 104/209
+2025-04-22 16:09:23,271 [play_variants] INFO: 😴 Sleeping for 1.16 seconds before request 113/209
+2025-04-22 16:09:24,010 [play_variants] INFO: [103/209] Play L BN2008708: 0.00 PLN | Outstock | 106 remaining
+2025-04-22 16:09:24,513 [play_variants] INFO: [112/209] Play S BN2009059: 0.00 PLN | Outstock | 97 remaining
+2025-04-22 16:09:24,772 [play_variants] INFO: [105/209] Play M BN2009104: 959.00 PLN | Instock | 104 remaining
+2025-04-22 16:09:25,282 [play_variants] INFO: 😴 Sleeping for 1.38 seconds before request 105/209
+2025-04-22 16:09:25,776 [play_variants] INFO: 😴 Sleeping for 1.45 seconds before request 114/209
+2025-04-22 16:09:26,286 [play_variants] INFO: 😴 Sleeping for 2.76 seconds before request 107/209
+2025-04-22 16:09:26,752 [play_variants] INFO: [104/209] Play L BN2008916: 0.00 PLN | Outstock | 105 remaining
+2025-04-22 16:09:27,297 [play_variants] INFO: [113/209] Play S AN00000251: 799.00 PLN | Instock | 96 remaining
+2025-04-22 16:09:28,049 [play_variants] INFO: 😴 Sleeping for 1.87 seconds before request 106/209
+2025-04-22 16:09:28,524 [play_variants] INFO: 😴 Sleeping for 1.63 seconds before request 115/209
+2025-04-22 16:09:29,115 [play_variants] INFO: [106/209] Play M BN2009427: 0.00 PLN | Outstock | 103 remaining
+2025-04-22 16:09:29,989 [play_variants] INFO: [105/209] Play L BN2009104: 939.00 PLN | Instock | 104 remaining
+2025-04-22 16:09:30,232 [play_variants] INFO: [114/209] Play S BN2009276: 999.00 PLN | Instock | 95 remaining
+2025-04-22 16:09:30,326 [play_variants] INFO: 😴 Sleeping for 2.80 seconds before request 108/209
+2025-04-22 16:09:31,270 [play_variants] INFO: 😴 Sleeping for 1.17 seconds before request 107/209
+2025-04-22 16:09:31,524 [play_variants] INFO: 😴 Sleeping for 1.43 seconds before request 116/209
+2025-04-22 16:09:32,515 [play_variants] INFO: [106/209] Play L BN2009427: 0.00 PLN | Outstock | 103 remaining
+2025-04-22 16:09:33,032 [play_variants] INFO: [115/209] Play S BN2009564: 1599.00 PLN | Instock | 94 remaining
+2025-04-22 16:09:33,206 [play_variants] INFO: [107/209] Play M BN2009428: 999.00 PLN | Instock | 102 remaining
+2025-04-22 16:09:33,753 [play_variants] INFO: 😴 Sleeping for 2.61 seconds before request 108/209
+2025-04-22 16:09:34,334 [play_variants] INFO: 😴 Sleeping for 2.54 seconds before request 117/209
+2025-04-22 16:09:34,432 [play_variants] INFO: 😴 Sleeping for 1.95 seconds before request 109/209
+2025-04-22 16:09:36,451 [play_variants] INFO: [107/209] Play L BN2009428: 999.00 PLN | Instock | 102 remaining
+2025-04-22 16:09:36,451 [play_variants] INFO: [108/209] Play M BN2009282: 0.00 PLN | Outstock | 101 remaining
+2025-04-22 16:09:36,958 [play_variants] INFO: [116/209] Play S BN2009180: 1849.00 PLN | Instock | 93 remaining
+2025-04-22 16:09:37,715 [play_variants] INFO: 😴 Sleeping for 2.57 seconds before request 110/209
+2025-04-22 16:09:37,798 [play_variants] INFO: 😴 Sleeping for 1.59 seconds before request 109/209
+2025-04-22 16:09:38,183 [play_variants] INFO: 😴 Sleeping for 2.54 seconds before request 118/209
+2025-04-22 16:09:39,470 [play_variants] INFO: [108/209] Play L BN2009282: 0.00 PLN | Outstock | 101 remaining
+2025-04-22 16:09:40,359 [play_variants] INFO: [109/209] Play M BN2008672: 0.00 PLN | Outstock | 100 remaining
+2025-04-22 16:09:40,704 [play_variants] INFO: 😴 Sleeping for 2.78 seconds before request 110/209
+2025-04-22 16:09:40,793 [play_variants] INFO: [117/209] Play S AN00000260: 2269.00 PLN | Instock | 92 remaining
+2025-04-22 16:09:41,561 [play_variants] INFO: 😴 Sleeping for 1.38 seconds before request 111/209
+2025-04-22 16:09:42,110 [play_variants] INFO: 😴 Sleeping for 1.32 seconds before request 119/209
+2025-04-22 16:09:43,012 [play_variants] INFO: [110/209] Play M BN2008676: 699.00 PLN | Instock | 99 remaining
+2025-04-22 16:09:43,514 [play_variants] INFO: [118/209] Play S AN00000259: 759.00 PLN | Instock | 91 remaining
+2025-04-22 16:09:43,559 [play_variants] INFO: [109/209] Play L BN2008672: 0.00 PLN | Outstock | 100 remaining
+2025-04-22 16:09:44,220 [play_variants] INFO: 😴 Sleeping for 1.37 seconds before request 112/209
+2025-04-22 16:09:44,740 [play_variants] INFO: 😴 Sleeping for 2.77 seconds before request 120/209
+2025-04-22 16:09:44,821 [play_variants] INFO: 😴 Sleeping for 2.35 seconds before request 111/209
+2025-04-22 16:09:45,671 [play_variants] INFO: [111/209] Play M AN00000174: 0.00 PLN | Outstock | 98 remaining
+2025-04-22 16:09:46,910 [play_variants] INFO: 😴 Sleeping for 1.13 seconds before request 113/209
+2025-04-22 16:09:47,269 [play_variants] INFO: [110/209] Play L BN2008676: 699.00 PLN | Instock | 99 remaining
+2025-04-22 16:09:47,588 [play_variants] INFO: [119/209] Play S AN00000034: 799.00 PLN | Instock | 90 remaining
+2025-04-22 16:09:48,117 [play_variants] INFO: [112/209] Play M BN2009059: 0.00 PLN | Outstock | 97 remaining
+2025-04-22 16:09:48,512 [play_variants] INFO: 😴 Sleeping for 1.91 seconds before request 112/209
+2025-04-22 16:09:48,927 [play_variants] INFO: 😴 Sleeping for 2.03 seconds before request 121/209
+2025-04-22 16:09:49,358 [play_variants] INFO: 😴 Sleeping for 1.82 seconds before request 114/209
+2025-04-22 16:09:50,503 [play_variants] INFO: [111/209] Play L AN00000174: 0.00 PLN | Outstock | 98 remaining
+2025-04-22 16:09:51,030 [play_variants] INFO: [120/209] Play S BN2008847: 499.00 PLN | Instock | 89 remaining
+2025-04-22 16:09:51,253 [play_variants] INFO: [113/209] Play M AN00000251: 799.00 PLN | Instock | 96 remaining
+2025-04-22 16:09:51,774 [play_variants] INFO: 😴 Sleeping for 1.40 seconds before request 113/209
+2025-04-22 16:09:52,326 [play_variants] INFO: 😴 Sleeping for 2.30 seconds before request 122/209
+2025-04-22 16:09:52,518 [play_variants] INFO: 😴 Sleeping for 2.97 seconds before request 115/209
+2025-04-22 16:09:53,253 [play_variants] INFO: [112/209] Play L BN2009059: 0.00 PLN | Outstock | 97 remaining
+2025-04-22 16:09:54,568 [play_variants] INFO: 😴 Sleeping for 1.36 seconds before request 114/209
+2025-04-22 16:09:54,695 [play_variants] INFO: [121/209] Play S BN2009060: 0.00 PLN | Outstock | 88 remaining
+2025-04-22 16:09:55,564 [play_variants] INFO: [114/209] Play M BN2009276: 979.00 PLN | Instock | 95 remaining
+2025-04-22 16:09:55,946 [play_variants] INFO: 😴 Sleeping for 2.73 seconds before request 123/209
+2025-04-22 16:09:56,003 [play_variants] INFO: [113/209] Play L AN00000251: 799.00 PLN | Instock | 96 remaining
+2025-04-22 16:09:56,802 [play_variants] INFO: 😴 Sleeping for 1.80 seconds before request 116/209
+2025-04-22 16:09:57,261 [play_variants] INFO: 😴 Sleeping for 2.55 seconds before request 115/209
+2025-04-22 16:09:58,674 [play_variants] INFO: [115/209] Play M BN2009564: 1499.00 PLN | Instock | 94 remaining
+2025-04-22 16:09:58,746 [play_variants] INFO: [122/209] Play S BN2008848: 0.00 PLN | Outstock | 87 remaining
+2025-04-22 16:09:59,896 [play_variants] INFO: [114/209] Play L BN2009276: 969.00 PLN | Instock | 95 remaining
+2025-04-22 16:09:59,912 [play_variants] INFO: 😴 Sleeping for 1.56 seconds before request 117/209
+2025-04-22 16:09:59,975 [play_variants] INFO: 😴 Sleeping for 2.56 seconds before request 124/209
+2025-04-22 16:10:01,218 [play_variants] INFO: 😴 Sleeping for 1.19 seconds before request 116/209
+2025-04-22 16:10:01,551 [play_variants] INFO: [116/209] Play M BN2009180: 1849.00 PLN | Instock | 93 remaining
+2025-04-22 16:10:02,481 [play_variants] INFO: [115/209] Play L BN2009564: 1439.00 PLN | Instock | 94 remaining
+2025-04-22 16:10:02,608 [play_variants] INFO: [123/209] Play S BN2009048: 0.00 PLN | Outstock | 86 remaining
+2025-04-22 16:10:02,813 [play_variants] INFO: 😴 Sleeping for 1.90 seconds before request 118/209
+2025-04-22 16:10:03,749 [play_variants] INFO: 😴 Sleeping for 2.26 seconds before request 117/209
+2025-04-22 16:10:03,891 [play_variants] INFO: 😴 Sleeping for 1.26 seconds before request 125/209
+2025-04-22 16:10:04,796 [play_variants] INFO: [117/209] Play M AN00000260: 2089.00 PLN | Instock | 92 remaining
+2025-04-22 16:10:05,223 [play_variants] INFO: [124/209] Play S BN2009183: 0.00 PLN | Outstock | 85 remaining
+2025-04-22 16:10:06,025 [play_variants] INFO: 😴 Sleeping for 2.95 seconds before request 119/209
+2025-04-22 16:10:06,076 [play_variants] INFO: [116/209] Play L BN2009180: 1849.00 PLN | Instock | 93 remaining
+2025-04-22 16:10:06,526 [play_variants] INFO: 😴 Sleeping for 2.53 seconds before request 126/209
+2025-04-22 16:10:07,363 [play_variants] INFO: 😴 Sleeping for 2.12 seconds before request 118/209
+2025-04-22 16:10:09,063 [play_variants] INFO: [118/209] Play M AN00000259: 699.00 PLN | Instock | 91 remaining
+2025-04-22 16:10:09,140 [play_variants] INFO: [125/209] Play S BN2009650: 2699.00 PLN | Instock | 84 remaining
+2025-04-22 16:10:09,555 [play_variants] INFO: [117/209] Play L AN00000260: 1899.00 PLN | Instock | 92 remaining
+2025-04-22 16:10:10,319 [play_variants] INFO: 😴 Sleeping for 1.50 seconds before request 120/209
+2025-04-22 16:10:10,398 [play_variants] INFO: 😴 Sleeping for 2.82 seconds before request 127/209
+2025-04-22 16:10:10,906 [play_variants] INFO: 😴 Sleeping for 2.81 seconds before request 119/209
+2025-04-22 16:10:11,889 [play_variants] INFO: [119/209] Play M AN00000034: 729.00 PLN | Instock | 90 remaining
+2025-04-22 16:10:13,092 [play_variants] INFO: 😴 Sleeping for 1.11 seconds before request 121/209
+2025-04-22 16:10:13,301 [play_variants] INFO: [126/209] Play S AN00000239: 0.00 PLN | Outstock | 83 remaining
+2025-04-22 16:10:13,782 [play_variants] INFO: [118/209] Play L AN00000259: 649.00 PLN | Instock | 91 remaining
+2025-04-22 16:10:14,276 [play_variants] INFO: [120/209] Play M BN2008847: 479.00 PLN | Instock | 89 remaining
+2025-04-22 16:10:14,626 [play_variants] INFO: 😴 Sleeping for 1.08 seconds before request 128/209
+2025-04-22 16:10:15,072 [play_variants] INFO: 😴 Sleeping for 2.52 seconds before request 120/209
+2025-04-22 16:10:15,547 [play_variants] INFO: 😴 Sleeping for 2.15 seconds before request 122/209
+2025-04-22 16:10:15,764 [play_variants] INFO: [127/209] Play S BN2008551: 0.00 PLN | Outstock | 82 remaining
+2025-04-22 16:10:17,050 [play_variants] INFO: 😴 Sleeping for 2.04 seconds before request 129/209
+2025-04-22 16:10:17,667 [play_variants] INFO: [119/209] Play L AN00000034: 679.00 PLN | Instock | 90 remaining
+2025-04-22 16:10:17,776 [play_variants] INFO: [121/209] Play M BN2009060: 0.00 PLN | Outstock | 88 remaining
+2025-04-22 16:10:18,948 [play_variants] INFO: 😴 Sleeping for 2.06 seconds before request 121/209
+2025-04-22 16:10:19,072 [play_variants] INFO: 😴 Sleeping for 1.41 seconds before request 123/209
+2025-04-22 16:10:19,159 [play_variants] INFO: [128/209] Play S BN2008553: 0.00 PLN | Outstock | 81 remaining
+2025-04-22 16:10:20,411 [play_variants] INFO: 😴 Sleeping for 2.23 seconds before request 130/209
+2025-04-22 16:10:20,551 [play_variants] INFO: [122/209] Play M BN2008848: 0.00 PLN | Outstock | 87 remaining
+2025-04-22 16:10:21,079 [play_variants] INFO: [120/209] Play L BN2008847: 469.00 PLN | Instock | 89 remaining
+2025-04-22 16:10:21,812 [play_variants] INFO: 😴 Sleeping for 1.66 seconds before request 124/209
+2025-04-22 16:10:22,523 [play_variants] INFO: 😴 Sleeping for 1.86 seconds before request 122/209
+2025-04-22 16:10:22,721 [play_variants] INFO: [129/209] Play S BN2009106: 0.00 PLN | Outstock | 80 remaining
+2025-04-22 16:10:23,540 [play_variants] INFO: [123/209] Play M BN2009048: 0.00 PLN | Outstock | 86 remaining
+2025-04-22 16:10:23,956 [play_variants] INFO: 😴 Sleeping for 2.50 seconds before request 131/209
+2025-04-22 16:10:24,453 [play_variants] INFO: [121/209] Play L BN2009060: 0.00 PLN | Outstock | 88 remaining
+2025-04-22 16:10:24,756 [play_variants] INFO: 😴 Sleeping for 1.01 seconds before request 125/209
+2025-04-22 16:10:25,632 [play_variants] INFO: 😴 Sleeping for 2.72 seconds before request 123/209
+2025-04-22 16:10:25,846 [play_variants] INFO: [124/209] Play M BN2009183: 0.00 PLN | Outstock | 85 remaining
+2025-04-22 16:10:26,528 [play_variants] INFO: [130/209] Play S BN2009107: 0.00 PLN | Outstock | 79 remaining
+2025-04-22 16:10:27,120 [play_variants] INFO: 😴 Sleeping for 2.87 seconds before request 126/209
+2025-04-22 16:10:27,768 [play_variants] INFO: 😴 Sleeping for 1.36 seconds before request 132/209
+2025-04-22 16:10:28,427 [play_variants] INFO: [122/209] Play L BN2008848: 0.00 PLN | Outstock | 87 remaining
+2025-04-22 16:10:29,195 [play_variants] INFO: [131/209] Play S BN2009662: 859.00 PLN | Instock | 78 remaining
+2025-04-22 16:10:30,027 [play_variants] INFO: 😴 Sleeping for 2.43 seconds before request 124/209
+2025-04-22 16:10:30,053 [play_variants] INFO: [125/209] Play M BN2009650: 2499.00 PLN | Instock | 84 remaining
+2025-04-22 16:10:30,453 [play_variants] INFO: 😴 Sleeping for 1.41 seconds before request 133/209
+2025-04-22 16:10:31,404 [play_variants] INFO: 😴 Sleeping for 2.59 seconds before request 127/209
+2025-04-22 16:10:31,943 [play_variants] INFO: [132/209] Play S BN2008918: 0.00 PLN | Outstock | 77 remaining
+2025-04-22 16:10:32,535 [play_variants] INFO: [123/209] Play L BN2009048: 0.00 PLN | Outstock | 86 remaining
+2025-04-22 16:10:33,174 [play_variants] INFO: 😴 Sleeping for 1.81 seconds before request 134/209
+2025-04-22 16:10:34,034 [play_variants] INFO: 😴 Sleeping for 1.17 seconds before request 125/209
+2025-04-22 16:10:34,061 [play_variants] INFO: [126/209] Play M AN00000239: 0.00 PLN | Outstock | 83 remaining
+2025-04-22 16:10:35,057 [play_variants] INFO: [133/209] Play S BN2008665: 0.00 PLN | Outstock | 76 remaining
+2025-04-22 16:10:35,284 [play_variants] INFO: [124/209] Play L BN2009183: 0.00 PLN | Outstock | 85 remaining
+2025-04-22 16:10:35,395 [play_variants] INFO: 😴 Sleeping for 2.29 seconds before request 128/209
+2025-04-22 16:10:36,357 [play_variants] INFO: 😴 Sleeping for 1.47 seconds before request 135/209
+2025-04-22 16:10:36,507 [play_variants] INFO: 😴 Sleeping for 1.75 seconds before request 126/209
+2025-04-22 16:10:37,760 [play_variants] INFO: [127/209] Play M BN2008551: 0.00 PLN | Outstock | 82 remaining
+2025-04-22 16:10:37,888 [play_variants] INFO: [134/209] Play S BN2009234: 0.00 PLN | Outstock | 75 remaining
+2025-04-22 16:10:38,320 [play_variants] INFO: [125/209] Play L BN2009650: 2399.00 PLN | Instock | 84 remaining
+2025-04-22 16:10:38,979 [play_variants] INFO: 😴 Sleeping for 2.79 seconds before request 129/209
+2025-04-22 16:10:39,073 [play_variants] INFO: 😴 Sleeping for 1.94 seconds before request 136/209
+2025-04-22 16:10:39,595 [play_variants] INFO: 😴 Sleeping for 1.02 seconds before request 127/209
+2025-04-22 16:10:40,694 [play_variants] INFO: [126/209] Play L AN00000239: 0.00 PLN | Outstock | 83 remaining
+2025-04-22 16:10:41,079 [play_variants] INFO: [135/209] Play S BN2009896: 1599.00 PLN | Instock | 74 remaining
+2025-04-22 16:10:41,859 [play_variants] INFO: [128/209] Play M BN2008553: 0.00 PLN | Outstock | 81 remaining
+2025-04-22 16:10:41,941 [play_variants] INFO: 😴 Sleeping for 2.44 seconds before request 128/209
+2025-04-22 16:10:42,390 [play_variants] INFO: 😴 Sleeping for 2.06 seconds before request 137/209
+2025-04-22 16:10:43,396 [play_variants] INFO: 😴 Sleeping for 1.98 seconds before request 130/209
+2025-04-22 16:10:44,455 [play_variants] INFO: [127/209] Play L BN2008551: 0.00 PLN | Outstock | 82 remaining
+2025-04-22 16:10:44,506 [play_variants] INFO: [136/209] Play S BN2008677: 1499.00 PLN | Instock | 73 remaining
+2025-04-22 16:10:45,452 [play_variants] INFO: [129/209] Play M BN2009106: 0.00 PLN | Outstock | 80 remaining
+2025-04-22 16:10:45,690 [play_variants] INFO: 😴 Sleeping for 1.86 seconds before request 129/209
+2025-04-22 16:10:45,804 [play_variants] INFO: 😴 Sleeping for 1.14 seconds before request 138/209
+2025-04-22 16:10:46,747 [play_variants] INFO: 😴 Sleeping for 1.41 seconds before request 131/209
+2025-04-22 16:10:47,019 [play_variants] INFO: [137/209] Play S BN2009232: 0.00 PLN | Outstock | 72 remaining
+2025-04-22 16:10:47,623 [play_variants] INFO: [128/209] Play L BN2008553: 0.00 PLN | Outstock | 81 remaining
+2025-04-22 16:10:48,232 [play_variants] INFO: [130/209] Play M BN2009107: 0.00 PLN | Outstock | 79 remaining
+2025-04-22 16:10:48,285 [play_variants] INFO: 😴 Sleeping for 1.09 seconds before request 139/209
+2025-04-22 16:10:48,888 [play_variants] INFO: 😴 Sleeping for 2.91 seconds before request 130/209
+2025-04-22 16:10:49,451 [play_variants] INFO: [138/209] Play S BN2009848: 1849.00 PLN | Instock | 71 remaining
+2025-04-22 16:10:49,515 [play_variants] INFO: 😴 Sleeping for 1.46 seconds before request 132/209
+2025-04-22 16:10:50,828 [play_variants] INFO: 😴 Sleeping for 1.11 seconds before request 140/209
+2025-04-22 16:10:51,062 [play_variants] INFO: [131/209] Play M BN2009662: 799.00 PLN | Instock | 78 remaining
+2025-04-22 16:10:51,876 [play_variants] INFO: [129/209] Play L BN2009106: 0.00 PLN | Outstock | 80 remaining
+2025-04-22 16:10:52,015 [play_variants] INFO: [139/209] Play S BN2009334: 0.00 PLN | Outstock | 70 remaining
+2025-04-22 16:10:52,333 [play_variants] INFO: 😴 Sleeping for 2.39 seconds before request 133/209
+2025-04-22 16:10:53,201 [play_variants] INFO: 😴 Sleeping for 1.04 seconds before request 131/209
+2025-04-22 16:10:53,334 [play_variants] INFO: 😴 Sleeping for 1.20 seconds before request 141/209
+2025-04-22 16:10:54,320 [play_variants] INFO: [130/209] Play L BN2009107: 0.00 PLN | Outstock | 79 remaining
+2025-04-22 16:10:54,607 [play_variants] INFO: [140/209] Play S BN2008582: 0.00 PLN | Outstock | 69 remaining
+2025-04-22 16:10:54,798 [play_variants] INFO: [132/209] Play M BN2008918: 0.00 PLN | Outstock | 77 remaining
+2025-04-22 16:10:55,563 [play_variants] INFO: 😴 Sleeping for 2.98 seconds before request 132/209
+2025-04-22 16:10:55,859 [play_variants] INFO: 😴 Sleeping for 2.69 seconds before request 142/209
+2025-04-22 16:10:56,039 [play_variants] INFO: 😴 Sleeping for 1.11 seconds before request 134/209
+2025-04-22 16:10:57,215 [play_variants] INFO: [133/209] Play M BN2008665: 0.00 PLN | Outstock | 76 remaining
+2025-04-22 16:10:58,435 [play_variants] INFO: 😴 Sleeping for 2.52 seconds before request 135/209
+2025-04-22 16:10:58,607 [play_variants] INFO: [131/209] Play L BN2009662: 749.00 PLN | Instock | 78 remaining
+2025-04-22 16:10:58,639 [play_variants] INFO: [141/209] Play S BN2009085: 2699.00 PLN | Instock | 68 remaining
+2025-04-22 16:11:00,022 [play_variants] INFO: 😴 Sleeping for 2.04 seconds before request 143/209
+2025-04-22 16:11:01,039 [play_variants] INFO: [134/209] Play M BN2009234: 0.00 PLN | Outstock | 75 remaining
+2025-04-22 16:11:01,863 [play_variants] INFO: 😴 Sleeping for 1.20 seconds before request 133/209
+2025-04-22 16:11:02,142 [play_variants] INFO: [142/209] Play S BN2008588: 5499.00 PLN | Instock | 67 remaining
+2025-04-22 16:11:02,337 [play_variants] INFO: 😴 Sleeping for 2.91 seconds before request 136/209
+2025-04-22 16:11:03,133 [play_variants] INFO: [132/209] Play L BN2008918: 0.00 PLN | Outstock | 77 remaining
+2025-04-22 16:11:03,407 [play_variants] INFO: 😴 Sleeping for 2.45 seconds before request 144/209
+2025-04-22 16:11:04,401 [play_variants] INFO: 😴 Sleeping for 1.46 seconds before request 134/209
+2025-04-22 16:11:05,332 [play_variants] INFO: [135/209] Play M BN2009896: 1479.00 PLN | Instock | 74 remaining
+2025-04-22 16:11:05,941 [play_variants] INFO: [133/209] Play L BN2008665: 0.00 PLN | Outstock | 76 remaining
+2025-04-22 16:11:05,942 [play_variants] INFO: [143/209] Play S BN2008586: 0.00 PLN | Outstock | 66 remaining
+2025-04-22 16:11:06,563 [play_variants] INFO: 😴 Sleeping for 1.04 seconds before request 137/209
+2025-04-22 16:11:07,195 [play_variants] INFO: 😴 Sleeping for 2.85 seconds before request 145/209
+2025-04-22 16:11:07,203 [play_variants] INFO: 😴 Sleeping for 2.82 seconds before request 135/209
+2025-04-22 16:11:07,679 [play_variants] INFO: [136/209] Play M BN2008677: 1499.00 PLN | Instock | 73 remaining
+2025-04-22 16:11:08,917 [play_variants] INFO: 😴 Sleeping for 1.75 seconds before request 138/209
+2025-04-22 16:11:10,100 [play_variants] INFO: [134/209] Play L BN2009234: 0.00 PLN | Outstock | 75 remaining
+2025-04-22 16:11:10,126 [play_variants] INFO: [144/209] Play S BN2008584: 0.00 PLN | Outstock | 65 remaining
+2025-04-22 16:11:10,734 [play_variants] INFO: [137/209] Play M BN2009232: 0.00 PLN | Outstock | 72 remaining
+2025-04-22 16:11:11,360 [play_variants] INFO: 😴 Sleeping for 2.06 seconds before request 136/209
+2025-04-22 16:11:11,417 [play_variants] INFO: 😴 Sleeping for 2.64 seconds before request 146/209
+2025-04-22 16:11:11,960 [play_variants] INFO: 😴 Sleeping for 1.45 seconds before request 139/209
+2025-04-22 16:11:13,482 [play_variants] INFO: [138/209] Play M BN2009848: 1749.00 PLN | Instock | 71 remaining
+2025-04-22 16:11:13,492 [play_variants] INFO: [135/209] Play L BN2009896: 1349.00 PLN | Instock | 74 remaining
+2025-04-22 16:11:14,132 [play_variants] INFO: [145/209] Play S BN2008585: 0.00 PLN | Outstock | 64 remaining
+2025-04-22 16:11:14,732 [play_variants] INFO: 😴 Sleeping for 2.56 seconds before request 137/209
+2025-04-22 16:11:14,868 [play_variants] INFO: 😴 Sleeping for 1.80 seconds before request 140/209
+2025-04-22 16:11:15,443 [play_variants] INFO: 😴 Sleeping for 2.87 seconds before request 147/209
+2025-04-22 16:11:16,740 [play_variants] INFO: [139/209] Play M BN2009334: 0.00 PLN | Outstock | 70 remaining
+2025-04-22 16:11:17,360 [play_variants] INFO: [136/209] Play L BN2008677: 1499.00 PLN | Instock | 73 remaining
+2025-04-22 16:11:17,973 [play_variants] INFO: 😴 Sleeping for 2.94 seconds before request 141/209
+2025-04-22 16:11:18,386 [play_variants] INFO: [146/209] Play S BN2009166: 2899.00 PLN | Instock | 63 remaining
+2025-04-22 16:11:18,619 [play_variants] INFO: 😴 Sleeping for 1.63 seconds before request 138/209
+2025-04-22 16:11:19,649 [play_variants] INFO: 😴 Sleeping for 2.06 seconds before request 148/209
+2025-04-22 16:11:20,340 [play_variants] INFO: [137/209] Play L BN2009232: 0.00 PLN | Outstock | 72 remaining
+2025-04-22 16:11:20,987 [play_variants] INFO: [140/209] Play M BN2008582: 0.00 PLN | Outstock | 69 remaining
+2025-04-22 16:11:21,565 [play_variants] INFO: 😴 Sleeping for 1.33 seconds before request 139/209
+2025-04-22 16:11:21,798 [play_variants] INFO: [147/209] Play S BN2009167: 3499.00 PLN | Instock | 62 remaining
+2025-04-22 16:11:22,205 [play_variants] INFO: 😴 Sleeping for 2.27 seconds before request 142/209
+2025-04-22 16:11:22,966 [play_variants] INFO: [138/209] Play L BN2009848: 1449.00 PLN | Instock | 71 remaining
+2025-04-22 16:11:23,046 [play_variants] INFO: 😴 Sleeping for 2.11 seconds before request 149/209
+2025-04-22 16:11:24,327 [play_variants] INFO: 😴 Sleeping for 2.23 seconds before request 140/209
+2025-04-22 16:11:24,557 [play_variants] INFO: [141/209] Play M BN2009085: 2569.00 PLN | Instock | 68 remaining
+2025-04-22 16:11:25,236 [play_variants] INFO: [148/209] Play S BN2009488: 2799.00 PLN | Instock | 61 remaining
+2025-04-22 16:11:25,818 [play_variants] INFO: 😴 Sleeping for 1.67 seconds before request 143/209
+2025-04-22 16:11:26,503 [play_variants] INFO: 😴 Sleeping for 2.02 seconds before request 150/209
+2025-04-22 16:11:26,643 [play_variants] INFO: [139/209] Play L BN2009334: 0.00 PLN | Outstock | 70 remaining
+2025-04-22 16:11:27,559 [play_variants] INFO: [142/209] Play M BN2008588: 5499.00 PLN | Instock | 67 remaining
+2025-04-22 16:11:28,119 [play_variants] INFO: 😴 Sleeping for 1.74 seconds before request 141/209
+2025-04-22 16:11:28,593 [play_variants] INFO: [149/209] Play S BN2009173: 6799.00 PLN | Instock | 60 remaining
+2025-04-22 16:11:28,768 [play_variants] INFO: 😴 Sleeping for 2.98 seconds before request 144/209
+2025-04-22 16:11:29,937 [play_variants] INFO: [140/209] Play L BN2008582: 0.00 PLN | Outstock | 69 remaining
+2025-04-22 16:11:29,943 [play_variants] INFO: 😴 Sleeping for 1.45 seconds before request 151/209
+2025-04-22 16:11:31,204 [play_variants] INFO: 😴 Sleeping for 2.19 seconds before request 142/209
+2025-04-22 16:11:31,476 [play_variants] INFO: [150/209] Play S BN2009171: 5499.00 PLN | Instock | 59 remaining
+2025-04-22 16:11:31,822 [play_variants] INFO: [143/209] Play M BN2008586: 0.00 PLN | Outstock | 66 remaining
+2025-04-22 16:11:33,037 [play_variants] INFO: 😴 Sleeping for 2.38 seconds before request 145/209
+2025-04-22 16:11:33,463 [play_variants] INFO: [141/209] Play L BN2009085: 2499.00 PLN | Instock | 68 remaining
+2025-04-22 16:11:34,055 [play_variants] INFO: 😴 Sleeping for 2.67 seconds before request 152/209
+2025-04-22 16:11:34,746 [play_variants] INFO: 😴 Sleeping for 2.82 seconds before request 143/209
+2025-04-22 16:11:35,491 [play_variants] INFO: [144/209] Play M BN2008584: 0.00 PLN | Outstock | 65 remaining
+2025-04-22 16:11:36,707 [play_variants] INFO: 😴 Sleeping for 2.96 seconds before request 146/209
+2025-04-22 16:11:36,786 [play_variants] INFO: [151/209] Play S BN2009172: 5999.00 PLN | Instock | 58 remaining
+2025-04-22 16:11:37,652 [play_variants] INFO: [142/209] Play L BN2008588: 5399.00 PLN | Instock | 67 remaining
+2025-04-22 16:11:38,037 [play_variants] INFO: 😴 Sleeping for 1.56 seconds before request 153/209
+2025-04-22 16:11:38,955 [play_variants] INFO: 😴 Sleeping for 2.12 seconds before request 144/209
+2025-04-22 16:11:39,681 [play_variants] INFO: [152/209] Play S BN2009169: 4199.00 PLN | Instock | 57 remaining
+2025-04-22 16:11:39,730 [play_variants] INFO: [145/209] Play M BN2008585: 0.00 PLN | Outstock | 64 remaining
+2025-04-22 16:11:40,933 [play_variants] INFO: 😴 Sleeping for 2.62 seconds before request 154/209
+2025-04-22 16:11:41,077 [play_variants] INFO: 😴 Sleeping for 2.17 seconds before request 147/209
+2025-04-22 16:11:41,149 [play_variants] INFO: [143/209] Play L BN2008586: 0.00 PLN | Outstock | 66 remaining
+2025-04-22 16:11:42,455 [play_variants] INFO: 😴 Sleeping for 1.73 seconds before request 145/209
+2025-04-22 16:11:43,313 [play_variants] INFO: [146/209] Play M BN2009166: 2899.00 PLN | Instock | 63 remaining
+2025-04-22 16:11:43,627 [play_variants] INFO: [153/209] Play S BN2009170: 4599.00 PLN | Instock | 56 remaining
+2025-04-22 16:11:44,264 [play_variants] INFO: [144/209] Play L BN2008584: 0.00 PLN | Outstock | 65 remaining
+2025-04-22 16:11:44,685 [play_variants] INFO: 😴 Sleeping for 2.81 seconds before request 148/209
+2025-04-22 16:11:45,065 [play_variants] INFO: 😴 Sleeping for 2.57 seconds before request 155/209
+2025-04-22 16:11:45,550 [play_variants] INFO: 😴 Sleeping for 2.78 seconds before request 146/209
+2025-04-22 16:11:47,578 [play_variants] INFO: [147/209] Play M BN2009167: 3499.00 PLN | Instock | 62 remaining
+2025-04-22 16:11:47,721 [play_variants] INFO: [154/209] Play S BN2009796: 3699.00 PLN | Instock | 55 remaining
+2025-04-22 16:11:48,412 [play_variants] INFO: [145/209] Play L BN2008585: 0.00 PLN | Outstock | 64 remaining
+2025-04-22 16:11:48,858 [play_variants] INFO: 😴 Sleeping for 1.60 seconds before request 149/209
+2025-04-22 16:11:48,958 [play_variants] INFO: 😴 Sleeping for 1.69 seconds before request 156/209
+2025-04-22 16:11:49,822 [play_variants] INFO: 😴 Sleeping for 2.29 seconds before request 147/209
+2025-04-22 16:11:50,538 [play_variants] INFO: [148/209] Play M BN2009488: 2659.00 PLN | Instock | 61 remaining
+2025-04-22 16:11:50,712 [play_variants] INFO: [155/209] Play S BN2009900: 4099.00 PLN | Instock | 54 remaining
+2025-04-22 16:11:51,884 [play_variants] INFO: 😴 Sleeping for 1.61 seconds before request 150/209
+2025-04-22 16:11:51,992 [play_variants] INFO: 😴 Sleeping for 1.85 seconds before request 157/209
+2025-04-22 16:11:52,184 [play_variants] INFO: [146/209] Play L BN2009166: 2899.00 PLN | Instock | 63 remaining
+2025-04-22 16:11:53,450 [play_variants] INFO: 😴 Sleeping for 1.95 seconds before request 148/209
+2025-04-22 16:11:53,584 [play_variants] INFO: [149/209] Play M BN2009173: 6799.00 PLN | Instock | 60 remaining
+2025-04-22 16:11:53,913 [play_variants] INFO: [156/209] Play S BN2009849: 4599.00 PLN | Instock | 53 remaining
+2025-04-22 16:11:54,834 [play_variants] INFO: 😴 Sleeping for 1.63 seconds before request 151/209
+2025-04-22 16:11:55,194 [play_variants] INFO: 😴 Sleeping for 1.67 seconds before request 158/209
+2025-04-22 16:11:55,490 [play_variants] INFO: [147/209] Play L BN2009167: 3499.00 PLN | Instock | 62 remaining
+2025-04-22 16:11:56,537 [play_variants] INFO: [150/209] Play M BN2009171: 5499.00 PLN | Instock | 59 remaining
+2025-04-22 16:11:56,800 [play_variants] INFO: 😴 Sleeping for 1.74 seconds before request 149/209
+2025-04-22 16:11:56,949 [play_variants] INFO: [157/209] Play S BN2009851: 7699.00 PLN | Instock | 52 remaining
+2025-04-22 16:11:57,832 [play_variants] INFO: 😴 Sleeping for 2.43 seconds before request 152/209
+2025-04-22 16:11:58,201 [play_variants] INFO: 😴 Sleeping for 2.56 seconds before request 159/209
+2025-04-22 16:11:58,616 [play_variants] INFO: [148/209] Play L BN2009488: 2499.00 PLN | Instock | 61 remaining
+2025-04-22 16:11:59,910 [play_variants] INFO: 😴 Sleeping for 2.72 seconds before request 150/209
+2025-04-22 16:12:00,336 [play_variants] INFO: [151/209] Play M BN2009172: 5999.00 PLN | Instock | 58 remaining
+2025-04-22 16:12:00,851 [play_variants] INFO: [158/209] Play S BN2009798: 6199.00 PLN | Instock | 51 remaining
+2025-04-22 16:12:01,633 [play_variants] INFO: 😴 Sleeping for 1.44 seconds before request 153/209
+2025-04-22 16:12:02,115 [play_variants] INFO: 😴 Sleeping for 1.24 seconds before request 160/209
+2025-04-22 16:12:02,722 [play_variants] INFO: [149/209] Play L BN2009173: 6799.00 PLN | Instock | 60 remaining
+2025-04-22 16:12:03,149 [play_variants] INFO: [152/209] Play M BN2009169: 4199.00 PLN | Instock | 57 remaining
+2025-04-22 16:12:03,452 [play_variants] INFO: [159/209] Play S BN2009852: 6699.00 PLN | Instock | 50 remaining
+2025-04-22 16:12:03,977 [play_variants] INFO: 😴 Sleeping for 2.06 seconds before request 151/209
+2025-04-22 16:12:04,406 [play_variants] INFO: 😴 Sleeping for 2.82 seconds before request 154/209
+2025-04-22 16:12:04,732 [play_variants] INFO: 😴 Sleeping for 1.54 seconds before request 161/209
+2025-04-22 16:12:06,128 [play_variants] INFO: [150/209] Play L BN2009171: 5499.00 PLN | Instock | 59 remaining
+2025-04-22 16:12:06,352 [play_variants] INFO: [160/209] Play S BN2009797: 4899.00 PLN | Instock | 49 remaining
+2025-04-22 16:12:07,300 [play_variants] INFO: [153/209] Play M BN2009170: 4599.00 PLN | Instock | 56 remaining
+2025-04-22 16:12:07,383 [play_variants] INFO: 😴 Sleeping for 2.82 seconds before request 152/209
+2025-04-22 16:12:07,601 [play_variants] INFO: 😴 Sleeping for 2.41 seconds before request 162/209
+2025-04-22 16:12:08,552 [play_variants] INFO: 😴 Sleeping for 1.22 seconds before request 155/209
+2025-04-22 16:12:09,852 [play_variants] INFO: [154/209] Play M BN2009796: 3699.00 PLN | Instock | 55 remaining
+2025-04-22 16:12:10,097 [play_variants] INFO: [161/209] Play S BN2009850: 5399.00 PLN | Instock | 48 remaining
+2025-04-22 16:12:10,296 [play_variants] INFO: [151/209] Play L BN2009172: 5999.00 PLN | Instock | 58 remaining
+2025-04-22 16:12:11,074 [play_variants] INFO: 😴 Sleeping for 2.90 seconds before request 156/209
+2025-04-22 16:12:11,407 [play_variants] INFO: 😴 Sleeping for 2.24 seconds before request 163/209
+2025-04-22 16:12:11,675 [play_variants] INFO: 😴 Sleeping for 2.25 seconds before request 153/209
+2025-04-22 16:12:13,718 [play_variants] INFO: [162/209] Play S BN2008981: 1349.00 PLN | Instock | 47 remaining
+2025-04-22 16:12:14,029 [play_variants] INFO: [152/209] Play L BN2009169: 4199.00 PLN | Instock | 57 remaining
+2025-04-22 16:12:14,067 [play_variants] INFO: [155/209] Play M BN2009900: 3969.00 PLN | Instock | 54 remaining
+2025-04-22 16:12:15,025 [play_variants] INFO: 😴 Sleeping for 2.65 seconds before request 164/209
+2025-04-22 16:12:15,321 [play_variants] INFO: 😴 Sleeping for 2.88 seconds before request 157/209
+2025-04-22 16:12:15,346 [play_variants] INFO: 😴 Sleeping for 2.96 seconds before request 154/209
+2025-04-22 16:12:17,737 [play_variants] INFO: [163/209] Play S BN2008977: 0.00 PLN | Outstock | 46 remaining
+2025-04-22 16:12:18,271 [play_variants] INFO: [156/209] Play M BN2009849: 4469.00 PLN | Instock | 53 remaining
+2025-04-22 16:12:18,379 [play_variants] INFO: [153/209] Play L BN2009170: 4599.00 PLN | Instock | 56 remaining
+2025-04-22 16:12:19,068 [play_variants] INFO: 😴 Sleeping for 1.48 seconds before request 165/209
+2025-04-22 16:12:19,470 [play_variants] INFO: 😴 Sleeping for 2.34 seconds before request 158/209
+2025-04-22 16:12:19,649 [play_variants] INFO: 😴 Sleeping for 2.27 seconds before request 155/209
+2025-04-22 16:12:20,640 [play_variants] INFO: [164/209] Play S BN4000698: 0.00 PLN | Outstock | 45 remaining
+2025-04-22 16:12:21,897 [play_variants] INFO: [157/209] Play M BN2009851: 7319.00 PLN | Instock | 52 remaining
+2025-04-22 16:12:21,929 [play_variants] INFO: 😴 Sleeping for 2.51 seconds before request 166/209
+2025-04-22 16:12:21,988 [play_variants] INFO: [154/209] Play L BN2009796: 3499.00 PLN | Instock | 55 remaining
+2025-04-22 16:12:23,115 [play_variants] INFO: 😴 Sleeping for 1.30 seconds before request 159/209
+2025-04-22 16:12:23,427 [play_variants] INFO: 😴 Sleeping for 1.67 seconds before request 156/209
+2025-04-22 16:12:24,489 [play_variants] INFO: [158/209] Play M BN2009798: 5879.00 PLN | Instock | 51 remaining
+2025-04-22 16:12:24,524 [play_variants] INFO: [165/209] Play S BN2009406: 0.00 PLN | Outstock | 44 remaining
+2025-04-22 16:12:25,185 [play_variants] INFO: [155/209] Play L BN2009900: 3699.00 PLN | Instock | 54 remaining
+2025-04-22 16:12:25,676 [play_variants] INFO: 😴 Sleeping for 2.04 seconds before request 160/209
+2025-04-22 16:12:25,781 [play_variants] INFO: 😴 Sleeping for 1.33 seconds before request 167/209
+2025-04-22 16:12:26,480 [play_variants] INFO: 😴 Sleeping for 2.78 seconds before request 157/209
+2025-04-22 16:12:27,176 [play_variants] INFO: [166/209] Play S BN2009404: 849.00 PLN | Instock | 43 remaining
+2025-04-22 16:12:27,801 [play_variants] INFO: [159/209] Play M BN2009852: 6379.00 PLN | Instock | 50 remaining
+2025-04-22 16:12:28,451 [play_variants] INFO: 😴 Sleeping for 2.67 seconds before request 168/209
+2025-04-22 16:12:29,083 [play_variants] INFO: 😴 Sleeping for 1.08 seconds before request 161/209
+2025-04-22 16:12:29,332 [play_variants] INFO: [156/209] Play L BN2009849: 4199.00 PLN | Instock | 53 remaining
+2025-04-22 16:12:30,247 [play_variants] INFO: [160/209] Play M BN2009797: 4699.00 PLN | Instock | 49 remaining
+2025-04-22 16:12:30,591 [play_variants] INFO: 😴 Sleeping for 1.79 seconds before request 158/209
+2025-04-22 16:12:31,197 [play_variants] INFO: [167/209] Play S BN2008354: 2499.00 PLN | Instock | 42 remaining
+2025-04-22 16:12:31,608 [play_variants] INFO: 😴 Sleeping for 2.83 seconds before request 162/209
+2025-04-22 16:12:32,433 [play_variants] INFO: 😴 Sleeping for 1.35 seconds before request 169/209
+2025-04-22 16:12:32,454 [play_variants] INFO: [157/209] Play L BN2009851: 6999.00 PLN | Instock | 52 remaining
+2025-04-22 16:12:33,775 [play_variants] INFO: 😴 Sleeping for 2.30 seconds before request 159/209
+2025-04-22 16:12:33,874 [play_variants] INFO: [168/209] Play S BN2009163: 1399.00 PLN | Instock | 41 remaining
+2025-04-22 16:12:34,534 [play_variants] INFO: [161/209] Play M BN2009850: 5199.00 PLN | Instock | 48 remaining
+2025-04-22 16:12:35,187 [play_variants] INFO: 😴 Sleeping for 2.67 seconds before request 170/209
+2025-04-22 16:12:35,804 [play_variants] INFO: 😴 Sleeping for 2.02 seconds before request 163/209
+2025-04-22 16:12:36,181 [play_variants] INFO: [158/209] Play L BN2009798: 5399.00 PLN | Instock | 51 remaining
+2025-04-22 16:12:37,607 [play_variants] INFO: 😴 Sleeping for 2.96 seconds before request 160/209
+2025-04-22 16:12:37,923 [play_variants] INFO: [162/209] Play M BN2008981: 1349.00 PLN | Instock | 47 remaining
+2025-04-22 16:12:37,941 [play_variants] INFO: [169/209] Play S BN2008922: 0.00 PLN | Outstock | 40 remaining
+2025-04-22 16:12:39,128 [play_variants] INFO: 😴 Sleeping for 1.79 seconds before request 164/209
+2025-04-22 16:12:39,199 [play_variants] INFO: 😴 Sleeping for 1.87 seconds before request 171/209
+2025-04-22 16:12:40,663 [play_variants] INFO: [159/209] Play L BN2009852: 5899.00 PLN | Instock | 50 remaining
+2025-04-22 16:12:40,996 [play_variants] INFO: [163/209] Play M BN2008977: 0.00 PLN | Outstock | 46 remaining
+2025-04-22 16:12:41,156 [play_variants] INFO: [170/209] Play S BN2009474: 4599.00 PLN | Instock | 39 remaining
+2025-04-22 16:12:41,940 [play_variants] INFO: 😴 Sleeping for 1.59 seconds before request 161/209
+2025-04-22 16:12:42,211 [play_variants] INFO: 😴 Sleeping for 2.67 seconds before request 165/209
+2025-04-22 16:12:42,398 [play_variants] INFO: 😴 Sleeping for 2.87 seconds before request 172/209
+2025-04-22 16:12:43,619 [play_variants] INFO: [160/209] Play L BN2009797: 4499.00 PLN | Instock | 49 remaining
+2025-04-22 16:12:44,857 [play_variants] INFO: 😴 Sleeping for 2.69 seconds before request 162/209
+2025-04-22 16:12:44,942 [play_variants] INFO: [164/209] Play M BN4000698: 0.00 PLN | Outstock | 45 remaining
+2025-04-22 16:12:45,354 [play_variants] INFO: [171/209] Play S BN2009475: 5099.00 PLN | Instock | 38 remaining
+2025-04-22 16:12:46,180 [play_variants] INFO: 😴 Sleeping for 1.14 seconds before request 166/209
+2025-04-22 16:12:46,770 [play_variants] INFO: 😴 Sleeping for 1.27 seconds before request 173/209
+2025-04-22 16:12:47,391 [play_variants] INFO: [165/209] Play M BN2009406: 0.00 PLN | Outstock | 44 remaining
+2025-04-22 16:12:47,637 [play_variants] INFO: [161/209] Play L BN2009850: 4999.00 PLN | Instock | 48 remaining
+2025-04-22 16:12:48,130 [play_variants] INFO: [172/209] Play S BN2008919: 7999.00 PLN | Instock | 37 remaining
+2025-04-22 16:12:48,652 [play_variants] INFO: 😴 Sleeping for 2.32 seconds before request 167/209
+2025-04-22 16:12:48,907 [play_variants] INFO: 😴 Sleeping for 2.29 seconds before request 163/209
+2025-04-22 16:12:49,418 [play_variants] INFO: 😴 Sleeping for 2.43 seconds before request 174/209
+2025-04-22 16:12:51,049 [play_variants] INFO: [166/209] Play M BN2009404: 719.00 PLN | Instock | 43 remaining
+2025-04-22 16:12:51,269 [play_variants] INFO: [162/209] Play L BN2008981: 1299.00 PLN | Instock | 47 remaining
+2025-04-22 16:12:51,934 [play_variants] INFO: [173/209] Play S BN2008920: 0.00 PLN | Outstock | 36 remaining
+2025-04-22 16:12:52,234 [play_variants] INFO: 😴 Sleeping for 1.09 seconds before request 168/209
+2025-04-22 16:12:52,518 [play_variants] INFO: 😴 Sleeping for 1.50 seconds before request 164/209
+2025-04-22 16:12:53,193 [play_variants] INFO: 😴 Sleeping for 2.62 seconds before request 175/209
+2025-04-22 16:12:53,387 [play_variants] INFO: [167/209] Play M BN2008354: 2309.00 PLN | Instock | 42 remaining
+2025-04-22 16:12:54,107 [play_variants] INFO: [163/209] Play L BN2008977: 0.00 PLN | Outstock | 46 remaining
+2025-04-22 16:12:54,604 [play_variants] INFO: 😴 Sleeping for 2.49 seconds before request 169/209
+2025-04-22 16:12:55,491 [play_variants] INFO: 😴 Sleeping for 2.82 seconds before request 165/209
+2025-04-22 16:12:55,901 [play_variants] INFO: [174/209] Play S BN2008921: 0.00 PLN | Outstock | 35 remaining
+2025-04-22 16:12:57,172 [play_variants] INFO: 😴 Sleeping for 1.78 seconds before request 176/209
+2025-04-22 16:12:57,176 [play_variants] INFO: [168/209] Play M BN2009163: 1339.00 PLN | Instock | 41 remaining
+2025-04-22 16:12:58,375 [play_variants] INFO: 😴 Sleeping for 1.71 seconds before request 170/209
+2025-04-22 16:12:58,402 [play_variants] INFO: [164/209] Play L BN4000698: 0.00 PLN | Outstock | 45 remaining
+2025-04-22 16:12:59,027 [play_variants] INFO: [175/209] Play S BN2009476: 8999.00 PLN | Instock | 34 remaining
+2025-04-22 16:12:59,629 [play_variants] INFO: 😴 Sleeping for 1.92 seconds before request 166/209
+2025-04-22 16:13:00,156 [play_variants] INFO: [169/209] Play M BN2008922: 0.00 PLN | Outstock | 40 remaining
+2025-04-22 16:13:00,312 [play_variants] INFO: 😴 Sleeping for 2.28 seconds before request 177/209
+2025-04-22 16:13:01,439 [play_variants] INFO: 😴 Sleeping for 1.63 seconds before request 171/209
+2025-04-22 16:13:01,631 [play_variants] INFO: [165/209] Play L BN2009406: 0.00 PLN | Outstock | 44 remaining
+2025-04-22 16:13:02,674 [play_variants] INFO: [176/209] Play S BN2009477: 7499.00 PLN | Instock | 33 remaining
+2025-04-22 16:13:02,906 [play_variants] INFO: 😴 Sleeping for 2.96 seconds before request 167/209
+2025-04-22 16:13:03,137 [play_variants] INFO: [170/209] Play M BN2009474: 4599.00 PLN | Instock | 39 remaining
+2025-04-22 16:13:03,931 [play_variants] INFO: 😴 Sleeping for 2.49 seconds before request 178/209
+2025-04-22 16:13:04,438 [play_variants] INFO: 😴 Sleeping for 1.23 seconds before request 172/209
+2025-04-22 16:13:05,740 [play_variants] INFO: [171/209] Play M BN2009475: 5099.00 PLN | Instock | 38 remaining
+2025-04-22 16:13:05,945 [play_variants] INFO: [166/209] Play L BN2009404: 719.00 PLN | Instock | 43 remaining
+2025-04-22 16:13:06,517 [play_variants] INFO: [177/209] Play S BN2009478: 7999.00 PLN | Instock | 32 remaining
+2025-04-22 16:13:06,940 [play_variants] INFO: 😴 Sleeping for 1.98 seconds before request 173/209
+2025-04-22 16:13:07,176 [play_variants] INFO: 😴 Sleeping for 2.65 seconds before request 168/209
+2025-04-22 16:13:07,794 [play_variants] INFO: 😴 Sleeping for 1.85 seconds before request 179/209
+2025-04-22 16:13:08,993 [play_variants] INFO: [172/209] Play M BN2008919: 7999.00 PLN | Instock | 37 remaining
+2025-04-22 16:13:09,730 [play_variants] INFO: [178/209] Play S AN00000202: 569.00 PLN | Instock | 31 remaining
+2025-04-22 16:13:09,900 [play_variants] INFO: [167/209] Play L BN2008354: 2199.00 PLN | Instock | 42 remaining
+2025-04-22 16:13:10,296 [play_variants] INFO: 😴 Sleeping for 1.82 seconds before request 174/209
+2025-04-22 16:13:10,957 [play_variants] INFO: 😴 Sleeping for 2.71 seconds before request 180/209
+2025-04-22 16:13:11,165 [play_variants] INFO: 😴 Sleeping for 2.86 seconds before request 169/209
+2025-04-22 16:13:12,177 [play_variants] INFO: [173/209] Play M BN2008920: 0.00 PLN | Outstock | 36 remaining
+2025-04-22 16:13:13,401 [play_variants] INFO: 😴 Sleeping for 2.23 seconds before request 175/209
+2025-04-22 16:13:13,736 [play_variants] INFO: [179/209] Play S AN00000203: 699.00 PLN | Instock | 30 remaining
+2025-04-22 16:13:14,113 [play_variants] INFO: [168/209] Play L BN2009163: 1299.00 PLN | Instock | 41 remaining
+2025-04-22 16:13:15,002 [play_variants] INFO: 😴 Sleeping for 1.24 seconds before request 181/209
+2025-04-22 16:13:15,601 [play_variants] INFO: 😴 Sleeping for 1.31 seconds before request 170/209
+2025-04-22 16:13:15,676 [play_variants] INFO: [174/209] Play M BN2008921: 0.00 PLN | Outstock | 35 remaining
+2025-04-22 16:13:16,326 [play_variants] INFO: [180/209] Play S BN2009402: 1999.00 PLN | Instock | 29 remaining
+2025-04-22 16:13:16,973 [play_variants] INFO: 😴 Sleeping for 1.09 seconds before request 176/209
+2025-04-22 16:13:16,986 [play_variants] INFO: [169/209] Play L BN2008922: 0.00 PLN | Outstock | 40 remaining
+2025-04-22 16:13:17,573 [play_variants] INFO: 😴 Sleeping for 1.96 seconds before request 182/209
+2025-04-22 16:13:18,139 [play_variants] INFO: [175/209] Play M BN2009476: 8999.00 PLN | Instock | 34 remaining
+2025-04-22 16:13:18,281 [play_variants] INFO: 😴 Sleeping for 2.88 seconds before request 171/209
+2025-04-22 16:13:19,369 [play_variants] INFO: 😴 Sleeping for 2.42 seconds before request 177/209
+2025-04-22 16:13:19,618 [play_variants] INFO: [181/209] Play S BN2008850: 669.00 PLN | Instock | 28 remaining
+2025-04-22 16:13:20,932 [play_variants] INFO: 😴 Sleeping for 1.24 seconds before request 183/209
+2025-04-22 16:13:21,232 [play_variants] INFO: [170/209] Play L BN2009474: 4599.00 PLN | Instock | 39 remaining
+2025-04-22 16:13:21,867 [play_variants] INFO: [176/209] Play M BN2009477: 7499.00 PLN | Instock | 33 remaining
+2025-04-22 16:13:22,262 [play_variants] INFO: [182/209] Play S BN2008897: 0.00 PLN | Outstock | 27 remaining
+2025-04-22 16:13:22,499 [play_variants] INFO: 😴 Sleeping for 1.26 seconds before request 172/209
+2025-04-22 16:13:23,105 [play_variants] INFO: 😴 Sleeping for 2.42 seconds before request 178/209
+2025-04-22 16:13:23,524 [play_variants] INFO: 😴 Sleeping for 2.08 seconds before request 184/209
+2025-04-22 16:13:23,838 [play_variants] INFO: [171/209] Play L BN2009475: 5099.00 PLN | Instock | 38 remaining
+2025-04-22 16:13:25,169 [play_variants] INFO: 😴 Sleeping for 2.40 seconds before request 173/209
+2025-04-22 16:13:25,611 [play_variants] INFO: [177/209] Play M BN2009478: 7999.00 PLN | Instock | 32 remaining
+2025-04-22 16:13:25,683 [play_variants] INFO: [183/209] Play S BN2008616: 0.00 PLN | Outstock | 26 remaining
+2025-04-22 16:13:26,879 [play_variants] INFO: 😴 Sleeping for 2.19 seconds before request 179/209
+2025-04-22 16:13:26,927 [play_variants] INFO: 😴 Sleeping for 2.75 seconds before request 185/209
+2025-04-22 16:13:27,642 [play_variants] INFO: [172/209] Play L BN2008919: 7999.00 PLN | Instock | 37 remaining
+2025-04-22 16:13:28,974 [play_variants] INFO: 😴 Sleeping for 1.84 seconds before request 174/209
+2025-04-22 16:13:29,138 [play_variants] INFO: [178/209] Play M AN00000202: 519.00 PLN | Instock | 31 remaining
+2025-04-22 16:13:29,767 [play_variants] INFO: [184/209] Play S BN2009331: 619.00 PLN | Instock | 25 remaining
+2025-04-22 16:13:30,505 [play_variants] INFO: 😴 Sleeping for 2.28 seconds before request 180/209
+2025-04-22 16:13:30,903 [play_variants] INFO: [173/209] Play L BN2008920: 0.00 PLN | Outstock | 36 remaining
+2025-04-22 16:13:31,044 [play_variants] INFO: 😴 Sleeping for 1.39 seconds before request 186/209
+2025-04-22 16:13:32,198 [play_variants] INFO: 😴 Sleeping for 2.79 seconds before request 175/209
+2025-04-22 16:13:32,500 [play_variants] INFO: [185/209] Play S BN2009279: 569.00 PLN | Instock | 24 remaining
+2025-04-22 16:13:32,846 [play_variants] INFO: [179/209] Play M AN00000203: 699.00 PLN | Instock | 30 remaining
+2025-04-22 16:13:33,775 [play_variants] INFO: 😴 Sleeping for 2.18 seconds before request 187/209
+2025-04-22 16:13:34,074 [play_variants] INFO: 😴 Sleeping for 2.24 seconds before request 181/209
+2025-04-22 16:13:35,069 [play_variants] INFO: [174/209] Play L BN2008921: 0.00 PLN | Outstock | 35 remaining
+2025-04-22 16:13:36,033 [play_variants] INFO: [186/209] Play S BN2009087: 0.00 PLN | Outstock | 23 remaining
+2025-04-22 16:13:36,333 [play_variants] INFO: 😴 Sleeping for 2.80 seconds before request 176/209
+2025-04-22 16:13:36,399 [play_variants] INFO: [180/209] Play M BN2009402: 1899.00 PLN | Instock | 29 remaining
+2025-04-22 16:13:37,291 [play_variants] INFO: 😴 Sleeping for 1.72 seconds before request 188/209
+2025-04-22 16:13:37,625 [play_variants] INFO: 😴 Sleeping for 1.82 seconds before request 182/209
+2025-04-22 16:13:39,099 [play_variants] INFO: [187/209] Play S BN2009638: 419.00 PLN | Instock | 22 remaining
+2025-04-22 16:13:39,223 [play_variants] INFO: [175/209] Play L BN2009476: 8999.00 PLN | Instock | 34 remaining
+2025-04-22 16:13:39,520 [play_variants] INFO: [181/209] Play M BN2008850: 629.00 PLN | Instock | 28 remaining
+2025-04-22 16:13:40,373 [play_variants] INFO: 😴 Sleeping for 1.27 seconds before request 189/209
+2025-04-22 16:13:40,500 [play_variants] INFO: 😴 Sleeping for 1.77 seconds before request 177/209
+2025-04-22 16:13:40,748 [play_variants] INFO: 😴 Sleeping for 1.39 seconds before request 183/209
+2025-04-22 16:13:41,718 [play_variants] INFO: [188/209] Play S BN2009278: 349.00 PLN | Instock | 21 remaining
+2025-04-22 16:13:42,221 [play_variants] INFO: [182/209] Play M BN2008897: 0.00 PLN | Outstock | 27 remaining
+2025-04-22 16:13:42,347 [play_variants] INFO: [176/209] Play L BN2009477: 7499.00 PLN | Instock | 33 remaining
+2025-04-22 16:13:42,954 [play_variants] INFO: 😴 Sleeping for 2.70 seconds before request 190/209
+2025-04-22 16:13:43,455 [play_variants] INFO: 😴 Sleeping for 2.04 seconds before request 184/209
+2025-04-22 16:13:43,607 [play_variants] INFO: 😴 Sleeping for 2.66 seconds before request 178/209
+2025-04-22 16:13:45,573 [play_variants] INFO: [183/209] Play M BN2008616: 0.00 PLN | Outstock | 26 remaining
+2025-04-22 16:13:45,720 [play_variants] INFO: [189/209] Play S BN2009176: 0.00 PLN | Outstock | 20 remaining
+2025-04-22 16:13:46,342 [play_variants] INFO: [177/209] Play L BN2009478: 7999.00 PLN | Instock | 32 remaining
+2025-04-22 16:13:46,867 [play_variants] INFO: 😴 Sleeping for 1.77 seconds before request 185/209
+2025-04-22 16:13:46,982 [play_variants] INFO: 😴 Sleeping for 1.40 seconds before request 191/209
+2025-04-22 16:13:47,615 [play_variants] INFO: 😴 Sleeping for 2.82 seconds before request 179/209
+2025-04-22 16:13:48,433 [play_variants] INFO: [190/209] Play S BN2008741: 1199.00 PLN | Instock | 19 remaining
+2025-04-22 16:13:48,706 [play_variants] INFO: [184/209] Play M BN2009331: 589.00 PLN | Instock | 25 remaining
+2025-04-22 16:13:49,701 [play_variants] INFO: 😴 Sleeping for 1.05 seconds before request 192/209
+2025-04-22 16:13:49,925 [play_variants] INFO: 😴 Sleeping for 2.88 seconds before request 186/209
+2025-04-22 16:13:50,496 [play_variants] INFO: [178/209] Play L AN00000202: 479.00 PLN | Instock | 31 remaining
+2025-04-22 16:13:50,824 [play_variants] INFO: [191/209] Play S BN2008767: 1199.00 PLN | Instock | 18 remaining
+2025-04-22 16:13:51,747 [play_variants] INFO: 😴 Sleeping for 1.60 seconds before request 180/209
+2025-04-22 16:13:52,060 [play_variants] INFO: 😴 Sleeping for 2.10 seconds before request 193/209
+2025-04-22 16:13:52,876 [play_variants] INFO: [185/209] Play M BN2009279: 519.00 PLN | Instock | 24 remaining
+2025-04-22 16:13:53,447 [play_variants] INFO: [179/209] Play L AN00000203: 699.00 PLN | Instock | 30 remaining
+2025-04-22 16:13:54,083 [play_variants] INFO: 😴 Sleeping for 2.03 seconds before request 187/209
+2025-04-22 16:13:54,236 [play_variants] INFO: [192/209] Play S BN2008771: 1149.00 PLN | Instock | 17 remaining
+2025-04-22 16:13:54,688 [play_variants] INFO: 😴 Sleeping for 2.57 seconds before request 181/209
+2025-04-22 16:13:55,488 [play_variants] INFO: 😴 Sleeping for 1.33 seconds before request 194/209
+2025-04-22 16:13:56,186 [play_variants] INFO: [186/209] Play M BN2009087: 0.00 PLN | Outstock | 23 remaining
+2025-04-22 16:13:56,896 [play_variants] INFO: [193/209] Play S BN2009110: 0.00 PLN | Outstock | 16 remaining
+2025-04-22 16:13:57,338 [play_variants] INFO: [180/209] Play L BN2009402: 1849.00 PLN | Instock | 29 remaining
+2025-04-22 16:13:57,426 [play_variants] INFO: 😴 Sleeping for 1.60 seconds before request 188/209
+2025-04-22 16:13:58,124 [play_variants] INFO: 😴 Sleeping for 2.58 seconds before request 195/209
+2025-04-22 16:13:58,584 [play_variants] INFO: 😴 Sleeping for 2.49 seconds before request 182/209
+2025-04-22 16:13:59,108 [play_variants] INFO: [187/209] Play M BN2009638: 359.00 PLN | Instock | 22 remaining
+2025-04-22 16:14:00,340 [play_variants] INFO: 😴 Sleeping for 2.51 seconds before request 189/209
+2025-04-22 16:14:00,789 [play_variants] INFO: [194/209] Play S BN2009090: 0.00 PLN | Outstock | 15 remaining
+2025-04-22 16:14:01,161 [play_variants] INFO: [181/209] Play L BN2008850: 599.00 PLN | Instock | 28 remaining
+2025-04-22 16:14:02,113 [play_variants] INFO: 😴 Sleeping for 2.61 seconds before request 196/209
+2025-04-22 16:14:02,425 [play_variants] INFO: 😴 Sleeping for 2.46 seconds before request 183/209
+2025-04-22 16:14:02,933 [play_variants] INFO: [188/209] Play M BN2009278: 349.00 PLN | Instock | 21 remaining
+2025-04-22 16:14:04,150 [play_variants] INFO: 😴 Sleeping for 1.39 seconds before request 190/209
+2025-04-22 16:14:04,806 [play_variants] INFO: [195/209] Play S BN2009091: 1499.00 PLN | Instock | 14 remaining
+2025-04-22 16:14:04,961 [play_variants] INFO: [182/209] Play L BN2008897: 0.00 PLN | Outstock | 27 remaining
+2025-04-22 16:14:05,627 [play_variants] INFO: [189/209] Play M BN2009176: 0.00 PLN | Outstock | 20 remaining
+2025-04-22 16:14:06,092 [play_variants] INFO: 😴 Sleeping for 2.40 seconds before request 197/209
+2025-04-22 16:14:06,175 [play_variants] INFO: 😴 Sleeping for 2.67 seconds before request 184/209
+2025-04-22 16:14:06,848 [play_variants] INFO: 😴 Sleeping for 1.89 seconds before request 191/209
+2025-04-22 16:14:08,560 [play_variants] INFO: [196/209] Play S BN2009111: 0.00 PLN | Outstock | 13 remaining
+2025-04-22 16:14:08,797 [play_variants] INFO: [190/209] Play M BN2008741: 1199.00 PLN | Instock | 19 remaining
+2025-04-22 16:14:08,940 [play_variants] INFO: [183/209] Play L BN2008616: 0.00 PLN | Outstock | 26 remaining
+2025-04-22 16:14:09,818 [play_variants] INFO: 😴 Sleeping for 2.46 seconds before request 198/209
+2025-04-22 16:14:10,084 [play_variants] INFO: 😴 Sleeping for 1.70 seconds before request 192/209
+2025-04-22 16:14:10,209 [play_variants] INFO: 😴 Sleeping for 2.55 seconds before request 185/209
+2025-04-22 16:14:11,848 [play_variants] INFO: [191/209] Play M BN2008767: 1199.00 PLN | Instock | 18 remaining
+2025-04-22 16:14:12,361 [play_variants] INFO: [197/209] Play S BN2009810: 1199.00 PLN | Instock | 12 remaining
+2025-04-22 16:14:12,848 [play_variants] INFO: [184/209] Play L BN2009331: 549.00 PLN | Instock | 25 remaining
+2025-04-22 16:14:13,083 [play_variants] INFO: 😴 Sleeping for 2.23 seconds before request 193/209
+2025-04-22 16:14:13,619 [play_variants] INFO: 😴 Sleeping for 2.52 seconds before request 199/209
+2025-04-22 16:14:14,177 [play_variants] INFO: 😴 Sleeping for 2.27 seconds before request 186/209
+2025-04-22 16:14:15,379 [play_variants] INFO: [192/209] Play M BN2008771: 1089.00 PLN | Instock | 17 remaining
+2025-04-22 16:14:16,235 [play_variants] INFO: [198/209] Play S BN2009812: 1439.00 PLN | Instock | 11 remaining
+2025-04-22 16:14:16,521 [play_variants] INFO: [185/209] Play L BN2009279: 479.00 PLN | Instock | 24 remaining
+2025-04-22 16:14:16,632 [play_variants] INFO: 😴 Sleeping for 2.52 seconds before request 194/209
+2025-04-22 16:14:17,598 [play_variants] INFO: 😴 Sleeping for 1.67 seconds before request 200/209
+2025-04-22 16:14:17,772 [play_variants] INFO: 😴 Sleeping for 1.63 seconds before request 187/209
+2025-04-22 16:14:19,228 [play_variants] INFO: [193/209] Play M BN2009110: 0.00 PLN | Outstock | 16 remaining
+2025-04-22 16:14:19,353 [play_variants] INFO: [199/209] Play S AN00000173: 0.00 PLN | Outstock | 10 remaining
+2025-04-22 16:14:19,482 [play_variants] INFO: [186/209] Play L BN2009087: 0.00 PLN | Outstock | 23 remaining
+2025-04-22 16:14:20,525 [play_variants] INFO: 😴 Sleeping for 1.33 seconds before request 195/209
+2025-04-22 16:14:20,697 [play_variants] INFO: 😴 Sleeping for 2.23 seconds before request 201/209
+2025-04-22 16:14:20,729 [play_variants] INFO: 😴 Sleeping for 1.16 seconds before request 188/209
+2025-04-22 16:14:21,932 [play_variants] INFO: [194/209] Play M BN2009090: 0.00 PLN | Outstock | 15 remaining
+2025-04-22 16:14:21,979 [play_variants] INFO: [187/209] Play L BN2009638: 359.00 PLN | Instock | 22 remaining
+2025-04-22 16:14:23,007 [play_variants] INFO: [200/209] Play S BN2008852: 1999.00 PLN | Instock | 9 remaining
+2025-04-22 16:14:23,132 [play_variants] INFO: 😴 Sleeping for 1.38 seconds before request 196/209
+2025-04-22 16:14:23,222 [play_variants] INFO: 😴 Sleeping for 2.67 seconds before request 189/209
+2025-04-22 16:14:24,228 [play_variants] INFO: 😴 Sleeping for 2.78 seconds before request 202/209
+2025-04-22 16:14:24,603 [play_variants] INFO: [195/209] Play M BN2009091: 1449.00 PLN | Instock | 14 remaining
+2025-04-22 16:14:25,857 [play_variants] INFO: 😴 Sleeping for 1.22 seconds before request 197/209
+2025-04-22 16:14:25,968 [play_variants] INFO: [188/209] Play L BN2009278: 349.00 PLN | Instock | 21 remaining
+2025-04-22 16:14:27,103 [play_variants] INFO: [201/209] Play S BN2008861: 2639.00 PLN | Instock | 8 remaining
+2025-04-22 16:14:27,153 [play_variants] INFO: [196/209] Play M BN2009111: 0.00 PLN | Outstock | 13 remaining
+2025-04-22 16:14:27,204 [play_variants] INFO: 😴 Sleeping for 1.11 seconds before request 190/209
+2025-04-22 16:14:28,349 [play_variants] INFO: 😴 Sleeping for 2.95 seconds before request 203/209
+2025-04-22 16:14:28,396 [play_variants] INFO: 😴 Sleeping for 2.65 seconds before request 198/209
+2025-04-22 16:14:28,412 [play_variants] INFO: [189/209] Play L BN2009176: 0.00 PLN | Outstock | 20 remaining
+2025-04-22 16:14:29,848 [play_variants] INFO: 😴 Sleeping for 1.00 seconds before request 191/209
+2025-04-22 16:14:30,908 [play_variants] INFO: [190/209] Play L BN2008741: 1199.00 PLN | Instock | 19 remaining
+2025-04-22 16:14:31,126 [play_variants] INFO: [197/209] Play M BN2009810: 999.00 PLN | Instock | 12 remaining
+2025-04-22 16:14:31,393 [play_variants] INFO: [202/209] Play S BN2009094: 3899.00 PLN | Instock | 7 remaining
+2025-04-22 16:14:32,254 [play_variants] INFO: 😴 Sleeping for 1.90 seconds before request 192/209
+2025-04-22 16:14:32,365 [play_variants] INFO: 😴 Sleeping for 2.11 seconds before request 199/209
+2025-04-22 16:14:32,787 [play_variants] INFO: 😴 Sleeping for 1.26 seconds before request 204/209
+2025-04-22 16:14:34,126 [play_variants] INFO: [203/209] Play S BN2009303: 0.00 PLN | Outstock | 6 remaining
+2025-04-22 16:14:34,224 [play_variants] INFO: [191/209] Play L BN2008767: 1199.00 PLN | Instock | 18 remaining
+2025-04-22 16:14:34,548 [play_variants] INFO: [198/209] Play M BN2009812: 1299.00 PLN | Instock | 11 remaining
+2025-04-22 16:14:35,360 [play_variants] INFO: 😴 Sleeping for 1.73 seconds before request 205/209
+2025-04-22 16:14:35,472 [play_variants] INFO: 😴 Sleeping for 1.87 seconds before request 193/209
+2025-04-22 16:14:35,785 [play_variants] INFO: 😴 Sleeping for 1.14 seconds before request 200/209
+2025-04-22 16:14:36,995 [play_variants] INFO: [199/209] Play M AN00000173: 0.00 PLN | Outstock | 10 remaining
+2025-04-22 16:14:37,161 [play_variants] INFO: [204/209] Play S BN2009425: 1799.00 PLN | Instock | 5 remaining
+2025-04-22 16:14:37,409 [play_variants] INFO: [192/209] Play L BN2008771: 1059.00 PLN | Instock | 17 remaining
+2025-04-22 16:14:38,220 [play_variants] INFO: 😴 Sleeping for 2.49 seconds before request 201/209
+2025-04-22 16:14:38,431 [play_variants] INFO: 😴 Sleeping for 2.83 seconds before request 206/209
+2025-04-22 16:14:38,691 [play_variants] INFO: 😴 Sleeping for 2.52 seconds before request 194/209
+2025-04-22 16:14:40,794 [play_variants] INFO: [200/209] Play M BN2008852: 1999.00 PLN | Instock | 9 remaining
+2025-04-22 16:14:41,290 [play_variants] INFO: [193/209] Play L BN2009110: 0.00 PLN | Outstock | 16 remaining
+2025-04-22 16:14:41,341 [play_variants] INFO: [205/209] Play S BN2009446: 2599.00 PLN | Instock | 4 remaining
+2025-04-22 16:14:41,994 [play_variants] INFO: 😴 Sleeping for 1.47 seconds before request 202/209
+2025-04-22 16:14:42,597 [play_variants] INFO: 😴 Sleeping for 2.27 seconds before request 207/209
+2025-04-22 16:14:42,597 [play_variants] INFO: 😴 Sleeping for 1.08 seconds before request 195/209
+2025-04-22 16:14:43,544 [play_variants] INFO: [201/209] Play M BN2008861: 2639.00 PLN | Instock | 8 remaining
+2025-04-22 16:14:43,787 [play_variants] INFO: [194/209] Play L BN2009090: 0.00 PLN | Outstock | 15 remaining
+2025-04-22 16:14:44,726 [play_variants] INFO: 😴 Sleeping for 2.34 seconds before request 203/209
+2025-04-22 16:14:44,965 [play_variants] INFO: [206/209] Play S BN2009814: 4199.00 PLN | Instock | 3 remaining
+2025-04-22 16:14:45,005 [play_variants] INFO: 😴 Sleeping for 2.31 seconds before request 196/209
+2025-04-22 16:14:46,181 [play_variants] INFO: 😴 Sleeping for 2.82 seconds before request 208/209
+2025-04-22 16:14:47,132 [play_variants] INFO: [202/209] Play M BN2009094: 3649.00 PLN | Instock | 7 remaining
+2025-04-22 16:14:47,395 [play_variants] INFO: [195/209] Play L BN2009091: 1419.00 PLN | Instock | 14 remaining
+2025-04-22 16:14:48,390 [play_variants] INFO: 😴 Sleeping for 1.14 seconds before request 204/209
+2025-04-22 16:14:48,677 [play_variants] INFO: 😴 Sleeping for 1.15 seconds before request 197/209
+2025-04-22 16:14:49,077 [play_variants] INFO: [207/209] Play S BN2009815: 6299.00 PLN | Instock | 2 remaining
+2025-04-22 16:14:49,603 [play_variants] INFO: [203/209] Play M BN2009303: 0.00 PLN | Outstock | 6 remaining
+2025-04-22 16:14:49,907 [play_variants] INFO: [196/209] Play L BN2009111: 0.00 PLN | Outstock | 13 remaining
+2025-04-22 16:14:50,351 [play_variants] INFO: 😴 Sleeping for 1.04 seconds before request 209/209
+2025-04-22 16:14:50,846 [play_variants] INFO: 😴 Sleeping for 2.63 seconds before request 205/209
+2025-04-22 16:14:51,167 [play_variants] INFO: 😴 Sleeping for 1.22 seconds before request 198/209
+2025-04-22 16:14:51,470 [play_variants] INFO: [208/209] Play S AN00000248: 799.00 PLN | Instock | 1 remaining
+2025-04-22 16:14:52,461 [play_variants] INFO: [197/209] Play L BN2009810: 999.00 PLN | Instock | 12 remaining
+2025-04-22 16:14:52,829 [play_variants] INFO: [209/209] Play S AN00000249: 1999.00 PLN | Instock | 0 remaining
+2025-04-22 16:14:52,829 [play_variants] INFO: ✅ Spider play_variants completed
+2025-04-22 16:14:52,829 [play_variants] INFO: 🕒 Total time: 00:11:43
+2025-04-22 16:14:52,829 [play_variants] INFO: 📊 Processed 209 items
+2025-04-22 16:14:52,829 [play_variants] INFO: ⚡ Performance: 17.83 items/minute
+2025-04-22 16:14:53,544 [play_variants] INFO: [204/209] Play M BN2009425: 1649.00 PLN | Instock | 5 remaining
+2025-04-22 16:14:53,707 [play_variants] INFO: 😴 Sleeping for 1.63 seconds before request 199/209
+2025-04-22 16:14:54,753 [play_variants] INFO: 😴 Sleeping for 2.87 seconds before request 206/209
+2025-04-22 16:14:55,420 [play_variants] INFO: [198/209] Play L BN2009812: 1299.00 PLN | Instock | 11 remaining
+2025-04-22 16:14:56,704 [play_variants] INFO: 😴 Sleeping for 1.62 seconds before request 200/209
+2025-04-22 16:14:57,701 [play_variants] INFO: [205/209] Play M BN2009446: 2399.00 PLN | Instock | 4 remaining
+2025-04-22 16:14:58,384 [play_variants] INFO: [199/209] Play L AN00000173: 0.00 PLN | Outstock | 10 remaining
+2025-04-22 16:14:58,926 [play_variants] INFO: 😴 Sleeping for 1.59 seconds before request 207/209
+2025-04-22 16:14:59,712 [play_variants] INFO: 😴 Sleeping for 1.45 seconds before request 201/209
+2025-04-22 16:15:00,588 [play_variants] INFO: [206/209] Play M BN2009814: 3999.00 PLN | Instock | 3 remaining
+2025-04-22 16:15:01,232 [play_variants] INFO: [200/209] Play L BN2008852: 1999.00 PLN | Instock | 9 remaining
+2025-04-22 16:15:01,818 [play_variants] INFO: 😴 Sleeping for 1.01 seconds before request 208/209
+2025-04-22 16:15:02,915 [play_variants] INFO: [207/209] Play M BN2009815: 5989.00 PLN | Instock | 2 remaining
+2025-04-22 16:15:03,882 [play_variants] INFO: 😴 Sleeping for 1.18 seconds before request 202/209
+2025-04-22 16:15:04,141 [play_variants] INFO: 😴 Sleeping for 1.48 seconds before request 209/209
+2025-04-22 16:15:04,662 [play_variants] INFO: ==================================================
+2025-04-22 16:15:04,662 [play_variants] INFO: SPIDER RUN COMPLETED: play_variants
+2025-04-22 16:15:04,662 [play_variants] INFO: Items processed: 209
+2025-04-22 16:15:04,662 [play_variants] INFO: Duration: 00:11:55
+2025-04-22 16:15:04,662 [play_variants] INFO: Performance: 17.53 items/minute
+2025-04-22 16:15:04,662 [play_variants] INFO: ==================================================
+2025-04-22 16:15:05,146 [play_variants] INFO: [201/209] Play L BN2008861: 2639.00 PLN | Instock | 8 remaining
+2025-04-22 16:15:05,697 [play_variants] INFO: [208/209] Play M AN00000248: 749.00 PLN | Instock | 1 remaining
+2025-04-22 16:15:06,431 [play_variants] INFO: 😴 Sleeping for 2.54 seconds before request 203/209
+2025-04-22 16:15:07,195 [play_variants] INFO: [209/209] Play M AN00000249: 1919.00 PLN | Instock | 0 remaining
+2025-04-22 16:15:07,195 [play_variants] INFO: ✅ Spider play_variants completed
+2025-04-22 16:15:07,195 [play_variants] INFO: 🕒 Total time: 00:11:45
+2025-04-22 16:15:07,195 [play_variants] INFO: 📊 Processed 209 items
+2025-04-22 16:15:07,195 [play_variants] INFO: ⚡ Performance: 17.78 items/minute
+2025-04-22 16:15:09,048 [play_variants] INFO: [202/209] Play L BN2009094: 3499.00 PLN | Instock | 7 remaining
+2025-04-22 16:15:10,359 [play_variants] INFO: 😴 Sleeping for 1.48 seconds before request 204/209
+2025-04-22 16:15:11,921 [play_variants] INFO: [203/209] Play L BN2009303: 0.00 PLN | Outstock | 6 remaining
+2025-04-22 16:15:13,299 [play_variants] INFO: 😴 Sleeping for 2.15 seconds before request 205/209
+2025-04-22 16:15:15,547 [play_variants] INFO: [204/209] Play L BN2009425: 1649.00 PLN | Instock | 5 remaining
+2025-04-22 16:15:16,954 [play_variants] INFO: 😴 Sleeping for 2.78 seconds before request 206/209
+2025-04-22 16:15:19,084 [play_variants] INFO: ==================================================
+2025-04-22 16:15:19,084 [play_variants] INFO: SPIDER RUN COMPLETED: play_variants
+2025-04-22 16:15:19,085 [play_variants] INFO: Items processed: 209
+2025-04-22 16:15:19,085 [play_variants] INFO: Duration: 00:11:56
+2025-04-22 16:15:19,085 [play_variants] INFO: Performance: 17.49 items/minute
+2025-04-22 16:15:19,085 [play_variants] INFO: ==================================================
+2025-04-22 16:15:19,831 [play_variants] INFO: [205/209] Play L BN2009446: 2399.00 PLN | Instock | 4 remaining
+2025-04-22 16:15:21,107 [play_variants] INFO: 😴 Sleeping for 2.87 seconds before request 207/209
+2025-04-22 16:15:24,083 [play_variants] INFO: [206/209] Play L BN2009814: 3899.00 PLN | Instock | 3 remaining
+2025-04-22 16:15:25,496 [play_variants] INFO: 😴 Sleeping for 1.29 seconds before request 208/209
+2025-04-22 16:15:26,889 [play_variants] INFO: [207/209] Play L BN2009815: 5799.00 PLN | Instock | 2 remaining
+2025-04-22 16:15:28,159 [play_variants] INFO: 😴 Sleeping for 2.28 seconds before request 209/209
+2025-04-22 16:15:30,528 [play_variants] INFO: [208/209] Play L AN00000248: 749.00 PLN | Instock | 1 remaining
+2025-04-22 16:15:31,971 [play_variants] INFO: [209/209] Play L AN00000249: 1919.00 PLN | Instock | 0 remaining
+2025-04-22 16:15:31,976 [play_variants] INFO: ✅ Spider play_variants completed
+2025-04-22 16:15:31,976 [play_variants] INFO: 🕒 Total time: 00:12:02
+2025-04-22 16:15:31,976 [play_variants] INFO: 📊 Processed 209 items
+2025-04-22 16:15:31,979 [play_variants] INFO: ⚡ Performance: 17.36 items/minute
+2025-04-22 16:15:45,805 [play_variants] INFO: ==================================================
+2025-04-22 16:15:45,807 [play_variants] INFO: SPIDER RUN COMPLETED: play_variants
+2025-04-22 16:15:45,807 [play_variants] INFO: Items processed: 209
+2025-04-22 16:15:45,807 [play_variants] INFO: Duration: 00:12:16
+2025-04-22 16:15:45,807 [play_variants] INFO: Performance: 17.03 items/minute
+2025-04-22 16:15:45,807 [play_variants] INFO: ==================================================

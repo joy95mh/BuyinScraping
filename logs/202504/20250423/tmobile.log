@@ -1,0 +1,967 @@
+2025-04-23 07:44:45,058 [tmobile] INFO: 🕷️ Initializing tmobile spider
+2025-04-23 07:44:45,058 [tmobile] INFO: 🔄 Proxy Manager: Enabled
+2025-04-23 07:44:45,060 [tmobile] INFO: 🕒 Human-like delays: Enabled
+2025-04-23 07:44:45,153 [tmobile] INFO: 🕷️ Starting T-Mobile spider
+2025-04-23 07:44:45,154 [tmobile] INFO: 🔍 Total products to scrape: 215
+2025-04-23 07:44:45,154 [tmobile] INFO: ⏱️ Using sleep time range: 1-5 seconds
+2025-04-23 07:44:45,154 [tmobile] INFO: ⏱️ Between products delay: 1 seconds
+2025-04-23 07:44:45,154 [tmobile] INFO: ⏱️ Between retries delay: 2 seconds
+2025-04-23 07:44:45,154 [tmobile] INFO: Using proxy manager with your own proxy first
+2025-04-23 07:44:45,154 [tmobile] INFO: 🔄 Getting proxies from https://free-proxy-list.net/
+2025-04-23 07:44:45,541 [tmobile] INFO: 🔍 Found 121 HTTPS proxies out of 300 total proxies
+2025-04-23 07:44:45,543 [tmobile] INFO:   Proxy #1: 43.200.243.146:3128 (HTTPS)
+2025-04-23 07:44:45,543 [tmobile] INFO:   Proxy #2: 51.20.50.149:3128 (HTTPS)
+2025-04-23 07:44:45,543 [tmobile] INFO:   Proxy #3: 43.135.147.75:13001 (HTTPS)
+2025-04-23 07:44:45,545 [tmobile] INFO:   Proxy #4: 13.244.174.75:3128 (HTTPS)
+2025-04-23 07:44:45,545 [tmobile] INFO:   Proxy #5: 52.196.1.182:80 (HTTPS)
+2025-04-23 07:44:45,545 [tmobile] INFO:   ... and 116 more
+2025-04-23 07:44:45,545 [tmobile] INFO: Added your own proxy + 49 public proxies (limited to 50 total)
+2025-04-23 07:44:45,547 [tmobile] INFO: 🔄 Starting with your own proxy: 192.168.101.27:8080 (1/50)
+2025-04-23 07:44:45,553 [tmobile] INFO: Using proxy URL: http://192.168.101.27:8080
+2025-04-23 07:44:52,093 [tmobile] INFO: [1/215] AN00000235: 1.40 PLN | Instock | 214 remaining
+2025-04-23 07:44:52,095 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:44:53,110 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.59 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:44:54,699 [tmobile] INFO: ⏭️ Moving to next product (2/215) | Remaining: 214 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:44:59,956 [tmobile] INFO: [2/215] AN00000219: 2.55 PLN | Instock | 213 remaining
+2025-04-23 07:44:59,956 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:45:00,967 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.20 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:45:03,174 [tmobile] INFO: ⏭️ Moving to next product (3/215) | Remaining: 213 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:45:07,270 [tmobile] INFO: [3/215] AN00000220: 2.75 PLN | Instock | 212 remaining
+2025-04-23 07:45:07,270 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:45:08,282 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.72 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:45:12,014 [tmobile] INFO: ⏭️ Moving to next product (4/215) | Remaining: 212 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:45:17,271 [tmobile] INFO: [4/215] BN2009578: 0.00 PLN | Outstock | 211 remaining
+2025-04-23 07:45:17,284 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:45:18,288 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.05 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:45:20,347 [tmobile] INFO: ⏭️ Moving to next product (5/215) | Remaining: 211 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:45:26,095 [tmobile] INFO: [5/215] BN2009582: 0.00 PLN | Outstock | 210 remaining
+2025-04-23 07:45:26,098 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:45:27,108 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.82 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:45:30,927 [tmobile] INFO: ⏭️ Moving to next product (6/215) | Remaining: 210 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:45:32,980 [tmobile] INFO: [6/215] BN2010121: 0.00 PLN | Outstock | 209 remaining
+2025-04-23 07:45:32,980 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:45:33,986 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.07 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:45:37,062 [tmobile] INFO: ⏭️ Moving to next product (7/215) | Remaining: 209 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:45:40,828 [tmobile] INFO: [7/215] BN2010122: 0.00 PLN | Outstock | 208 remaining
+2025-04-23 07:45:40,828 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:45:41,831 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.33 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:45:46,171 [tmobile] INFO: ⏭️ Moving to next product (8/215) | Remaining: 208 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:45:51,145 [tmobile] INFO: [8/215] BN2009579: 0.00 PLN | Outstock | 207 remaining
+2025-04-23 07:45:51,145 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:45:52,147 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.24 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:45:55,404 [tmobile] INFO: ⏭️ Moving to next product (9/215) | Remaining: 207 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:46:00,252 [tmobile] INFO: [9/215] BN2009590: 0.00 PLN | Outstock | 206 remaining
+2025-04-23 07:46:00,252 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:46:01,267 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.90 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:46:04,176 [tmobile] INFO: ⏭️ Moving to next product (10/215) | Remaining: 206 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:46:08,144 [tmobile] INFO: [10/215] BN2010129: 0.00 PLN | Outstock | 205 remaining
+2025-04-23 07:46:08,150 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:46:09,159 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.20 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:46:13,361 [tmobile] INFO: ⏭️ Moving to next product (11/215) | Remaining: 205 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:46:17,882 [tmobile] INFO: [11/215] BN2010130: 0.00 PLN | Outstock | 204 remaining
+2025-04-23 07:46:17,882 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:46:18,897 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.74 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:46:22,638 [tmobile] INFO: ⏭️ Moving to next product (12/215) | Remaining: 204 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:46:26,055 [tmobile] INFO: [12/215] BN2010131: 0.00 PLN | Outstock | 203 remaining
+2025-04-23 07:46:26,055 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:46:27,062 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.10 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:46:28,175 [tmobile] INFO: ⏭️ Moving to next product (13/215) | Remaining: 203 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:46:31,815 [tmobile] INFO: [13/215] BN2009580: 0.00 PLN | Outstock | 202 remaining
+2025-04-23 07:46:31,815 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:46:32,822 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.17 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:46:34,003 [tmobile] INFO: ⏭️ Moving to next product (14/215) | Remaining: 202 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:46:36,315 [tmobile] INFO: [14/215] BN2009598: 0.00 PLN | Outstock | 201 remaining
+2025-04-23 07:46:36,315 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:46:37,326 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.42 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:46:41,758 [tmobile] INFO: ⏭️ Moving to next product (15/215) | Remaining: 201 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:46:43,550 [tmobile] INFO: [15/215] BN2009581: 8.00 PLN | Instock | 200 remaining
+2025-04-23 07:46:43,550 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:46:44,553 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.12 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:46:46,683 [tmobile] INFO: ⏭️ Moving to next product (16/215) | Remaining: 200 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:46:48,534 [tmobile] INFO: [16/215] BN2009606: 0.00 PLN | Outstock | 199 remaining
+2025-04-23 07:46:48,534 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:46:49,535 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.88 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:46:54,421 [tmobile] INFO: ⏭️ Moving to next product (17/215) | Remaining: 199 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:47:00,655 [tmobile] INFO: [17/215] BN2007979: 0.00 PLN | Outstock | 198 remaining
+2025-04-23 07:47:00,655 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:47:01,667 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.02 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:47:03,695 [tmobile] INFO: ⏭️ Moving to next product (18/215) | Remaining: 198 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:47:07,263 [tmobile] INFO: [18/215] BN2008517: 0.00 PLN | Outstock | 197 remaining
+2025-04-23 07:47:07,263 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:47:08,264 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.35 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:47:12,626 [tmobile] INFO: ⏭️ Moving to next product (19/215) | Remaining: 197 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:47:17,152 [tmobile] INFO: [19/215] BN2008518: 0.00 PLN | Outstock | 196 remaining
+2025-04-23 07:47:17,152 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:47:18,157 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.50 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:47:19,662 [tmobile] INFO: ⏭️ Moving to next product (20/215) | Remaining: 196 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:47:26,434 [tmobile] INFO: [20/215] BN2008514: 0.00 PLN | Outstock | 195 remaining
+2025-04-23 07:47:26,434 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:47:27,456 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.37 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:47:29,836 [tmobile] INFO: ⏭️ Moving to next product (21/215) | Remaining: 195 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:47:33,619 [tmobile] INFO: [21/215] BN2009133: 0.00 PLN | Outstock | 194 remaining
+2025-04-23 07:47:33,619 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:47:34,622 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.45 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:47:36,078 [tmobile] INFO: ⏭️ Moving to next product (22/215) | Remaining: 194 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:47:37,678 [tmobile] INFO: [22/215] BN2009142: 0.00 PLN | Outstock | 193 remaining
+2025-04-23 07:47:37,678 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:47:38,690 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.56 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:47:42,250 [tmobile] INFO: ⏭️ Moving to next product (23/215) | Remaining: 193 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:47:43,847 [tmobile] INFO: [23/215] BN2009143: 0.00 PLN | Outstock | 192 remaining
+2025-04-23 07:47:43,847 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:47:44,847 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.60 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:47:47,445 [tmobile] INFO: ⏭️ Moving to next product (24/215) | Remaining: 192 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:47:52,358 [tmobile] INFO: [24/215] BN2009134: 0.00 PLN | Outstock | 191 remaining
+2025-04-23 07:47:52,358 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:47:53,377 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.49 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:47:54,881 [tmobile] INFO: ⏭️ Moving to next product (25/215) | Remaining: 191 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:47:58,080 [tmobile] INFO: [25/215] BN2009145: 0.00 PLN | Outstock | 190 remaining
+2025-04-23 07:47:58,082 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:47:59,096 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.56 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:48:02,659 [tmobile] INFO: ⏭️ Moving to next product (26/215) | Remaining: 190 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:48:04,621 [tmobile] INFO: [26/215] BN2009135: 0.00 PLN | Outstock | 189 remaining
+2025-04-23 07:48:04,621 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:48:05,624 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.16 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:48:09,798 [tmobile] INFO: ⏭️ Moving to next product (27/215) | Remaining: 189 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:48:12,639 [tmobile] INFO: [27/215] BN2009148: 0.00 PLN | Outstock | 188 remaining
+2025-04-23 07:48:12,639 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:48:13,648 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.27 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:48:16,925 [tmobile] INFO: ⏭️ Moving to next product (28/215) | Remaining: 188 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:48:19,624 [tmobile] INFO: [28/215] BN2009146: 0.00 PLN | Outstock | 187 remaining
+2025-04-23 07:48:19,634 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:48:20,648 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.09 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:48:21,749 [tmobile] INFO: ⏭️ Moving to next product (29/215) | Remaining: 187 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:48:24,180 [tmobile] INFO: [29/215] BN2009147: 0.00 PLN | Outstock | 186 remaining
+2025-04-23 07:48:24,180 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:48:25,196 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.04 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:48:27,248 [tmobile] INFO: ⏭️ Moving to next product (30/215) | Remaining: 186 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:48:29,722 [tmobile] INFO: [30/215] BN2009151: 0.00 PLN | Outstock | 185 remaining
+2025-04-23 07:48:29,722 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:48:30,729 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.51 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:48:34,252 [tmobile] INFO: ⏭️ Moving to next product (31/215) | Remaining: 185 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:48:36,998 [tmobile] INFO: [31/215] BN2009136: 0.00 PLN | Outstock | 184 remaining
+2025-04-23 07:48:36,998 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:48:38,014 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.29 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:48:40,315 [tmobile] INFO: ⏭️ Moving to next product (32/215) | Remaining: 184 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:48:42,709 [tmobile] INFO: [32/215] BN2009150: 0.00 PLN | Outstock | 183 remaining
+2025-04-23 07:48:42,709 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:48:43,726 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.72 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:48:46,450 [tmobile] INFO: ⏭️ Moving to next product (33/215) | Remaining: 183 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:48:48,104 [tmobile] INFO: [33/215] BN2009874: 0.00 PLN | Outstock | 182 remaining
+2025-04-23 07:48:48,106 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:48:49,111 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.87 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:48:50,981 [tmobile] INFO: ⏭️ Moving to next product (34/215) | Remaining: 182 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:48:52,441 [tmobile] INFO: [34/215] BN2009878: 0.00 PLN | Outstock | 181 remaining
+2025-04-23 07:48:52,447 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:48:53,451 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.54 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:48:55,005 [tmobile] INFO: ⏭️ Moving to next product (35/215) | Remaining: 181 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:49:01,837 [tmobile] INFO: [35/215] BN2009879: 0.00 PLN | Outstock | 180 remaining
+2025-04-23 07:49:01,839 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:49:02,855 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.36 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:49:05,215 [tmobile] INFO: ⏭️ Moving to next product (36/215) | Remaining: 180 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:49:11,227 [tmobile] INFO: [36/215] BN2009875: 0.00 PLN | Outstock | 179 remaining
+2025-04-23 07:49:11,227 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:49:12,254 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.03 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:49:14,291 [tmobile] INFO: ⏭️ Moving to next product (37/215) | Remaining: 179 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:49:20,299 [tmobile] INFO: [37/215] BN2009880: 0.00 PLN | Outstock | 178 remaining
+2025-04-23 07:49:20,306 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:49:21,311 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.86 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:49:23,184 [tmobile] INFO: ⏭️ Moving to next product (38/215) | Remaining: 178 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:49:24,639 [tmobile] INFO: [38/215] BN2009881: 5.70 PLN | Instock | 177 remaining
+2025-04-23 07:49:24,642 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:49:25,642 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.31 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:49:28,962 [tmobile] INFO: ⏭️ Moving to next product (39/215) | Remaining: 177 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:49:33,976 [tmobile] INFO: [39/215] BN2009876: 5.00 PLN | Instock | 176 remaining
+2025-04-23 07:49:33,976 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:49:34,980 [tmobile] INFO: 😴 Human-like delay: Sleeping for 5.00 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:49:39,980 [tmobile] INFO: ⏭️ Moving to next product (40/215) | Remaining: 176 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:49:47,388 [tmobile] INFO: [40/215] BN2009884: 0.00 PLN | Outstock | 175 remaining
+2025-04-23 07:49:47,389 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:49:48,405 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.93 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:49:52,335 [tmobile] INFO: ⏭️ Moving to next product (41/215) | Remaining: 175 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:49:58,637 [tmobile] INFO: [41/215] BN2009882: 5.50 PLN | Instock | 174 remaining
+2025-04-23 07:49:58,637 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:49:59,654 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.67 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:50:02,335 [tmobile] INFO: ⏭️ Moving to next product (42/215) | Remaining: 174 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:50:07,597 [tmobile] INFO: [42/215] BN2009883: 6.40 PLN | Instock | 173 remaining
+2025-04-23 07:50:07,609 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:50:08,614 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.48 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:50:10,106 [tmobile] INFO: ⏭️ Moving to next product (43/215) | Remaining: 173 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:50:12,538 [tmobile] INFO: [43/215] BN2009886: 0.00 PLN | Outstock | 172 remaining
+2025-04-23 07:50:12,542 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:50:13,553 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.26 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:50:16,821 [tmobile] INFO: ⏭️ Moving to next product (44/215) | Remaining: 172 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:50:19,192 [tmobile] INFO: [44/215] BN2009877: 5.90 PLN | Instock | 171 remaining
+2025-04-23 07:50:19,193 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:50:20,208 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.65 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:50:21,869 [tmobile] INFO: ⏭️ Moving to next product (45/215) | Remaining: 171 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:50:23,737 [tmobile] INFO: [45/215] BN2009885: 6.90 PLN | Instock | 170 remaining
+2025-04-23 07:50:23,741 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:50:24,744 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.12 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:50:25,875 [tmobile] INFO: ⏭️ Moving to next product (46/215) | Remaining: 170 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:50:27,630 [tmobile] INFO: [46/215] BN2010109: 3.00 PLN | Instock | 169 remaining
+2025-04-23 07:50:27,632 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:50:28,649 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.31 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:50:29,962 [tmobile] INFO: ⏭️ Moving to next product (47/215) | Remaining: 169 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:50:34,270 [tmobile] INFO: [47/215] BN2010110: 3.50 PLN | Instock | 168 remaining
+2025-04-23 07:50:34,272 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:50:35,286 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.85 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:50:40,150 [tmobile] INFO: ⏭️ Moving to next product (48/215) | Remaining: 168 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:50:44,235 [tmobile] INFO: [48/215] AN00000170: 1.33 PLN | Instock | 167 remaining
+2025-04-23 07:50:44,237 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:50:45,239 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.21 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:50:48,447 [tmobile] INFO: ⏭️ Moving to next product (49/215) | Remaining: 167 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:50:53,850 [tmobile] INFO: [49/215] AN00000171: 1.55 PLN | Instock | 166 remaining
+2025-04-23 07:50:53,850 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:50:54,851 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.57 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:50:57,424 [tmobile] INFO: ⏭️ Moving to next product (50/215) | Remaining: 166 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:51:01,266 [tmobile] INFO: [50/215] BN2009138: 0.00 PLN | Outstock | 165 remaining
+2025-04-23 07:51:01,268 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:51:02,268 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.39 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:51:03,659 [tmobile] INFO: ⏭️ Moving to next product (51/215) | Remaining: 165 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:51:07,840 [tmobile] INFO: [51/215] BN2009903: 2.55 PLN | Instock | 164 remaining
+2025-04-23 07:51:07,842 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:51:08,843 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.85 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:51:13,699 [tmobile] INFO: ⏭️ Moving to next product (52/215) | Remaining: 164 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:51:15,374 [tmobile] INFO: [52/215] BN2009905: 2.75 PLN | Instock | 163 remaining
+2025-04-23 07:51:15,377 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:51:16,383 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.86 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:51:21,258 [tmobile] INFO: ⏭️ Moving to next product (53/215) | Remaining: 163 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:51:25,220 [tmobile] INFO: [53/215] BN2009137: 0.00 PLN | Outstock | 162 remaining
+2025-04-23 07:51:25,224 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:51:26,237 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.92 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:51:31,159 [tmobile] INFO: ⏭️ Moving to next product (54/215) | Remaining: 162 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:51:37,153 [tmobile] INFO: [54/215] AN00000228: 2.60 PLN | Instock | 161 remaining
+2025-04-23 07:51:37,154 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:51:38,162 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.63 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:51:40,809 [tmobile] INFO: ⏭️ Moving to next product (55/215) | Remaining: 161 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:51:44,437 [tmobile] INFO: [55/215] AN00000195: 2.95 PLN | Instock | 160 remaining
+2025-04-23 07:51:44,444 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:51:45,454 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.54 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:51:47,010 [tmobile] INFO: ⏭️ Moving to next product (56/215) | Remaining: 160 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:51:51,500 [tmobile] INFO: [56/215] AN00000236: 4.30 PLN | Instock | 159 remaining
+2025-04-23 07:51:51,502 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:51:52,510 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.50 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:51:54,013 [tmobile] INFO: ⏭️ Moving to next product (57/215) | Remaining: 159 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:51:59,135 [tmobile] INFO: [57/215] AN00000193: 1.09 PLN | Instock | 158 remaining
+2025-04-23 07:51:59,135 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:52:00,149 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.01 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:52:02,165 [tmobile] INFO: ⏭️ Moving to next product (58/215) | Remaining: 158 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:52:03,413 [tmobile] INFO: [58/215] AN00000194: 1.80 PLN | Instock | 157 remaining
+2025-04-23 07:52:03,413 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:52:04,424 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.01 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:52:06,443 [tmobile] INFO: ⏭️ Moving to next product (59/215) | Remaining: 157 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:52:07,988 [tmobile] INFO: [59/215] BN2009390: 0.00 PLN | Outstock | 156 remaining
+2025-04-23 07:52:07,988 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:52:08,994 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.68 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:52:11,674 [tmobile] INFO: ⏭️ Moving to next product (60/215) | Remaining: 156 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:52:13,291 [tmobile] INFO: [60/215] BN2009284: 969.00 PLN | Instock | 155 remaining
+2025-04-23 07:52:13,293 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:52:14,298 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.71 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:52:18,024 [tmobile] INFO: ⏭️ Moving to next product (61/215) | Remaining: 155 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:52:19,607 [tmobile] INFO: [61/215] AN00000221: 1.60 PLN | Instock | 154 remaining
+2025-04-23 07:52:19,611 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:52:20,621 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.24 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:52:23,875 [tmobile] INFO: ⏭️ Moving to next product (62/215) | Remaining: 154 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:52:25,460 [tmobile] INFO: [62/215] AN00000187: 0.00 PLN | Outstock | 153 remaining
+2025-04-23 07:52:25,462 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:52:26,466 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.38 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:52:27,859 [tmobile] INFO: ⏭️ Moving to next product (63/215) | Remaining: 153 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:52:35,335 [tmobile] INFO: [63/215] AN00000222: 1.21 PLN | Instock | 152 remaining
+2025-04-23 07:52:35,335 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:52:36,348 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.82 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:52:41,176 [tmobile] INFO: ⏭️ Moving to next product (64/215) | Remaining: 152 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:52:42,648 [tmobile] INFO: [64/215] AN00000223: 1.30 PLN | Instock | 151 remaining
+2025-04-23 07:52:42,648 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:52:43,661 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.14 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:52:44,804 [tmobile] INFO: ⏭️ Moving to next product (65/215) | Remaining: 151 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:52:51,265 [tmobile] INFO: [65/215] AN00000225: 1.10 PLN | Instock | 150 remaining
+2025-04-23 07:52:51,269 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:52:52,273 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.56 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:52:53,838 [tmobile] INFO: ⏭️ Moving to next product (66/215) | Remaining: 150 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:53:00,242 [tmobile] INFO: [66/215] AN00000224: 1.21 PLN | Instock | 149 remaining
+2025-04-23 07:53:00,242 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:53:01,258 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.42 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:53:04,692 [tmobile] INFO: ⏭️ Moving to next product (67/215) | Remaining: 149 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:53:11,973 [tmobile] INFO: [67/215] AN00000226: 2.41 PLN | Instock | 148 remaining
+2025-04-23 07:53:11,973 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:53:12,978 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.47 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:53:17,457 [tmobile] INFO: ⏭️ Moving to next product (68/215) | Remaining: 148 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:53:18,767 [tmobile] INFO: [68/215] AN00000237: 1.60 PLN | Instock | 147 remaining
+2025-04-23 07:53:18,769 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:53:19,780 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.00 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:53:22,784 [tmobile] INFO: ⏭️ Moving to next product (69/215) | Remaining: 147 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:53:24,305 [tmobile] INFO: [69/215] AN00000227: 2.00 PLN | Instock | 146 remaining
+2025-04-23 07:53:24,307 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:53:25,314 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.16 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:53:27,483 [tmobile] INFO: ⏭️ Moving to next product (70/215) | Remaining: 146 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:53:32,890 [tmobile] INFO: [70/215] BN2009528: 2.20 PLN | Instock | 145 remaining
+2025-04-23 07:53:32,893 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:53:33,901 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.15 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:53:35,062 [tmobile] INFO: ⏭️ Moving to next product (71/215) | Remaining: 145 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:53:41,790 [tmobile] INFO: [71/215] BN4000647: 0.00 PLN | Outstock | 144 remaining
+2025-04-23 07:53:41,790 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:53:42,806 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.33 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:53:47,145 [tmobile] INFO: ⏭️ Moving to next product (72/215) | Remaining: 144 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:53:51,803 [tmobile] INFO: [72/215] AN00000164: 1.10 PLN | Instock | 143 remaining
+2025-04-23 07:53:51,825 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:53:52,853 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.62 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:53:56,472 [tmobile] INFO: ⏭️ Moving to next product (73/215) | Remaining: 143 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:54:01,063 [tmobile] INFO: [73/215] AN00000165: 899.00 PLN | Instock | 142 remaining
+2025-04-23 07:54:01,063 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:54:02,078 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.36 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:54:03,441 [tmobile] INFO: ⏭️ Moving to next product (74/215) | Remaining: 142 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:54:08,825 [tmobile] INFO: [74/215] AN00000166: 1.70 PLN | Instock | 141 remaining
+2025-04-23 07:54:08,827 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:54:09,837 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.23 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:54:14,084 [tmobile] INFO: ⏭️ Moving to next product (75/215) | Remaining: 141 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:54:15,398 [tmobile] INFO: [75/215] AN00000167: 749.00 PLN | Instock | 140 remaining
+2025-04-23 07:54:15,399 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:54:16,399 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.33 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:54:17,735 [tmobile] INFO: ⏭️ Moving to next product (76/215) | Remaining: 140 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:54:21,727 [tmobile] INFO: [76/215] AN00000168: 749.00 PLN | Instock | 139 remaining
+2025-04-23 07:54:21,736 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:54:22,737 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.04 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:54:26,786 [tmobile] INFO: ⏭️ Moving to next product (77/215) | Remaining: 139 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:54:29,161 [tmobile] INFO: [77/215] AN00000169: 0.00 PLN | Outstock | 138 remaining
+2025-04-23 07:54:29,163 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:54:30,175 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.37 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:54:33,553 [tmobile] INFO: ⏭️ Moving to next product (78/215) | Remaining: 138 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:54:36,213 [tmobile] INFO: [78/215] BN2008188: 0.00 PLN | Outstock | 137 remaining
+2025-04-23 07:54:36,216 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:54:37,224 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.15 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:54:40,385 [tmobile] INFO: ⏭️ Moving to next product (79/215) | Remaining: 137 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:54:47,681 [tmobile] INFO: [79/215] BN2008718: 0.00 PLN | Outstock | 136 remaining
+2025-04-23 07:54:47,681 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:54:48,690 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.09 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:54:51,791 [tmobile] INFO: ⏭️ Moving to next product (80/215) | Remaining: 136 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:54:56,665 [tmobile] INFO: [80/215] BN2008969: 1.13 PLN | Instock | 135 remaining
+2025-04-23 07:54:56,666 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:54:57,681 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.44 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:54:59,128 [tmobile] INFO: ⏭️ Moving to next product (81/215) | Remaining: 135 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:55:00,439 [tmobile] INFO: [81/215] BN2009433: 1.50 PLN | Instock | 134 remaining
+2025-04-23 07:55:00,439 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:55:01,443 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.53 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:55:04,987 [tmobile] INFO: ⏭️ Moving to next product (82/215) | Remaining: 134 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:55:06,355 [tmobile] INFO: [82/215] BN2009287: 0.00 PLN | Outstock | 133 remaining
+2025-04-23 07:55:06,355 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:55:07,359 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.23 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:55:09,594 [tmobile] INFO: ⏭️ Moving to next product (83/215) | Remaining: 133 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:55:16,449 [tmobile] INFO: [83/215] BN2009157: 4.00 PLN | Instock | 132 remaining
+2025-04-23 07:55:16,451 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:55:17,456 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.12 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:55:20,577 [tmobile] INFO: ⏭️ Moving to next product (84/215) | Remaining: 132 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:55:24,399 [tmobile] INFO: [84/215] BN2009565: 0.00 PLN | Outstock | 131 remaining
+2025-04-23 07:55:24,399 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:55:25,414 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.83 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:55:28,259 [tmobile] INFO: ⏭️ Moving to next product (85/215) | Remaining: 131 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:55:34,770 [tmobile] INFO: [85/215] BN2008943: 0.00 PLN | Outstock | 130 remaining
+2025-04-23 07:55:34,770 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:55:35,784 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.91 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:55:40,697 [tmobile] INFO: ⏭️ Moving to next product (86/215) | Remaining: 130 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:55:46,130 [tmobile] INFO: [86/215] BN2009461: 0.00 PLN | Outstock | 129 remaining
+2025-04-23 07:55:46,130 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:55:47,142 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.64 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:55:50,798 [tmobile] INFO: ⏭️ Moving to next product (87/215) | Remaining: 129 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:55:55,909 [tmobile] INFO: [87/215] BN2009941: 729.00 PLN | Instock | 128 remaining
+2025-04-23 07:55:55,909 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:55:56,921 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.87 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:56:00,796 [tmobile] INFO: ⏭️ Moving to next product (88/215) | Remaining: 128 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:56:07,060 [tmobile] INFO: [88/215] BN2009223: 0.00 PLN | Outstock | 127 remaining
+2025-04-23 07:56:07,060 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:56:08,073 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.58 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:56:10,665 [tmobile] INFO: ⏭️ Moving to next product (89/215) | Remaining: 127 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:56:14,457 [tmobile] INFO: [89/215] BN2010029: 1.30 PLN | Instock | 126 remaining
+2025-04-23 07:56:14,462 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:56:15,477 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.97 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:56:19,451 [tmobile] INFO: ⏭️ Moving to next product (90/215) | Remaining: 126 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:56:24,294 [tmobile] INFO: [90/215] BN2008184: 0.00 PLN | Outstock | 125 remaining
+2025-04-23 07:56:24,294 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:56:25,309 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.12 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:56:26,434 [tmobile] INFO: ⏭️ Moving to next product (91/215) | Remaining: 125 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:56:28,255 [tmobile] INFO: [91/215] BN2009289: 1.15 PLN | Instock | 124 remaining
+2025-04-23 07:56:28,255 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:56:29,270 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.99 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:56:32,264 [tmobile] INFO: ⏭️ Moving to next product (92/215) | Remaining: 124 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:56:34,096 [tmobile] INFO: [92/215] AN00000256: 1.60 PLN | Instock | 123 remaining
+2025-04-23 07:56:34,096 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:56:35,101 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.31 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:56:37,425 [tmobile] INFO: ⏭️ Moving to next product (93/215) | Remaining: 123 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:56:39,155 [tmobile] INFO: [93/215] AN00000250: 609.00 PLN | Instock | 122 remaining
+2025-04-23 07:56:39,155 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:56:40,167 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.23 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:56:42,396 [tmobile] INFO: ⏭️ Moving to next product (94/215) | Remaining: 122 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:56:43,985 [tmobile] INFO: [94/215] AN00000238: 1.30 PLN | Instock | 121 remaining
+2025-04-23 07:56:43,988 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:56:44,993 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.86 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:56:47,858 [tmobile] INFO: ⏭️ Moving to next product (95/215) | Remaining: 121 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:56:50,410 [tmobile] INFO: [95/215] AN00000130: 0.00 PLN | Outstock | 120 remaining
+2025-04-23 07:56:50,411 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:56:51,418 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.34 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:56:52,763 [tmobile] INFO: ⏭️ Moving to next product (96/215) | Remaining: 120 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:56:58,703 [tmobile] INFO: [96/215] BN2009286: 0.00 PLN | Outstock | 119 remaining
+2025-04-23 07:56:58,703 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:56:59,721 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.34 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:57:01,069 [tmobile] INFO: ⏭️ Moving to next product (97/215) | Remaining: 119 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:57:03,522 [tmobile] INFO: [97/215] BN2009285: 3.90 PLN | Instock | 118 remaining
+2025-04-23 07:57:03,532 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:57:04,535 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.97 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:57:06,510 [tmobile] INFO: ⏭️ Moving to next product (98/215) | Remaining: 118 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:57:09,129 [tmobile] INFO: [98/215] BN2008174: 849.00 PLN | Instock | 117 remaining
+2025-04-23 07:57:09,131 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:57:10,138 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.53 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:57:11,675 [tmobile] INFO: ⏭️ Moving to next product (99/215) | Remaining: 117 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:57:15,523 [tmobile] INFO: [99/215] AN00000186: 399.00 PLN | Instock | 116 remaining
+2025-04-23 07:57:15,523 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:57:16,525 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.60 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:57:21,123 [tmobile] INFO: ⏭️ Moving to next product (100/215) | Remaining: 116 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:57:25,207 [tmobile] INFO: [100/215] BN2007888: 299.00 PLN | Instock | 115 remaining
+2025-04-23 07:57:25,210 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:57:26,218 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.48 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:57:27,708 [tmobile] INFO: ⏭️ Moving to next product (101/215) | Remaining: 115 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:57:32,852 [tmobile] INFO: [101/215] BN2007637: 299.00 PLN | Instock | 114 remaining
+2025-04-23 07:57:32,852 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:57:33,863 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.03 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:57:36,905 [tmobile] INFO: ⏭️ Moving to next product (102/215) | Remaining: 114 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:57:41,339 [tmobile] INFO: [102/215] BN2008794: 349.00 PLN | Instock | 113 remaining
+2025-04-23 07:57:41,339 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:57:42,348 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.12 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:57:45,484 [tmobile] INFO: ⏭️ Moving to next product (103/215) | Remaining: 113 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:57:48,279 [tmobile] INFO: [103/215] BN2008952: 0.00 PLN | Outstock | 112 remaining
+2025-04-23 07:57:48,279 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:57:49,286 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.65 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:57:50,950 [tmobile] INFO: ⏭️ Moving to next product (104/215) | Remaining: 112 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:57:53,920 [tmobile] INFO: [104/215] AN00000240: 1.60 PLN | Instock | 111 remaining
+2025-04-23 07:57:53,923 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:57:54,931 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.98 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:57:56,917 [tmobile] INFO: ⏭️ Moving to next product (105/215) | Remaining: 111 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:57:58,500 [tmobile] INFO: [105/215] AN00000241: 2.50 PLN | Instock | 110 remaining
+2025-04-23 07:57:58,504 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:57:59,508 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.22 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:58:03,737 [tmobile] INFO: ⏭️ Moving to next product (106/215) | Remaining: 110 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:58:05,406 [tmobile] INFO: [106/215] BN2009370: 729.00 PLN | Instock | 109 remaining
+2025-04-23 07:58:05,409 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:58:06,414 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.13 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:58:08,559 [tmobile] INFO: ⏭️ Moving to next product (107/215) | Remaining: 109 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:58:09,797 [tmobile] INFO: [107/215] BN2008521: 3.80 PLN | Instock | 108 remaining
+2025-04-23 07:58:09,799 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:58:10,806 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.89 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:58:12,707 [tmobile] INFO: ⏭️ Moving to next product (108/215) | Remaining: 108 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:58:14,153 [tmobile] INFO: [108/215] BN2009368: 4.70 PLN | Instock | 107 remaining
+2025-04-23 07:58:14,153 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:58:15,164 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.52 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:58:18,695 [tmobile] INFO: ⏭️ Moving to next product (109/215) | Remaining: 107 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:58:20,180 [tmobile] INFO: [109/215] AN00000245: 5.30 PLN | Instock | 106 remaining
+2025-04-23 07:58:20,180 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:58:21,181 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.58 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:58:24,777 [tmobile] INFO: ⏭️ Moving to next product (110/215) | Remaining: 106 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:58:26,262 [tmobile] INFO: [110/215] AN00000244: 0.00 PLN | Outstock | 105 remaining
+2025-04-23 07:58:26,263 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:58:27,271 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.15 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:58:29,446 [tmobile] INFO: ⏭️ Moving to next product (111/215) | Remaining: 105 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:58:30,712 [tmobile] INFO: [111/215] AN00000205: 0.00 PLN | Outstock | 104 remaining
+2025-04-23 07:58:30,717 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:58:31,728 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.61 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:58:36,343 [tmobile] INFO: ⏭️ Moving to next product (112/215) | Remaining: 104 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:58:37,707 [tmobile] INFO: [112/215] AN00000191: 1.50 PLN | Instock | 103 remaining
+2025-04-23 07:58:37,711 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:58:38,715 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.59 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:58:43,309 [tmobile] INFO: ⏭️ Moving to next product (113/215) | Remaining: 103 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:58:52,337 [tmobile] INFO: [113/215] BN2008963: 0.00 PLN | Outstock | 102 remaining
+2025-04-23 07:58:52,338 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:58:53,349 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.46 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:58:57,821 [tmobile] INFO: ⏭️ Moving to next product (114/215) | Remaining: 102 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:58:59,943 [tmobile] INFO: [114/215] BN2008534: 0.00 PLN | Outstock | 101 remaining
+2025-04-23 07:58:59,945 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:59:00,956 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.55 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:59:03,518 [tmobile] INFO: ⏭️ Moving to next product (115/215) | Remaining: 101 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:59:11,307 [tmobile] INFO: [115/215] BN2009053: 0.00 PLN | Outstock | 100 remaining
+2025-04-23 07:59:11,307 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:59:12,320 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.63 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:59:13,956 [tmobile] INFO: ⏭️ Moving to next product (116/215) | Remaining: 100 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:59:22,866 [tmobile] INFO: [116/215] BN2009426: 0.00 PLN | Outstock | 99 remaining
+2025-04-23 07:59:22,866 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:59:23,877 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.05 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:59:25,931 [tmobile] INFO: ⏭️ Moving to next product (117/215) | Remaining: 99 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:59:33,730 [tmobile] INFO: [117/215] BN2008915: 0.00 PLN | Outstock | 98 remaining
+2025-04-23 07:59:33,730 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:59:34,744 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.96 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:59:36,719 [tmobile] INFO: ⏭️ Moving to next product (118/215) | Remaining: 98 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:59:42,096 [tmobile] INFO: [118/215] BN2008531: 0.00 PLN | Outstock | 97 remaining
+2025-04-23 07:59:42,101 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:59:43,107 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.46 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:59:45,570 [tmobile] INFO: ⏭️ Moving to next product (119/215) | Remaining: 97 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:59:53,429 [tmobile] INFO: [119/215] AN00000243: 0.00 PLN | Outstock | 96 remaining
+2025-04-23 07:59:53,429 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:59:54,431 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.85 seconds (using tmobile's range: 1-5s)
+2025-04-23 07:59:57,296 [tmobile] INFO: ⏭️ Moving to next product (120/215) | Remaining: 96 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 07:59:58,520 [tmobile] INFO: [120/215] AN00000254: 1.50 PLN | Instock | 95 remaining
+2025-04-23 07:59:58,520 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 07:59:59,531 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.33 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:00:02,860 [tmobile] INFO: ⏭️ Moving to next product (121/215) | Remaining: 95 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:00:07,753 [tmobile] INFO: [121/215] BN2009104: 0.00 PLN | Outstock | 94 remaining
+2025-04-23 08:00:07,755 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:00:08,760 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.00 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:00:10,767 [tmobile] INFO: ⏭️ Moving to next product (122/215) | Remaining: 94 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:00:16,323 [tmobile] INFO: [122/215] BN2009428: 0.00 PLN | Outstock | 93 remaining
+2025-04-23 08:00:16,323 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:00:17,338 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.60 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:00:21,945 [tmobile] INFO: ⏭️ Moving to next product (123/215) | Remaining: 93 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:00:24,633 [tmobile] INFO: [123/215] BN2009282: 0.00 PLN | Outstock | 92 remaining
+2025-04-23 08:00:24,633 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:00:25,646 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.87 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:00:30,523 [tmobile] INFO: ⏭️ Moving to next product (124/215) | Remaining: 92 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:00:33,112 [tmobile] INFO: [124/215] BN2008672: 0.00 PLN | Outstock | 91 remaining
+2025-04-23 08:00:33,114 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:00:34,127 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.55 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:00:35,693 [tmobile] INFO: ⏭️ Moving to next product (125/215) | Remaining: 91 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:00:38,195 [tmobile] INFO: [125/215] BN2008676: 0.00 PLN | Outstock | 90 remaining
+2025-04-23 08:00:38,195 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:00:39,198 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.29 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:00:43,493 [tmobile] INFO: ⏭️ Moving to next product (126/215) | Remaining: 90 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:00:49,029 [tmobile] INFO: [126/215] BN2009059: 0.00 PLN | Outstock | 89 remaining
+2025-04-23 08:00:49,029 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:00:50,043 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.04 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:00:53,100 [tmobile] INFO: ⏭️ Moving to next product (127/215) | Remaining: 89 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:00:54,298 [tmobile] INFO: [127/215] AN00000251: 1.10 PLN | Instock | 88 remaining
+2025-04-23 08:00:54,298 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:00:55,307 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.46 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:00:58,780 [tmobile] INFO: ⏭️ Moving to next product (128/215) | Remaining: 88 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:00:59,950 [tmobile] INFO: [128/215] BN2009180: 2.05 PLN | Instock | 87 remaining
+2025-04-23 08:01:00,305 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:01:01,309 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.06 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:01:03,373 [tmobile] INFO: ⏭️ Moving to next product (129/215) | Remaining: 87 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:01:08,372 [tmobile] INFO: [129/215] AN00000253: 1.80 PLN | Instock | 86 remaining
+2025-04-23 08:01:08,375 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:01:09,384 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.15 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:01:11,539 [tmobile] INFO: ⏭️ Moving to next product (130/215) | Remaining: 86 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:01:12,734 [tmobile] INFO: [130/215] AN00000260: 2.50 PLN | Instock | 85 remaining
+2025-04-23 08:01:12,739 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:01:13,744 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.04 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:01:15,800 [tmobile] INFO: ⏭️ Moving to next product (131/215) | Remaining: 85 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:01:18,291 [tmobile] INFO: [131/215] BN2008119: 0.00 PLN | Outstock | 84 remaining
+2025-04-23 08:01:18,293 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:01:19,305 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.15 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:01:21,464 [tmobile] INFO: ⏭️ Moving to next product (132/215) | Remaining: 84 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:01:27,240 [tmobile] INFO: [132/215] BN2009650: 0.00 PLN | Outstock | 83 remaining
+2025-04-23 08:01:27,241 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:01:28,253 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.52 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:01:32,786 [tmobile] INFO: ⏭️ Moving to next product (133/215) | Remaining: 83 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:01:37,876 [tmobile] INFO: [133/215] AN00000239: 4.00 PLN | Instock | 82 remaining
+2025-04-23 08:01:37,881 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:01:38,885 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.26 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:01:42,149 [tmobile] INFO: ⏭️ Moving to next product (134/215) | Remaining: 82 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:01:47,635 [tmobile] INFO: [134/215] BN2008353: 0.00 PLN | Outstock | 81 remaining
+2025-04-23 08:01:47,635 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:01:48,679 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.07 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:01:52,761 [tmobile] INFO: ⏭️ Moving to next product (135/215) | Remaining: 81 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:01:58,002 [tmobile] INFO: [135/215] BN2009106: 0.00 PLN | Outstock | 80 remaining
+2025-04-23 08:01:58,002 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:01:59,013 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.37 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:02:01,391 [tmobile] INFO: ⏭️ Moving to next product (136/215) | Remaining: 80 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:02:05,794 [tmobile] INFO: [136/215] BN2009662: 969.00 PLN | Instock | 79 remaining
+2025-04-23 08:02:05,794 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:02:06,807 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.24 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:02:10,049 [tmobile] INFO: ⏭️ Moving to next product (137/215) | Remaining: 79 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:02:13,738 [tmobile] INFO: [137/215] BN2008917: 0.00 PLN | Outstock | 78 remaining
+2025-04-23 08:02:13,740 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:02:14,750 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.88 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:02:17,641 [tmobile] INFO: ⏭️ Moving to next product (138/215) | Remaining: 78 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:02:23,810 [tmobile] INFO: [138/215] BN2008665: 0.00 PLN | Outstock | 77 remaining
+2025-04-23 08:02:23,810 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:02:24,811 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.62 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:02:29,442 [tmobile] INFO: ⏭️ Moving to next product (139/215) | Remaining: 77 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:02:35,823 [tmobile] INFO: [139/215] BN2009233: 0.00 PLN | Outstock | 76 remaining
+2025-04-23 08:02:35,824 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:02:36,833 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.75 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:02:41,597 [tmobile] INFO: ⏭️ Moving to next product (140/215) | Remaining: 76 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:02:44,063 [tmobile] INFO: [140/215] BN2009895: 1.40 PLN | Instock | 75 remaining
+2025-04-23 08:02:44,063 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:02:45,071 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.75 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:02:46,833 [tmobile] INFO: ⏭️ Moving to next product (141/215) | Remaining: 75 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:02:51,643 [tmobile] INFO: [141/215] BN2009896: 0.00 PLN | Outstock | 74 remaining
+2025-04-23 08:02:51,647 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:02:52,659 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.23 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:02:53,898 [tmobile] INFO: ⏭️ Moving to next product (142/215) | Remaining: 74 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:02:57,054 [tmobile] INFO: [142/215] BN2008667: 0.00 PLN | Outstock | 73 remaining
+2025-04-23 08:02:57,054 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:02:58,055 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.67 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:03:02,738 [tmobile] INFO: ⏭️ Moving to next product (143/215) | Remaining: 73 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:03:04,493 [tmobile] INFO: [143/215] BN2009231: 0.00 PLN | Outstock | 72 remaining
+2025-04-23 08:03:04,494 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:03:05,496 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.48 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:03:08,983 [tmobile] INFO: ⏭️ Moving to next product (144/215) | Remaining: 72 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:03:12,818 [tmobile] INFO: [144/215] BN2009795: 2.00 PLN | Instock | 71 remaining
+2025-04-23 08:03:12,818 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:03:13,823 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.93 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:03:16,764 [tmobile] INFO: ⏭️ Moving to next product (145/215) | Remaining: 71 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:03:18,344 [tmobile] INFO: [145/215] BN2009848: 0.00 PLN | Outstock | 70 remaining
+2025-04-23 08:03:18,344 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:03:19,351 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.15 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:03:22,510 [tmobile] INFO: ⏭️ Moving to next product (146/215) | Remaining: 70 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:03:30,311 [tmobile] INFO: [146/215] BN2008581: 0.00 PLN | Outstock | 69 remaining
+2025-04-23 08:03:30,314 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:03:31,327 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.58 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:03:33,918 [tmobile] INFO: ⏭️ Moving to next product (147/215) | Remaining: 69 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:03:35,350 [tmobile] INFO: [147/215] BN2009085: 2.70 PLN | Instock | 68 remaining
+2025-04-23 08:03:35,352 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:03:36,357 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.69 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:03:40,058 [tmobile] INFO: ⏭️ Moving to next product (148/215) | Remaining: 68 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:03:41,427 [tmobile] INFO: [148/215] BN2008584: 0.00 PLN | Outstock | 67 remaining
+2025-04-23 08:03:41,433 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:03:42,445 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.31 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:03:43,771 [tmobile] INFO: ⏭️ Moving to next product (149/215) | Remaining: 67 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:03:45,552 [tmobile] INFO: [149/215] BN2008585: 5.80 PLN | Instock | 66 remaining
+2025-04-23 08:03:45,552 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:03:46,555 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.39 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:03:50,947 [tmobile] INFO: ⏭️ Moving to next product (150/215) | Remaining: 66 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:03:52,371 [tmobile] INFO: [150/215] BN2009166: 3.50 PLN | Instock | 65 remaining
+2025-04-23 08:03:52,381 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:03:53,385 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.57 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:03:56,959 [tmobile] INFO: ⏭️ Moving to next product (151/215) | Remaining: 65 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:03:58,506 [tmobile] INFO: [151/215] BN2009167: 3.50 PLN | Instock | 64 remaining
+2025-04-23 08:03:58,506 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:03:59,511 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.70 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:04:01,217 [tmobile] INFO: ⏭️ Moving to next product (152/215) | Remaining: 64 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:04:02,484 [tmobile] INFO: [152/215] BN2009488: 2.85 PLN | Instock | 63 remaining
+2025-04-23 08:04:02,492 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:04:03,498 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.78 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:04:07,297 [tmobile] INFO: ⏭️ Moving to next product (153/215) | Remaining: 63 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:04:08,545 [tmobile] INFO: [153/215] BN2009171: 0.00 PLN | Outstock | 62 remaining
+2025-04-23 08:04:08,545 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:04:09,567 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.33 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:04:10,902 [tmobile] INFO: ⏭️ Moving to next product (154/215) | Remaining: 62 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:04:12,191 [tmobile] INFO: [154/215] BN2009172: 0.00 PLN | Outstock | 61 remaining
+2025-04-23 08:04:12,192 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:04:13,205 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.76 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:04:16,976 [tmobile] INFO: ⏭️ Moving to next product (155/215) | Remaining: 61 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:04:25,044 [tmobile] INFO: [155/215] BN2009169: 0.00 PLN | Outstock | 60 remaining
+2025-04-23 08:04:25,053 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:04:26,057 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.05 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:04:28,104 [tmobile] INFO: ⏭️ Moving to next product (156/215) | Remaining: 60 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:04:36,013 [tmobile] INFO: [156/215] BN2009170: 0.00 PLN | Outstock | 59 remaining
+2025-04-23 08:04:36,017 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:04:37,018 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.00 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:04:41,022 [tmobile] INFO: ⏭️ Moving to next product (157/215) | Remaining: 59 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:04:47,452 [tmobile] INFO: [157/215] BN2009796: 3.50 PLN | Instock | 58 remaining
+2025-04-23 08:04:47,452 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:04:48,455 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.25 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:04:50,721 [tmobile] INFO: ⏭️ Moving to next product (158/215) | Remaining: 58 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:04:51,884 [tmobile] INFO: [158/215] BN2009900: 3.70 PLN | Instock | 57 remaining
+2025-04-23 08:04:51,886 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:04:52,892 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.22 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:04:56,122 [tmobile] INFO: ⏭️ Moving to next product (159/215) | Remaining: 57 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:05:00,874 [tmobile] INFO: [159/215] BN2009798: 6.10 PLN | Instock | 56 remaining
+2025-04-23 08:05:00,874 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:05:01,875 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.02 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:05:03,903 [tmobile] INFO: ⏭️ Moving to next product (160/215) | Remaining: 56 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:05:06,688 [tmobile] INFO: [160/215] BN2009852: 6.70 PLN | Instock | 55 remaining
+2025-04-23 08:05:06,688 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:05:07,689 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.94 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:05:12,644 [tmobile] INFO: ⏭️ Moving to next product (161/215) | Remaining: 55 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:05:15,175 [tmobile] INFO: [161/215] BN2009797: 4.20 PLN | Instock | 54 remaining
+2025-04-23 08:05:15,176 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:05:16,178 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.26 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:05:18,442 [tmobile] INFO: ⏭️ Moving to next product (162/215) | Remaining: 54 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:05:22,132 [tmobile] INFO: [162/215] BN2009850: 4.70 PLN | Instock | 53 remaining
+2025-04-23 08:05:22,133 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:05:23,142 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.30 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:05:24,457 [tmobile] INFO: ⏭️ Moving to next product (163/215) | Remaining: 53 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:05:29,613 [tmobile] INFO: [163/215] BN2008981: 0.00 PLN | Outstock | 52 remaining
+2025-04-23 08:05:29,616 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:05:30,625 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.81 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:05:34,441 [tmobile] INFO: ⏭️ Moving to next product (164/215) | Remaining: 52 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:05:40,555 [tmobile] INFO: [164/215] BN2008929: 0.00 PLN | Outstock | 51 remaining
+2025-04-23 08:05:40,555 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:05:41,563 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.68 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:05:43,243 [tmobile] INFO: ⏭️ Moving to next product (165/215) | Remaining: 51 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:05:46,777 [tmobile] INFO: [165/215] BN2008977: 0.00 PLN | Outstock | 50 remaining
+2025-04-23 08:05:46,777 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:05:47,781 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.35 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:05:52,140 [tmobile] INFO: ⏭️ Moving to next product (166/215) | Remaining: 50 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:05:56,695 [tmobile] INFO: [166/215] BN4000636: 0.00 PLN | Outstock | 49 remaining
+2025-04-23 08:05:56,702 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:05:57,713 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.94 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:06:00,656 [tmobile] INFO: ⏭️ Moving to next product (167/215) | Remaining: 49 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:06:03,336 [tmobile] INFO: [167/215] BN4000701: 0.00 PLN | Outstock | 48 remaining
+2025-04-23 08:06:03,336 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:06:04,346 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.39 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:06:08,747 [tmobile] INFO: ⏭️ Moving to next product (168/215) | Remaining: 48 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:06:13,719 [tmobile] INFO: [168/215] BN4000699: 0.00 PLN | Outstock | 47 remaining
+2025-04-23 08:06:13,727 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:06:14,740 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.53 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:06:16,276 [tmobile] INFO: ⏭️ Moving to next product (169/215) | Remaining: 47 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:06:22,837 [tmobile] INFO: [169/215] BN4000700: 0.00 PLN | Outstock | 46 remaining
+2025-04-23 08:06:22,838 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:06:23,840 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.86 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:06:27,702 [tmobile] INFO: ⏭️ Moving to next product (170/215) | Remaining: 46 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:06:31,943 [tmobile] INFO: [170/215] BN2009406: 999.00 PLN | Instock | 45 remaining
+2025-04-23 08:06:31,943 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:06:32,948 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.20 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:06:35,149 [tmobile] INFO: ⏭️ Moving to next product (171/215) | Remaining: 45 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:06:39,420 [tmobile] INFO: [171/215] BN2009404: 0.00 PLN | Outstock | 44 remaining
+2025-04-23 08:06:39,420 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:06:40,430 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.30 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:06:41,730 [tmobile] INFO: ⏭️ Moving to next product (172/215) | Remaining: 44 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:06:43,654 [tmobile] INFO: [172/215] BN2009163: 1.45 PLN | Instock | 43 remaining
+2025-04-23 08:06:43,656 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:06:44,667 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.64 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:06:46,313 [tmobile] INFO: ⏭️ Moving to next product (173/215) | Remaining: 43 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:06:50,465 [tmobile] INFO: [173/215] BN2009474: 4.10 PLN | Instock | 42 remaining
+2025-04-23 08:06:50,467 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:06:51,474 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.89 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:06:54,379 [tmobile] INFO: ⏭️ Moving to next product (174/215) | Remaining: 42 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:06:58,806 [tmobile] INFO: [174/215] BN2009475: 4.80 PLN | Instock | 41 remaining
+2025-04-23 08:06:58,807 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:06:59,815 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.62 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:07:04,446 [tmobile] INFO: ⏭️ Moving to next product (175/215) | Remaining: 41 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:07:06,303 [tmobile] INFO: [175/215] BN2009476: 9.20 PLN | Instock | 40 remaining
+2025-04-23 08:07:06,303 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:07:07,306 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.06 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:07:11,380 [tmobile] INFO: ⏭️ Moving to next product (176/215) | Remaining: 40 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:07:17,241 [tmobile] INFO: [176/215] BN2009477: 7.50 PLN | Instock | 39 remaining
+2025-04-23 08:07:17,241 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:07:18,246 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.93 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:07:23,178 [tmobile] INFO: ⏭️ Moving to next product (177/215) | Remaining: 39 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:07:27,077 [tmobile] INFO: [177/215] BN2009478: 0.00 PLN | Outstock | 38 remaining
+2025-04-23 08:07:27,078 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:07:28,082 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.30 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:07:31,383 [tmobile] INFO: ⏭️ Moving to next product (178/215) | Remaining: 38 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:07:35,402 [tmobile] INFO: [178/215] AN00000255: 1.10 PLN | Instock | 37 remaining
+2025-04-23 08:07:35,405 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:07:36,406 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.13 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:07:38,541 [tmobile] INFO: ⏭️ Moving to next product (179/215) | Remaining: 37 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:07:40,743 [tmobile] INFO: [179/215] AN00000202: 489.00 PLN | Instock | 36 remaining
+2025-04-23 08:07:40,743 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:07:41,750 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.92 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:07:44,688 [tmobile] INFO: ⏭️ Moving to next product (180/215) | Remaining: 36 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:07:46,386 [tmobile] INFO: [180/215] AN00000203: 969.00 PLN | Instock | 35 remaining
+2025-04-23 08:07:46,388 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:07:47,399 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.14 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:07:51,538 [tmobile] INFO: ⏭️ Moving to next product (181/215) | Remaining: 35 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:07:56,527 [tmobile] INFO: [181/215] AN00000247: 6.00 PLN | Instock | 34 remaining
+2025-04-23 08:07:56,530 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:07:57,532 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.18 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:07:59,717 [tmobile] INFO: ⏭️ Moving to next product (182/215) | Remaining: 34 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:08:02,249 [tmobile] INFO: [182/215] AN00000246: 4.80 PLN | Instock | 33 remaining
+2025-04-23 08:08:02,249 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:08:03,264 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.77 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:08:06,050 [tmobile] INFO: ⏭️ Moving to next product (183/215) | Remaining: 33 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:08:08,028 [tmobile] INFO: [183/215] BN2009402: 2.00 PLN | Instock | 32 remaining
+2025-04-23 08:08:08,030 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:08:09,034 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.18 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:08:11,225 [tmobile] INFO: ⏭️ Moving to next product (184/215) | Remaining: 32 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:08:15,136 [tmobile] INFO: [184/215] AN00000242: 3.90 PLN | Instock | 31 remaining
+2025-04-23 08:08:15,139 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:08:16,143 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.44 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:08:17,592 [tmobile] INFO: ⏭️ Moving to next product (185/215) | Remaining: 31 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:08:19,419 [tmobile] INFO: [185/215] BN2009614: 1.10 PLN | Instock | 30 remaining
+2025-04-23 08:08:19,422 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:08:20,430 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.59 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:08:25,034 [tmobile] INFO: ⏭️ Moving to next product (186/215) | Remaining: 30 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:08:26,755 [tmobile] INFO: [186/215] BN2009615: 1.50 PLN | Instock | 29 remaining
+2025-04-23 08:08:26,758 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:08:27,760 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.34 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:08:32,103 [tmobile] INFO: ⏭️ Moving to next product (187/215) | Remaining: 29 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:08:36,718 [tmobile] INFO: [187/215] BN2009064: 1.09 PLN | Instock | 28 remaining
+2025-04-23 08:08:36,719 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:08:37,724 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.50 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:08:41,233 [tmobile] INFO: ⏭️ Moving to next product (188/215) | Remaining: 28 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:08:42,971 [tmobile] INFO: [188/215] BN2008162: 0.00 PLN | Outstock | 27 remaining
+2025-04-23 08:08:42,973 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:08:43,986 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.98 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:08:47,969 [tmobile] INFO: ⏭️ Moving to next product (189/215) | Remaining: 27 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:08:50,563 [tmobile] INFO: [189/215] BN2008010: 0.00 PLN | Outstock | 26 remaining
+2025-04-23 08:08:50,563 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:08:51,574 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.86 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:08:53,438 [tmobile] INFO: ⏭️ Moving to next product (190/215) | Remaining: 26 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:08:56,286 [tmobile] INFO: [190/215] BN2008897: 0.00 PLN | Outstock | 25 remaining
+2025-04-23 08:08:56,287 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:08:57,304 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.49 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:09:00,812 [tmobile] INFO: ⏭️ Moving to next product (191/215) | Remaining: 25 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:09:02,386 [tmobile] INFO: [191/215] BN2008535: 369.00 PLN | Instock | 24 remaining
+2025-04-23 08:09:02,386 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:09:03,388 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.33 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:09:05,720 [tmobile] INFO: ⏭️ Moving to next product (192/215) | Remaining: 24 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:09:06,948 [tmobile] INFO: [192/215] BN2009279: 729.00 PLN | Instock | 23 remaining
+2025-04-23 08:09:06,950 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:09:07,954 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.97 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:09:11,935 [tmobile] INFO: ⏭️ Moving to next product (193/215) | Remaining: 23 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:09:13,581 [tmobile] INFO: [193/215] BN2009087: 0.00 PLN | Outstock | 22 remaining
+2025-04-23 08:09:13,582 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:09:14,590 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.80 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:09:18,402 [tmobile] INFO: ⏭️ Moving to next product (194/215) | Remaining: 22 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:09:19,648 [tmobile] INFO: [194/215] BN2009638: 489.00 PLN | Instock | 21 remaining
+2025-04-23 08:09:19,650 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:09:20,656 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.43 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:09:23,089 [tmobile] INFO: ⏭️ Moving to next product (195/215) | Remaining: 21 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:09:25,588 [tmobile] INFO: [195/215] BN2009176: 0.00 PLN | Outstock | 20 remaining
+2025-04-23 08:09:25,591 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:09:26,606 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.85 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:09:30,471 [tmobile] INFO: ⏭️ Moving to next product (196/215) | Remaining: 20 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:09:36,586 [tmobile] INFO: [196/215] BN2008741: 1.50 PLN | Instock | 19 remaining
+2025-04-23 08:09:36,593 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:09:37,598 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.56 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:09:42,156 [tmobile] INFO: ⏭️ Moving to next product (197/215) | Remaining: 19 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:09:46,897 [tmobile] INFO: [197/215] BN2008767: 0.00 PLN | Outstock | 18 remaining
+2025-04-23 08:09:46,908 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:09:47,909 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.02 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:09:51,940 [tmobile] INFO: ⏭️ Moving to next product (198/215) | Remaining: 18 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:09:53,923 [tmobile] INFO: [198/215] BN2009110: 1.10 PLN | Instock | 17 remaining
+2025-04-23 08:09:53,931 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:09:54,942 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.54 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:09:59,492 [tmobile] INFO: ⏭️ Moving to next product (199/215) | Remaining: 17 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:10:04,888 [tmobile] INFO: [199/215] BN2009090: 799.00 PLN | Instock | 16 remaining
+2025-04-23 08:10:04,891 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:10:05,903 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.22 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:10:10,130 [tmobile] INFO: ⏭️ Moving to next product (200/215) | Remaining: 16 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:10:14,826 [tmobile] INFO: [200/215] BN2009091: 0.00 PLN | Outstock | 15 remaining
+2025-04-23 08:10:14,826 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:10:15,826 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.60 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:10:19,430 [tmobile] INFO: ⏭️ Moving to next product (201/215) | Remaining: 15 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:10:23,138 [tmobile] INFO: [201/215] BN2009810: 949.00 PLN | Instock | 14 remaining
+2025-04-23 08:10:23,142 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:10:24,143 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.32 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:10:28,481 [tmobile] INFO: ⏭️ Moving to next product (202/215) | Remaining: 14 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:10:32,452 [tmobile] INFO: [202/215] BN2009812: 1.30 PLN | Instock | 13 remaining
+2025-04-23 08:10:32,454 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:10:33,458 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.09 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:10:35,547 [tmobile] INFO: ⏭️ Moving to next product (203/215) | Remaining: 13 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:10:37,974 [tmobile] INFO: [203/215] AN00000173: 0.00 PLN | Outstock | 12 remaining
+2025-04-23 08:10:37,976 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:10:38,980 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.06 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:10:40,059 [tmobile] INFO: ⏭️ Moving to next product (204/215) | Remaining: 12 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:10:41,226 [tmobile] INFO: [204/215] BN2009160: 429.00 PLN | Instock | 11 remaining
+2025-04-23 08:10:41,229 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:10:42,236 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.32 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:10:43,561 [tmobile] INFO: ⏭️ Moving to next product (205/215) | Remaining: 11 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:10:44,785 [tmobile] INFO: [205/215] BN2008861: 3.77 PLN | Instock | 10 remaining
+2025-04-23 08:10:44,792 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:10:45,798 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.03 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:10:48,831 [tmobile] INFO: ⏭️ Moving to next product (206/215) | Remaining: 10 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:10:50,025 [tmobile] INFO: [206/215] BN2009094: 4.50 PLN | Instock | 9 remaining
+2025-04-23 08:10:50,025 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:10:51,028 [tmobile] INFO: 😴 Human-like delay: Sleeping for 5.00 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:10:56,025 [tmobile] INFO: ⏭️ Moving to next product (207/215) | Remaining: 9 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:10:58,381 [tmobile] INFO: [207/215] BN2009303: 0.00 PLN | Outstock | 8 remaining
+2025-04-23 08:10:58,383 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:10:59,384 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.60 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:11:00,986 [tmobile] INFO: ⏭️ Moving to next product (208/215) | Remaining: 8 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:11:02,547 [tmobile] INFO: [208/215] BN2009425: 1.90 PLN | Instock | 7 remaining
+2025-04-23 08:11:02,547 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:11:03,559 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.94 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:11:08,499 [tmobile] INFO: ⏭️ Moving to next product (209/215) | Remaining: 7 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:11:09,953 [tmobile] INFO: [209/215] BN2009446: 2.70 PLN | Instock | 6 remaining
+2025-04-23 08:11:09,955 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:11:10,958 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.87 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:11:12,829 [tmobile] INFO: ⏭️ Moving to next product (210/215) | Remaining: 6 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:11:14,020 [tmobile] INFO: [210/215] BN2009814: 4.20 PLN | Instock | 5 remaining
+2025-04-23 08:11:14,031 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:11:15,039 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.06 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:11:19,111 [tmobile] INFO: ⏭️ Moving to next product (211/215) | Remaining: 5 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:11:20,589 [tmobile] INFO: [211/215] BN2009815: 0.00 PLN | Outstock | 4 remaining
+2025-04-23 08:11:20,589 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:11:21,599 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.82 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:11:24,437 [tmobile] INFO: ⏭️ Moving to next product (212/215) | Remaining: 4 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:11:30,954 [tmobile] INFO: [212/215] AN00000234: 5.70 PLN | Instock | 3 remaining
+2025-04-23 08:11:30,954 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:11:31,960 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.33 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:11:33,299 [tmobile] INFO: ⏭️ Moving to next product (213/215) | Remaining: 3 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:11:40,208 [tmobile] INFO: [213/215] AN00000248: 729.00 PLN | Instock | 2 remaining
+2025-04-23 08:11:40,210 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:11:41,212 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.55 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:11:45,778 [tmobile] INFO: ⏭️ Moving to next product (214/215) | Remaining: 2 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:11:47,389 [tmobile] INFO: [214/215] AN00000249: 2.00 PLN | Instock | 1 remaining
+2025-04-23 08:11:47,390 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 08:11:48,393 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.35 seconds (using tmobile's range: 1-5s)
+2025-04-23 08:11:50,748 [tmobile] INFO: ⏭️ Moving to next product (215/215) | Remaining: 1 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 08:11:52,085 [tmobile] INFO: [215/215] AN00000183: 0.00 PLN | Outstock | 0 remaining
+2025-04-23 08:11:52,087 [tmobile] INFO: ✅ All products processed!
+2025-04-23 08:11:52,090 [tmobile] INFO: ✅ Spider tmobile completed
+2025-04-23 08:11:52,090 [tmobile] INFO: 🕒 Total time: 00:27:07
+2025-04-23 08:11:52,090 [tmobile] INFO: 📊 Processed 215 items
+2025-04-23 08:11:52,090 [tmobile] INFO: ⚡ Performance: 7.93 items/minute
+2025-04-23 08:12:05,044 [tmobile] INFO: ==================================================
+2025-04-23 08:12:05,044 [tmobile] INFO: SPIDER RUN COMPLETED: tmobile
+2025-04-23 08:12:05,044 [tmobile] INFO: Items processed: 215
+2025-04-23 08:12:05,044 [tmobile] INFO: Duration: 00:27:19
+2025-04-23 08:12:05,044 [tmobile] INFO: Performance: 7.87 items/minute
+2025-04-23 08:12:05,044 [tmobile] INFO: ==================================================
+2025-04-23 16:44:58,781 [tmobile] INFO: 🕷️ Initializing tmobile spider
+2025-04-23 16:44:58,781 [tmobile] INFO: 🔄 Proxy Manager: Enabled
+2025-04-23 16:44:58,787 [tmobile] INFO: 🕒 Human-like delays: Enabled
+2025-04-23 16:44:58,975 [tmobile] INFO: 🕷️ Starting T-Mobile spider
+2025-04-23 16:44:58,975 [tmobile] INFO: 🔍 Total products to scrape: 19
+2025-04-23 16:44:58,975 [tmobile] INFO: ⏱️ Using sleep time range: 1-5 seconds
+2025-04-23 16:44:58,975 [tmobile] INFO: ⏱️ Between products delay: 1 seconds
+2025-04-23 16:44:58,975 [tmobile] INFO: ⏱️ Between retries delay: 2 seconds
+2025-04-23 16:44:58,986 [tmobile] INFO: Using proxy manager with your own proxy first
+2025-04-23 16:44:58,986 [tmobile] INFO: 🔄 Getting proxies from https://free-proxy-list.net/
+2025-04-23 16:44:59,455 [tmobile] INFO: 🔍 Found 118 HTTPS proxies out of 300 total proxies
+2025-04-23 16:44:59,455 [tmobile] INFO:   Proxy #1: 15.152.14.140:3128 (HTTPS)
+2025-04-23 16:44:59,455 [tmobile] INFO:   Proxy #2: 35.182.168.151:3128 (HTTPS)
+2025-04-23 16:44:59,465 [tmobile] INFO:   Proxy #3: 43.153.66.252:13001 (HTTPS)
+2025-04-23 16:44:59,465 [tmobile] INFO:   Proxy #4: 43.135.166.82:13001 (HTTPS)
+2025-04-23 16:44:59,465 [tmobile] INFO:   Proxy #5: 13.37.73.214:80 (HTTPS)
+2025-04-23 16:44:59,467 [tmobile] INFO:   ... and 113 more
+2025-04-23 16:44:59,467 [tmobile] INFO: Added your own proxy + 69 public proxies (limited to 70 total)
+2025-04-23 16:44:59,467 [tmobile] INFO: 🔄 Starting with your own proxy: 192.168.101.27:8080 (1/70)
+2025-04-23 16:44:59,471 [tmobile] INFO: Using proxy URL: http://192.168.101.27:8080
+2025-04-23 16:45:05,647 [tmobile] INFO: [1/19] BN2009903: 2.55 PLN | Instock | 18 remaining
+2025-04-23 16:45:05,647 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 16:45:06,661 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.64 seconds (using tmobile's range: 1-5s)
+2025-04-23 16:45:11,310 [tmobile] INFO: ⏭️ Moving to next product (2/19) | Remaining: 18 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 16:45:20,153 [tmobile] INFO: [2/19] BN2009905: 2.75 PLN | Instock | 17 remaining
+2025-04-23 16:45:20,153 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 16:45:21,158 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.22 seconds (using tmobile's range: 1-5s)
+2025-04-23 16:45:22,374 [tmobile] INFO: ⏭️ Moving to next product (3/19) | Remaining: 17 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 16:45:24,059 [tmobile] INFO: [3/19] BN2009137: 0.00 PLN | Outstock | 16 remaining
+2025-04-23 16:45:24,060 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 16:45:25,074 [tmobile] INFO: 😴 Human-like delay: Sleeping for 3.76 seconds (using tmobile's range: 1-5s)
+2025-04-23 16:46:55,547 [tmobile] INFO: 🕷️ Initializing tmobile spider
+2025-04-23 16:46:55,547 [tmobile] INFO: 🔄 Proxy Manager: Enabled
+2025-04-23 16:46:55,547 [tmobile] INFO: 🕒 Human-like delays: Enabled
+2025-04-23 16:46:55,660 [tmobile] INFO: 🕷️ Starting T-Mobile spider
+2025-04-23 16:46:55,660 [tmobile] INFO: 🔍 Total products to scrape: 19
+2025-04-23 16:46:55,660 [tmobile] INFO: ⏱️ Using sleep time range: 1-5 seconds
+2025-04-23 16:46:55,668 [tmobile] INFO: ⏱️ Between products delay: 1 seconds
+2025-04-23 16:46:55,668 [tmobile] INFO: ⏱️ Between retries delay: 2 seconds
+2025-04-23 16:46:55,668 [tmobile] INFO: Using proxy manager with your own proxy first
+2025-04-23 16:46:55,668 [tmobile] INFO: 🔄 Getting proxies from https://free-proxy-list.net/
+2025-04-23 16:46:56,045 [tmobile] INFO: 🔍 Found 118 HTTPS proxies out of 300 total proxies
+2025-04-23 16:46:56,045 [tmobile] INFO:   Proxy #1: 63.32.1.88:3128 (HTTPS)
+2025-04-23 16:46:56,045 [tmobile] INFO:   Proxy #2: 54.94.204.20:80 (HTTPS)
+2025-04-23 16:46:56,045 [tmobile] INFO:   Proxy #3: 13.208.144.135:3128 (HTTPS)
+2025-04-23 16:46:56,053 [tmobile] INFO:   Proxy #4: 43.130.14.101:13001 (HTTPS)
+2025-04-23 16:46:56,053 [tmobile] INFO:   Proxy #5: 51.16.254.248:3128 (HTTPS)
+2025-04-23 16:46:56,053 [tmobile] INFO:   ... and 113 more
+2025-04-23 16:46:56,055 [tmobile] INFO: Added your own proxy + 69 public proxies (limited to 70 total)
+2025-04-23 16:46:56,055 [tmobile] INFO: 🔄 Starting with your own proxy: 192.168.101.27:8080 (1/70)
+2025-04-23 16:46:56,060 [tmobile] INFO: Using proxy URL: http://192.168.101.27:8080
+2025-04-23 16:46:59,185 [tmobile] INFO: [1/19] BN2009903: 2549.00 PLN | Instock | 18 remaining
+2025-04-23 16:46:59,192 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 16:47:00,207 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.21 seconds (using tmobile's range: 1-5s)
+2025-04-23 16:47:02,423 [tmobile] INFO: ⏭️ Moving to next product (2/19) | Remaining: 18 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 16:47:04,269 [tmobile] INFO: [2/19] BN2009905: 2749.00 PLN | Instock | 17 remaining
+2025-04-23 16:47:04,269 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 16:47:05,269 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.74 seconds (using tmobile's range: 1-5s)
+2025-04-23 16:47:08,023 [tmobile] INFO: ⏭️ Moving to next product (3/19) | Remaining: 17 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 16:47:09,773 [tmobile] INFO: [3/19] BN2009137: 0.00 PLN | Outstock | 16 remaining
+2025-04-23 16:47:09,784 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 16:47:10,788 [tmobile] INFO: 😴 Human-like delay: Sleeping for 2.70 seconds (using tmobile's range: 1-5s)
+2025-04-23 16:47:13,492 [tmobile] INFO: ⏭️ Moving to next product (4/19) | Remaining: 16 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 16:47:15,147 [tmobile] INFO: [4/19] AN00000228: 2599.00 PLN | Instock | 15 remaining
+2025-04-23 16:47:15,147 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 16:47:16,153 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.77 seconds (using tmobile's range: 1-5s)
+2025-04-23 16:47:17,937 [tmobile] INFO: ⏭️ Moving to next product (5/19) | Remaining: 15 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 16:47:21,556 [tmobile] INFO: [5/19] AN00000195: 2949.00 PLN | Instock | 14 remaining
+2025-04-23 16:47:21,556 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 16:47:22,575 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.48 seconds (using tmobile's range: 1-5s)
+2025-04-23 16:47:24,062 [tmobile] INFO: ⏭️ Moving to next product (6/19) | Remaining: 14 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 16:47:27,813 [tmobile] INFO: [6/19] AN00000236: 4299.00 PLN | Instock | 13 remaining
+2025-04-23 16:47:27,815 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 16:47:28,821 [tmobile] INFO: 😴 Human-like delay: Sleeping for 4.04 seconds (using tmobile's range: 1-5s)
+2025-04-23 16:47:32,875 [tmobile] INFO: ⏭️ Moving to next product (7/19) | Remaining: 13 | Using working own HTTP proxy: 192.168.101.27:8080
+2025-04-23 16:47:34,474 [tmobile] INFO: [7/19] AN00000193: 1089.00 PLN | Instock | 12 remaining
+2025-04-23 16:47:34,474 [tmobile] INFO: ⏱️ Waiting 1 seconds between products (from tmobile's settings)
+2025-04-23 16:47:35,475 [tmobile] INFO: 😴 Human-like delay: Sleeping for 1.74 seconds (using tmobile's range: 1-5s)
+2025-04-23 16:47:37,223 [tmobile] INFO: ⏭️ Moving to next product (8/19) | Remaining: 12 | Using working own HTTP proxy: 192.168.101.27:8080

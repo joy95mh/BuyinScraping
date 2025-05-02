@@ -1,0 +1,156 @@
+2025-04-24 21:02:14,855 [xkom] INFO: 🕷️ Initializing xkom spider
+2025-04-24 21:02:14,857 [xkom] INFO: 🔄 Proxy Manager: Disabled
+2025-04-24 21:02:14,857 [xkom] INFO: 🕒 Human-like delays: Enabled
+2025-04-24 21:02:15,029 [xkom] INFO: 🕷️ Starting x-kom spider
+2025-04-24 21:02:15,030 [xkom] INFO: 🔍 Total products to scrape: 309
+2025-04-24 21:02:15,030 [xkom] INFO: ⏱️ Using sleep time range: 1-4 seconds
+2025-04-24 21:02:15,030 [xkom] INFO: Using direct requests without proxy manager
+2025-04-24 21:02:15,031 [xkom] INFO: 😴 Sleeping for 1.27 seconds before request 1/309
+2025-04-24 21:02:16,314 [xkom] INFO: 🚀 Sending request 1/309 for BN2009344
+2025-04-24 21:02:18,315 [xkom] INFO: 😴 Sleeping for 3.05 seconds before request 2/309
+2025-04-24 21:02:21,377 [xkom] INFO: 🚀 Sending request 2/309 for BN2009333
+2025-04-24 21:02:22,852 [xkom] INFO: 😴 Sleeping for 2.34 seconds before request 3/309
+2025-04-24 21:02:25,209 [xkom] INFO: 🚀 Sending request 3/309 for AN00000235
+2025-04-24 21:02:27,021 [xkom] INFO: 😴 Sleeping for 1.55 seconds before request 4/309
+2025-04-24 21:02:28,584 [xkom] INFO: 🚀 Sending request 4/309 for BN2008701
+2025-04-24 21:02:30,443 [xkom] INFO: 😴 Sleeping for 1.09 seconds before request 5/309
+2025-04-24 21:07:05,031 [xkom] INFO: 🕷️ Initializing xkom spider
+2025-04-24 21:07:05,038 [xkom] INFO: 🔄 Proxy Manager: Enabled
+2025-04-24 21:07:05,038 [xkom] INFO: 🕒 Human-like delays: Enabled
+2025-04-24 21:07:36,768 [xkom] INFO: 🕷️ Initializing xkom spider
+2025-04-24 21:07:36,769 [xkom] INFO: 🔄 Proxy Manager: Enabled
+2025-04-24 21:07:36,769 [xkom] INFO: 🕒 Human-like delays: Enabled
+2025-04-24 21:07:53,636 [xkom] INFO: 🕷️ Initializing xkom spider
+2025-04-24 21:07:53,637 [xkom] INFO: 🔄 Proxy Manager: Enabled
+2025-04-24 21:07:53,638 [xkom] INFO: 🕒 Human-like delays: Enabled
+2025-04-24 21:07:53,737 [xkom] INFO: 🕷️ Starting x-kom spider
+2025-04-24 21:07:53,738 [xkom] INFO: 🔍 Total products to scrape: 309
+2025-04-24 21:07:53,739 [xkom] INFO: ⏱️ Using sleep time range: 2-5 seconds
+2025-04-24 21:07:53,739 [xkom] INFO: ⏱️ Between products delay: 1 seconds
+2025-04-24 21:07:53,739 [xkom] INFO: ⏱️ Between retries delay: 1 seconds
+2025-04-24 21:07:53,740 [xkom] INFO: Using proxy manager with your own proxy first
+2025-04-24 21:07:53,740 [xkom] INFO: 🔄 Getting proxies from https://free-proxy-list.net/
+2025-04-24 21:07:54,227 [xkom] INFO: 🔍 Found 88 HTTPS proxies out of 300 total proxies
+2025-04-24 21:07:54,228 [xkom] INFO:   Proxy #1: 63.33.226.53:80 (HTTPS)
+2025-04-24 21:07:54,229 [xkom] INFO:   Proxy #2: 3.97.167.115:3128 (HTTPS)
+2025-04-24 21:07:54,230 [xkom] INFO:   Proxy #3: 52.16.232.164:3128 (HTTPS)
+2025-04-24 21:07:54,230 [xkom] INFO:   Proxy #4: 3.139.242.184:80 (HTTPS)
+2025-04-24 21:07:54,230 [xkom] INFO:   Proxy #5: 13.36.113.81:3128 (HTTPS)
+2025-04-24 21:07:54,231 [xkom] INFO:   ... and 83 more
+2025-04-24 21:07:54,231 [xkom] INFO: Added your own proxy + 88 public proxies (limited to 100 total)
+2025-04-24 21:07:54,231 [xkom] INFO: 🔄 Starting with your own proxy: 192.168.101.27:8080 (1/89)
+2025-04-24 21:07:54,238 [xkom] INFO: Using proxy URL: http://192.168.101.27:8080
+2025-04-24 21:07:54,621 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:07:54,622 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 63.33.226.53:80 (2/89)
+2025-04-24 21:07:54,698 [xkom] INFO: ==================================================
+2025-04-24 21:07:54,699 [xkom] INFO: SPIDER RUN COMPLETED: xkom
+2025-04-24 21:07:54,700 [xkom] INFO: Items processed: 0
+2025-04-24 21:07:54,700 [xkom] INFO: Duration: 00:00:01
+2025-04-24 21:07:54,700 [xkom] INFO: Performance: 0.00 items/minute
+2025-04-24 21:07:54,701 [xkom] INFO: ==================================================
+2025-04-24 21:08:29,389 [xkom] INFO: 🕷️ Initializing xkom spider
+2025-04-24 21:08:29,390 [xkom] INFO: 🔄 Proxy Manager: Enabled
+2025-04-24 21:08:29,390 [xkom] INFO: 🕒 Human-like delays: Enabled
+2025-04-24 21:08:29,479 [xkom] INFO: 🕷️ Starting x-kom spider
+2025-04-24 21:08:29,481 [xkom] INFO: 🔍 Total products to scrape: 309
+2025-04-24 21:08:29,482 [xkom] INFO: ⏱️ Using sleep time range: 2-5 seconds
+2025-04-24 21:08:29,482 [xkom] INFO: ⏱️ Between products delay: 1 seconds
+2025-04-24 21:08:29,483 [xkom] INFO: ⏱️ Between retries delay: 1 seconds
+2025-04-24 21:08:29,483 [xkom] INFO: Using proxy manager with your own proxy first
+2025-04-24 21:08:29,483 [xkom] INFO: 🔄 Getting proxies from https://free-proxy-list.net/
+2025-04-24 21:08:29,893 [xkom] INFO: 🔍 Found 88 HTTPS proxies out of 300 total proxies
+2025-04-24 21:08:29,895 [xkom] INFO:   Proxy #1: 51.16.199.206:3128 (HTTPS)
+2025-04-24 21:08:29,906 [xkom] INFO:   Proxy #2: 15.152.203.118:3128 (HTTPS)
+2025-04-24 21:08:29,908 [xkom] INFO:   Proxy #3: 13.247.14.165:80 (HTTPS)
+2025-04-24 21:08:29,909 [xkom] INFO:   Proxy #4: 46.51.249.135:3128 (HTTPS)
+2025-04-24 21:08:29,909 [xkom] INFO:   Proxy #5: 3.139.242.184:80 (HTTPS)
+2025-04-24 21:08:29,909 [xkom] INFO:   ... and 83 more
+2025-04-24 21:08:29,909 [xkom] INFO: Added your own proxy + 88 public proxies (limited to 100 total)
+2025-04-24 21:08:29,910 [xkom] INFO: 🔄 Starting with your own proxy: 192.168.101.27:8080 (1/89)
+2025-04-24 21:08:29,917 [xkom] INFO: Using proxy URL: http://192.168.101.27:8080
+2025-04-24 21:08:30,263 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:08:30,264 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 51.16.199.206:3128 (2/89)
+2025-04-24 21:08:32,428 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:08:32,430 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 15.152.203.118:3128 (3/89)
+2025-04-24 21:08:33,038 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:08:33,038 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 13.247.14.165:80 (4/89)
+2025-04-24 21:08:35,490 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:08:35,491 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 46.51.249.135:3128 (5/89)
+2025-04-24 21:08:36,253 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:08:36,253 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 3.139.242.184:80 (6/89)
+2025-04-24 21:08:38,970 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:08:38,971 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 43.135.144.61:13001 (7/89)
+2025-04-24 21:09:09,099 [xkom] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://43.135.144.61:13001: User timeout caused connection failure: Getting https://www.x-kom.pl/p/1194237-smartfon-telefon-tcl-40-nxtpaper-8-256gb-niebieski-90hz.html took longer than 30.0 seconds..
+2025-04-24 21:09:09,101 [xkom] INFO: 🔄 Moving to next proxy (7/89)
+2025-04-24 21:09:09,101 [xkom] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from xkom's settings)
+2025-04-24 21:09:10,111 [xkom] INFO: 🔄 Trying with public HTTPS proxy: 51.17.27.173:3128
+2025-04-24 21:09:11,663 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:09:11,664 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 18.228.149.161:80 (9/89)
+2025-04-24 21:09:14,575 [xkom] ERROR: ❌ Error [unknown]: ResponseNeverReceived occurred with https://18.228.149.161:80: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+2025-04-24 21:09:14,577 [xkom] INFO: 🔄 Moving to next proxy (9/89)
+2025-04-24 21:09:14,578 [xkom] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from xkom's settings)
+2025-04-24 21:09:15,586 [xkom] INFO: 🔄 Trying with public HTTPS proxy: 52.67.10.183:80
+2025-04-24 21:09:20,294 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:09:20,295 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 13.208.56.180:80 (11/89)
+2025-04-24 21:09:21,150 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:09:21,151 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 35.79.120.242:3128 (12/89)
+2025-04-24 21:09:22,320 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:09:22,320 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 52.16.232.164:3128 (13/89)
+2025-04-24 21:09:23,759 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:09:23,759 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 35.182.168.151:3128 (14/89)
+2025-04-24 21:09:30,446 [xkom] ERROR: ❌ Error [unknown]: ResponseNeverReceived occurred with https://35.182.168.151:3128: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+2025-04-24 21:09:30,446 [xkom] INFO: 🔄 Moving to next proxy (14/89)
+2025-04-24 21:09:30,446 [xkom] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from xkom's settings)
+2025-04-24 21:09:31,459 [xkom] INFO: 🔄 Trying with public HTTPS proxy: 172.167.161.8:8080
+2025-04-24 21:09:34,197 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:09:34,197 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 65.108.159.129:8081 (16/89)
+2025-04-24 21:09:38,453 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:09:38,454 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 3.124.133.93:3128 (17/89)
+2025-04-24 21:09:39,592 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:09:39,592 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 13.237.241.71:3128 (18/89)
+2025-04-24 21:09:40,379 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:09:40,379 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 72.10.160.90:11121 (19/89)
+2025-04-24 21:09:44,233 [xkom] ERROR: ❌ Error [unknown]: ConnectionRefusedError occurred with https://72.10.160.90:11121: Connection was refused by other side: 10061: No connection could be made because the target machine actively refused it..
+2025-04-24 21:09:44,235 [xkom] INFO: 🔄 Moving to next proxy (19/89)
+2025-04-24 21:09:44,236 [xkom] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from xkom's settings)
+2025-04-24 21:09:45,249 [xkom] INFO: 🔄 Trying with public HTTPS proxy: 51.16.179.113:1080
+2025-04-24 21:09:46,478 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:09:46,479 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 99.80.11.54:3128 (21/89)
+2025-04-24 21:09:47,718 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:09:47,719 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 49.51.207.125:13001 (22/89)
+2025-04-24 21:10:18,077 [xkom] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://49.51.207.125:13001: User timeout caused connection failure: Getting https://www.x-kom.pl/p/1194237-smartfon-telefon-tcl-40-nxtpaper-8-256gb-niebieski-90hz.html took longer than 30.0 seconds..
+2025-04-24 21:10:18,077 [xkom] INFO: 🔄 Moving to next proxy (22/89)
+2025-04-24 21:10:18,078 [xkom] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from xkom's settings)
+2025-04-24 21:10:19,088 [xkom] INFO: 🔄 Trying with public HTTPS proxy: 43.154.134.238:50001
+2025-04-24 21:10:21,712 [xkom] ERROR: ❌ Error [unknown]: ConnectionRefusedError occurred with https://43.154.134.238:50001: Connection was refused by other side: 10061: No connection could be made because the target machine actively refused it..
+2025-04-24 21:10:21,713 [xkom] INFO: 🔄 Moving to next proxy (23/89)
+2025-04-24 21:10:21,713 [xkom] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from xkom's settings)
+2025-04-24 21:10:22,727 [xkom] INFO: 🔄 Trying with public HTTPS proxy: 103.67.163.109:10219
+2025-04-24 21:10:35,166 [xkom] ERROR: ❌ Error [unknown]: TunnelError occurred with https://103.67.163.109:10219: Could not open CONNECT tunnel with proxy 103.67.163.109:10219 [{'status': 503, 'reason': b'Service Unavailable'}]
+2025-04-24 21:10:35,167 [xkom] INFO: 🔄 Moving to next proxy (24/89)
+2025-04-24 21:10:35,167 [xkom] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from xkom's settings)
+2025-04-24 21:10:36,168 [xkom] INFO: 🔄 Trying with public HTTPS proxy: 52.65.193.254:3128
+2025-04-24 21:10:36,964 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:10:36,965 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 15.236.106.236:3128 (26/89)
+2025-04-24 21:10:38,974 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:10:38,975 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 44.195.247.145:80 (27/89)
+2025-04-24 21:10:40,234 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:10:40,234 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 43.130.12.39:13001 (28/89)
+2025-04-24 21:10:40,838 [xkom] ERROR: ❌ Error [unknown]: TunnelError occurred with https://43.130.12.39:13001: Could not open CONNECT tunnel with proxy 43.130.12.39:13001 [{'status': 500, 'reason': b'Internal Server Error'}]
+2025-04-24 21:10:40,838 [xkom] INFO: 🔄 Moving to next proxy (28/89)
+2025-04-24 21:10:40,839 [xkom] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from xkom's settings)
+2025-04-24 21:10:41,851 [xkom] INFO: 🔄 Trying with public HTTPS proxy: 15.168.103.100:3128
+2025-04-24 21:10:43,946 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:10:43,948 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 66.201.7.151:3128 (30/89)
+2025-04-24 21:11:00,589 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:11:00,589 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 13.56.163.45:1080 (31/89)
+2025-04-24 21:11:01,973 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:11:01,974 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 13.55.184.26:3128 (32/89)
+2025-04-24 21:11:02,764 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:11:02,765 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 3.136.29.104:80 (33/89)
+2025-04-24 21:11:04,222 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:11:04,223 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 20.27.15.49:8561 (34/89)
+2025-04-24 21:11:26,802 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:11:26,803 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 13.56.192.187:80 (35/89)
+2025-04-24 21:11:27,758 [xkom] WARNING: ⚠️ Validation page or error detected, trying next proxy
+2025-04-24 21:11:27,761 [xkom] INFO: 🔄 Switching to public HTTPS proxy: 43.135.168.60:13001 (36/89)

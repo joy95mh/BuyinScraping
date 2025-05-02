@@ -1,0 +1,680 @@
+2025-04-23 07:44:35,204 [orange] INFO: 🕷️ Initializing orange spider
+2025-04-23 07:44:35,204 [orange] INFO: 🔄 Proxy Manager: Disabled
+2025-04-23 07:44:35,204 [orange] INFO: 🕒 Human-like delays: Enabled
+2025-04-23 07:44:35,337 [orange] INFO: 🕷️ Starting Orange spider
+2025-04-23 07:44:35,339 [orange] INFO: 🔍 Total products to scrape: 166
+2025-04-23 07:44:35,341 [orange] INFO: Using direct requests without proxy manager
+2025-04-23 07:44:35,344 [orange] INFO: 😴 Sleeping for 28.54 seconds before request 1/166
+2025-04-23 07:45:03,889 [orange] INFO: 🚀 Sending request 1/166 to https://www.orange.pl/esklep/modemy-i-routery/tcl/router-tcl-linkhub-hh132-(kat--12-13) for BN2009242
+2025-04-23 07:45:07,005 [orange] INFO: 😴 Sleeping for 25.70 seconds before request 2/166
+2025-04-23 07:45:32,718 [orange] INFO: 🚀 Sending request 2/166 to https://www.orange.pl/esklep/modemy-i-routery/tcl/router-tcl-linkhub-hh63-(hh63v1s)-cat--6 for BN2009251
+2025-04-23 07:45:32,723 [orange] INFO: 📋 Response for BN2009242 | Status: 200 | Size: 306738 bytes
+2025-04-23 07:45:32,741 [orange] INFO: [1/166] BN2009242: 0.00 PLN | Outstock | 165 remaining
+2025-04-23 07:45:34,725 [orange] INFO: 😴 Sleeping for 26.61 seconds before request 3/166
+2025-04-23 07:46:01,348 [orange] INFO: 🚀 Sending request 3/166 to https://www.orange.pl/esklep/modemy-i-routery/alcatel/alcatel-linkhub-hh71-lte-cat7 for BN2006709
+2025-04-23 07:46:01,357 [orange] INFO: 📋 Response for BN2009251 | Status: 200 | Size: 315710 bytes
+2025-04-23 07:46:01,362 [orange] INFO: [2/166] BN2009251: 0.00 PLN | Outstock | 164 remaining
+2025-04-23 07:46:03,335 [orange] INFO: 😴 Sleeping for 34.15 seconds before request 4/166
+2025-04-23 07:46:37,501 [orange] INFO: 🚀 Sending request 4/166 to https://www.orange.pl/esklep/smartfony/tcl/tcl-406-3-32gb for BN2008526
+2025-04-23 07:46:37,501 [orange] INFO: 📋 Response for BN2006709 | Status: 200 | Size: 302762 bytes
+2025-04-23 07:46:37,519 [orange] INFO: [3/166] BN2006709: 0.00 PLN | Outstock | 163 remaining
+2025-04-23 07:46:39,396 [orange] INFO: 😴 Sleeping for 26.53 seconds before request 5/166
+2025-04-23 07:47:05,933 [orange] INFO: 🚀 Sending request 5/166 to https://www.orange.pl/esklep/smartfony/tcl/tcl-50-pro-nxtpaper-5g-8-512gb for AN00000235
+2025-04-23 07:47:05,938 [orange] INFO: 📋 Response for BN2008526 | Status: 200 | Size: 327966 bytes
+2025-04-23 07:47:05,945 [orange] INFO: [4/166] BN2008526: 0.00 PLN | Outstock | 162 remaining
+2025-04-23 07:47:08,681 [orange] INFO: 😴 Sleeping for 29.38 seconds before request 6/166
+2025-04-23 07:47:38,068 [orange] INFO: 🚀 Sending request 6/166 to https://www.orange.pl/esklep/smartfony/tcl/tcl-505-4-128gb-ds for BN2009357
+2025-04-23 07:47:38,078 [orange] INFO: 📋 Response for AN00000235 | Status: 200 | Size: 376467 bytes
+2025-04-23 07:47:38,088 [orange] INFO: [5/166] AN00000235: 0.00 PLN | Outstock | 161 remaining
+2025-04-23 07:47:39,445 [orange] INFO: 😴 Sleeping for 31.00 seconds before request 7/166
+2025-04-23 07:48:10,456 [orange] INFO: 🚀 Sending request 7/166 to https://www.orange.pl/esklep/tablety/tcl/tablet-tcl-nxtpaper-11-wi-fi for BN2008728
+2025-04-23 07:48:10,456 [orange] INFO: 📋 Response for BN2009357 | Status: 200 | Size: 363363 bytes
+2025-04-23 07:48:10,488 [orange] INFO: [6/166] BN2009357: 360.00 PLN | Instock | 160 remaining
+2025-04-23 07:48:11,575 [orange] INFO: 😴 Sleeping for 26.16 seconds before request 8/166
+2025-04-23 07:48:37,745 [orange] INFO: 🚀 Sending request 8/166 to https://www.orange.pl/esklep/urzadzenia-smart/apple/airpods-max?typ-oferty=SIMFREE_INST&productFilterUid=simfreeInstOfferFilterNUX&typ-procesu=INSTALMENT_SALES_OF_GOODS&dlugosc-umowy=0&id-oferty=TANTO_B2C_249411$MOB_CPO_7051_5721_AC_249411&withExistingAccount=false for AN00000007
+2025-04-23 07:48:37,745 [orange] INFO: 📋 Response for BN2008728 | Status: 200 | Size: 326440 bytes
+2025-04-23 07:48:37,777 [orange] INFO: [7/166] BN2008728: 0.00 PLN | Outstock | 159 remaining
+2025-04-23 07:48:39,667 [orange] INFO: 😴 Sleeping for 34.85 seconds before request 9/166
+2025-04-23 07:49:14,529 [orange] INFO: 🚀 Sending request 9/166 to https://www.orange.pl/esklep/smartwatche-i-smartbandy/apple/apple-watch-s10-gps---esim-(cellular)-46mm for AN00000220
+2025-04-23 07:49:14,539 [orange] INFO: 📋 Response for AN00000007 | Status: 200 | Size: 327011 bytes
+2025-04-23 07:49:14,558 [orange] INFO: [8/166] AN00000007: 0.00 PLN | Outstock | 158 remaining
+2025-04-23 07:49:16,924 [orange] INFO: 😴 Sleeping for 31.75 seconds before request 10/166
+2025-04-23 07:49:48,697 [orange] INFO: 🚀 Sending request 10/166 to https://www.orange.pl/esklep/tablety/apple/ipad-10-2---256gb-esim-(9--generacji) for BN2007991
+2025-04-23 07:49:48,702 [orange] INFO: 📋 Response for AN00000220 | Status: 200 | Size: 364138 bytes
+2025-04-23 07:49:48,727 [orange] INFO: [9/166] AN00000220: 2799.00 PLN | Instock | 157 remaining
+2025-04-23 07:49:50,971 [orange] INFO: 😴 Sleeping for 28.47 seconds before request 11/166
+2025-04-23 07:50:19,468 [orange] INFO: 🚀 Sending request 11/166 to https://www.orange.pl/esklep/tablety/apple/ipad-10-2---64gb-esim-(9--generacji) for BN2007990
+2025-04-23 07:50:19,473 [orange] INFO: 📋 Response for BN2007991 | Status: 200 | Size: 336518 bytes
+2025-04-23 07:50:19,495 [orange] INFO: [10/166] BN2007991: 0.00 PLN | Outstock | 156 remaining
+2025-04-23 07:50:22,060 [orange] INFO: 😴 Sleeping for 26.30 seconds before request 12/166
+2025-04-23 07:50:48,368 [orange] INFO: 🚀 Sending request 12/166 to https://www.orange.pl/esklep/tablety/apple/ipad-10-9--64-gb-esim-5g-(gen--10-) for BN2008639
+2025-04-23 07:50:48,368 [orange] INFO: 📋 Response for BN2007990 | Status: 200 | Size: 345659 bytes
+2025-04-23 07:50:48,400 [orange] INFO: [11/166] BN2007990: 0.00 PLN | Outstock | 155 remaining
+2025-04-23 07:50:50,684 [orange] INFO: 😴 Sleeping for 31.09 seconds before request 13/166
+2025-04-23 07:51:21,782 [orange] INFO: 🚀 Sending request 13/166 to https://www.orange.pl/esklep/tablety/apple/ipad-11--(a16)-256-gb-esim-5g for BN2010115
+2025-04-23 07:51:21,782 [orange] INFO: 📋 Response for BN2008639 | Status: 200 | Size: 351194 bytes
+2025-04-23 07:51:21,816 [orange] INFO: [12/166] BN2008639: 0.00 PLN | Outstock | 154 remaining
+2025-04-23 07:51:24,236 [orange] INFO: 😴 Sleeping for 31.50 seconds before request 14/166
+2025-04-23 07:51:55,741 [orange] INFO: 🚀 Sending request 14/166 to https://www.orange.pl/esklep/tablety/apple/ipad-11--(a16)-512-gb-esim-5g for BN2010116
+2025-04-23 07:51:55,751 [orange] INFO: 📋 Response for BN2010115 | Status: 200 | Size: 360100 bytes
+2025-04-23 07:51:55,777 [orange] INFO: [13/166] BN2010115: 3319.00 PLN | Instock | 153 remaining
+2025-04-23 07:51:58,249 [orange] INFO: 😴 Sleeping for 32.31 seconds before request 15/166
+2025-04-23 07:52:30,579 [orange] INFO: 🚀 Sending request 15/166 to https://www.orange.pl/esklep/tablety/apple/ipad-air-11--(m3)-128-gb-esim-5g for BN2010121
+2025-04-23 07:52:30,588 [orange] INFO: 📋 Response for BN2010116 | Status: 200 | Size: 361538 bytes
+2025-04-23 07:52:30,619 [orange] INFO: [14/166] BN2010116: 0.00 PLN | Outstock | 152 remaining
+2025-04-23 07:52:33,456 [orange] INFO: 😴 Sleeping for 34.82 seconds before request 16/166
+2025-04-23 07:53:08,284 [orange] INFO: 🚀 Sending request 16/166 to https://www.orange.pl/esklep/tablety/apple/ipad-air-13-(m2)-128-gb-5g for BN2009579
+2025-04-23 07:53:08,284 [orange] INFO: 📋 Response for BN2010121 | Status: 200 | Size: 366866 bytes
+2025-04-23 07:53:08,315 [orange] INFO: [15/166] BN2010121: 4039.00 PLN | Instock | 151 remaining
+2025-04-23 07:53:10,693 [orange] INFO: 😴 Sleeping for 34.23 seconds before request 17/166
+2025-04-23 07:53:44,936 [orange] INFO: 🚀 Sending request 17/166 to https://www.orange.pl/esklep/tablety/apple/ipad-air-13-(m2)-256-gb-5g for BN2009590
+2025-04-23 07:53:44,938 [orange] INFO: 📋 Response for BN2009579 | Status: 200 | Size: 349868 bytes
+2025-04-23 07:53:44,961 [orange] INFO: [16/166] BN2009579: 0.00 PLN | Outstock | 150 remaining
+2025-04-23 07:53:46,432 [orange] INFO: 😴 Sleeping for 29.23 seconds before request 18/166
+2025-04-23 07:54:15,668 [orange] INFO: 🚀 Sending request 18/166 to https://www.orange.pl/esklep/tablety/apple/ipad-air-13-(m2)-512-gb-5g for BN2009591
+2025-04-23 07:54:15,678 [orange] INFO: 📋 Response for BN2009590 | Status: 200 | Size: 342833 bytes
+2025-04-23 07:54:15,700 [orange] INFO: [17/166] BN2009590: 0.00 PLN | Outstock | 149 remaining
+2025-04-23 07:54:18,071 [orange] INFO: 😴 Sleeping for 33.67 seconds before request 19/166
+2025-04-23 07:54:51,747 [orange] INFO: 🚀 Sending request 19/166 to https://www.orange.pl/esklep/tablety/apple/ipad-air-13--(m3)-128-gb-esim-5g for BN2010129
+2025-04-23 07:54:51,759 [orange] INFO: 📋 Response for BN2009591 | Status: 200 | Size: 344087 bytes
+2025-04-23 07:54:51,775 [orange] INFO: [18/166] BN2009591: 0.00 PLN | Outstock | 148 remaining
+2025-04-23 07:54:54,052 [orange] INFO: 😴 Sleeping for 34.41 seconds before request 20/166
+2025-04-23 07:55:28,470 [orange] INFO: 🚀 Sending request 20/166 to https://www.orange.pl/esklep/tablety/apple/ipad-air-13--(m3)-256-gb-esim-5g for BN2010130
+2025-04-23 07:55:28,474 [orange] INFO: 📋 Response for BN2010129 | Status: 200 | Size: 367149 bytes
+2025-04-23 07:55:28,504 [orange] INFO: [19/166] BN2010129: 5047.00 PLN | Instock | 147 remaining
+2025-04-23 07:55:29,683 [orange] INFO: 😴 Sleeping for 29.97 seconds before request 21/166
+2025-04-23 07:55:59,673 [orange] INFO: 🚀 Sending request 21/166 to https://www.orange.pl/esklep/tablety/apple/ipad-air-13--(m3)-512-gb-esim-5g for BN2010131
+2025-04-23 07:55:59,683 [orange] INFO: 📋 Response for BN2010130 | Status: 200 | Size: 367139 bytes
+2025-04-23 07:55:59,705 [orange] INFO: [20/166] BN2010130: 5515.00 PLN | Instock | 146 remaining
+2025-04-23 07:56:02,151 [orange] INFO: 😴 Sleeping for 31.98 seconds before request 22/166
+2025-04-23 07:56:34,138 [orange] INFO: 🚀 Sending request 22/166 to https://www.orange.pl/esklep/tablety/apple/ipad-pro-11-(m4)-1-tb-5g for BN2009599
+2025-04-23 07:56:34,143 [orange] INFO: 📋 Response for BN2010131 | Status: 200 | Size: 372444 bytes
+2025-04-23 07:56:34,164 [orange] INFO: [21/166] BN2010131: 6523.00 PLN | Instock | 145 remaining
+2025-04-23 07:56:36,028 [orange] INFO: 😴 Sleeping for 29.02 seconds before request 23/166
+2025-04-23 07:57:05,055 [orange] INFO: 🚀 Sending request 23/166 to https://www.orange.pl/esklep/tablety/apple/ipad-pro-11-(m4)-256-gb-5g for BN2009580
+2025-04-23 07:57:05,055 [orange] INFO: 📋 Response for BN2009599 | Status: 200 | Size: 340615 bytes
+2025-04-23 07:57:05,091 [orange] INFO: [22/166] BN2009599: 9619.00 PLN | Instock | 144 remaining
+2025-04-23 07:57:07,343 [orange] INFO: 😴 Sleeping for 26.74 seconds before request 24/166
+2025-04-23 07:57:34,100 [orange] INFO: 🚀 Sending request 24/166 to https://www.orange.pl/esklep/tablety/apple/ipad-pro-11-(m4)-512-gb-5g for BN2009598
+2025-04-23 07:57:34,109 [orange] INFO: 📋 Response for BN2009580 | Status: 200 | Size: 343645 bytes
+2025-04-23 07:57:34,132 [orange] INFO: [23/166] BN2009580: 0.00 PLN | Outstock | 143 remaining
+2025-04-23 07:57:36,485 [orange] INFO: 😴 Sleeping for 26.74 seconds before request 25/166
+2025-04-23 07:58:03,236 [orange] INFO: 🚀 Sending request 25/166 to https://www.orange.pl/esklep/tablety/apple/ipad-pro-13-(m4)-1-tb-5g for BN2009607
+2025-04-23 07:58:03,244 [orange] INFO: 📋 Response for BN2009598 | Status: 200 | Size: 344852 bytes
+2025-04-23 07:58:03,263 [orange] INFO: [24/166] BN2009598: 0.00 PLN | Outstock | 142 remaining
+2025-04-23 07:58:05,497 [orange] INFO: 😴 Sleeping for 33.38 seconds before request 26/166
+2025-04-23 07:58:38,893 [orange] INFO: 🚀 Sending request 26/166 to https://www.orange.pl/esklep/tablety/apple/ipad-pro-13-(m4)-256-gb-5g for BN2009581
+2025-04-23 07:58:38,899 [orange] INFO: 📋 Response for BN2009607 | Status: 200 | Size: 339074 bytes
+2025-04-23 07:58:38,920 [orange] INFO: [25/166] BN2009607: 0.00 PLN | Outstock | 141 remaining
+2025-04-23 07:58:40,060 [orange] INFO: 😴 Sleeping for 32.73 seconds before request 27/166
+2025-04-23 07:59:12,800 [orange] INFO: 🚀 Sending request 27/166 to https://www.orange.pl/esklep/tablety/apple/ipad-pro-13-(m4)-512-gb-5g for BN2009606
+2025-04-23 07:59:12,800 [orange] INFO: 📋 Response for BN2009581 | Status: 200 | Size: 350256 bytes
+2025-04-23 07:59:12,832 [orange] INFO: [26/166] BN2009581: 8288.00 PLN | Instock | 140 remaining
+2025-04-23 07:59:13,932 [orange] INFO: 😴 Sleeping for 27.49 seconds before request 28/166
+2025-04-23 07:59:41,431 [orange] INFO: 🚀 Sending request 28/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-13-128gb-5g for BN2007979
+2025-04-23 07:59:41,435 [orange] INFO: 📋 Response for BN2009606 | Status: 200 | Size: 341469 bytes
+2025-04-23 07:59:41,453 [orange] INFO: [27/166] BN2009606: 0.00 PLN | Outstock | 139 remaining
+2025-04-23 07:59:43,446 [orange] INFO: 😴 Sleeping for 30.32 seconds before request 29/166
+2025-04-23 08:00:13,777 [orange] INFO: 🚀 Sending request 29/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-14-128gb-5g for BN2008517
+2025-04-23 08:00:13,777 [orange] INFO: 📋 Response for BN2007979 | Status: 200 | Size: 379211 bytes
+2025-04-23 08:00:13,818 [orange] INFO: [28/166] BN2007979: 0.00 PLN | Outstock | 138 remaining
+2025-04-23 08:00:15,892 [orange] INFO: 😴 Sleeping for 30.87 seconds before request 30/166
+2025-04-23 08:00:46,782 [orange] INFO: 🚀 Sending request 30/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-14-512gb-5g for BN2008519
+2025-04-23 08:00:46,785 [orange] INFO: 📋 Response for BN2008517 | Status: 200 | Size: 376095 bytes
+2025-04-23 08:00:46,809 [orange] INFO: [29/166] BN2008517: 3899.00 PLN | Instock | 137 remaining
+2025-04-23 08:00:49,021 [orange] INFO: 😴 Sleeping for 29.98 seconds before request 31/166
+2025-04-23 08:01:19,010 [orange] INFO: 🚀 Sending request 31/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-15-128gb-5g for BN2009133
+2025-04-23 08:01:19,012 [orange] INFO: 📋 Response for BN2008519 | Status: 200 | Size: 371148 bytes
+2025-04-23 08:01:19,035 [orange] INFO: [30/166] BN2008519: 0.00 PLN | Outstock | 136 remaining
+2025-04-23 08:01:21,291 [orange] INFO: 😴 Sleeping for 33.73 seconds before request 32/166
+2025-04-23 08:01:55,032 [orange] INFO: 🚀 Sending request 32/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-15-256gb-5g for BN2009142
+2025-04-23 08:01:55,041 [orange] INFO: 📋 Response for BN2009133 | Status: 200 | Size: 384794 bytes
+2025-04-23 08:01:55,070 [orange] INFO: [31/166] BN2009133: 3999.00 PLN | Instock | 135 remaining
+2025-04-23 08:01:57,303 [orange] INFO: 😴 Sleeping for 30.63 seconds before request 33/166
+2025-04-23 08:02:27,939 [orange] INFO: 🚀 Sending request 33/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-15-512gb-5g for BN2009143
+2025-04-23 08:02:27,949 [orange] INFO: 📋 Response for BN2009142 | Status: 200 | Size: 382325 bytes
+2025-04-23 08:02:27,965 [orange] INFO: [32/166] BN2009142: 4599.00 PLN | Instock | 134 remaining
+2025-04-23 08:02:30,450 [orange] INFO: 😴 Sleeping for 33.43 seconds before request 34/166
+2025-04-23 08:03:03,902 [orange] INFO: 🚀 Sending request 34/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-15-plus-128gb-5g for BN2009134
+2025-04-23 08:03:03,906 [orange] INFO: 📋 Response for BN2009143 | Status: 200 | Size: 374174 bytes
+2025-04-23 08:03:03,932 [orange] INFO: [33/166] BN2009143: 0.00 PLN | Outstock | 133 remaining
+2025-04-23 08:03:06,497 [orange] INFO: 😴 Sleeping for 32.88 seconds before request 35/166
+2025-04-23 08:03:39,377 [orange] INFO: 🚀 Sending request 35/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-15-plus-256gb-5g for BN2009144
+2025-04-23 08:03:39,387 [orange] INFO: 📋 Response for BN2009134 | Status: 200 | Size: 377027 bytes
+2025-04-23 08:03:39,412 [orange] INFO: [34/166] BN2009134: 0.00 PLN | Outstock | 132 remaining
+2025-04-23 08:03:42,701 [orange] INFO: 😴 Sleeping for 33.68 seconds before request 36/166
+2025-04-23 08:04:16,393 [orange] INFO: 🚀 Sending request 36/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-15-plus-512gb-5g for BN2009145
+2025-04-23 08:04:16,393 [orange] INFO: 📋 Response for BN2009144 | Status: 200 | Size: 380915 bytes
+2025-04-23 08:04:16,425 [orange] INFO: [35/166] BN2009144: 0.00 PLN | Outstock | 131 remaining
+2025-04-23 08:04:18,662 [orange] INFO: 😴 Sleeping for 27.50 seconds before request 37/166
+2025-04-23 08:04:46,172 [orange] INFO: 🚀 Sending request 37/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-15-pro-128gb-5g for BN2009135
+2025-04-23 08:04:46,187 [orange] INFO: 📋 Response for BN2009145 | Status: 200 | Size: 369147 bytes
+2025-04-23 08:04:46,204 [orange] INFO: [36/166] BN2009145: 0.00 PLN | Outstock | 130 remaining
+2025-04-23 08:04:49,007 [orange] INFO: 😴 Sleeping for 34.43 seconds before request 38/166
+2025-04-23 08:05:23,444 [orange] INFO: 🚀 Sending request 38/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-15-pro-1tb-5g for BN2009148
+2025-04-23 08:05:23,689 [orange] INFO: 📋 Response for BN2009135 | Status: 200 | Size: 383419 bytes
+2025-04-23 08:05:23,744 [orange] INFO: [37/166] BN2009135: 0.00 PLN | Outstock | 129 remaining
+2025-04-23 08:05:26,258 [orange] INFO: 😴 Sleeping for 32.77 seconds before request 39/166
+2025-04-23 08:05:59,029 [orange] INFO: 🚀 Sending request 39/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-15-pro-256gb-5g for BN2009146
+2025-04-23 08:05:59,037 [orange] INFO: 📋 Response for BN2009148 | Status: 200 | Size: 369796 bytes
+2025-04-23 08:05:59,059 [orange] INFO: [38/166] BN2009148: 0.00 PLN | Outstock | 128 remaining
+2025-04-23 08:06:01,341 [orange] INFO: 😴 Sleeping for 25.10 seconds before request 40/166
+2025-04-23 08:06:26,455 [orange] INFO: 🚀 Sending request 40/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-15-pro-512gb-5g for BN2009147
+2025-04-23 08:06:26,455 [orange] INFO: 📋 Response for BN2009146 | Status: 200 | Size: 381106 bytes
+2025-04-23 08:06:26,488 [orange] INFO: [39/166] BN2009146: 0.00 PLN | Outstock | 127 remaining
+2025-04-23 08:06:28,910 [orange] INFO: 😴 Sleeping for 29.28 seconds before request 41/166
+2025-04-23 08:06:58,194 [orange] INFO: 🚀 Sending request 41/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-15-pro-max-1tb-5g for BN2009151
+2025-04-23 08:06:58,199 [orange] INFO: 📋 Response for BN2009147 | Status: 200 | Size: 380257 bytes
+2025-04-23 08:06:58,221 [orange] INFO: [40/166] BN2009147: 0.00 PLN | Outstock | 126 remaining
+2025-04-23 08:07:00,553 [orange] INFO: 😴 Sleeping for 25.32 seconds before request 42/166
+2025-04-23 08:07:25,885 [orange] INFO: 🚀 Sending request 42/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-15-pro-max-256gb-5g for BN2009136
+2025-04-23 08:07:25,888 [orange] INFO: 📋 Response for BN2009151 | Status: 200 | Size: 363969 bytes
+2025-04-23 08:07:25,910 [orange] INFO: [41/166] BN2009151: 0.00 PLN | Outstock | 125 remaining
+2025-04-23 08:07:28,166 [orange] INFO: 😴 Sleeping for 30.88 seconds before request 43/166
+2025-04-23 08:07:59,061 [orange] INFO: 🚀 Sending request 43/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-15-pro-max-512gb-5g for BN2009150
+2025-04-23 08:07:59,069 [orange] INFO: 📋 Response for BN2009136 | Status: 200 | Size: 386905 bytes
+2025-04-23 08:07:59,084 [orange] INFO: [42/166] BN2009136: 0.00 PLN | Outstock | 124 remaining
+2025-04-23 08:08:01,062 [orange] INFO: 😴 Sleeping for 32.55 seconds before request 44/166
+2025-04-23 08:08:33,627 [orange] INFO: 🚀 Sending request 44/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-16-128gb-5g for BN2009874
+2025-04-23 08:08:33,631 [orange] INFO: 📋 Response for BN2009150 | Status: 200 | Size: 385666 bytes
+2025-04-23 08:08:33,654 [orange] INFO: [43/166] BN2009150: 7703.00 PLN | Instock | 123 remaining
+2025-04-23 08:08:34,825 [orange] INFO: 😴 Sleeping for 29.28 seconds before request 45/166
+2025-04-23 08:09:04,125 [orange] INFO: 🚀 Sending request 45/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-16-256gb-5g for BN2009878
+2025-04-23 08:09:04,129 [orange] INFO: 📋 Response for BN2009874 | Status: 200 | Size: 395481 bytes
+2025-04-23 08:09:04,159 [orange] INFO: [44/166] BN2009874: 4099.00 PLN | Instock | 122 remaining
+2025-04-23 08:09:06,297 [orange] INFO: 😴 Sleeping for 26.95 seconds before request 46/166
+2025-04-23 08:09:33,259 [orange] INFO: 🚀 Sending request 46/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-16-512gb-5g for BN2009879
+2025-04-23 08:09:33,267 [orange] INFO: 📋 Response for BN2009878 | Status: 200 | Size: 382808 bytes
+2025-04-23 08:09:33,290 [orange] INFO: [45/166] BN2009878: 4849.00 PLN | Instock | 121 remaining
+2025-04-23 08:09:35,746 [orange] INFO: 😴 Sleeping for 32.60 seconds before request 47/166
+2025-04-23 08:10:08,370 [orange] INFO: 🚀 Sending request 47/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-16-plus-128gb-5g for BN2009875
+2025-04-23 08:10:08,374 [orange] INFO: 📋 Response for BN2009879 | Status: 200 | Size: 383061 bytes
+2025-04-23 08:10:08,407 [orange] INFO: [46/166] BN2009879: 5949.00 PLN | Instock | 120 remaining
+2025-04-23 08:10:10,882 [orange] INFO: 😴 Sleeping for 34.11 seconds before request 48/166
+2025-04-23 08:10:44,995 [orange] INFO: 🚀 Sending request 48/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-16-plus-256gb-5g for BN2009880
+2025-04-23 08:10:45,006 [orange] INFO: 📋 Response for BN2009875 | Status: 200 | Size: 387003 bytes
+2025-04-23 08:10:45,032 [orange] INFO: [47/166] BN2009875: 4799.00 PLN | Instock | 119 remaining
+2025-04-23 08:10:47,662 [orange] INFO: 😴 Sleeping for 30.81 seconds before request 49/166
+2025-04-23 08:11:18,489 [orange] INFO: 🚀 Sending request 49/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-16-plus-512gb-5g for BN2009881
+2025-04-23 08:11:18,504 [orange] INFO: 📋 Response for BN2009880 | Status: 200 | Size: 383676 bytes
+2025-04-23 08:11:18,635 [orange] INFO: [48/166] BN2009880: 5199.00 PLN | Instock | 118 remaining
+2025-04-23 08:11:19,717 [orange] INFO: 😴 Sleeping for 25.52 seconds before request 50/166
+2025-04-23 08:11:45,249 [orange] INFO: 🚀 Sending request 50/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-16-pro-128gb-5g for BN2009876
+2025-04-23 08:11:45,256 [orange] INFO: 📋 Response for BN2009881 | Status: 200 | Size: 386920 bytes
+2025-04-23 08:11:45,290 [orange] INFO: [49/166] BN2009881: 0.00 PLN | Outstock | 117 remaining
+2025-04-23 08:11:47,869 [orange] INFO: 😴 Sleeping for 30.61 seconds before request 51/166
+2025-04-23 08:12:18,486 [orange] INFO: 🚀 Sending request 51/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-16-pro-1tb-5g for BN2009884
+2025-04-23 08:12:18,490 [orange] INFO: 📋 Response for BN2009876 | Status: 200 | Size: 394071 bytes
+2025-04-23 08:12:18,527 [orange] INFO: [50/166] BN2009876: 5699.00 PLN | Instock | 116 remaining
+2025-04-23 08:12:19,702 [orange] INFO: 😴 Sleeping for 27.16 seconds before request 52/166
+2025-04-23 08:12:46,875 [orange] INFO: 🚀 Sending request 52/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-16-pro-256gb-5g for BN2009882
+2025-04-23 08:12:46,879 [orange] INFO: 📋 Response for BN2009884 | Status: 200 | Size: 377853 bytes
+2025-04-23 08:12:46,908 [orange] INFO: [51/166] BN2009884: 8299.00 PLN | Instock | 115 remaining
+2025-04-23 08:12:49,261 [orange] INFO: 😴 Sleeping for 26.28 seconds before request 53/166
+2025-04-23 08:13:15,568 [orange] INFO: 🚀 Sending request 53/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-16-pro-512gb-5g for BN2009883
+2025-04-23 08:13:15,571 [orange] INFO: 📋 Response for BN2009882 | Status: 200 | Size: 378769 bytes
+2025-04-23 08:13:15,596 [orange] INFO: [52/166] BN2009882: 6199.00 PLN | Instock | 114 remaining
+2025-04-23 08:13:16,766 [orange] INFO: 😴 Sleeping for 31.43 seconds before request 54/166
+2025-04-23 08:13:48,207 [orange] INFO: 🚀 Sending request 54/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-16-pro-max-1tb-5g for BN2009886
+2025-04-23 08:13:48,212 [orange] INFO: 📋 Response for BN2009883 | Status: 200 | Size: 377929 bytes
+2025-04-23 08:13:48,244 [orange] INFO: [53/166] BN2009883: 7249.00 PLN | Instock | 113 remaining
+2025-04-23 08:13:50,467 [orange] INFO: 😴 Sleeping for 33.19 seconds before request 55/166
+2025-04-23 08:14:23,677 [orange] INFO: 🚀 Sending request 55/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-16-pro-max-256gb-5g for BN2009877
+2025-04-23 08:14:23,679 [orange] INFO: 📋 Response for BN2009886 | Status: 200 | Size: 380418 bytes
+2025-04-23 08:14:23,707 [orange] INFO: [54/166] BN2009886: 0.00 PLN | Outstock | 112 remaining
+2025-04-23 08:14:25,179 [orange] INFO: 😴 Sleeping for 26.09 seconds before request 56/166
+2025-04-23 08:14:51,271 [orange] INFO: 🚀 Sending request 56/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-16-pro-max-512gb-5g for BN2009885
+2025-04-23 08:14:51,271 [orange] INFO: 📋 Response for BN2009877 | Status: 200 | Size: 395430 bytes
+2025-04-23 08:14:51,309 [orange] INFO: [55/166] BN2009877: 6299.00 PLN | Instock | 111 remaining
+2025-04-23 08:14:53,387 [orange] INFO: 😴 Sleeping for 25.35 seconds before request 57/166
+2025-04-23 08:15:18,746 [orange] INFO: 🚀 Sending request 57/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-16e-128gb-5g for BN2010109
+2025-04-23 08:15:18,748 [orange] INFO: 📋 Response for BN2009885 | Status: 200 | Size: 390230 bytes
+2025-04-23 08:15:18,779 [orange] INFO: [56/166] BN2009885: 7799.00 PLN | Instock | 110 remaining
+2025-04-23 08:15:21,190 [orange] INFO: 😴 Sleeping for 31.83 seconds before request 58/166
+2025-04-23 08:15:53,034 [orange] INFO: 🚀 Sending request 58/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-16e-256gb-5g for BN2010110
+2025-04-23 08:15:53,038 [orange] INFO: 📋 Response for BN2010109 | Status: 200 | Size: 381090 bytes
+2025-04-23 08:15:53,061 [orange] INFO: [57/166] BN2010109: 3211.00 PLN | Instock | 109 remaining
+2025-04-23 08:15:55,109 [orange] INFO: 😴 Sleeping for 30.07 seconds before request 59/166
+2025-04-23 08:16:25,187 [orange] INFO: 🚀 Sending request 59/166 to https://www.orange.pl/esklep/smartfony/apple/iphone-16e-512gb-5g for BN2010108
+2025-04-23 08:16:25,194 [orange] INFO: 📋 Response for BN2010110 | Status: 200 | Size: 367839 bytes
+2025-04-23 08:16:25,223 [orange] INFO: [58/166] BN2010110: 3699.00 PLN | Instock | 108 remaining
+2025-04-23 08:16:27,486 [orange] INFO: 😴 Sleeping for 34.69 seconds before request 60/166
+2025-04-23 08:17:02,194 [orange] INFO: 🚀 Sending request 60/166 to https://www.orange.pl/esklep/smartwatche-i-smartbandy/apple/apple-watch-s9-gps---esim-(cellular)-45mm for BN2009138
+2025-04-23 08:17:02,203 [orange] INFO: 📋 Response for BN2010108 | Status: 200 | Size: 373359 bytes
+2025-04-23 08:17:02,230 [orange] INFO: [59/166] BN2010108: 4799.00 PLN | Instock | 107 remaining
+2025-04-23 08:17:04,646 [orange] INFO: 😴 Sleeping for 31.33 seconds before request 61/166
+2025-04-23 08:17:35,981 [orange] INFO: 🚀 Sending request 61/166 to https://www.orange.pl/esklep/smartwatche-i-smartbandy/apple/apple-watch-s10-gps---esim-(cellular)-42mm for BN2009903
+2025-04-23 08:17:35,991 [orange] INFO: 📋 Response for BN2009138 | Status: 200 | Size: 354518 bytes
+2025-04-23 08:17:36,017 [orange] INFO: [60/166] BN2009138: 0.00 PLN | Outstock | 106 remaining
+2025-04-23 08:17:38,443 [orange] INFO: 😴 Sleeping for 32.37 seconds before request 62/166
+2025-04-23 08:18:10,834 [orange] INFO: 🚀 Sending request 62/166 to https://www.orange.pl/esklep/smartwatche-i-smartbandy/apple/apple-watch-s10-gps---esim-(cellular)-46mm?q=sponsored for BN2009905
+2025-04-23 08:18:10,834 [orange] INFO: 📋 Response for BN2009903 | Status: 200 | Size: 351973 bytes
+2025-04-23 08:18:10,866 [orange] INFO: [61/166] BN2009903: 2599.00 PLN | Instock | 105 remaining
+2025-04-23 08:18:12,352 [orange] INFO: 😴 Sleeping for 33.57 seconds before request 63/166
+2025-04-23 08:18:45,942 [orange] INFO: 🚀 Sending request 63/166 to https://www.orange.pl/esklep/smartwatche-i-smartbandy/apple/apple-watch-ultra-2-gps---esim-(cellular)-49mm for BN2009137
+2025-04-23 08:18:45,944 [orange] INFO: 📋 Response for BN2009905 | Status: 200 | Size: 365053 bytes
+2025-04-23 08:18:45,974 [orange] INFO: [62/166] BN2009905: 2799.00 PLN | Instock | 104 remaining
+2025-04-23 08:18:48,707 [orange] INFO: 😴 Sleeping for 34.38 seconds before request 64/166
+2025-04-23 08:19:23,107 [orange] INFO: 🚀 Sending request 64/166 to https://www.orange.pl/esklep/smartwatche-i-smartbandy/garmin/garmin-fenix-7x-pro-solar for AN00000195
+2025-04-23 08:19:23,111 [orange] INFO: 📋 Response for BN2009137 | Status: 200 | Size: 402827 bytes
+2025-04-23 08:19:23,144 [orange] INFO: [63/166] BN2009137: 0.00 PLN | Outstock | 103 remaining
+2025-04-23 08:19:24,286 [orange] INFO: 😴 Sleeping for 30.72 seconds before request 65/166
+2025-04-23 08:19:55,026 [orange] INFO: 🚀 Sending request 65/166 to https://www.orange.pl/esklep/smartwatche-i-smartbandy/garmin/garmin-venu-3s for AN00000194
+2025-04-23 08:19:55,032 [orange] INFO: 📋 Response for AN00000195 | Status: 200 | Size: 335651 bytes
+2025-04-23 08:19:55,066 [orange] INFO: [64/166] AN00000195: 3999.00 PLN | Instock | 102 remaining
+2025-04-23 08:19:57,413 [orange] INFO: 😴 Sleeping for 33.85 seconds before request 66/166
+2025-04-23 08:20:31,278 [orange] INFO: 🚀 Sending request 66/166 to https://www.orange.pl/esklep/smartfony/honor/honor-200-5g-8-256gb for BN2009390
+2025-04-23 08:20:31,278 [orange] INFO: 📋 Response for AN00000194 | Status: 200 | Size: 325708 bytes
+2025-04-23 08:20:31,308 [orange] INFO: [65/166] AN00000194: 1899.00 PLN | Instock | 101 remaining
+2025-04-23 08:20:33,646 [orange] INFO: 😴 Sleeping for 33.84 seconds before request 67/166
+2025-04-23 08:21:07,515 [orange] INFO: 🚀 Sending request 67/166 to https://www.orange.pl/esklep/smartfony/honor/honor-200-lite-5g-8-256gb for BN2009284
+2025-04-23 08:21:07,518 [orange] INFO: 📋 Response for BN2009390 | Status: 200 | Size: 369002 bytes
+2025-04-23 08:21:07,545 [orange] INFO: [66/166] BN2009390: 0.00 PLN | Outstock | 100 remaining
+2025-04-23 08:21:09,772 [orange] INFO: 😴 Sleeping for 30.47 seconds before request 68/166
+2025-04-23 08:21:40,269 [orange] INFO: 🚀 Sending request 68/166 to https://www.orange.pl/esklep/smartfony/honor/honor-90-5g-256gb?withExistingAccount=false for BN2008841
+2025-04-23 08:21:40,274 [orange] INFO: 📋 Response for BN2009284 | Status: 200 | Size: 351380 bytes
+2025-04-23 08:21:40,300 [orange] INFO: [67/166] BN2009284: 1499.00 PLN | Instock | 99 remaining
+2025-04-23 08:21:42,860 [orange] INFO: 😴 Sleeping for 30.45 seconds before request 69/166
+2025-04-23 08:22:13,330 [orange] INFO: 🚀 Sending request 69/166 to https://www.orange.pl/esklep/smartfony/honor/honor-90-lite-5g-256gb for BN2008843
+2025-04-23 08:22:13,330 [orange] INFO: 📋 Response for BN2008841 | Status: 200 | Size: 360893 bytes
+2025-04-23 08:22:13,343 [orange] INFO: [68/166] BN2008841: 0.00 PLN | Outstock | 98 remaining
+2025-04-23 08:22:15,535 [orange] INFO: 😴 Sleeping for 27.55 seconds before request 70/166
+2025-04-23 08:22:43,109 [orange] INFO: 🚀 Sending request 70/166 to https://www.orange.pl/esklep/smartfony/honor/honor-90-smart-5g-4-128gb for BN2009311
+2025-04-23 08:22:43,115 [orange] INFO: 📋 Response for BN2008843 | Status: 200 | Size: 353765 bytes
+2025-04-23 08:22:43,122 [orange] INFO: [69/166] BN2008843: 0.00 PLN | Outstock | 97 remaining
+2025-04-23 08:22:45,295 [orange] INFO: 😴 Sleeping for 27.42 seconds before request 71/166
+2025-04-23 08:23:12,728 [orange] INFO: 🚀 Sending request 71/166 to https://www.orange.pl/esklep/smartfony/honor/honor-magic-v3-5g-12-512gb for BN2009429
+2025-04-23 08:23:12,729 [orange] INFO: 📋 Response for BN2009311 | Status: 200 | Size: 372586 bytes
+2025-04-23 08:23:12,762 [orange] INFO: [70/166] BN2009311: 749.00 PLN | Instock | 96 remaining
+2025-04-23 08:23:14,968 [orange] INFO: 😴 Sleeping for 33.23 seconds before request 72/166
+2025-04-23 08:23:48,209 [orange] INFO: 🚀 Sending request 72/166 to https://www.orange.pl/esklep/smartfony/honor/honor-magic6-lite-5g-8-256gb for BN2009095
+2025-04-23 08:23:48,209 [orange] INFO: 📋 Response for BN2009429 | Status: 200 | Size: 369116 bytes
+2025-04-23 08:23:48,240 [orange] INFO: [71/166] BN2009429: 8539.00 PLN | Instock | 95 remaining
+2025-04-23 08:23:50,442 [orange] INFO: 😴 Sleeping for 26.36 seconds before request 73/166
+2025-04-23 08:24:16,801 [orange] INFO: 🚀 Sending request 73/166 to https://www.orange.pl/esklep/smartfony/honor/honor-magic-v2-5g-16-512gb for BN2009096
+2025-04-23 08:24:16,817 [orange] INFO: 📋 Response for BN2009095 | Status: 200 | Size: 375890 bytes
+2025-04-23 08:24:16,841 [orange] INFO: [72/166] BN2009095: 0.00 PLN | Outstock | 94 remaining
+2025-04-23 08:24:19,548 [orange] INFO: 😴 Sleeping for 34.10 seconds before request 74/166
+2025-04-23 08:24:53,676 [orange] INFO: 🚀 Sending request 74/166 to https://www.orange.pl/esklep/smartfony/honor/honor-magic6-pro-5g-12-512gb--adowarka-100w for BN2009097
+2025-04-23 08:24:53,680 [orange] INFO: 📋 Response for BN2009096 | Status: 200 | Size: 382827 bytes
+2025-04-23 08:24:53,702 [orange] INFO: [73/166] BN2009096: 0.00 PLN | Outstock | 93 remaining
+2025-04-23 08:24:55,879 [orange] INFO: 😴 Sleeping for 29.88 seconds before request 75/166
+2025-04-23 08:25:25,774 [orange] INFO: 🚀 Sending request 75/166 to https://www.orange.pl/esklep/smartwatche-i-smartbandy/huawei/huawei-watch-gt-5-41mm-elegant for AN00000223
+2025-04-23 08:25:25,777 [orange] INFO: 📋 Response for BN2009097 | Status: 200 | Size: 378015 bytes
+2025-04-23 08:25:25,799 [orange] INFO: [74/166] BN2009097: 0.00 PLN | Outstock | 92 remaining
+2025-04-23 08:25:27,758 [orange] INFO: 😴 Sleeping for 32.03 seconds before request 76/166
+2025-04-23 08:25:59,799 [orange] INFO: 🚀 Sending request 76/166 to https://www.orange.pl/esklep/smartwatche-i-smartbandy/huawei/huawei-watch-gt-5-46mm-active for AN00000225
+2025-04-23 08:25:59,810 [orange] INFO: 📋 Response for AN00000223 | Status: 200 | Size: 304510 bytes
+2025-04-23 08:25:59,831 [orange] INFO: [75/166] AN00000223: 1299.00 PLN | Instock | 91 remaining
+2025-04-23 08:26:02,080 [orange] INFO: 😴 Sleeping for 34.99 seconds before request 77/166
+2025-04-23 08:26:37,076 [orange] INFO: 🚀 Sending request 77/166 to https://www.orange.pl/esklep/smartwatche-i-smartbandy/huawei/huawei-watch-gt-5-pro-46mm-elite for AN00000227
+2025-04-23 08:26:37,081 [orange] INFO: 📋 Response for AN00000225 | Status: 200 | Size: 309371 bytes
+2025-04-23 08:26:37,101 [orange] INFO: [76/166] AN00000225: 1099.00 PLN | Instock | 90 remaining
+2025-04-23 08:26:39,136 [orange] INFO: 😴 Sleeping for 34.46 seconds before request 78/166
+2025-04-23 08:27:13,616 [orange] INFO: 🚀 Sending request 78/166 to https://www.orange.pl/esklep/smartfony/motorola/motorola-edge-40-neo-5g-12-256gb for BN2008969
+2025-04-23 08:27:13,619 [orange] INFO: 📋 Response for AN00000227 | Status: 200 | Size: 328310 bytes
+2025-04-23 08:27:13,646 [orange] INFO: [77/166] AN00000227: 1999.00 PLN | Instock | 89 remaining
+2025-04-23 08:27:15,994 [orange] INFO: 😴 Sleeping for 33.54 seconds before request 79/166
+2025-04-23 08:27:49,542 [orange] INFO: 🚀 Sending request 79/166 to https://www.orange.pl/esklep/smartfony/motorola/motorola-edge-50-neo-5g-12-512-gb for BN2009433
+2025-04-23 08:27:49,557 [orange] INFO: 📋 Response for BN2008969 | Status: 200 | Size: 379587 bytes
+2025-04-23 08:27:49,585 [orange] INFO: [78/166] BN2008969: 1499.00 PLN | Instock | 88 remaining
+2025-04-23 08:27:52,054 [orange] INFO: 😴 Sleeping for 29.51 seconds before request 80/166
+2025-04-23 08:28:21,576 [orange] INFO: 🚀 Sending request 80/166 to https://www.orange.pl/esklep/smartfony/motorola/motorola-edge-50-pro-5g-12-512gb for BN2009287
+2025-04-23 08:28:21,576 [orange] INFO: 📋 Response for BN2009433 | Status: 200 | Size: 395173 bytes
+2025-04-23 08:28:21,608 [orange] INFO: [79/166] BN2009433: 1999.00 PLN | Instock | 87 remaining
+2025-04-23 08:28:24,115 [orange] INFO: 😴 Sleeping for 29.61 seconds before request 81/166
+2025-04-23 08:28:53,737 [orange] INFO: 🚀 Sending request 81/166 to https://www.orange.pl/esklep/smartfony/motorola/motorola-moto-g04-8-128gb for BN2009565
+2025-04-23 08:28:53,737 [orange] INFO: 📋 Response for BN2009287 | Status: 200 | Size: 376529 bytes
+2025-04-23 08:28:53,775 [orange] INFO: [80/166] BN2009287: 2311.00 PLN | Instock | 86 remaining
+2025-04-23 08:28:55,850 [orange] INFO: 😴 Sleeping for 25.14 seconds before request 82/166
+2025-04-23 08:29:21,016 [orange] INFO: 🚀 Sending request 82/166 to https://www.orange.pl/esklep/smartfony/motorola/motorola-moto-g34-5g-8-128gb for BN2009461
+2025-04-23 08:29:21,021 [orange] INFO: 📋 Response for BN2009565 | Status: 200 | Size: 381524 bytes
+2025-04-23 08:29:21,028 [orange] INFO: [81/166] BN2009565: 0.00 PLN | Outstock | 85 remaining
+2025-04-23 08:29:23,272 [orange] INFO: 😴 Sleeping for 31.81 seconds before request 83/166
+2025-04-23 08:29:55,111 [orange] INFO: 🚀 Sending request 83/166 to https://www.orange.pl/esklep/smartfony/motorola/motorola-moto-g54-5g-power-edition-12-256-gb for BN2009223
+2025-04-23 08:29:55,119 [orange] INFO: 📋 Response for BN2009461 | Status: 200 | Size: 376702 bytes
+2025-04-23 08:29:55,128 [orange] INFO: [82/166] BN2009461: 0.00 PLN | Outstock | 84 remaining
+2025-04-23 08:29:57,067 [orange] INFO: 😴 Sleeping for 29.82 seconds before request 84/166
+2025-04-23 08:30:26,889 [orange] INFO: 🚀 Sending request 84/166 to https://www.orange.pl/esklep/smartfony/motorola/motorola-moto-g55-5g-special-edition-12-256-gb for BN2010029
+2025-04-23 08:30:26,889 [orange] INFO: 📋 Response for BN2009223 | Status: 200 | Size: 386481 bytes
+2025-04-23 08:30:26,936 [orange] INFO: [83/166] BN2009223: 0.00 PLN | Outstock | 83 remaining
+2025-04-23 08:30:29,224 [orange] INFO: 😴 Sleeping for 34.73 seconds before request 85/166
+2025-04-23 08:31:03,955 [orange] INFO: 🚀 Sending request 85/166 to https://www.orange.pl/esklep/smartfony/motorola/motorola-moto-g85-5g-12-256gb for BN2009289
+2025-04-23 08:31:03,972 [orange] INFO: 📋 Response for BN2010029 | Status: 200 | Size: 373399 bytes
+2025-04-23 08:31:03,994 [orange] INFO: [84/166] BN2010029: 1399.00 PLN | Instock | 82 remaining
+2025-04-23 08:31:06,616 [orange] INFO: 😴 Sleeping for 28.79 seconds before request 86/166
+2025-04-23 08:31:35,415 [orange] INFO: 🚀 Sending request 86/166 to https://www.orange.pl/esklep/smartfony/Motorola/Motorola-edge-60-fusion-5G-8-256GB for AN00000256
+2025-04-23 08:31:35,420 [orange] INFO: 📋 Response for BN2009289 | Status: 200 | Size: 384281 bytes
+2025-04-23 08:31:35,441 [orange] INFO: [85/166] BN2009289: 0.00 PLN | Outstock | 81 remaining
+2025-04-23 08:31:36,540 [orange] INFO: 😴 Sleeping for 31.28 seconds before request 87/166
+2025-04-23 08:32:07,831 [orange] INFO: 🚀 Sending request 87/166 to https://www.orange.pl/esklep/smartfony/motorola/motorola-razr-50-5g-8-256gb for BN2009286
+2025-04-23 08:32:07,840 [orange] INFO: 📋 Response for AN00000256 | Status: 200 | Size: 345835 bytes
+2025-04-23 08:32:07,864 [orange] INFO: [86/166] AN00000256: 1599.00 PLN | Instock | 80 remaining
+2025-04-23 08:32:10,416 [orange] INFO: 😴 Sleeping for 32.82 seconds before request 88/166
+2025-04-23 08:32:43,252 [orange] INFO: 🚀 Sending request 88/166 to https://www.orange.pl/esklep/smartfony/motorola/motorola-razr-50-ultra-5g-12-512gb for BN2009285
+2025-04-23 08:32:43,252 [orange] INFO: 📋 Response for BN2009286 | Status: 200 | Size: 370817 bytes
+2025-04-23 08:32:43,283 [orange] INFO: [87/166] BN2009286: 0.00 PLN | Outstock | 79 remaining
+2025-04-23 08:32:45,554 [orange] INFO: 😴 Sleeping for 30.60 seconds before request 89/166
+2025-04-23 08:33:16,167 [orange] INFO: 🚀 Sending request 89/166 to https://www.orange.pl/esklep/smartwatche-i-smartbandy/maxcom/maxcom-smartwatch-fw58-vanad-pro for AN00000186
+2025-04-23 08:33:16,172 [orange] INFO: 📋 Response for BN2009285 | Status: 200 | Size: 393276 bytes
+2025-04-23 08:33:16,198 [orange] INFO: [88/166] BN2009285: 3899.00 PLN | Instock | 78 remaining
+2025-04-23 08:33:17,287 [orange] INFO: 😴 Sleeping for 34.09 seconds before request 90/166
+2025-04-23 08:33:51,392 [orange] INFO: 🚀 Sending request 90/166 to https://www.orange.pl/esklep/telefony-komorkowe/maxcom/maxcom-comfort-mm724 for BN2007637
+2025-04-23 08:33:51,397 [orange] INFO: 📋 Response for AN00000186 | Status: 200 | Size: 318735 bytes
+2025-04-23 08:33:51,419 [orange] INFO: [89/166] AN00000186: 449.00 PLN | Instock | 77 remaining
+2025-04-23 08:33:52,481 [orange] INFO: 😴 Sleeping for 30.19 seconds before request 91/166
+2025-04-23 08:34:22,672 [orange] INFO: 🚀 Sending request 91/166 to https://www.orange.pl/esklep/laptopy-i-konsole/inny/konsola-xbox-series-x---dodatkowy-kontroler for AN00000069
+2025-04-23 08:34:22,680 [orange] INFO: 📋 Response for BN2007637 | Status: 200 | Size: 302357 bytes
+2025-04-23 08:34:22,704 [orange] INFO: [90/166] BN2007637: 339.00 PLN | Instock | 76 remaining
+2025-04-23 08:34:24,638 [orange] INFO: 😴 Sleeping for 25.61 seconds before request 92/166
+2025-04-23 08:34:50,253 [orange] INFO: 🚀 Sending request 92/166 to https://www.orange.pl/esklep/laptopy-i-konsole/msi/kontroler-przewodowy-msi-force-gc20-v2-pad-do-konsoli-i-komputera for AN00000057
+2025-04-23 08:34:50,264 [orange] INFO: 📋 Response for AN00000069 | Status: 200 | Size: 314976 bytes
+2025-04-23 08:34:50,300 [orange] INFO: [91/166] AN00000069: 0.00 PLN | Outstock | 75 remaining
+2025-04-23 08:34:52,261 [orange] INFO: 😴 Sleeping for 33.03 seconds before request 93/166
+2025-04-23 08:35:25,305 [orange] INFO: 🚀 Sending request 93/166 to https://www.orange.pl/esklep/smartfony/hammer/hammer-construction for BN2008952
+2025-04-23 08:35:25,320 [orange] INFO: 📋 Response for AN00000057 | Status: 200 | Size: 300956 bytes
+2025-04-23 08:35:25,337 [orange] INFO: [92/166] AN00000057: 159.00 PLN | Instock | 74 remaining
+2025-04-23 08:35:27,586 [orange] INFO: 😴 Sleeping for 29.34 seconds before request 94/166
+2025-04-23 08:35:56,944 [orange] INFO: 🚀 Sending request 94/166 to https://www.orange.pl/esklep/smartfony/hammer/hammer-energy-x for BN2009370
+2025-04-23 08:35:56,949 [orange] INFO: 📋 Response for BN2008952 | Status: 200 | Size: 371392 bytes
+2025-04-23 08:35:56,988 [orange] INFO: [93/166] BN2008952: 1499.00 PLN | Instock | 73 remaining
+2025-04-23 08:35:59,386 [orange] INFO: 😴 Sleeping for 31.12 seconds before request 95/166
+2025-04-23 08:36:30,509 [orange] INFO: 🚀 Sending request 95/166 to https://www.orange.pl/esklep/smartfony/oppo/oppo-a38-4-128-gb for BN2008963
+2025-04-23 08:36:30,533 [orange] INFO: 📋 Response for BN2009370 | Status: 200 | Size: 366046 bytes
+2025-04-23 08:36:30,557 [orange] INFO: [94/166] BN2009370: 799.00 PLN | Instock | 72 remaining
+2025-04-23 08:36:31,749 [orange] INFO: 😴 Sleeping for 31.49 seconds before request 96/166
+2025-04-23 08:37:03,249 [orange] INFO: 🚀 Sending request 96/166 to https://www.orange.pl/esklep/smartfony/oppo/oppo-a60-5g-4-128-gb-ds?typ-oferty=SIMFREE_INST&productFilterUid=simfreeInstOfferFilterNUX&typ-procesu=INSTALMENT_SALES_OF_GOODS&dlugosc-umowy=0&id-oferty=TANTO_B2C_249411$MOB_CPO_7051_5721_AC_249411&withExistingAccount=false for BN2009360
+2025-04-23 08:37:03,249 [orange] INFO: 📋 Response for BN2008963 | Status: 200 | Size: 355460 bytes
+2025-04-23 08:37:03,300 [orange] INFO: [95/166] BN2008963: 699.00 PLN | Instock | 71 remaining
+2025-04-23 08:37:04,426 [orange] INFO: 😴 Sleeping for 27.67 seconds before request 97/166
+2025-04-23 08:37:32,105 [orange] INFO: 🚀 Sending request 97/166 to https://www.orange.pl/esklep/smartfony/oppo/oppo-a79-5g-8-256-gb-ds for BN2009053
+2025-04-23 08:37:32,119 [orange] INFO: 📋 Response for BN2009360 | Status: 200 | Size: 378679 bytes
+2025-04-23 08:37:32,153 [orange] INFO: [96/166] BN2009360: 699.00 PLN | Instock | 70 remaining
+2025-04-23 08:37:32,966 [orange] INFO: 😴 Sleeping for 32.50 seconds before request 98/166
+2025-04-23 08:38:05,468 [orange] INFO: 🚀 Sending request 98/166 to https://www.orange.pl/esklep/smartfony/oppo/oppo-a80-5g-8-256-gb for BN2009426
+2025-04-23 08:38:05,468 [orange] INFO: 📋 Response for BN2009053 | Status: 200 | Size: 379516 bytes
+2025-04-23 08:38:05,516 [orange] INFO: [97/166] BN2009053: 0.00 PLN | Outstock | 69 remaining
+2025-04-23 08:38:07,395 [orange] INFO: 😴 Sleeping for 33.92 seconds before request 99/166
+2025-04-23 08:38:41,329 [orange] INFO: 🚀 Sending request 99/166 to https://www.orange.pl/esklep/smartfony/oppo/oppo-a98-5g-8-256-gb for BN2008915
+2025-04-23 08:38:41,329 [orange] INFO: 📋 Response for BN2009426 | Status: 200 | Size: 371936 bytes
+2025-04-23 08:38:41,364 [orange] INFO: [98/166] BN2009426: 899.00 PLN | Instock | 68 remaining
+2025-04-23 08:38:43,957 [orange] INFO: 😴 Sleeping for 33.88 seconds before request 100/166
+2025-04-23 08:39:17,849 [orange] INFO: 🚀 Sending request 100/166 to https://www.orange.pl/esklep/smartfony/oppo/oppo-find-x8-pro-5g-16-512-gb for AN00000243
+2025-04-23 08:39:17,852 [orange] INFO: 📋 Response for BN2008915 | Status: 200 | Size: 375378 bytes
+2025-04-23 08:39:17,877 [orange] INFO: [99/166] BN2008915: 0.00 PLN | Outstock | 67 remaining
+2025-04-23 08:39:20,803 [orange] INFO: 😴 Sleeping for 32.79 seconds before request 101/166
+2025-04-23 08:39:53,622 [orange] INFO: 🚀 Sending request 101/166 to https://www.orange.pl/esklep/smartfony/oppo/oppo-reno10-5g-8-256gb-ds for BN2008708
+2025-04-23 08:39:53,625 [orange] INFO: 📋 Response for AN00000243 | Status: 200 | Size: 372225 bytes
+2025-04-23 08:39:53,642 [orange] INFO: [100/166] AN00000243: 0.00 PLN | Outstock | 66 remaining
+2025-04-23 08:39:55,807 [orange] INFO: 😴 Sleeping for 31.87 seconds before request 102/166
+2025-04-23 08:40:27,684 [orange] INFO: 🚀 Sending request 102/166 to https://www.orange.pl/esklep/smartfony/oppo/oppo-reno10-pro-5g-12-256gb-ds for BN2008916
+2025-04-23 08:40:27,698 [orange] INFO: 📋 Response for BN2008708 | Status: 200 | Size: 366168 bytes
+2025-04-23 08:40:27,725 [orange] INFO: [101/166] BN2008708: 0.00 PLN | Outstock | 65 remaining
+2025-04-23 08:40:30,320 [orange] INFO: 😴 Sleeping for 26.33 seconds before request 103/166
+2025-04-23 08:40:56,665 [orange] INFO: 🚀 Sending request 103/166 to https://www.orange.pl/esklep/smartfony/oppo/oppo-reno11-f-5g-8-256-gb for BN2009104
+2025-04-23 08:40:56,674 [orange] INFO: 📋 Response for BN2008916 | Status: 200 | Size: 379537 bytes
+2025-04-23 08:40:56,696 [orange] INFO: [102/166] BN2008916: 0.00 PLN | Outstock | 64 remaining
+2025-04-23 08:40:58,943 [orange] INFO: 😴 Sleeping for 25.43 seconds before request 104/166
+2025-04-23 08:41:24,390 [orange] INFO: 🚀 Sending request 104/166 to https://www.orange.pl/esklep/smartfony/oppo/oppo-reno12-5g-12-256-gb-ds for BN2009427
+2025-04-23 08:41:24,392 [orange] INFO: 📋 Response for BN2009104 | Status: 200 | Size: 369797 bytes
+2025-04-23 08:41:24,414 [orange] INFO: [103/166] BN2009104: 0.00 PLN | Outstock | 63 remaining
+2025-04-23 08:41:27,133 [orange] INFO: 😴 Sleeping for 34.03 seconds before request 105/166
+2025-04-23 08:42:01,168 [orange] INFO: 🚀 Sending request 105/166 to https://www.orange.pl/esklep/smartfony/oppo/oppo-reno12-f-5g-8-256-gb-ds for BN2009428
+2025-04-23 08:42:01,172 [orange] INFO: 📋 Response for BN2009427 | Status: 200 | Size: 373234 bytes
+2025-04-23 08:42:01,195 [orange] INFO: [104/166] BN2009427: 0.00 PLN | Outstock | 62 remaining
+2025-04-23 08:42:03,390 [orange] INFO: 😴 Sleeping for 27.83 seconds before request 106/166
+2025-04-23 08:42:31,225 [orange] INFO: 🚀 Sending request 106/166 to https://www.orange.pl/esklep/smartfony/oppo/oppo-reno12-pro-5g-12-512-gb-ds for BN2009282
+2025-04-23 08:42:31,231 [orange] INFO: 📋 Response for BN2009428 | Status: 200 | Size: 357982 bytes
+2025-04-23 08:42:31,252 [orange] INFO: [105/166] BN2009428: 0.00 PLN | Outstock | 61 remaining
+2025-04-23 08:42:33,787 [orange] INFO: 😴 Sleeping for 34.67 seconds before request 107/166
+2025-04-23 08:43:08,468 [orange] INFO: 🚀 Sending request 107/166 to https://www.orange.pl/esklep/smartfony/realme/realme-gt-7-pro-5g-12-512gb for AN00000239
+2025-04-23 08:43:08,478 [orange] INFO: 📋 Response for BN2009282 | Status: 200 | Size: 369383 bytes
+2025-04-23 08:43:08,501 [orange] INFO: [106/166] BN2009282: 0.00 PLN | Outstock | 60 remaining
+2025-04-23 08:43:09,575 [orange] INFO: 😴 Sleeping for 31.43 seconds before request 108/166
+2025-04-23 08:43:41,026 [orange] INFO: 🚀 Sending request 108/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-a15-5g-4-128gb for BN2009106
+2025-04-23 08:43:41,032 [orange] INFO: 📋 Response for AN00000239 | Status: 200 | Size: 383518 bytes
+2025-04-23 08:43:41,061 [orange] INFO: [107/166] AN00000239: 0.00 PLN | Outstock | 59 remaining
+2025-04-23 08:43:42,176 [orange] INFO: 😴 Sleeping for 27.73 seconds before request 109/166
+2025-04-23 08:44:09,909 [orange] INFO: 🚀 Sending request 109/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-a16-5g-4-128-gb for BN2009662
+2025-04-23 08:44:09,919 [orange] INFO: 📋 Response for BN2009106 | Status: 200 | Size: 368577 bytes
+2025-04-23 08:44:09,946 [orange] INFO: [108/166] BN2009106: 0.00 PLN | Outstock | 58 remaining
+2025-04-23 08:44:12,074 [orange] INFO: 😴 Sleeping for 28.21 seconds before request 110/166
+2025-04-23 08:44:40,280 [orange] INFO: 🚀 Sending request 110/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-a25-5g-6-128gb for BN2008917
+2025-04-23 08:44:40,291 [orange] INFO: 📋 Response for BN2009662 | Status: 200 | Size: 374350 bytes
+2025-04-23 08:44:40,316 [orange] INFO: [109/166] BN2009662: 999.00 PLN | Instock | 57 remaining
+2025-04-23 08:44:41,445 [orange] INFO: 😴 Sleeping for 34.50 seconds before request 111/166
+2025-04-23 08:45:15,960 [orange] INFO: 🚀 Sending request 111/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-a35-5g-6-128gb for BN2009233
+2025-04-23 08:45:15,964 [orange] INFO: 📋 Response for BN2008917 | Status: 200 | Size: 386263 bytes
+2025-04-23 08:45:15,990 [orange] INFO: [110/166] BN2008917: 0.00 PLN | Outstock | 56 remaining
+2025-04-23 08:45:18,295 [orange] INFO: 😴 Sleeping for 25.65 seconds before request 112/166
+2025-04-23 08:45:43,961 [orange] INFO: 🚀 Sending request 112/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-a54-5g-128gb for BN2008677
+2025-04-23 08:45:43,978 [orange] INFO: 📋 Response for BN2009233 | Status: 200 | Size: 378503 bytes
+2025-04-23 08:45:44,000 [orange] INFO: [111/166] BN2009233: 0.00 PLN | Outstock | 55 remaining
+2025-04-23 08:45:46,604 [orange] INFO: 😴 Sleeping for 32.72 seconds before request 113/166
+2025-04-23 08:46:19,342 [orange] INFO: 🚀 Sending request 113/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-a55-5g-8-256gb for BN2009232
+2025-04-23 08:46:19,342 [orange] INFO: 📋 Response for BN2008677 | Status: 200 | Size: 399023 bytes
+2025-04-23 08:46:19,374 [orange] INFO: [112/166] BN2008677: 0.00 PLN | Outstock | 54 remaining
+2025-04-23 08:46:21,584 [orange] INFO: 😴 Sleeping for 25.81 seconds before request 114/166
+2025-04-23 08:46:47,415 [orange] INFO: 🚀 Sending request 114/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-s21-fe-5g-128gb for BN2007845
+2025-04-23 08:46:47,419 [orange] INFO: 📋 Response for BN2009232 | Status: 200 | Size: 390394 bytes
+2025-04-23 08:46:47,449 [orange] INFO: [113/166] BN2009232: 0.00 PLN | Outstock | 53 remaining
+2025-04-23 08:46:49,713 [orange] INFO: 😴 Sleeping for 33.17 seconds before request 115/166
+2025-04-23 08:47:22,909 [orange] INFO: 🚀 Sending request 115/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-s22-ultra-5g-128gb for BN2008084
+2025-04-23 08:47:22,924 [orange] INFO: 📋 Response for BN2007845 | Status: 200 | Size: 380917 bytes
+2025-04-23 08:47:22,948 [orange] INFO: [114/166] BN2007845: 0.00 PLN | Outstock | 52 remaining
+2025-04-23 08:47:25,826 [orange] INFO: 😴 Sleeping for 26.03 seconds before request 116/166
+2025-04-23 08:47:51,873 [orange] INFO: 🚀 Sending request 116/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-s23-fe-5g-8-128gb for BN2009085
+2025-04-23 08:47:51,881 [orange] INFO: 📋 Response for BN2008084 | Status: 200 | Size: 367555 bytes
+2025-04-23 08:47:51,905 [orange] INFO: [115/166] BN2008084: 0.00 PLN | Outstock | 51 remaining
+2025-04-23 08:47:54,134 [orange] INFO: 😴 Sleeping for 34.51 seconds before request 117/166
+2025-04-23 08:48:28,656 [orange] INFO: 🚀 Sending request 117/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-s24-5g-128gb for BN2009166
+2025-04-23 08:48:28,668 [orange] INFO: 📋 Response for BN2009085 | Status: 200 | Size: 414067 bytes
+2025-04-23 08:48:28,682 [orange] INFO: [116/166] BN2009085: 0.00 PLN | Outstock | 50 remaining
+2025-04-23 08:48:31,486 [orange] INFO: 😴 Sleeping for 32.95 seconds before request 118/166
+2025-04-23 08:49:04,442 [orange] INFO: 🚀 Sending request 118/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-s24-5g-256gb for BN2009167
+2025-04-23 08:49:04,447 [orange] INFO: 📋 Response for BN2009166 | Status: 200 | Size: 394130 bytes
+2025-04-23 08:49:04,486 [orange] INFO: [117/166] BN2009166: 3600.00 PLN | Instock | 49 remaining
+2025-04-23 08:49:06,757 [orange] INFO: 😴 Sleeping for 28.05 seconds before request 119/166
+2025-04-23 08:49:34,832 [orange] INFO: 🚀 Sending request 119/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-s24-fe-5g-8-128-gb for BN2009488
+2025-04-23 08:49:34,841 [orange] INFO: 📋 Response for BN2009167 | Status: 200 | Size: 389963 bytes
+2025-04-23 08:49:34,869 [orange] INFO: [118/166] BN2009167: 0.00 PLN | Outstock | 48 remaining
+2025-04-23 08:49:36,326 [orange] INFO: 😴 Sleeping for 33.11 seconds before request 120/166
+2025-04-23 08:50:09,457 [orange] INFO: 🚀 Sending request 120/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-s24-ultra-5g-1tb for BN2009173
+2025-04-23 08:50:09,464 [orange] INFO: 📋 Response for BN2009488 | Status: 200 | Size: 384793 bytes
+2025-04-23 08:50:09,498 [orange] INFO: [119/166] BN2009488: 2839.00 PLN | Instock | 47 remaining
+2025-04-23 08:50:11,762 [orange] INFO: 😴 Sleeping for 29.70 seconds before request 121/166
+2025-04-23 08:50:41,493 [orange] INFO: 🚀 Sending request 121/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-s24-ultra-5g-256gb for BN2009171
+2025-04-23 08:50:41,506 [orange] INFO: 📋 Response for BN2009173 | Status: 200 | Size: 398350 bytes
+2025-04-23 08:50:41,535 [orange] INFO: [120/166] BN2009173: 0.00 PLN | Outstock | 46 remaining
+2025-04-23 08:50:42,665 [orange] INFO: 😴 Sleeping for 25.11 seconds before request 122/166
+2025-04-23 08:51:07,789 [orange] INFO: 🚀 Sending request 122/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-s24-ultra-5g-512gb for BN2009172
+2025-04-23 08:51:07,794 [orange] INFO: 📋 Response for BN2009171 | Status: 200 | Size: 400561 bytes
+2025-04-23 08:51:07,826 [orange] INFO: [121/166] BN2009171: 5899.00 PLN | Instock | 45 remaining
+2025-04-23 08:51:08,938 [orange] INFO: 😴 Sleeping for 27.68 seconds before request 123/166
+2025-04-23 08:51:36,621 [orange] INFO: 🚀 Sending request 123/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-s24--5g-256gb for BN2009169
+2025-04-23 08:51:36,628 [orange] INFO: 📋 Response for BN2009172 | Status: 200 | Size: 396529 bytes
+2025-04-23 08:51:36,652 [orange] INFO: [122/166] BN2009172: 0.00 PLN | Outstock | 44 remaining
+2025-04-23 08:51:39,072 [orange] INFO: 😴 Sleeping for 26.51 seconds before request 124/166
+2025-04-23 08:52:05,588 [orange] INFO: 🚀 Sending request 124/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-s24--5g-512gb for BN2009170
+2025-04-23 08:52:05,591 [orange] INFO: 📋 Response for BN2009169 | Status: 200 | Size: 391100 bytes
+2025-04-23 08:52:05,616 [orange] INFO: [123/166] BN2009169: 4499.00 PLN | Instock | 43 remaining
+2025-04-23 08:52:08,106 [orange] INFO: 😴 Sleeping for 32.14 seconds before request 125/166
+2025-04-23 08:52:40,251 [orange] INFO: 🚀 Sending request 125/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-s25-5g-12-128-gb for BN2009796
+2025-04-23 08:52:40,259 [orange] INFO: 📋 Response for BN2009170 | Status: 200 | Size: 386211 bytes
+2025-04-23 08:52:40,282 [orange] INFO: [124/166] BN2009170: 5904.00 PLN | Instock | 42 remaining
+2025-04-23 08:52:42,762 [orange] INFO: 😴 Sleeping for 26.65 seconds before request 126/166
+2025-04-23 08:53:09,428 [orange] INFO: 🚀 Sending request 126/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-s25-5g-12-256-gb for BN2009900
+2025-04-23 08:53:09,435 [orange] INFO: 📋 Response for BN2009796 | Status: 200 | Size: 396539 bytes
+2025-04-23 08:53:09,462 [orange] INFO: [125/166] BN2009796: 3859.00 PLN | Instock | 41 remaining
+2025-04-23 08:53:11,890 [orange] INFO: 😴 Sleeping for 25.17 seconds before request 127/166
+2025-04-23 08:53:37,072 [orange] INFO: 🚀 Sending request 127/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-s25-5g-12-512-gb for BN2009849
+2025-04-23 08:53:37,081 [orange] INFO: 📋 Response for BN2009900 | Status: 200 | Size: 391186 bytes
+2025-04-23 08:53:37,110 [orange] INFO: [126/166] BN2009900: 4147.00 PLN | Instock | 40 remaining
+2025-04-23 08:53:39,319 [orange] INFO: 😴 Sleeping for 33.91 seconds before request 128/166
+2025-04-23 08:54:13,255 [orange] INFO: 🚀 Sending request 128/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-s25-ultra-5g-12-1-tb for BN2009851
+2025-04-23 08:54:13,257 [orange] INFO: 📋 Response for BN2009849 | Status: 200 | Size: 384994 bytes
+2025-04-23 08:54:13,276 [orange] INFO: [127/166] BN2009849: 4687.00 PLN | Instock | 39 remaining
+2025-04-23 08:54:15,449 [orange] INFO: 😴 Sleeping for 29.21 seconds before request 129/166
+2025-04-23 08:54:44,668 [orange] INFO: 🚀 Sending request 129/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-s25-ultra-5g-12-256-gb for BN2009798
+2025-04-23 08:54:44,680 [orange] INFO: 📋 Response for BN2009851 | Status: 200 | Size: 398364 bytes
+2025-04-23 08:54:44,702 [orange] INFO: [128/166] BN2009851: 7999.00 PLN | Instock | 38 remaining
+2025-04-23 08:54:46,925 [orange] INFO: 😴 Sleeping for 29.88 seconds before request 130/166
+2025-04-23 08:55:16,820 [orange] INFO: 🚀 Sending request 130/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-s25-ultra-5g-12-512-gb for BN2009852
+2025-04-23 08:55:16,826 [orange] INFO: 📋 Response for BN2009798 | Status: 200 | Size: 406510 bytes
+2025-04-23 08:55:16,854 [orange] INFO: [129/166] BN2009798: 6271.00 PLN | Instock | 37 remaining
+2025-04-23 08:55:18,022 [orange] INFO: 😴 Sleeping for 29.69 seconds before request 131/166
+2025-04-23 08:55:47,732 [orange] INFO: 🚀 Sending request 131/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-s25--5g-12-256-gb for BN2009797
+2025-04-23 08:55:47,740 [orange] INFO: 📋 Response for BN2009852 | Status: 200 | Size: 407448 bytes
+2025-04-23 08:55:47,782 [orange] INFO: [130/166] BN2009852: 6883.00 PLN | Instock | 36 remaining
+2025-04-23 08:55:48,953 [orange] INFO: 😴 Sleeping for 34.27 seconds before request 132/166
+2025-04-23 08:56:23,237 [orange] INFO: 🚀 Sending request 132/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-s25--5g-12-512-gb for BN2009850
+2025-04-23 08:56:23,237 [orange] INFO: 📋 Response for BN2009797 | Status: 200 | Size: 394755 bytes
+2025-04-23 08:56:23,272 [orange] INFO: [131/166] BN2009797: 5011.00 PLN | Instock | 35 remaining
+2025-04-23 08:56:25,782 [orange] INFO: 😴 Sleeping for 28.32 seconds before request 133/166
+2025-04-23 08:56:54,120 [orange] INFO: 🚀 Sending request 133/166 to https://www.orange.pl/esklep/tablety/samsung/samsung-galaxy-tab-s9-5g-8-128-gb-esim for BN2008929
+2025-04-23 08:56:54,132 [orange] INFO: 📋 Response for BN2009850 | Status: 200 | Size: 393759 bytes
+2025-04-23 08:56:54,168 [orange] INFO: [132/166] BN2009850: 5515.00 PLN | Instock | 34 remaining
+2025-04-23 08:56:56,383 [orange] INFO: 😴 Sleeping for 27.21 seconds before request 134/166
+2025-04-23 08:57:23,598 [orange] INFO: 🚀 Sending request 134/166 to https://www.orange.pl/esklep/tablety/samsung/samsung-galaxy-tab-s9-ultra-5g-12-256-gb-esim for BN2008925
+2025-04-23 08:57:23,598 [orange] INFO: 📋 Response for BN2008929 | Status: 200 | Size: 363988 bytes
+2025-04-23 08:57:23,638 [orange] INFO: [133/166] BN2008929: 4699.00 PLN | Instock | 33 remaining
+2025-04-23 08:57:24,830 [orange] INFO: 😴 Sleeping for 25.43 seconds before request 135/166
+2025-04-23 08:57:50,286 [orange] INFO: 🚀 Sending request 135/166 to https://www.orange.pl/esklep/smartwatche-i-smartbandy/samsung/samsung-galaxy-watch7-40mm-esim for BN2009406
+2025-04-23 08:57:50,292 [orange] INFO: 📋 Response for BN2008925 | Status: 200 | Size: 361333 bytes
+2025-04-23 08:57:50,316 [orange] INFO: [134/166] BN2008925: 0.00 PLN | Outstock | 32 remaining
+2025-04-23 08:57:52,376 [orange] INFO: 😴 Sleeping for 34.08 seconds before request 136/166
+2025-04-23 08:58:26,467 [orange] INFO: 🚀 Sending request 136/166 to https://www.orange.pl/esklep/smartwatche-i-smartbandy/samsung/samsung-galaxy-watch7-44mm-esim for BN2009404
+2025-04-23 08:58:26,471 [orange] INFO: 📋 Response for BN2009406 | Status: 200 | Size: 356301 bytes
+2025-04-23 08:58:26,494 [orange] INFO: [135/166] BN2009406: 1149.00 PLN | Instock | 31 remaining
+2025-04-23 08:58:28,802 [orange] INFO: 😴 Sleeping for 34.30 seconds before request 137/166
+2025-04-23 08:59:03,122 [orange] INFO: 🚀 Sending request 137/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-xcover7-5g-6-128gb for BN2009163
+2025-04-23 08:59:03,123 [orange] INFO: 📋 Response for BN2009404 | Status: 200 | Size: 346982 bytes
+2025-04-23 08:59:03,157 [orange] INFO: [136/166] BN2009404: 1199.00 PLN | Instock | 30 remaining
+2025-04-23 08:59:04,275 [orange] INFO: 😴 Sleeping for 26.88 seconds before request 138/166
+2025-04-23 08:59:31,181 [orange] INFO: 🚀 Sending request 138/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-z-flip5-5g-256gb for BN2008922
+2025-04-23 08:59:31,187 [orange] INFO: 📋 Response for BN2009163 | Status: 200 | Size: 342206 bytes
+2025-04-23 08:59:31,209 [orange] INFO: [137/166] BN2009163: 1599.00 PLN | Instock | 29 remaining
+2025-04-23 08:59:32,337 [orange] INFO: 😴 Sleeping for 31.46 seconds before request 139/166
+2025-04-23 09:00:03,814 [orange] INFO: 🚀 Sending request 139/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-z-flip6-5g-256gb for BN2009474
+2025-04-23 09:00:03,831 [orange] INFO: 📋 Response for BN2008922 | Status: 200 | Size: 397398 bytes
+2025-04-23 09:00:03,861 [orange] INFO: [138/166] BN2008922: 0.00 PLN | Outstock | 28 remaining
+2025-04-23 09:00:06,287 [orange] INFO: 😴 Sleeping for 26.41 seconds before request 140/166
+2025-04-23 09:00:32,723 [orange] INFO: 🚀 Sending request 140/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-z-flip6-5g-512gb for BN2009475
+2025-04-23 09:00:32,723 [orange] INFO: 📋 Response for BN2009474 | Status: 200 | Size: 404530 bytes
+2025-04-23 09:00:32,759 [orange] INFO: [139/166] BN2009474: 0.00 PLN | Outstock | 27 remaining
+2025-04-23 09:00:35,028 [orange] INFO: 😴 Sleeping for 25.37 seconds before request 141/166
+2025-04-23 09:01:00,408 [orange] INFO: 🚀 Sending request 141/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-z-fold6-5g-1tb for BN2009476
+2025-04-23 09:01:00,408 [orange] INFO: 📋 Response for BN2009475 | Status: 200 | Size: 396979 bytes
+2025-04-23 09:01:00,438 [orange] INFO: [140/166] BN2009475: 0.00 PLN | Outstock | 26 remaining
+2025-04-23 09:01:01,625 [orange] INFO: 😴 Sleeping for 26.47 seconds before request 142/166
+2025-04-23 09:01:28,111 [orange] INFO: 🚀 Sending request 142/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-z-fold6-5g-256gb for BN2009477
+2025-04-23 09:01:28,111 [orange] INFO: 📋 Response for BN2009476 | Status: 200 | Size: 398545 bytes
+2025-04-23 09:01:28,144 [orange] INFO: [141/166] BN2009476: 0.00 PLN | Outstock | 25 remaining
+2025-04-23 09:01:30,096 [orange] INFO: 😴 Sleeping for 30.72 seconds before request 143/166
+2025-04-23 09:02:00,829 [orange] INFO: 🚀 Sending request 143/166 to https://www.orange.pl/esklep/smartfony/samsung/samsung-galaxy-z-fold6-5g-512gb for BN2009478
+2025-04-23 09:02:00,835 [orange] INFO: 📋 Response for BN2009477 | Status: 200 | Size: 402557 bytes
+2025-04-23 09:02:00,864 [orange] INFO: [142/166] BN2009477: 7639.00 PLN | Instock | 24 remaining
+2025-04-23 09:02:02,994 [orange] INFO: 😴 Sleeping for 29.70 seconds before request 144/166
+2025-04-23 09:02:32,704 [orange] INFO: 🚀 Sending request 144/166 to https://www.orange.pl/esklep/smartfony/Samsung/Samsung-Galaxy-A26-5G-6-128GB for AN00000255
+2025-04-23 09:02:32,713 [orange] INFO: 📋 Response for BN2009478 | Status: 200 | Size: 404455 bytes
+2025-04-23 09:02:32,742 [orange] INFO: [143/166] BN2009478: 7963.00 PLN | Instock | 23 remaining
+2025-04-23 09:02:35,092 [orange] INFO: 😴 Sleeping for 34.18 seconds before request 145/166
+2025-04-23 09:03:09,277 [orange] INFO: 🚀 Sending request 145/166 to https://www.orange.pl/esklep/smartwatche-i-smartbandy/samsung/samsung-galaxy-watch-ultra-esim for BN2009402
+2025-04-23 09:03:09,293 [orange] INFO: 📋 Response for AN00000255 | Status: 200 | Size: 370805 bytes
+2025-04-23 09:03:09,332 [orange] INFO: [144/166] AN00000255: 1249.00 PLN | Instock | 22 remaining
+2025-04-23 09:03:10,457 [orange] INFO: 😴 Sleeping for 25.91 seconds before request 146/166
+2025-04-23 09:03:36,373 [orange] INFO: 🚀 Sending request 146/166 to https://www.orange.pl/esklep/smartfony/sony/sony-xperia-1-v-5g-12-256gb?withExistingAccount=false for BN2008724
+2025-04-23 09:03:36,384 [orange] INFO: 📋 Response for BN2009402 | Status: 200 | Size: 363875 bytes
+2025-04-23 09:03:36,421 [orange] INFO: [145/166] BN2009402: 2399.00 PLN | Instock | 21 remaining
+2025-04-23 09:03:38,839 [orange] INFO: 😴 Sleeping for 34.93 seconds before request 147/166
+2025-04-23 09:04:13,784 [orange] INFO: 🚀 Sending request 147/166 to https://www.orange.pl/esklep/smartfony/sony/sony-xperia-1-vi-5g-12-256gb for BN2009294
+2025-04-23 09:04:13,784 [orange] INFO: 📋 Response for BN2008724 | Status: 200 | Size: 379839 bytes
+2025-04-23 09:04:13,815 [orange] INFO: [146/166] BN2008724: 0.00 PLN | Outstock | 20 remaining
+2025-04-23 09:04:14,925 [orange] INFO: 😴 Sleeping for 32.54 seconds before request 148/166
+2025-04-23 09:04:47,472 [orange] INFO: 🚀 Sending request 148/166 to https://www.orange.pl/esklep/smartfony/sony/sony-xperia-10-vi-5g-8-128gb for BN2009295
+2025-04-23 09:04:47,472 [orange] INFO: 📋 Response for BN2009294 | Status: 200 | Size: 374377 bytes
+2025-04-23 09:04:47,507 [orange] INFO: [147/166] BN2009294: 5899.00 PLN | Instock | 19 remaining
+2025-04-23 09:04:49,788 [orange] INFO: 😴 Sleeping for 30.66 seconds before request 149/166
+2025-04-23 09:05:20,458 [orange] INFO: 🚀 Sending request 149/166 to https://www.orange.pl/esklep/smartfony/xiaomi/xiaomi-redmi-13c-5g-4-128-gb for BN2009279
+2025-04-23 09:05:20,469 [orange] INFO: 📋 Response for BN2009295 | Status: 200 | Size: 364017 bytes
+2025-04-23 09:05:20,506 [orange] INFO: [148/166] BN2009295: 1899.00 PLN | Instock | 18 remaining
+2025-04-23 09:05:22,741 [orange] INFO: 😴 Sleeping for 30.11 seconds before request 150/166
+2025-04-23 09:05:52,856 [orange] INFO: 🚀 Sending request 150/166 to https://www.orange.pl/esklep/smartfony/xiaomi/xiaomi-redmi-note-13-6-128gb for BN2009089
+2025-04-23 09:05:52,856 [orange] INFO: 📋 Response for BN2009279 | Status: 200 | Size: 387272 bytes
+2025-04-23 09:05:52,893 [orange] INFO: [149/166] BN2009279: 549.00 PLN | Instock | 17 remaining
+2025-04-23 09:05:54,002 [orange] INFO: 😴 Sleeping for 34.22 seconds before request 151/166
+2025-04-23 09:06:28,233 [orange] INFO: 🚀 Sending request 151/166 to https://www.orange.pl/esklep/smartfony/xiaomi/xiaomi-redmi-note-13-pro-5g-8-256gb for BN2009091
+2025-04-23 09:06:28,242 [orange] INFO: 📋 Response for BN2009089 | Status: 200 | Size: 383388 bytes
+2025-04-23 09:06:28,270 [orange] INFO: [150/166] BN2009089: 720.00 PLN | Instock | 16 remaining
+2025-04-23 09:06:29,398 [orange] INFO: 😴 Sleeping for 27.82 seconds before request 152/166
+2025-04-23 09:06:57,235 [orange] INFO: 🚀 Sending request 152/166 to https://www.orange.pl/esklep/smartfony/xiaomi/xiaomi-redmi-note-13-pro--5g-12-512gb for BN2009111
+2025-04-23 09:06:57,240 [orange] INFO: 📋 Response for BN2009091 | Status: 200 | Size: 383178 bytes
+2025-04-23 09:06:57,261 [orange] INFO: [151/166] BN2009091: 1599.00 PLN | Instock | 15 remaining
+2025-04-23 09:06:59,250 [orange] INFO: 😴 Sleeping for 34.74 seconds before request 153/166
+2025-04-23 09:07:33,998 [orange] INFO: 🚀 Sending request 153/166 to https://www.orange.pl/esklep/smartfony/xiaomi/xiaomi-redmi-note-14-5g-8-256-gb for BN2009810
+2025-04-23 09:07:33,998 [orange] INFO: 📋 Response for BN2009111 | Status: 200 | Size: 386506 bytes
+2025-04-23 09:07:34,031 [orange] INFO: [152/166] BN2009111: 0.00 PLN | Outstock | 14 remaining
+2025-04-23 09:07:36,308 [orange] INFO: 😴 Sleeping for 27.66 seconds before request 154/166
+2025-04-23 09:08:03,987 [orange] INFO: 🚀 Sending request 154/166 to https://www.orange.pl/esklep/smartfony/xiaomi/xiaomi-redmi-note-14-pro-5g-8-256gb for BN2009812
+2025-04-23 09:08:03,991 [orange] INFO: 📋 Response for BN2009810 | Status: 200 | Size: 386956 bytes
+2025-04-23 09:08:04,023 [orange] INFO: [153/166] BN2009810: 1620.00 PLN | Instock | 13 remaining
+2025-04-23 09:08:05,561 [orange] INFO: 😴 Sleeping for 31.59 seconds before request 155/166
+2025-04-23 09:08:37,184 [orange] INFO: 🚀 Sending request 155/166 to https://www.orange.pl/esklep/smartfony/xiaomi/xiaomi-13-5g-8-256gb-esim for BN2008537
+2025-04-23 09:08:37,188 [orange] INFO: 📋 Response for BN2009812 | Status: 200 | Size: 401693 bytes
+2025-04-23 09:08:37,201 [orange] INFO: [154/166] BN2009812: 1499.00 PLN | Instock | 12 remaining
+2025-04-23 09:08:39,742 [orange] INFO: 😴 Sleeping for 25.54 seconds before request 156/166
+2025-04-23 09:09:05,301 [orange] INFO: 🚀 Sending request 156/166 to https://www.orange.pl/esklep/smartfony/xiaomi/xiaomi-13t-pro-5g-12--512-gb for BN2008861
+2025-04-23 09:09:05,324 [orange] INFO: 📋 Response for BN2008537 | Status: 200 | Size: 389034 bytes
+2025-04-23 09:09:05,349 [orange] INFO: [155/166] BN2008537: 0.00 PLN | Outstock | 11 remaining
+2025-04-23 09:09:06,518 [orange] INFO: 😴 Sleeping for 33.25 seconds before request 157/166
+2025-04-23 09:09:39,794 [orange] INFO: 🚀 Sending request 157/166 to https://www.orange.pl/esklep/smartfony/xiaomi/xiaomi-14-5g-12-512-gb for BN2009094
+2025-04-23 09:09:39,803 [orange] INFO: 📋 Response for BN2008861 | Status: 200 | Size: 374012 bytes
+2025-04-23 09:09:39,822 [orange] INFO: [156/166] BN2008861: 0.00 PLN | Outstock | 10 remaining
+2025-04-23 09:09:42,355 [orange] INFO: 😴 Sleeping for 32.34 seconds before request 158/166
+2025-04-23 09:10:14,699 [orange] INFO: 🚀 Sending request 158/166 to https://www.orange.pl/esklep/smartfony/xiaomi/xiaomi-14t-5g-12-256-gb for BN2009425
+2025-04-23 09:10:14,704 [orange] INFO: 📋 Response for BN2009094 | Status: 200 | Size: 379363 bytes
+2025-04-23 09:10:14,760 [orange] INFO: [157/166] BN2009094: 5299.00 PLN | Instock | 9 remaining
+2025-04-23 09:10:17,120 [orange] INFO: 😴 Sleeping for 25.62 seconds before request 159/166
+2025-04-23 09:10:42,763 [orange] INFO: 🚀 Sending request 159/166 to https://www.orange.pl/esklep/smartfony/xiaomi/xiaomi-14t-pro-5g-12-512-gb for BN2009446
+2025-04-23 09:10:42,775 [orange] INFO: 📋 Response for BN2009425 | Status: 200 | Size: 389993 bytes
+2025-04-23 09:10:42,826 [orange] INFO: [158/166] BN2009425: 2111.00 PLN | Instock | 8 remaining
+2025-04-23 09:10:45,289 [orange] INFO: 😴 Sleeping for 31.14 seconds before request 160/166
+2025-04-23 09:11:16,444 [orange] INFO: 🚀 Sending request 160/166 to https://www.orange.pl/esklep/smartfony/xiaomi/xiaomi-15-5g-12-256gb for BN2009814
+2025-04-23 09:11:16,449 [orange] INFO: 📋 Response for BN2009446 | Status: 200 | Size: 395816 bytes
+2025-04-23 09:11:16,478 [orange] INFO: [159/166] BN2009446: 2959.00 PLN | Instock | 7 remaining
+2025-04-23 09:11:19,041 [orange] INFO: 😴 Sleeping for 30.59 seconds before request 161/166
+2025-04-23 09:11:49,647 [orange] INFO: 🚀 Sending request 161/166 to https://www.orange.pl/esklep/smartfony/xiaomi/xiaomi-15-ultra-5g-16-512gb for BN2009815
+2025-04-23 09:11:49,652 [orange] INFO: 📋 Response for BN2009814 | Status: 200 | Size: 383202 bytes
+2025-04-23 09:11:49,679 [orange] INFO: [160/166] BN2009814: 4199.00 PLN | Instock | 6 remaining
+2025-04-23 09:11:52,046 [orange] INFO: 😴 Sleeping for 30.49 seconds before request 162/166
+2025-04-23 09:12:22,544 [orange] INFO: 🚀 Sending request 162/166 to https://www.orange.pl/esklep/smartfony/xiaomi/xiaomi-mix-flip-12-512gb-5g for AN00000234
+2025-04-23 09:12:22,562 [orange] INFO: 📋 Response for BN2009815 | Status: 200 | Size: 387528 bytes
+2025-04-23 09:12:22,595 [orange] INFO: [161/166] BN2009815: 6299.00 PLN | Instock | 5 remaining
+2025-04-23 09:12:23,706 [orange] INFO: 😴 Sleeping for 34.12 seconds before request 163/166
+2025-04-23 09:12:57,832 [orange] INFO: 🚀 Sending request 163/166 to https://www.orange.pl/esklep/smartfony/xiaomi/xiaomi-redmi-note-14-8-256-gb for AN00000248
+2025-04-23 09:12:57,832 [orange] INFO: 📋 Response for AN00000234 | Status: 200 | Size: 363503 bytes
+2025-04-23 09:12:57,870 [orange] INFO: [162/166] AN00000234: 5699.00 PLN | Instock | 4 remaining
+2025-04-23 09:12:59,035 [orange] INFO: 😴 Sleeping for 33.10 seconds before request 164/166
+2025-04-23 09:13:32,153 [orange] INFO: 🚀 Sending request 164/166 to https://www.orange.pl/esklep/smartfony/xiaomi/xiaomi-redmi-note-14-pro--5g-12-512gb for AN00000249
+2025-04-23 09:13:32,153 [orange] INFO: 📋 Response for AN00000248 | Status: 200 | Size: 390612 bytes
+2025-04-23 09:13:32,186 [orange] INFO: [163/166] AN00000248: 799.00 PLN | Instock | 3 remaining
+2025-04-23 09:13:34,619 [orange] INFO: 😴 Sleeping for 28.84 seconds before request 165/166
+2025-04-23 09:14:03,458 [orange] INFO: 🚀 Sending request 165/166 to https://www.orange.pl/esklep/modemy-i-routery/zte/router-zte-mc888-5g-cat-19- for BN2008691
+2025-04-23 09:14:03,471 [orange] INFO: 📋 Response for AN00000249 | Status: 200 | Size: 394621 bytes
+2025-04-23 09:14:03,500 [orange] INFO: [164/166] AN00000249: 2399.00 PLN | Instock | 2 remaining
+2025-04-23 09:14:06,237 [orange] INFO: 😴 Sleeping for 26.62 seconds before request 166/166
+2025-04-23 09:14:32,872 [orange] INFO: 🚀 Sending request 166/166 to https://www.orange.pl/esklep/modemy-i-routery/zte/router-zte-mf297d-cat--12?typ-oferty=SIMFREE_INST&productFilterUid=simfreeInstOfferFilterNUX&typ-procesu=INSTALMENT_SALES_OF_GOODS&dlugosc-umowy=0&id-oferty=TANTO_B2C_249411$MOB_CPO_7051_5721_AC_249411&withExistingAccount=false for BN2008406
+2025-04-23 09:14:32,877 [orange] INFO: 📋 Response for BN2008691 | Status: 200 | Size: 322083 bytes
+2025-04-23 09:14:32,896 [orange] INFO: [165/166] BN2008691: 0.00 PLN | Outstock | 1 remaining
+2025-04-23 09:14:34,937 [orange] INFO: 📋 Response for BN2008406 | Status: 200 | Size: 319402 bytes
+2025-04-23 09:14:34,959 [orange] INFO: [166/166] BN2008406: 0.00 PLN | Outstock | 0 remaining
+2025-04-23 09:14:34,968 [orange] INFO: ✅ Spider orange completed
+2025-04-23 09:14:34,969 [orange] INFO: 🕒 Total time: 01:29:59
+2025-04-23 09:14:34,970 [orange] INFO: 📊 Processed 166 items
+2025-04-23 09:14:34,972 [orange] INFO: ⚡ Performance: 1.84 items/minute
+2025-04-23 09:14:47,583 [orange] INFO: ==================================================
+2025-04-23 09:14:47,583 [orange] INFO: SPIDER RUN COMPLETED: orange
+2025-04-23 09:14:47,583 [orange] INFO: Items processed: 166
+2025-04-23 09:14:47,586 [orange] INFO: Duration: 01:30:12
+2025-04-23 09:14:47,586 [orange] INFO: Performance: 1.84 items/minute
+2025-04-23 09:14:47,588 [orange] INFO: ==================================================

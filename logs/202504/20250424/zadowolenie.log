@@ -1,0 +1,494 @@
+2025-04-24 16:21:41,583 [zadowolenie] INFO: 🕷️ Initializing zadowolenie spider
+2025-04-24 16:21:41,584 [zadowolenie] INFO: 🔄 Proxy Manager: Disabled
+2025-04-24 16:21:41,585 [zadowolenie] INFO: 🕒 Human-like delays: Enabled
+2025-04-24 16:21:41,683 [zadowolenie] INFO: 🕷️ Starting Zadowolenie spider
+2025-04-24 16:21:41,684 [zadowolenie] INFO: 🔍 Total products to scrape: 114
+2025-04-24 16:21:41,684 [zadowolenie] INFO: Using direct requests without proxy manager
+2025-04-24 16:21:41,685 [zadowolenie] INFO: 😴 Sleeping for 50.33 seconds before request 1/114
+2025-04-24 16:22:32,034 [zadowolenie] INFO: 🚀 Sending request 1/114 to https://www.zadowolenie.pl/apple-watch-series-10-gps-cellular-koperta-42-mm-z-aluminium-w-kolorze-onyksu-z-opaska-sportowa-w-kolorze-atramentowym?q=apple+watch for AN00000219
+2025-04-24 16:22:47,058 [zadowolenie] INFO: 😴 Sleeping for 58.29 seconds before request 2/114
+2025-04-24 16:23:45,353 [zadowolenie] INFO: 🚀 Sending request 2/114 to https://www.zadowolenie.pl/apple-watch-series-10-gps-cellular-koperta-46-mm-z-tytanu-w-kolorze-lupkowym-z-paskiem-sportowym-w-kolorze-czarnym-rozmiar-s-m?q=Apple+Watch+Series+10+GPS+Cellular+koperta+46+mm+z for AN00000220
+2025-04-24 16:23:48,241 [zadowolenie] INFO: 😴 Sleeping for 59.44 seconds before request 3/114
+2025-04-24 16:24:47,686 [zadowolenie] INFO: 🚀 Sending request 3/114 to https://www.zadowolenie.pl/apple-ipad-10-9-cala-wi-fi-64gb-srebrny?q=Apple+iPad+10.9+cala+Wi-Fi+64GB for BN2008651
+2025-04-24 16:24:47,691 [zadowolenie] INFO: 📋 Response for AN00000220 | Status: 200 | Size: 699570 bytes
+2025-04-24 16:24:47,754 [zadowolenie] INFO: [2/114] AN00000220: 4331.00 PLN | Instock | 112 remaining
+2025-04-24 16:24:50,418 [zadowolenie] INFO: 😴 Sleeping for 54.05 seconds before request 4/114
+2025-04-24 16:25:44,492 [zadowolenie] INFO: 🚀 Sending request 4/114 to https://www.zadowolenie.pl/apple-ipad-10-9-cala-wi-fi-256gb-niebieski-2 for BN2008376
+2025-04-24 16:25:44,499 [zadowolenie] INFO: 📋 Response for BN2008651 | Status: 200 | Size: 743406 bytes
+2025-04-24 16:25:44,557 [zadowolenie] INFO: [3/114] BN2008651: 0.00 PLN | Outstock | 111 remaining
+2025-04-24 16:25:47,359 [zadowolenie] INFO: 😴 Sleeping for 52.10 seconds before request 5/114
+2025-04-24 16:26:39,473 [zadowolenie] INFO: 🚀 Sending request 5/114 to https://www.zadowolenie.pl/apple-ipad-air-11-cali-wi-fi-cellular-1tb-niebieski for BN2009584
+2025-04-24 16:26:39,478 [zadowolenie] INFO: 📋 Response for BN2008376 | Status: 200 | Size: 699173 bytes
+2025-04-24 16:26:39,539 [zadowolenie] INFO: [4/114] BN2008376: 2342.00 PLN | Instock | 110 remaining
+2025-04-24 16:26:42,461 [zadowolenie] INFO: 😴 Sleeping for 52.52 seconds before request 6/114
+2025-04-24 16:27:34,996 [zadowolenie] INFO: 🚀 Sending request 6/114 to https://www.zadowolenie.pl/apple-ipad-air-11-cali-wi-fi-cellular-512gb-niebieski for BN2009583
+2025-04-24 16:27:35,001 [zadowolenie] INFO: 📋 Response for BN2009584 | Status: 200 | Size: 694625 bytes
+2025-04-24 16:27:35,056 [zadowolenie] INFO: [5/114] BN2009584: 6695.00 PLN | Instock | 109 remaining
+2025-04-24 16:27:37,557 [zadowolenie] INFO: 😴 Sleeping for 45.57 seconds before request 7/114
+2025-04-24 16:28:23,152 [zadowolenie] INFO: 🚀 Sending request 7/114 to https://www.zadowolenie.pl/apple-ipad-air-13-cali-wi-fi-cellular-128gb-gwiezdna-szarosc for BN2009579
+2025-04-24 16:28:23,158 [zadowolenie] INFO: 📋 Response for BN2009583 | Status: 200 | Size: 740017 bytes
+2025-04-24 16:28:23,217 [zadowolenie] INFO: [6/114] BN2009583: 0.00 PLN | Outstock | 108 remaining
+2025-04-24 16:28:25,720 [zadowolenie] INFO: 😴 Sleeping for 55.24 seconds before request 8/114
+2025-04-24 16:29:20,981 [zadowolenie] INFO: 🚀 Sending request 8/114 to https://www.zadowolenie.pl/apple-ipad-air-13-cali-wi-fi-128gb-gwiezdna-szarosc?q=Apple+iPad+Air+13 for BN2009597
+2025-04-24 16:29:21,000 [zadowolenie] INFO: 📋 Response for BN2009579 | Status: 200 | Size: 690564 bytes
+2025-04-24 16:29:21,055 [zadowolenie] INFO: [7/114] BN2009579: 0.00 PLN | Outstock | 107 remaining
+2025-04-24 16:29:23,679 [zadowolenie] INFO: 😴 Sleeping for 49.17 seconds before request 9/114
+2025-04-24 16:30:12,863 [zadowolenie] INFO: 🚀 Sending request 9/114 to https://www.zadowolenie.pl/apple-ipad-air-13-cali-wi-fi-cellular-1tb-fioletowy for BN2009592
+2025-04-24 16:30:12,869 [zadowolenie] INFO: 📋 Response for BN2009597 | Status: 200 | Size: 689819 bytes
+2025-04-24 16:30:12,920 [zadowolenie] INFO: [8/114] BN2009597: 0.00 PLN | Outstock | 106 remaining
+2025-04-24 16:30:15,988 [zadowolenie] INFO: 😴 Sleeping for 51.66 seconds before request 10/114
+2025-04-24 16:31:07,661 [zadowolenie] INFO: 🚀 Sending request 10/114 to https://www.zadowolenie.pl/apple-ipad-air-13-cali-wi-fi-cellular-256gb-niebieski?q=Apple+iPad+Air+13+cali+Wi-Fi+Cellular for BN2009590
+2025-04-24 16:31:07,669 [zadowolenie] INFO: 📋 Response for BN2009592 | Status: 200 | Size: 694630 bytes
+2025-04-24 16:31:07,725 [zadowolenie] INFO: [9/114] BN2009592: 7811.00 PLN | Instock | 105 remaining
+2025-04-24 16:31:10,752 [zadowolenie] INFO: 😴 Sleeping for 51.78 seconds before request 11/114
+2025-04-24 16:32:02,543 [zadowolenie] INFO: 🚀 Sending request 11/114 to https://www.zadowolenie.pl/apple-ipad-air-13-cali-wi-fi-cellular-512gb-niebieski for BN2009591
+2025-04-24 16:32:02,549 [zadowolenie] INFO: 📋 Response for BN2009590 | Status: 200 | Size: 690378 bytes
+2025-04-24 16:32:02,602 [zadowolenie] INFO: [10/114] BN2009590: 0.00 PLN | Outstock | 104 remaining
+2025-04-24 16:32:05,716 [zadowolenie] INFO: 😴 Sleeping for 46.56 seconds before request 12/114
+2025-04-24 16:32:52,298 [zadowolenie] INFO: 🚀 Sending request 12/114 to https://www.zadowolenie.pl/apple-ipad-air-13-cali-wi-fi-256gb-ksiezycowa-poswiata for BN2009596
+2025-04-24 16:32:52,303 [zadowolenie] INFO: 📋 Response for BN2009591 | Status: 200 | Size: 694700 bytes
+2025-04-24 16:32:52,361 [zadowolenie] INFO: [11/114] BN2009591: 6695.00 PLN | Instock | 103 remaining
+2025-04-24 16:32:55,090 [zadowolenie] INFO: 😴 Sleeping for 54.62 seconds before request 13/114
+2025-04-24 16:33:49,720 [zadowolenie] INFO: 🚀 Sending request 13/114 to https://www.zadowolenie.pl/apple-ipad-pro-11-cali-wi-fi-cellular-1tb-gwiezdna-czern for BN2009599
+2025-04-24 16:33:49,726 [zadowolenie] INFO: 📋 Response for BN2009596 | Status: 200 | Size: 689896 bytes
+2025-04-24 16:33:49,777 [zadowolenie] INFO: [12/114] BN2009596: 0.00 PLN | Outstock | 102 remaining
+2025-04-24 16:33:52,712 [zadowolenie] INFO: 😴 Sleeping for 53.92 seconds before request 14/114
+2025-04-24 16:34:46,648 [zadowolenie] INFO: 🚀 Sending request 14/114 to https://www.zadowolenie.pl/apple-ipad-pro-11-cali-wi-fi-cellular-256gb-gwiezdna-czern for BN2009580
+2025-04-24 16:34:46,671 [zadowolenie] INFO: 📋 Response for BN2009599 | Status: 200 | Size: 697981 bytes
+2025-04-24 16:34:46,738 [zadowolenie] INFO: [13/114] BN2009599: 10378.00 PLN | Instock | 101 remaining
+2025-04-24 16:34:49,568 [zadowolenie] INFO: 😴 Sleeping for 58.47 seconds before request 15/114
+2025-04-24 16:35:48,050 [zadowolenie] INFO: 🚀 Sending request 15/114 to https://www.zadowolenie.pl/apple-ipad-pro-11-cali-wi-fi-256gb-gwiezdna-czern for BN2009605
+2025-04-24 16:35:48,055 [zadowolenie] INFO: 📋 Response for BN2009580 | Status: 200 | Size: 743361 bytes
+2025-04-24 16:35:48,115 [zadowolenie] INFO: [14/114] BN2009580: 0.00 PLN | Outstock | 100 remaining
+2025-04-24 16:35:51,123 [zadowolenie] INFO: 😴 Sleeping for 41.17 seconds before request 16/114
+2025-04-24 16:36:32,300 [zadowolenie] INFO: 🚀 Sending request 16/114 to https://www.zadowolenie.pl/apple-ipad-pro-11-cali-wi-fi-cellular-512gb-srebrny for BN2009598
+2025-04-24 16:36:32,306 [zadowolenie] INFO: 📋 Response for BN2009605 | Status: 200 | Size: 748062 bytes
+2025-04-24 16:36:32,370 [zadowolenie] INFO: [15/114] BN2009605: 5914.00 PLN | Instock | 99 remaining
+2025-04-24 16:36:35,168 [zadowolenie] INFO: 😴 Sleeping for 54.77 seconds before request 17/114
+2025-04-24 16:37:29,951 [zadowolenie] INFO: 🚀 Sending request 17/114 to https://www.zadowolenie.pl/apple-ipad-pro-13-cali-wi-fi-cellular-1tb-gwiezdna-czern for BN2009607
+2025-04-24 16:37:29,957 [zadowolenie] INFO: 📋 Response for BN2009598 | Status: 200 | Size: 743094 bytes
+2025-04-24 16:37:30,017 [zadowolenie] INFO: [16/114] BN2009598: 0.00 PLN | Outstock | 98 remaining
+2025-04-24 16:37:32,896 [zadowolenie] INFO: 😴 Sleeping for 48.20 seconds before request 18/114
+2025-04-24 16:38:21,122 [zadowolenie] INFO: 🚀 Sending request 18/114 to https://www.zadowolenie.pl/apple-ipad-pro-13-cali-wi-fi-cellular-256gb-srebrny for BN2009581
+2025-04-24 16:38:21,126 [zadowolenie] INFO: 📋 Response for BN2009607 | Status: 200 | Size: 697984 bytes
+2025-04-24 16:38:21,189 [zadowolenie] INFO: [17/114] BN2009607: 12275.00 PLN | Instock | 97 remaining
+2025-04-24 16:38:23,786 [zadowolenie] INFO: 😴 Sleeping for 45.78 seconds before request 19/114
+2025-04-24 16:39:09,591 [zadowolenie] INFO: 🚀 Sending request 19/114 to https://www.zadowolenie.pl/apple-ipad-pro-13-cali-wi-fi-256gb-srebrny for BN2009613
+2025-04-24 16:39:09,596 [zadowolenie] INFO: 📋 Response for BN2009581 | Status: 200 | Size: 693371 bytes
+2025-04-24 16:39:09,649 [zadowolenie] INFO: [18/114] BN2009581: 0.00 PLN | Outstock | 96 remaining
+2025-04-24 16:39:12,600 [zadowolenie] INFO: 😴 Sleeping for 49.84 seconds before request 20/114
+2025-04-24 16:40:02,459 [zadowolenie] INFO: 🚀 Sending request 20/114 to https://www.zadowolenie.pl/apple-ipad-pro-13-cali-wi-fi-cellular-512gb-gwiezdna-czern for BN2009606
+2025-04-24 16:40:02,480 [zadowolenie] INFO: 📋 Response for BN2009613 | Status: 200 | Size: 697146 bytes
+2025-04-24 16:40:02,543 [zadowolenie] INFO: [19/114] BN2009613: 7811.00 PLN | Instock | 95 remaining
+2025-04-24 16:40:05,435 [zadowolenie] INFO: 😴 Sleeping for 49.66 seconds before request 21/114
+2025-04-24 16:40:55,112 [zadowolenie] INFO: 🚀 Sending request 21/114 to https://www.zadowolenie.pl/apple-iphone-13-128gb-bialy for BN2007979
+2025-04-24 16:40:55,117 [zadowolenie] INFO: 📋 Response for BN2009606 | Status: 200 | Size: 693635 bytes
+2025-04-24 16:40:55,166 [zadowolenie] INFO: [20/114] BN2009606: 0.00 PLN | Outstock | 94 remaining
+2025-04-24 16:40:57,880 [zadowolenie] INFO: 😴 Sleeping for 42.83 seconds before request 22/114
+2025-04-24 16:41:40,725 [zadowolenie] INFO: 🚀 Sending request 22/114 to https://www.zadowolenie.pl/apple-iphone-15-128gb-rozowy for BN2009133
+2025-04-24 16:41:40,731 [zadowolenie] INFO: 📋 Response for BN2007979 | Status: 200 | Size: 705920 bytes
+2025-04-24 16:41:40,788 [zadowolenie] INFO: [21/114] BN2007979: 0.00 PLN | Outstock | 93 remaining
+2025-04-24 16:41:43,891 [zadowolenie] INFO: 😴 Sleeping for 50.87 seconds before request 23/114
+2025-04-24 16:42:34,776 [zadowolenie] INFO: 🚀 Sending request 23/114 to https://www.zadowolenie.pl/apple-iphone-15-256gb-zielony for BN2009142
+2025-04-24 16:42:34,782 [zadowolenie] INFO: 📋 Response for BN2009133 | Status: 200 | Size: 714576 bytes
+2025-04-24 16:42:34,845 [zadowolenie] INFO: [22/114] BN2009133: 3650.00 PLN | Instock | 92 remaining
+2025-04-24 16:42:37,585 [zadowolenie] INFO: 😴 Sleeping for 48.91 seconds before request 24/114
+2025-04-24 16:43:26,512 [zadowolenie] INFO: 🚀 Sending request 24/114 to https://www.zadowolenie.pl/apple-iphone-15-512gb-zolty for BN2009143
+2025-04-24 16:43:26,517 [zadowolenie] INFO: 📋 Response for BN2009142 | Status: 200 | Size: 710757 bytes
+2025-04-24 16:43:26,574 [zadowolenie] INFO: [23/114] BN2009142: 0.00 PLN | Outstock | 91 remaining
+2025-04-24 16:43:29,317 [zadowolenie] INFO: 😴 Sleeping for 51.80 seconds before request 25/114
+2025-04-24 16:44:21,134 [zadowolenie] INFO: 🚀 Sending request 25/114 to https://www.zadowolenie.pl/apple-iphone-15-plus-128gb-zielony for BN2009134
+2025-04-24 16:44:21,140 [zadowolenie] INFO: 📋 Response for BN2009143 | Status: 200 | Size: 710742 bytes
+2025-04-24 16:44:21,196 [zadowolenie] INFO: [24/114] BN2009143: 0.00 PLN | Outstock | 90 remaining
+2025-04-24 16:44:24,149 [zadowolenie] INFO: 😴 Sleeping for 49.72 seconds before request 26/114
+2025-04-24 16:45:13,892 [zadowolenie] INFO: 🚀 Sending request 26/114 to https://www.zadowolenie.pl/apple-iphone-15-plus-256gb-rozowy for BN2009144
+2025-04-24 16:45:13,914 [zadowolenie] INFO: 📋 Response for BN2009134 | Status: 200 | Size: 715587 bytes
+2025-04-24 16:45:13,979 [zadowolenie] INFO: [25/114] BN2009134: 4226.00 PLN | Instock | 89 remaining
+2025-04-24 16:45:16,902 [zadowolenie] INFO: 😴 Sleeping for 41.79 seconds before request 27/114
+2025-04-24 16:45:58,710 [zadowolenie] INFO: 🚀 Sending request 27/114 to https://www.zadowolenie.pl/apple-iphone-15-plus-512gb-zielony for BN2009145
+2025-04-24 16:45:58,716 [zadowolenie] INFO: 📋 Response for BN2009144 | Status: 200 | Size: 711787 bytes
+2025-04-24 16:45:58,774 [zadowolenie] INFO: [26/114] BN2009144: 0.00 PLN | Outstock | 88 remaining
+2025-04-24 16:46:01,510 [zadowolenie] INFO: 😴 Sleeping for 54.94 seconds before request 28/114
+2025-04-24 16:46:56,467 [zadowolenie] INFO: 🚀 Sending request 28/114 to https://www.zadowolenie.pl/apple-iphone-15-pro-128gb-tytan-blekitny for BN2009135
+2025-04-24 16:46:56,472 [zadowolenie] INFO: 📋 Response for BN2009145 | Status: 200 | Size: 711775 bytes
+2025-04-24 16:46:56,529 [zadowolenie] INFO: [27/114] BN2009145: 0.00 PLN | Outstock | 87 remaining
+2025-04-24 16:46:59,473 [zadowolenie] INFO: 😴 Sleeping for 45.87 seconds before request 29/114
+2025-04-24 16:47:45,371 [zadowolenie] INFO: 🚀 Sending request 29/114 to https://www.zadowolenie.pl/apple-iphone-15-pro-max-256gb-tytan-czarny for BN2009136
+2025-04-24 16:47:45,377 [zadowolenie] INFO: 📋 Response for BN2009135 | Status: 200 | Size: 776934 bytes
+2025-04-24 16:47:45,440 [zadowolenie] INFO: [28/114] BN2009135: 0.00 PLN | Outstock | 86 remaining
+2025-04-24 16:47:48,065 [zadowolenie] INFO: 😴 Sleeping for 47.96 seconds before request 30/114
+2025-04-24 16:48:36,046 [zadowolenie] INFO: 🚀 Sending request 30/114 to https://www.zadowolenie.pl/apple-iphone-15-pro-max-512gb-tytan-blekitny for BN2009150
+2025-04-24 16:48:36,051 [zadowolenie] INFO: 📋 Response for BN2009136 | Status: 200 | Size: 730919 bytes
+2025-04-24 16:48:36,110 [zadowolenie] INFO: [29/114] BN2009136: 0.00 PLN | Outstock | 85 remaining
+2025-04-24 16:48:38,763 [zadowolenie] INFO: 😴 Sleeping for 45.93 seconds before request 31/114
+2025-04-24 16:49:24,712 [zadowolenie] INFO: 🚀 Sending request 31/114 to https://www.zadowolenie.pl/apple-iphone-16-128gb-rozowy for BN2009874
+2025-04-24 16:49:24,720 [zadowolenie] INFO: 📋 Response for BN2009150 | Status: 200 | Size: 731119 bytes
+2025-04-24 16:49:24,780 [zadowolenie] INFO: [30/114] BN2009150: 0.00 PLN | Outstock | 84 remaining
+2025-04-24 16:49:39,731 [zadowolenie] INFO: 😴 Sleeping for 40.24 seconds before request 32/114
+2025-04-24 16:50:19,986 [zadowolenie] INFO: 🚀 Sending request 32/114 to https://www.zadowolenie.pl/apple-iphone-16-256gb-rozowy for BN2009878
+2025-04-24 16:50:22,928 [zadowolenie] INFO: 😴 Sleeping for 51.48 seconds before request 33/114
+2025-04-24 16:51:14,435 [zadowolenie] INFO: 🚀 Sending request 33/114 to https://www.zadowolenie.pl/apple-iphone-16-512gb-rozowy for BN2009879
+2025-04-24 16:51:14,458 [zadowolenie] INFO: 📋 Response for BN2009878 | Status: 200 | Size: 763250 bytes
+2025-04-24 16:51:14,526 [zadowolenie] INFO: [32/114] BN2009878: 4802.00 PLN | Instock | 82 remaining
+2025-04-24 16:51:17,590 [zadowolenie] INFO: 😴 Sleeping for 51.74 seconds before request 34/114
+2025-04-24 16:52:09,347 [zadowolenie] INFO: 🚀 Sending request 34/114 to https://www.zadowolenie.pl/apple-iphone-16-pus-128gb-czarny for BN2009875
+2025-04-24 16:52:09,352 [zadowolenie] INFO: 📋 Response for BN2009879 | Status: 200 | Size: 713285 bytes
+2025-04-24 16:52:09,414 [zadowolenie] INFO: [33/114] BN2009879: 5954.00 PLN | Instock | 81 remaining
+2025-04-24 16:52:12,037 [zadowolenie] INFO: 😴 Sleeping for 42.62 seconds before request 35/114
+2025-04-24 16:52:54,670 [zadowolenie] INFO: 🚀 Sending request 35/114 to https://www.zadowolenie.pl/apple-iphone-16-pus-256gb-rozowy?q=iphone+16 for BN2009880
+2025-04-24 16:52:54,676 [zadowolenie] INFO: 📋 Response for BN2009875 | Status: 200 | Size: 709054 bytes
+2025-04-24 16:52:54,733 [zadowolenie] INFO: [34/114] BN2009875: 0.00 PLN | Outstock | 80 remaining
+2025-04-24 16:52:57,608 [zadowolenie] INFO: 😴 Sleeping for 47.36 seconds before request 36/114
+2025-04-24 16:53:44,987 [zadowolenie] INFO: 🚀 Sending request 36/114 to https://www.zadowolenie.pl/apple-iphone-16-plus-512gb-czarny?q=iphone+16 for BN2009881
+2025-04-24 16:53:44,991 [zadowolenie] INFO: 📋 Response for BN2009880 | Status: 200 | Size: 758181 bytes
+2025-04-24 16:53:45,055 [zadowolenie] INFO: [35/114] BN2009880: 0.00 PLN | Outstock | 79 remaining
+2025-04-24 16:53:47,944 [zadowolenie] INFO: 😴 Sleeping for 58.21 seconds before request 37/114
+2025-04-24 16:54:46,172 [zadowolenie] INFO: 🚀 Sending request 37/114 to https://www.zadowolenie.pl/apple-iphone-16-pro-128gb-tytan-naturalny for BN2009876
+2025-04-24 16:54:46,177 [zadowolenie] INFO: 📋 Response for BN2009881 | Status: 200 | Size: 713551 bytes
+2025-04-24 16:54:46,238 [zadowolenie] INFO: [36/114] BN2009881: 6530.00 PLN | Instock | 78 remaining
+2025-04-24 16:54:49,377 [zadowolenie] INFO: 😴 Sleeping for 47.55 seconds before request 38/114
+2025-04-24 16:55:36,941 [zadowolenie] INFO: 🚀 Sending request 38/114 to https://www.zadowolenie.pl/apple-iphone-16-pro-1tb-tytan-czarny for BN2009884
+2025-04-24 16:55:36,945 [zadowolenie] INFO: 📋 Response for BN2009876 | Status: 200 | Size: 720149 bytes
+2025-04-24 16:55:37,009 [zadowolenie] INFO: [37/114] BN2009876: 5632.00 PLN | Instock | 77 remaining
+2025-04-24 16:55:39,870 [zadowolenie] INFO: 😴 Sleeping for 41.61 seconds before request 39/114
+2025-04-24 16:56:21,494 [zadowolenie] INFO: 🚀 Sending request 39/114 to https://www.zadowolenie.pl/apple-iphone-16-pro-256gb-tytan-czarny for BN2009882
+2025-04-24 16:56:21,517 [zadowolenie] INFO: 📋 Response for BN2009884 | Status: 200 | Size: 769929 bytes
+2025-04-24 16:56:21,584 [zadowolenie] INFO: [38/114] BN2009884: 8512.00 PLN | Instock | 76 remaining
+2025-04-24 16:56:24,547 [zadowolenie] INFO: 😴 Sleeping for 47.76 seconds before request 40/114
+2025-04-24 16:57:12,315 [zadowolenie] INFO: 🚀 Sending request 40/114 to https://www.zadowolenie.pl/apple-iphone-16-pro-512gb-tytan-bialy for BN2009883
+2025-04-24 16:57:12,321 [zadowolenie] INFO: 📋 Response for BN2009882 | Status: 200 | Size: 720047 bytes
+2025-04-24 16:57:12,383 [zadowolenie] INFO: [39/114] BN2009882: 6208.00 PLN | Instock | 75 remaining
+2025-04-24 16:57:15,514 [zadowolenie] INFO: 😴 Sleeping for 47.74 seconds before request 41/114
+2025-04-24 16:58:03,275 [zadowolenie] INFO: 🚀 Sending request 41/114 to https://www.zadowolenie.pl/apple-iphone-16-pro-max-1tb-tytan-bialy for BN2009886
+2025-04-24 16:58:03,282 [zadowolenie] INFO: 📋 Response for BN2009883 | Status: 200 | Size: 720041 bytes
+2025-04-24 16:58:03,345 [zadowolenie] INFO: [40/114] BN2009883: 7360.00 PLN | Instock | 74 remaining
+2025-04-24 16:58:06,243 [zadowolenie] INFO: 😴 Sleeping for 56.72 seconds before request 42/114
+2025-04-24 16:59:02,980 [zadowolenie] INFO: 🚀 Sending request 42/114 to https://www.zadowolenie.pl/apple-iphone-16-pro-max-256gb-tytan-czarny for BN2009877
+2025-04-24 16:59:02,985 [zadowolenie] INFO: 📋 Response for BN2009886 | Status: 200 | Size: 720183 bytes
+2025-04-24 16:59:03,049 [zadowolenie] INFO: [41/114] BN2009886: 9088.00 PLN | Instock | 73 remaining
+2025-04-24 16:59:06,028 [zadowolenie] INFO: 😴 Sleeping for 41.14 seconds before request 43/114
+2025-04-24 16:59:47,193 [zadowolenie] INFO: 🚀 Sending request 43/114 to https://www.zadowolenie.pl/apple-iphone-16-pro-max-512gb-tytan-czarny for BN2009885
+2025-04-24 16:59:47,199 [zadowolenie] INFO: 📋 Response for BN2009877 | Status: 200 | Size: 770222 bytes
+2025-04-24 16:59:47,265 [zadowolenie] INFO: [42/114] BN2009877: 6784.00 PLN | Instock | 72 remaining
+2025-04-24 16:59:50,283 [zadowolenie] INFO: 😴 Sleeping for 41.59 seconds before request 44/114
+2025-04-24 17:00:31,890 [zadowolenie] INFO: 🚀 Sending request 44/114 to https://www.zadowolenie.pl/apple-iphone-16e-128gb-bialy for BN2010109
+2025-04-24 17:00:31,895 [zadowolenie] INFO: 📋 Response for BN2009885 | Status: 200 | Size: 720259 bytes
+2025-04-24 17:00:31,957 [zadowolenie] INFO: [43/114] BN2009885: 7936.00 PLN | Instock | 71 remaining
+2025-04-24 17:00:34,893 [zadowolenie] INFO: 😴 Sleeping for 45.36 seconds before request 45/114
+2025-04-24 17:01:20,267 [zadowolenie] INFO: 🚀 Sending request 45/114 to https://www.zadowolenie.pl/apple-iphone-16e-256gb-czarny for BN2010110
+2025-04-24 17:01:20,290 [zadowolenie] INFO: 📋 Response for BN2010109 | Status: 200 | Size: 752723 bytes
+2025-04-24 17:01:20,355 [zadowolenie] INFO: [44/114] BN2010109: 3455.00 PLN | Instock | 70 remaining
+2025-04-24 17:01:35,289 [zadowolenie] INFO: 😴 Sleeping for 46.47 seconds before request 46/114
+2025-04-24 17:02:21,773 [zadowolenie] INFO: 🚀 Sending request 46/114 to https://www.zadowolenie.pl/apple-iphone-16e-512gb-czarny for BN2010108
+2025-04-24 17:02:25,059 [zadowolenie] INFO: 😴 Sleeping for 57.90 seconds before request 47/114
+2025-04-24 17:03:22,973 [zadowolenie] INFO: 🚀 Sending request 47/114 to https://www.zadowolenie.pl/apple-watch-se-gps-cellular-koperta-44-mm-z-aluminium-w-kolorze-polnocy-pasek-sportowy-w-kolorze-polnocy-rozmiar-m-l for BN4000659
+2025-04-24 17:03:22,979 [zadowolenie] INFO: 📋 Response for BN2010108 | Status: 200 | Size: 752731 bytes
+2025-04-24 17:03:23,043 [zadowolenie] INFO: [46/114] BN2010108: 5183.00 PLN | Instock | 68 remaining
+2025-04-24 17:03:37,989 [zadowolenie] INFO: 😴 Sleeping for 51.58 seconds before request 48/114
+2025-04-24 17:04:29,582 [zadowolenie] INFO: 🚀 Sending request 48/114 to https://www.zadowolenie.pl/apple-watch-se-gps-koperta-40-mm-z-aluminium-w-kolorze-srebrnym-z-opaska-sportowa-w-kolorze-blekitnego-obloku?q=apple+watch for BN2009222
+2025-04-24 17:04:34,665 [zadowolenie] INFO: 😴 Sleeping for 52.11 seconds before request 49/114
+2025-04-24 17:05:26,799 [zadowolenie] INFO: 🚀 Sending request 49/114 to https://www.zadowolenie.pl/apple-watch-se-gps-koperta-44-mm-z-aluminium-w-kolorze-srebrnym-z-opaska-sportowa-w-kolorze-blekitnego-obloku?q=apple+watch for BN2009221
+2025-04-24 17:05:26,805 [zadowolenie] INFO: 📋 Response for BN2009222 | Status: 200 | Size: 690610 bytes
+2025-04-24 17:05:26,857 [zadowolenie] INFO: [48/114] BN2009222: 1139.00 PLN | Instock | 66 remaining
+2025-04-24 17:05:37,658 [zadowolenie] INFO: 😴 Sleeping for 53.83 seconds before request 50/114
+2025-04-24 17:06:31,510 [zadowolenie] INFO: 🚀 Sending request 50/114 to https://www.zadowolenie.pl/apple-watch-se-gps-cellular-koperta-40-mm-z-aluminium-w-kolorze-polnocy-z-paskiem-sportowym-w-kolorze-polnocy-rozmiar-s-m?q=apple+watch for AN00000170
+2025-04-24 17:06:31,516 [zadowolenie] INFO: 📋 Response for BN2009221 | Status: 200 | Size: 690606 bytes
+2025-04-24 17:06:31,570 [zadowolenie] INFO: [49/114] BN2009221: 1367.00 PLN | Instock | 65 remaining
+2025-04-24 17:06:34,335 [zadowolenie] INFO: 😴 Sleeping for 53.89 seconds before request 51/114
+2025-04-24 17:07:28,240 [zadowolenie] INFO: 🚀 Sending request 51/114 to https://www.zadowolenie.pl/apple-watch-se-gps-cellular-koperta-44-mm-z-aluminium-w-kolorze-srebrnym-z-opaska-sportowa-w-kolorze-blekitnego-obloku?q=apple+watch for AN00000171
+2025-04-24 17:07:28,258 [zadowolenie] INFO: 📋 Response for AN00000170 | Status: 200 | Size: 691414 bytes
+2025-04-24 17:07:28,319 [zadowolenie] INFO: [50/114] AN00000170: 1481.00 PLN | Instock | 64 remaining
+2025-04-24 17:07:30,997 [zadowolenie] INFO: 😴 Sleeping for 51.54 seconds before request 52/114
+2025-04-24 17:08:22,560 [zadowolenie] INFO: 🚀 Sending request 52/114 to https://www.zadowolenie.pl/apple-watch-series-9-gps-45mm-koperta-z-aluminium-w-kolorze-polnocy-z-opaska-sportowa-w-kolorze-polnocy?q=apple+watch for BN2009140
+2025-04-24 17:08:22,565 [zadowolenie] INFO: 📋 Response for AN00000171 | Status: 200 | Size: 741329 bytes
+2025-04-24 17:08:22,627 [zadowolenie] INFO: [51/114] AN00000171: 1709.00 PLN | Instock | 63 remaining
+2025-04-24 17:08:25,502 [zadowolenie] INFO: 😴 Sleeping for 48.50 seconds before request 53/114
+2025-04-24 17:09:14,019 [zadowolenie] INFO: 🚀 Sending request 53/114 to https://www.zadowolenie.pl/apple-watch-series-10-gps-cellular-koperta-42-mm-z-aluminium-w-kolorze-onyksu-z-opaska-sportowa-w-kolorze-atramentowym?q=apple+watch for BN2009903
+2025-04-24 17:09:14,041 [zadowolenie] INFO: 📋 Response for BN2009140 | Status: 200 | Size: 693479 bytes
+2025-04-24 17:09:14,100 [zadowolenie] INFO: [52/114] BN2009140: 2222.00 PLN | Instock | 62 remaining
+2025-04-24 17:09:17,071 [zadowolenie] INFO: 😴 Sleeping for 57.54 seconds before request 54/114
+2025-04-24 17:10:14,622 [zadowolenie] INFO: 🚀 Sending request 54/114 to https://www.zadowolenie.pl/apple-watch-series-10-gps-cellular-koperta-46-mm-z-aluminium-w-kolorze-onyksu-z-opaska-sportowa-w-kolorze-atramentowym?q=apple+watch for BN2009905
+2025-04-24 17:10:14,627 [zadowolenie] INFO: 📋 Response for BN2009903 | Status: 200 | Size: 745898 bytes
+2025-04-24 17:10:14,689 [zadowolenie] INFO: [53/114] BN2009903: 2849.00 PLN | Instock | 61 remaining
+2025-04-24 17:10:17,508 [zadowolenie] INFO: 😴 Sleeping for 48.32 seconds before request 55/114
+2025-04-24 17:11:05,838 [zadowolenie] INFO: 🚀 Sending request 55/114 to https://www.zadowolenie.pl/apple-watch-series-10-gps-cellular-koperta-46-mm-z-tytanu-w-kolorze-naturalnym-z-paskiem-sportowym-w-kolorze-gorskiej-szarosci-rozmiar-s-m?q=Apple+Watch+Series+10+GPS+Cellula for BN2009906
+2025-04-24 17:11:05,857 [zadowolenie] INFO: 📋 Response for BN2009905 | Status: 200 | Size: 699023 bytes
+2025-04-24 17:11:05,917 [zadowolenie] INFO: [54/114] BN2009905: 3077.00 PLN | Instock | 60 remaining
+2025-04-24 17:11:08,757 [zadowolenie] INFO: 😴 Sleeping for 50.01 seconds before request 56/114
+2025-04-24 17:11:58,789 [zadowolenie] INFO: 🚀 Sending request 56/114 to https://www.zadowolenie.pl/apple-watch-ultra-2-gps-cellular-koperta-49-mm-z-tytanu-w-kolorze-naturalnym-z-opaska-alpine-s-w-kolorze-bezowym?q=Apple+Watch+Ultra+2+GPS+Cellular for BN2009137
+2025-04-24 17:11:58,796 [zadowolenie] INFO: 📋 Response for BN2009906 | Status: 200 | Size: 700065 bytes
+2025-04-24 17:11:58,856 [zadowolenie] INFO: [55/114] BN2009906: 4331.00 PLN | Instock | 59 remaining
+2025-04-24 17:12:01,491 [zadowolenie] INFO: 😴 Sleeping for 53.91 seconds before request 57/114
+2025-04-24 17:12:55,418 [zadowolenie] INFO: 🚀 Sending request 57/114 to https://www.zadowolenie.pl/motorola-smartfon-edge-50-fusion-12gb-512gb-tidal-teal for BN2009288
+2025-04-24 17:12:55,436 [zadowolenie] INFO: 📋 Response for BN2009137 | Status: 200 | Size: 701413 bytes
+2025-04-24 17:12:55,496 [zadowolenie] INFO: [56/114] BN2009137: 4559.00 PLN | Instock | 58 remaining
+2025-04-24 17:12:58,176 [zadowolenie] INFO: 😴 Sleeping for 45.08 seconds before request 58/114
+2025-04-24 17:13:43,271 [zadowolenie] INFO: 🚀 Sending request 58/114 to https://www.zadowolenie.pl/motorola-smartfon-edge-50-neo-12-512-pantone-grisaille for BN2009433
+2025-04-24 17:13:43,289 [zadowolenie] INFO: 📋 Response for BN2009288 | Status: 200 | Size: 698535 bytes
+2025-04-24 17:13:43,345 [zadowolenie] INFO: [57/114] BN2009288: 0.00 PLN | Outstock | 57 remaining
+2025-04-24 17:13:47,101 [zadowolenie] INFO: 😴 Sleeping for 43.16 seconds before request 59/114
+2025-04-24 17:14:30,284 [zadowolenie] INFO: 🚀 Sending request 59/114 to https://www.zadowolenie.pl/motorola-smartfon-edge-50-pro-12gb-512gb-black-beauty-czarny for BN2009287
+2025-04-24 17:14:30,306 [zadowolenie] INFO: 📋 Response for BN2009433 | Status: 200 | Size: 742198 bytes
+2025-04-24 17:14:30,369 [zadowolenie] INFO: [58/114] BN2009433: 2817.00 PLN | Instock | 56 remaining
+2025-04-24 17:14:45,315 [zadowolenie] INFO: 😴 Sleeping for 40.67 seconds before request 60/114
+2025-04-24 17:15:26,008 [zadowolenie] INFO: 🚀 Sending request 60/114 to https://www.zadowolenie.pl/motorola-smartfon-edge-50-ultra-16gb-1tb-darkest-spruce-czarny for BN2009157
+2025-04-24 17:15:28,880 [zadowolenie] INFO: 😴 Sleeping for 57.60 seconds before request 61/114
+2025-04-24 17:16:26,500 [zadowolenie] INFO: 🚀 Sending request 61/114 to https://www.zadowolenie.pl/motorola-smartfon-moto-g35-5g-8-128gb-graystone for BN2009941
+2025-04-24 17:16:26,506 [zadowolenie] INFO: 📋 Response for BN2009157 | Status: 200 | Size: 699093 bytes
+2025-04-24 17:16:26,562 [zadowolenie] INFO: [60/114] BN2009157: 0.00 PLN | Outstock | 54 remaining
+2025-04-24 17:16:30,187 [zadowolenie] INFO: 😴 Sleeping for 49.89 seconds before request 62/114
+2025-04-24 17:17:20,092 [zadowolenie] INFO: 🚀 Sending request 62/114 to https://www.zadowolenie.pl/motorola-smartfon-moto-g75-5g-8gb-128gb-charcoal-gray-b2b for BN2010241
+2025-04-24 17:17:20,099 [zadowolenie] INFO: 📋 Response for BN2009941 | Status: 200 | Size: 741937 bytes
+2025-04-24 17:17:20,161 [zadowolenie] INFO: [61/114] BN2009941: 963.00 PLN | Instock | 53 remaining
+2025-04-24 17:17:23,646 [zadowolenie] INFO: 😴 Sleeping for 42.26 seconds before request 63/114
+2025-04-24 17:18:05,922 [zadowolenie] INFO: 🚀 Sending request 63/114 to https://www.zadowolenie.pl/motorola-smartfon-moto-g85-5g-12-256-gb-olivine for BN2009289
+2025-04-24 17:18:05,927 [zadowolenie] INFO: 📋 Response for BN2010241 | Status: 200 | Size: 759387 bytes
+2025-04-24 17:18:05,991 [zadowolenie] INFO: [62/114] BN2010241: 1391.00 PLN | Instock | 52 remaining
+2025-04-24 17:18:08,778 [zadowolenie] INFO: 😴 Sleeping for 47.46 seconds before request 64/114
+2025-04-24 17:18:56,252 [zadowolenie] INFO: 🚀 Sending request 64/114 to https://www.zadowolenie.pl/motorola-smartfon-moto-g85-5g-8-256gb-b2b-gadet-grey for BN2009627
+2025-04-24 17:18:56,270 [zadowolenie] INFO: 📋 Response for BN2009289 | Status: 200 | Size: 701452 bytes
+2025-04-24 17:18:56,328 [zadowolenie] INFO: [63/114] BN2009289: 0.00 PLN | Outstock | 51 remaining
+2025-04-24 17:18:59,711 [zadowolenie] INFO: 😴 Sleeping for 54.31 seconds before request 65/114
+2025-04-24 17:19:54,032 [zadowolenie] INFO: 🚀 Sending request 65/114 to https://www.zadowolenie.pl/motorola-smartfon-razr-50-8-256-gb-koala-grey for BN2009286
+2025-04-24 17:19:54,038 [zadowolenie] INFO: 📋 Response for BN2009627 | Status: 200 | Size: 789448 bytes
+2025-04-24 17:19:54,104 [zadowolenie] INFO: [64/114] BN2009627: 1513.00 PLN | Instock | 50 remaining
+2025-04-24 17:19:57,863 [zadowolenie] INFO: 😴 Sleeping for 55.45 seconds before request 66/114
+2025-04-24 17:20:53,324 [zadowolenie] INFO: 🚀 Sending request 66/114 to https://www.zadowolenie.pl/motorola-smartfon-razr-50-ultra-12-512-gb-peach-fuzz for BN2009285
+2025-04-24 17:20:53,346 [zadowolenie] INFO: 📋 Response for BN2009286 | Status: 200 | Size: 731373 bytes
+2025-04-24 17:20:53,410 [zadowolenie] INFO: [65/114] BN2009286: 4268.00 PLN | Instock | 49 remaining
+2025-04-24 17:20:57,157 [zadowolenie] INFO: 😴 Sleeping for 42.54 seconds before request 67/114
+2025-04-24 17:21:39,720 [zadowolenie] INFO: 🚀 Sending request 67/114 to https://www.zadowolenie.pl/maxcom-smartwatch-fit-fw58-vanad-pro-czarny for AN00000186
+2025-04-24 17:21:39,724 [zadowolenie] INFO: 📋 Response for BN2009285 | Status: 200 | Size: 782645 bytes
+2025-04-24 17:21:39,812 [zadowolenie] INFO: [66/114] BN2009285: 5340.00 PLN | Instock | 48 remaining
+2025-04-24 17:21:42,564 [zadowolenie] INFO: 😴 Sleeping for 55.64 seconds before request 68/114
+2025-04-24 17:22:38,232 [zadowolenie] INFO: 🚀 Sending request 68/114 to https://www.zadowolenie.pl/maxcom-telefon-mm-334-volte-4g-classic for BN2007888
+2025-04-24 17:22:38,236 [zadowolenie] INFO: 📋 Response for AN00000186 | Status: 200 | Size: 700314 bytes
+2025-04-24 17:22:38,295 [zadowolenie] INFO: [67/114] AN00000186: 373.00 PLN | Instock | 47 remaining
+2025-04-24 17:22:40,865 [zadowolenie] INFO: 😴 Sleeping for 53.01 seconds before request 69/114
+2025-04-24 17:23:33,892 [zadowolenie] INFO: 🚀 Sending request 69/114 to https://www.zadowolenie.pl/maxcom-telefon-mm-724-volte-4g-comfort for BN2007637
+2025-04-24 17:23:33,897 [zadowolenie] INFO: 📋 Response for BN2007888 | Status: 200 | Size: 689325 bytes
+2025-04-24 17:23:33,946 [zadowolenie] INFO: [68/114] BN2007888: 0.00 PLN | Outstock | 46 remaining
+2025-04-24 17:23:36,545 [zadowolenie] INFO: 😴 Sleeping for 54.83 seconds before request 70/114
+2025-04-24 17:24:31,390 [zadowolenie] INFO: 🚀 Sending request 70/114 to https://www.zadowolenie.pl/maxcom-telefon-mm-248-4g-dualsim for BN2008959
+2025-04-24 17:24:31,396 [zadowolenie] INFO: 📋 Response for BN2007637 | Status: 200 | Size: 702499 bytes
+2025-04-24 17:24:31,455 [zadowolenie] INFO: [69/114] BN2007637: 221.00 PLN | Instock | 45 remaining
+2025-04-24 17:24:34,218 [zadowolenie] INFO: 😴 Sleeping for 42.18 seconds before request 71/114
+2025-04-24 17:25:16,422 [zadowolenie] INFO: 🚀 Sending request 71/114 to https://www.zadowolenie.pl/maxcom-telefon-mm428l-bb-poliphone-duze-przyciski for BN2006694
+2025-04-24 17:25:16,428 [zadowolenie] INFO: 📋 Response for BN2008959 | Status: 200 | Size: 700154 bytes
+2025-04-24 17:25:16,488 [zadowolenie] INFO: [70/114] BN2008959: 171.00 PLN | Instock | 44 remaining
+2025-04-24 17:25:19,385 [zadowolenie] INFO: 😴 Sleeping for 51.43 seconds before request 72/114
+2025-04-24 17:26:10,830 [zadowolenie] INFO: 🚀 Sending request 72/114 to https://www.zadowolenie.pl/maxcom-telefon-wzmocniony-mm920-l-strong for BN2005450
+2025-04-24 17:26:10,853 [zadowolenie] INFO: 📋 Response for BN2006694 | Status: 200 | Size: 699540 bytes
+2025-04-24 17:26:10,911 [zadowolenie] INFO: [71/114] BN2006694: 100.00 PLN | Instock | 43 remaining
+2025-04-24 17:26:13,871 [zadowolenie] INFO: 😴 Sleeping for 52.38 seconds before request 73/114
+2025-04-24 17:27:06,277 [zadowolenie] INFO: 🚀 Sending request 73/114 to https://www.zadowolenie.pl/maxcom-smartfon-ms-554-4g-z-aplikacja-przyjazny-ekran for BN2008298
+2025-04-24 17:27:06,283 [zadowolenie] INFO: 📋 Response for BN2005450 | Status: 200 | Size: 700097 bytes
+2025-04-24 17:27:06,341 [zadowolenie] INFO: [72/114] BN2005450: 198.00 PLN | Instock | 42 remaining
+2025-04-24 17:27:09,339 [zadowolenie] INFO: 😴 Sleeping for 47.41 seconds before request 74/114
+2025-04-24 17:27:56,768 [zadowolenie] INFO: 🚀 Sending request 74/114 to https://www.zadowolenie.pl/msi-gamepad-force-gc20-v2-bialy for AN00000057
+2025-04-24 17:27:56,773 [zadowolenie] INFO: 📋 Response for BN2008298 | Status: 200 | Size: 699934 bytes
+2025-04-24 17:27:56,828 [zadowolenie] INFO: [73/114] BN2008298: 0.00 PLN | Outstock | 41 remaining
+2025-04-24 17:27:59,552 [zadowolenie] INFO: 😴 Sleeping for 49.38 seconds before request 75/114
+2025-04-24 17:28:48,954 [zadowolenie] INFO: 🚀 Sending request 75/114 to https://www.zadowolenie.pl/oneplus-smartfon-13-5g-16-512-gb-cph2653-bialy for AN00000245
+2025-04-24 17:28:48,960 [zadowolenie] INFO: 📋 Response for AN00000057 | Status: 200 | Size: 693545 bytes
+2025-04-24 17:28:49,014 [zadowolenie] INFO: [74/114] AN00000057: 159.00 PLN | Instock | 40 remaining
+2025-04-24 17:28:53,051 [zadowolenie] INFO: 😴 Sleeping for 42.79 seconds before request 76/114
+2025-04-24 17:29:35,852 [zadowolenie] INFO: 🚀 Sending request 76/114 to https://www.zadowolenie.pl/oneplus-smartfon-13r-5g-12-256gb-cph2645-czarny for AN00000244
+2025-04-24 17:29:35,858 [zadowolenie] INFO: 📋 Response for AN00000245 | Status: 200 | Size: 729542 bytes
+2025-04-24 17:29:35,920 [zadowolenie] INFO: [75/114] AN00000245: 6041.00 PLN | Instock | 39 remaining
+2025-04-24 17:29:39,512 [zadowolenie] INFO: 😴 Sleeping for 40.68 seconds before request 77/114
+2025-04-24 17:30:20,199 [zadowolenie] INFO: 🚀 Sending request 77/114 to https://www.zadowolenie.pl/oneplus-smartfon-nord-4-5g-16-512-gb-cph2663-srebrny for AN00000205
+2025-04-24 17:30:20,217 [zadowolenie] INFO: 📋 Response for AN00000244 | Status: 200 | Size: 735753 bytes
+2025-04-24 17:30:20,282 [zadowolenie] INFO: [76/114] AN00000244: 4217.00 PLN | Instock | 38 remaining
+2025-04-24 17:30:24,262 [zadowolenie] INFO: 😴 Sleeping for 40.09 seconds before request 78/114
+2025-04-24 17:31:04,374 [zadowolenie] INFO: 🚀 Sending request 78/114 to https://www.zadowolenie.pl/oppo-smartfon-reno10-pro-12-256gb-fioletowy for BN2008916
+2025-04-24 17:31:04,398 [zadowolenie] INFO: 📋 Response for AN00000205 | Status: 200 | Size: 731250 bytes
+2025-04-24 17:31:04,459 [zadowolenie] INFO: [77/114] AN00000205: 2849.00 PLN | Instock | 37 remaining
+2025-04-24 17:31:07,381 [zadowolenie] INFO: 😴 Sleeping for 42.37 seconds before request 79/114
+2025-04-24 17:31:49,765 [zadowolenie] INFO: 🚀 Sending request 79/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-a05s-lte-4-128gb-czarny for BN2008971
+2025-04-24 17:31:49,770 [zadowolenie] INFO: 📋 Response for BN2008916 | Status: 200 | Size: 760119 bytes
+2025-04-24 17:31:49,829 [zadowolenie] INFO: [78/114] BN2008916: 0.00 PLN | Outstock | 36 remaining
+2025-04-24 17:31:52,929 [zadowolenie] INFO: 😴 Sleeping for 57.57 seconds before request 80/114
+2025-04-24 17:32:50,518 [zadowolenie] INFO: 🚀 Sending request 80/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-a15-5g-4-128-gb-czarny for BN2009106
+2025-04-24 17:32:50,524 [zadowolenie] INFO: 📋 Response for BN2008971 | Status: 200 | Size: 701073 bytes
+2025-04-24 17:32:50,578 [zadowolenie] INFO: [79/114] BN2008971: 0.00 PLN | Outstock | 35 remaining
+2025-04-24 17:32:53,490 [zadowolenie] INFO: 😴 Sleeping for 49.14 seconds before request 81/114
+2025-04-24 17:33:42,639 [zadowolenie] INFO: 🚀 Sending request 81/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-a15-lte-4-128-gb-czarny for BN2009107
+2025-04-24 17:33:42,644 [zadowolenie] INFO: 📋 Response for BN2009106 | Status: 200 | Size: 694127 bytes
+2025-04-24 17:33:42,711 [zadowolenie] INFO: [80/114] BN2009106: 0.00 PLN | Outstock | 34 remaining
+2025-04-24 17:33:45,362 [zadowolenie] INFO: 😴 Sleeping for 56.60 seconds before request 82/114
+2025-04-24 17:34:41,983 [zadowolenie] INFO: 🚀 Sending request 82/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-a16-5g-4-128-gb-czarny for BN2009662
+2025-04-24 17:34:41,989 [zadowolenie] INFO: 📋 Response for BN2009107 | Status: 200 | Size: 693852 bytes
+2025-04-24 17:34:42,037 [zadowolenie] INFO: [81/114] BN2009107: 0.00 PLN | Outstock | 33 remaining
+2025-04-24 17:34:46,076 [zadowolenie] INFO: 😴 Sleeping for 54.42 seconds before request 83/114
+2025-04-24 17:35:40,513 [zadowolenie] INFO: 🚀 Sending request 83/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-a16-lte-4-128-gb-czarny-enterprise-edition for BN2009660
+2025-04-24 17:35:40,517 [zadowolenie] INFO: 📋 Response for BN2009662 | Status: 200 | Size: 737942 bytes
+2025-04-24 17:35:40,579 [zadowolenie] INFO: [82/114] BN2009662: 1005.00 PLN | Instock | 32 remaining
+2025-04-24 17:35:44,433 [zadowolenie] INFO: 😴 Sleeping for 55.85 seconds before request 84/114
+2025-04-24 17:36:40,299 [zadowolenie] INFO: 🚀 Sending request 84/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-a25-5g-6-128-gb-czarny for BN2008917
+2025-04-24 17:36:40,320 [zadowolenie] INFO: 📋 Response for BN2009660 | Status: 200 | Size: 722609 bytes
+2025-04-24 17:36:40,397 [zadowolenie] INFO: [83/114] BN2009660: 908.00 PLN | Instock | 31 remaining
+2025-04-24 17:36:44,048 [zadowolenie] INFO: 😴 Sleeping for 47.46 seconds before request 85/114
+2025-04-24 17:37:31,526 [zadowolenie] INFO: 🚀 Sending request 85/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-a34-ds5g-6-128gb-enterprise-czarny for BN2008665
+2025-04-24 17:37:31,531 [zadowolenie] INFO: 📋 Response for BN2008917 | Status: 200 | Size: 728551 bytes
+2025-04-24 17:37:31,593 [zadowolenie] INFO: [84/114] BN2008917: 1316.00 PLN | Instock | 30 remaining
+2025-04-24 17:37:34,168 [zadowolenie] INFO: 😴 Sleeping for 56.78 seconds before request 86/114
+2025-04-24 17:38:30,964 [zadowolenie] INFO: 🚀 Sending request 86/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-a35-ds5g-6-128gb-enterprise-czarny for BN2009233
+2025-04-24 17:38:30,970 [zadowolenie] INFO: 📋 Response for BN2008665 | Status: 200 | Size: 742905 bytes
+2025-04-24 17:38:31,029 [zadowolenie] INFO: [85/114] BN2008665: 0.00 PLN | Outstock | 29 remaining
+2025-04-24 17:38:34,828 [zadowolenie] INFO: 😴 Sleeping for 56.40 seconds before request 87/114
+2025-04-24 17:39:31,244 [zadowolenie] INFO: 🚀 Sending request 87/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-s22-5g-8-128gb-enterprise-editon-czarny for BN2008088
+2025-04-24 17:39:31,251 [zadowolenie] INFO: 📋 Response for BN2009233 | Status: 200 | Size: 742358 bytes
+2025-04-24 17:39:31,312 [zadowolenie] INFO: [86/114] BN2009233: 1712.00 PLN | Instock | 28 remaining
+2025-04-24 17:39:34,844 [zadowolenie] INFO: 😴 Sleeping for 54.86 seconds before request 88/114
+2025-04-24 17:40:29,722 [zadowolenie] INFO: 🚀 Sending request 88/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-s23-dualsim-5g-8-128gb-enterprise-edition-czarny for BN2008581
+2025-04-24 17:40:29,745 [zadowolenie] INFO: 📋 Response for BN2008088 | Status: 200 | Size: 727210 bytes
+2025-04-24 17:40:29,807 [zadowolenie] INFO: [87/114] BN2008088: 4340.00 PLN | Instock | 27 remaining
+2025-04-24 17:40:32,557 [zadowolenie] INFO: 😴 Sleeping for 42.39 seconds before request 89/114
+2025-04-24 17:41:14,973 [zadowolenie] INFO: 🚀 Sending request 89/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-s23-dualsim-5g-8-256gb-enterprise-edition-czarny for BN2008582
+2025-04-24 17:41:14,979 [zadowolenie] INFO: 📋 Response for BN2008581 | Status: 200 | Size: 708616 bytes
+2025-04-24 17:41:15,035 [zadowolenie] INFO: [88/114] BN2008581: 0.00 PLN | Outstock | 26 remaining
+2025-04-24 17:41:17,843 [zadowolenie] INFO: 😴 Sleeping for 59.25 seconds before request 90/114
+2025-04-24 17:42:17,110 [zadowolenie] INFO: 🚀 Sending request 90/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-s23-fe-5g-8-128gb-grafit for BN2009085
+2025-04-24 17:42:17,132 [zadowolenie] INFO: 📋 Response for BN2008582 | Status: 200 | Size: 710777 bytes
+2025-04-24 17:42:17,190 [zadowolenie] INFO: [89/114] BN2008582: 0.00 PLN | Outstock | 25 remaining
+2025-04-24 17:42:20,699 [zadowolenie] INFO: 😴 Sleeping for 53.77 seconds before request 91/114
+2025-04-24 17:43:14,489 [zadowolenie] INFO: 🚀 Sending request 91/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-s24-5g-8-128gb-enterprise-edition-czarny for BN2009166
+2025-04-24 17:43:14,495 [zadowolenie] INFO: 📋 Response for BN2009085 | Status: 200 | Size: 735674 bytes
+2025-04-24 17:43:14,557 [zadowolenie] INFO: [90/114] BN2009085: 3389.00 PLN | Instock | 24 remaining
+2025-04-24 17:43:17,268 [zadowolenie] INFO: 😴 Sleeping for 57.14 seconds before request 92/114
+2025-04-24 17:44:14,419 [zadowolenie] INFO: 🚀 Sending request 92/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-s24-5g-8-256gb-enterprise-edition-czarny for BN2009167
+2025-04-24 17:44:14,426 [zadowolenie] INFO: 📋 Response for BN2009166 | Status: 200 | Size: 704156 bytes
+2025-04-24 17:44:14,480 [zadowolenie] INFO: [91/114] BN2009166: 0.00 PLN | Outstock | 23 remaining
+2025-04-24 17:44:18,978 [zadowolenie] INFO: 😴 Sleeping for 55.13 seconds before request 93/114
+2025-04-24 17:45:14,119 [zadowolenie] INFO: 🚀 Sending request 93/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-s24-fe-5g-8-128gb-grafit-enterprise for BN2009488
+2025-04-24 17:45:14,125 [zadowolenie] INFO: 📋 Response for BN2009167 | Status: 200 | Size: 734690 bytes
+2025-04-24 17:45:14,186 [zadowolenie] INFO: [92/114] BN2009167: 4728.00 PLN | Instock | 22 remaining
+2025-04-24 17:45:18,418 [zadowolenie] INFO: 😴 Sleeping for 42.51 seconds before request 94/114
+2025-04-24 17:46:00,949 [zadowolenie] INFO: 🚀 Sending request 94/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-s24ds-5g-ultra-12-256gb-czarny-enterprise-edition for BN2009171
+2025-04-24 17:46:00,956 [zadowolenie] INFO: 📋 Response for BN2009488 | Status: 200 | Size: 735134 bytes
+2025-04-24 17:46:01,019 [zadowolenie] INFO: [93/114] BN2009488: 3318.00 PLN | Instock | 21 remaining
+2025-04-24 17:46:04,990 [zadowolenie] INFO: 😴 Sleeping for 58.87 seconds before request 95/114
+2025-04-24 17:47:03,871 [zadowolenie] INFO: 🚀 Sending request 95/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-s24ds-5g-ultra-12-512gb-czarny-enterprise-edition for BN2009172
+2025-04-24 17:47:03,877 [zadowolenie] INFO: 📋 Response for BN2009171 | Status: 200 | Size: 736839 bytes
+2025-04-24 17:47:03,953 [zadowolenie] INFO: [94/114] BN2009171: 6719.00 PLN | Instock | 20 remaining
+2025-04-24 17:47:07,600 [zadowolenie] INFO: 😴 Sleeping for 41.59 seconds before request 96/114
+2025-04-24 17:47:49,206 [zadowolenie] INFO: 🚀 Sending request 96/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-s24-5g-12-256-gb-czarny for BN2009169
+2025-04-24 17:47:49,229 [zadowolenie] INFO: 📋 Response for BN2009172 | Status: 200 | Size: 736837 bytes
+2025-04-24 17:47:49,293 [zadowolenie] INFO: [95/114] BN2009172: 7692.00 PLN | Instock | 19 remaining
+2025-04-24 17:47:52,102 [zadowolenie] INFO: 😴 Sleeping for 44.64 seconds before request 97/114
+2025-04-24 17:48:36,751 [zadowolenie] INFO: 🚀 Sending request 97/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-s24-5g-12-512-gb-czarny for BN2009170
+2025-04-24 17:48:36,769 [zadowolenie] INFO: 📋 Response for BN2009169 | Status: 200 | Size: 762621 bytes
+2025-04-24 17:48:36,832 [zadowolenie] INFO: [96/114] BN2009169: 0.00 PLN | Outstock | 18 remaining
+2025-04-24 17:48:39,688 [zadowolenie] INFO: 😴 Sleeping for 50.18 seconds before request 98/114
+2025-04-24 17:49:29,888 [zadowolenie] INFO: 🚀 Sending request 98/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-s25-5g-12-128gb-ds-enterprise-edition-srebrny for BN2009796
+2025-04-24 17:49:29,893 [zadowolenie] INFO: 📋 Response for BN2009170 | Status: 200 | Size: 709364 bytes
+2025-04-24 17:49:29,947 [zadowolenie] INFO: [97/114] BN2009170: 0.00 PLN | Outstock | 17 remaining
+2025-04-24 17:49:33,516 [zadowolenie] INFO: 😴 Sleeping for 55.28 seconds before request 99/114
+2025-04-24 17:50:28,803 [zadowolenie] INFO: 🚀 Sending request 99/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-s25-5g-12-256gb-ds-enterprise-edition-srebrny for BN2009900
+2025-04-24 17:50:28,822 [zadowolenie] INFO: 📋 Response for BN2009796 | Status: 200 | Size: 730720 bytes
+2025-04-24 17:50:28,884 [zadowolenie] INFO: [98/114] BN2009796: 3939.00 PLN | Instock | 16 remaining
+2025-04-24 17:50:31,799 [zadowolenie] INFO: 😴 Sleeping for 42.13 seconds before request 100/114
+2025-04-24 17:51:13,947 [zadowolenie] INFO: 🚀 Sending request 100/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-s25-5g-12-512gb-ds-srebrny for BN2009849
+2025-04-24 17:51:13,952 [zadowolenie] INFO: 📋 Response for BN2009900 | Status: 200 | Size: 700144 bytes
+2025-04-24 17:51:14,008 [zadowolenie] INFO: [99/114] BN2009900: 0.00 PLN | Outstock | 15 remaining
+2025-04-24 17:51:18,556 [zadowolenie] INFO: 😴 Sleeping for 53.66 seconds before request 101/114
+2025-04-24 17:52:12,235 [zadowolenie] INFO: 🚀 Sending request 101/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-s25-ds-5g-ultra-12gb-1tb-czarny for BN2009851
+2025-04-24 17:52:12,253 [zadowolenie] INFO: 📋 Response for BN2009849 | Status: 200 | Size: 779114 bytes
+2025-04-24 17:52:12,319 [zadowolenie] INFO: [100/114] BN2009849: 4741.00 PLN | Instock | 14 remaining
+2025-04-24 17:52:16,347 [zadowolenie] INFO: 😴 Sleeping for 42.28 seconds before request 102/114
+2025-04-24 17:52:58,647 [zadowolenie] INFO: 🚀 Sending request 102/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-s25-ds-5g-ultra-12-256gb-czarny-enterprise-edition for BN2009798
+2025-04-24 17:52:58,670 [zadowolenie] INFO: 📋 Response for BN2009851 | Status: 200 | Size: 732144 bytes
+2025-04-24 17:52:58,731 [zadowolenie] INFO: [101/114] BN2009851: 8074.00 PLN | Instock | 13 remaining
+2025-04-24 17:53:01,732 [zadowolenie] INFO: 😴 Sleeping for 54.29 seconds before request 103/114
+2025-04-24 17:53:56,042 [zadowolenie] INFO: 🚀 Sending request 103/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-s25-ds-5g-ultra-12-512gb-czarny-enterprise-edition for BN2009852
+2025-04-24 17:53:56,061 [zadowolenie] INFO: 📋 Response for BN2009798 | Status: 200 | Size: 702706 bytes
+2025-04-24 17:53:56,118 [zadowolenie] INFO: [102/114] BN2009798: 0.00 PLN | Outstock | 12 remaining
+2025-04-24 17:53:59,808 [zadowolenie] INFO: 😴 Sleeping for 41.71 seconds before request 104/114
+2025-04-24 17:54:41,525 [zadowolenie] INFO: 🚀 Sending request 104/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-s25-5g-12-256gb-ds-srebrny for BN2009797
+2025-04-24 17:54:41,530 [zadowolenie] INFO: 📋 Response for BN2009852 | Status: 200 | Size: 733312 bytes
+2025-04-24 17:54:41,594 [zadowolenie] INFO: [103/114] BN2009852: 6849.00 PLN | Instock | 11 remaining
+2025-04-24 17:54:45,583 [zadowolenie] INFO: 😴 Sleeping for 55.64 seconds before request 105/114
+2025-04-24 17:55:41,238 [zadowolenie] INFO: 🚀 Sending request 105/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-s25-5g-12-512gb-ds-srebrny-2 for BN2009850
+2025-04-24 17:55:41,243 [zadowolenie] INFO: 📋 Response for BN2009797 | Status: 200 | Size: 732017 bytes
+2025-04-24 17:55:41,310 [zadowolenie] INFO: [104/114] BN2009797: 5044.00 PLN | Instock | 10 remaining
+2025-04-24 17:55:45,022 [zadowolenie] INFO: 😴 Sleeping for 42.79 seconds before request 106/114
+2025-04-24 17:56:27,818 [zadowolenie] INFO: 🚀 Sending request 106/114 to https://www.zadowolenie.pl/samsung-tablet-galaxy-tab-a9-x110-8-7-cala-wifi-4-64gb-szary for BN2009046
+2025-04-24 17:56:27,823 [zadowolenie] INFO: 📋 Response for BN2009850 | Status: 200 | Size: 732027 bytes
+2025-04-24 17:56:27,888 [zadowolenie] INFO: [105/114] BN2009850: 5531.00 PLN | Instock | 9 remaining
+2025-04-24 17:56:30,693 [zadowolenie] INFO: 😴 Sleeping for 51.98 seconds before request 107/114
+2025-04-24 17:57:22,696 [zadowolenie] INFO: 🚀 Sending request 107/114 to https://www.zadowolenie.pl/samsung-tablet-galaxy-tab-a9-11-cali-5g-4-64-gb-szary for BN2008981
+2025-04-24 17:57:22,701 [zadowolenie] INFO: 📋 Response for BN2009046 | Status: 200 | Size: 743532 bytes
+2025-04-24 17:57:22,762 [zadowolenie] INFO: [106/114] BN2009046: 0.00 PLN | Outstock | 8 remaining
+2025-04-24 17:57:26,201 [zadowolenie] INFO: 😴 Sleeping for 48.54 seconds before request 108/114
+2025-04-24 17:58:14,747 [zadowolenie] INFO: 🚀 Sending request 108/114 to https://www.zadowolenie.pl/samsung-tablet-galaxy-tab-a9-11-cali-wifi-4-64-gb-szary for BN2008983
+2025-04-24 17:58:14,769 [zadowolenie] INFO: 📋 Response for BN2008981 | Status: 200 | Size: 707251 bytes
+2025-04-24 17:58:14,833 [zadowolenie] INFO: [107/114] BN2008981: 1553.00 PLN | Instock | 7 remaining
+2025-04-24 17:58:17,824 [zadowolenie] INFO: 😴 Sleeping for 59.10 seconds before request 109/114
+2025-04-24 17:59:16,930 [zadowolenie] INFO: 🚀 Sending request 109/114 to https://www.zadowolenie.pl/samsung-tablet-galaxy-tab-s9-x716-5g-11-0-8gb-128gb-szary for BN2008929
+2025-04-24 17:59:16,936 [zadowolenie] INFO: 📋 Response for BN2008983 | Status: 200 | Size: 698648 bytes
+2025-04-24 17:59:16,993 [zadowolenie] INFO: [108/114] BN2008983: 0.00 PLN | Outstock | 6 remaining
+2025-04-24 17:59:20,117 [zadowolenie] INFO: 😴 Sleeping for 46.85 seconds before request 110/114
+2025-04-24 18:00:06,977 [zadowolenie] INFO: 🚀 Sending request 110/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-xcover-pro-6-dualsim-g736-6-128-gb-enterprise-edition-czarny for BN2008354
+2025-04-24 18:00:06,987 [zadowolenie] INFO: 📋 Response for BN2008929 | Status: 200 | Size: 758247 bytes
+2025-04-24 18:00:07,048 [zadowolenie] INFO: [109/114] BN2008929: 0.00 PLN | Outstock | 5 remaining
+2025-04-24 18:00:11,765 [zadowolenie] INFO: 😴 Sleeping for 46.83 seconds before request 111/114
+2025-04-24 18:00:58,613 [zadowolenie] INFO: 🚀 Sending request 111/114 to https://www.zadowolenie.pl/samsung-smartfon-xcover-7-g556-5g-6-128-gb-black for BN2009163
+2025-04-24 18:00:58,618 [zadowolenie] INFO: 📋 Response for BN2008354 | Status: 200 | Size: 706900 bytes
+2025-04-24 18:00:58,678 [zadowolenie] INFO: [110/114] BN2008354: 0.00 PLN | Outstock | 4 remaining
+2025-04-24 18:01:02,842 [zadowolenie] INFO: 😴 Sleeping for 57.25 seconds before request 112/114
+2025-04-24 18:02:00,099 [zadowolenie] INFO: 🚀 Sending request 112/114 to https://www.zadowolenie.pl/samsung-smartfon-galaxy-a26-5g-6-128-gb-czarny-enterprise-edition for AN00000255
+2025-04-24 18:02:00,105 [zadowolenie] INFO: 📋 Response for BN2009163 | Status: 200 | Size: 719652 bytes
+2025-04-24 18:02:00,173 [zadowolenie] INFO: [111/114] BN2009163: 1605.00 PLN | Instock | 3 remaining
+2025-04-24 18:02:03,778 [zadowolenie] INFO: 😴 Sleeping for 56.28 seconds before request 113/114
+2025-04-24 18:03:00,072 [zadowolenie] INFO: 🚀 Sending request 113/114 to https://www.zadowolenie.pl/xiaomi-smartwatch-redmi-watch-4-czarny?q=xiaomi for BN2009160
+2025-04-24 18:03:00,092 [zadowolenie] INFO: 📋 Response for AN00000255 | Status: 200 | Size: 736329 bytes
+2025-04-24 18:03:00,160 [zadowolenie] INFO: [112/114] AN00000255: 1364.00 PLN | Instock | 2 remaining
+2025-04-24 18:03:02,763 [zadowolenie] INFO: 😴 Sleeping for 59.17 seconds before request 114/114
+2025-04-24 18:04:01,953 [zadowolenie] INFO: 🚀 Sending request 114/114 to https://www.zadowolenie.pl/zte-router-mc888-pro-5g-stacjonarny for BN2008146
+2025-04-24 18:04:01,978 [zadowolenie] INFO: 📋 Response for BN2009160 | Status: 200 | Size: 734338 bytes
+2025-04-24 18:04:02,038 [zadowolenie] INFO: [113/114] BN2009160: 0.00 PLN | Outstock | 1 remaining
+2025-04-24 18:04:05,057 [zadowolenie] INFO: 📋 Response for BN2008146 | Status: 200 | Size: 738202 bytes
+2025-04-24 18:04:05,125 [zadowolenie] INFO: [114/114] BN2008146: 1543.00 PLN | Instock | 0 remaining
+2025-04-24 18:04:05,133 [zadowolenie] INFO: ✅ Spider zadowolenie completed
+2025-04-24 18:04:05,134 [zadowolenie] INFO: 🕒 Total time: 01:42:23
+2025-04-24 18:04:05,135 [zadowolenie] INFO: 📊 Processed 109 items
+2025-04-24 18:04:05,137 [zadowolenie] INFO: ⚡ Performance: 1.06 items/minute
+2025-04-24 18:04:17,972 [zadowolenie] INFO: ==================================================
+2025-04-24 18:04:17,972 [zadowolenie] INFO: SPIDER RUN COMPLETED: zadowolenie
+2025-04-24 18:04:17,973 [zadowolenie] INFO: Items processed: 109
+2025-04-24 18:04:17,973 [zadowolenie] INFO: Duration: 01:42:36
+2025-04-24 18:04:17,973 [zadowolenie] INFO: Performance: 1.06 items/minute
+2025-04-24 18:04:17,974 [zadowolenie] INFO: ==================================================
+2025-04-24 19:14:27,374 [zadowolenie] INFO: 🕷️ Initializing zadowolenie spider
+2025-04-24 19:14:27,387 [zadowolenie] INFO: 🔄 Proxy Manager: Disabled
+2025-04-24 19:14:27,387 [zadowolenie] INFO: 🕒 Human-like delays: Enabled
+2025-04-24 19:14:27,474 [zadowolenie] INFO: 🕷️ Starting Zadowolenie spider
+2025-04-24 19:14:27,475 [zadowolenie] INFO: 🔍 Total products to scrape: 4
+2025-04-24 19:14:27,475 [zadowolenie] INFO: Using direct requests without proxy manager
+2025-04-24 19:14:27,477 [zadowolenie] INFO: 😴 Sleeping for 43.52 seconds before request 1/4
+2025-04-24 19:15:11,004 [zadowolenie] INFO: 🚀 Sending request 1/4 to https://www.zadowolenie.pl/apple-iphone-16-128gb-rozowy for BN2009874
+2025-04-24 19:15:14,337 [zadowolenie] INFO: 😴 Sleeping for 59.93 seconds before request 2/4
+2025-04-24 19:16:14,279 [zadowolenie] INFO: 🚀 Sending request 2/4 to https://www.zadowolenie.pl/apple-iphone-16e-256gb-czarny for BN2010110
+2025-04-24 19:16:14,286 [zadowolenie] INFO: 📋 Response for BN2009874 | Status: 200 | Size: 713291 bytes
+2025-04-24 19:16:14,349 [zadowolenie] INFO: [1/4] BN2009874: 4226.00 PLN | Instock | 3 remaining
+2025-04-24 19:16:17,379 [zadowolenie] INFO: 😴 Sleeping for 42.68 seconds before request 3/4
+2025-04-24 19:17:00,066 [zadowolenie] INFO: 🚀 Sending request 3/4 to https://www.zadowolenie.pl/apple-watch-se-gps-cellular-koperta-44-mm-z-aluminium-w-kolorze-polnocy-pasek-sportowy-w-kolorze-polnocy-rozmiar-m-l for BN4000659
+2025-04-24 19:17:00,072 [zadowolenie] INFO: 📋 Response for BN2010110 | Status: 200 | Size: 752721 bytes
+2025-04-24 19:17:00,136 [zadowolenie] INFO: [2/4] BN2010110: 4031.00 PLN | Instock | 2 remaining
+2025-04-24 19:17:02,846 [zadowolenie] INFO: 😴 Sleeping for 57.16 seconds before request 4/4
+2025-04-24 19:18:00,023 [zadowolenie] INFO: 🚀 Sending request 4/4 to https://www.zadowolenie.pl/motorola-smartfon-edge-50-pro-12gb-512gb-black-beauty-czarny for BN2009287
+2025-04-24 19:18:00,029 [zadowolenie] INFO: 📋 Response for BN4000659 | Status: 200 | Size: 743601 bytes
+2025-04-24 19:18:00,092 [zadowolenie] INFO: [3/4] BN4000659: 1709.00 PLN | Instock | 1 remaining
+2025-04-24 19:18:02,968 [zadowolenie] INFO: 📋 Response for BN2009287 | Status: 200 | Size: 698732 bytes
+2025-04-24 19:18:03,023 [zadowolenie] INFO: [4/4] BN2009287: 0.00 PLN | Outstock | 0 remaining
+2025-04-24 19:18:03,026 [zadowolenie] INFO: ✅ Spider zadowolenie completed
+2025-04-24 19:18:03,026 [zadowolenie] INFO: 🕒 Total time: 00:03:35
+2025-04-24 19:18:03,027 [zadowolenie] INFO: 📊 Processed 4 items
+2025-04-24 19:18:03,027 [zadowolenie] INFO: ⚡ Performance: 1.11 items/minute
+2025-04-24 19:18:14,535 [zadowolenie] INFO: ==================================================
+2025-04-24 19:18:14,535 [zadowolenie] INFO: SPIDER RUN COMPLETED: zadowolenie
+2025-04-24 19:18:14,537 [zadowolenie] INFO: Items processed: 4
+2025-04-24 19:18:14,537 [zadowolenie] INFO: Duration: 00:03:47
+2025-04-24 19:18:14,537 [zadowolenie] INFO: Performance: 1.06 items/minute
+2025-04-24 19:18:14,537 [zadowolenie] INFO: ==================================================
