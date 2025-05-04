@@ -32,7 +32,7 @@ import glob
 import json
 
 # Usage examples:
-# python -m main                 - Run all enabled spiders in separate windows
+# python -m main                 - Run all enabled spider in separate windows
 # python -m main Amazon          - Run just Amazon spider
 
 # Enable or disable markets by uncommenting or commenting
@@ -51,10 +51,10 @@ ENABLED_MARKETS = [
     "T-Mobile",
     "XiaomiPL",
     "Zadowolenie",
-    # "Mediamarkt",
+    # "Mediamarkt", # ProtonVPN
     "Morele",
     # "Plus",
-    # "SamsungPL",
+    "SamsungPL",
     "Sferis",
     "Vobis",
     # "x-kom",

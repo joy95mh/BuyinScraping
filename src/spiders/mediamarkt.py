@@ -105,11 +105,11 @@ class Mediamarkt(BaseSpider):
             'upgrade-insecure-requests': '1',
             'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
             'referer': 'https://mediamarkt.pl/'
-        }
-
+    }
+        
     def __init__(self, input_data=None, *args, **kwargs):
         super().__init__(input_data, *args, **kwargs)
-        
+    
         # Store product results
         self.processed_products = []
         
@@ -404,13 +404,13 @@ class Mediamarkt(BaseSpider):
     def element_exists(self, tree, xpath):
         """Check if element exists in lxml tree"""
         return len(tree.xpath(xpath)) > 0
-    
+        
     def fix_price(self, price_text):
         """Helper method to clean price string"""
         if price_text:
             return format_pl_price(price_text)
         return ""
-    
+        
     def simulate_human_behavior(self):
         """Simulate human-like behavior with scrolling"""
         try:
@@ -480,8 +480,7 @@ class Mediamarkt(BaseSpider):
                 yield self.get_next_product_request()
             else:
                 self.close_webdriver()
-            return
-            
+                return
         # Refresh browser after certain number of products to manage memory
         self.products_processed += 1
         if self.products_processed % self.browser_refresh_interval == 0:
@@ -585,14 +584,14 @@ class Mediamarkt(BaseSpider):
         
         # Create default item
         item = self.create_default_item(row)
-        
+
         try:
             # Parse the HTML
             tree = html.fromstring(page_source)
             
             price = ""
             stock_status = ""
-            
+
             # Try to get price from JSON-LD data first
             json_ld_elements = tree.xpath("//script[@type='application/ld+json' and contains(text(),'priceCurrency')]/text()")
             if json_ld_elements:
@@ -600,7 +599,7 @@ class Mediamarkt(BaseSpider):
                     data = json.loads(json_ld_elements[0])
                     price = 'offers' in data and data['offers']['price'] or ""
                     price = self.fix_price(str(price))
-                    
+
                     # Check if availability indicates out of stock
                     if 'offers' in data and 'availability' in data['offers']:
                         availability = data['offers']['availability']
@@ -654,11 +653,11 @@ class Mediamarkt(BaseSpider):
                 elif any(self.element_exists(tree, selector) for selector in out_of_stock_selectors):
                     stock_status = "Outstock"
                     price = "0.00"
-                else:
+            else:
                     # Default case if no explicit indicators
-                    stock_status = "Outstock"
-                    price = "0.00"
-            
+                stock_status = "Outstock"
+                price = "0.00"
+                
             self.log_info(f"{url_id}: {price} PLN | {stock_status}")
             
             # Update the item with actual values
@@ -666,7 +665,7 @@ class Mediamarkt(BaseSpider):
             item["out_of_stock"] = stock_status
             
             return item
-            
+                
         except Exception as e:
             self.log_error(f"⚠️ Error processing {url_id}: {str(e)}")
             return item
@@ -688,7 +687,7 @@ class Mediamarkt(BaseSpider):
     def create_cloudflare_blocked_item(self, row):
         """Create a product item for CloudFlare blocked products to be retried later"""
         url = row["PriceLink"]
-        
+
         item = ProductItem()
         item["price_link"] = url
         item["xpath_result"] = ""  # Empty price
