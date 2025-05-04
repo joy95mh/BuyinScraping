@@ -30,7 +30,6 @@ from src.spiders.vobis import Vobis
 from src.spiders.xkom import Xkom
 import glob
 import json
-
 # Usage examples:
 # python -m main                 - Run all enabled spider in separate processes
 # python -m main Amazon          - Run just Amazon spider
@@ -93,39 +92,42 @@ def setup_logging():
     # Clear any existing handlers
     logging.root.handlers = []
     
-    # Configure basic logging
-    logging.basicConfig(
-        level=logging.INFO,
-        format='%(asctime)s [%(name)s] %(levelname)s: %(message)s',
-        datefmt='%Y-%m-%d %H:%M:%S',
-        force=True  # Force reconfiguration to prevent duplicate logging
-    )
+    # Configure basic logging with a proper StreamHandler
+    console_handler = logging.StreamHandler()
+    console_handler.setLevel(logging.INFO)
+    console_handler.setFormatter(logging.Formatter(
+        '%(asctime)s [%(name)s] %(levelname)s: %(message)s',
+        datefmt='%Y-%m-%d %H:%M:%S'
+    ))
     
-    # Force UTF-8 encoding for the StreamHandler (console output)
-    for handler in logging.root.handlers:
-        if isinstance(handler, logging.StreamHandler):
-            handler.setStream(open(handler.stream.fileno(), mode='w', encoding='utf-8', errors='backslashreplace'))
+    # Add the handler to the root logger
+    logging.root.addHandler(console_handler)
+    logging.root.setLevel(logging.INFO)
     
-    # Create logger
     return logging.getLogger(__name__)
 
 # Load configuration
 def load_config():
     config_path = os.path.join(os.path.dirname(__file__), 'input_folder_config.json')
+    print(f"Debug: Config path: {config_path}")  # Add this
     if os.path.exists(config_path):
-        with open(config_path, 'r') as f:
-            return json.load(f)
-    
-    # Default paths based on platform
+        print("Debug: Config file exists")  # Add this
+        try:
+            with open(config_path, 'r') as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"Error loading config: {str(e)}")
+            raise
+    print("Debug: Using default config")  # Add this
     if sys.platform == 'win32':
         return {
-            "input_folder": r"\\SERVER\SharedFolder\BuyinScraping\input",  # Default network share path
-            "local_input_folder": r"C:\Python\Python310\projects\BuyinScraping\input",  # Fallback local path
+            "input_folder": r"\\SERVER\SharedFolder\BuyinScraping\input",
+            "local_input_folder": r"C:\Python\Python310\projects\BuyinScraping\input",
         }
     else:
         return {
-            "input_folder": "/mnt/shared/BuyinScraping/input",  # Linux shared folder
-            "local_input_folder": "/home/itdev/BuyinScraping/input",  # Linux local path
+            "input_folder": "/mnt/shared/BuyinScraping/input",
+            "local_input_folder": "/home/itdev/BuyinScraping/input",
         }
 
 def get_absolute_path(relative_path):
@@ -145,55 +147,40 @@ def get_absolute_path(relative_path):
     return absolute_path
 
 def find_input_file():
-    """Find the most recent input Excel file from configured locations"""
-    logger = setup_logging()
-    
-    # Load configuration
-    config = load_config()
-    input_paths = [
-        config["input_folder"],  # Try shared folder first
-        config["local_input_folder"],  # Fallback to local folder
-        get_absolute_path("input")  # Final fallback to project folder
-    ]
-    
-    # Find Excel files in the input directories
-    input_files = []
-    used_path = None
-    
-    for input_path in input_paths:
-        logger.info(f"Checking input path: {input_path}")
-        if not os.path.exists(input_path):
-            logger.warning(f"Input path not found: {input_path}")
-            continue
-            
-        # Look for Excel files in this path
-        for pattern in ["*.xlsm", "*.xlsx"]:
-            files = glob.glob(os.path.join(input_path, pattern))
-            # Filter out backup files
-            valid_files = [f for f in files] # if "backup" not in f.lower()
-            if valid_files:
-                input_files.extend(valid_files)
-                used_path = input_path
-                logger.info(f"Found {len(valid_files)} Excel files in: {input_path}")
+    try:
+        logger = setup_logging()
+        config = load_config()
+        input_paths = [
+            config["input_folder"],
+            config["local_input_folder"],
+            get_absolute_path("input")
+        ]
+        print("Debug: Checking paths:", input_paths)
+        input_files = []
+        used_path = None
+        for input_path in input_paths:
+            logger.info(f"Checking input path: {input_path}")
+            if not os.path.exists(input_path):
+                logger.warning(f"Input path not found: {input_path}")
+                continue
+            for pattern in ["*.xlsm", "*.xlsx"]:
+                files = glob.glob(os.path.join(input_path, pattern))
+                valid_files = [f for f in files]
+                if valid_files:
+                    input_files.extend(valid_files)
+                    used_path = input_path
+                    logger.info(f"Found {len(valid_files)} Excel files in: {input_path}")
+                    break
+            if input_files:
                 break
-                
-        if input_files:  # If we found files, stop looking in other paths
-            break
-
-    if not input_files:
-        logger.error("No Excel files found in any input location. Please ensure:")
-        logger.error(f"1. Files exist in one of these locations:")
-        for path in input_paths:
-            logger.error(f"   - {path}")
-        logger.error("2. Files are .xlsm or .xlsx format")
-        return None, None
-
-    # Get the most recent file by modification time
-    input_file = max(input_files, key=os.path.getmtime)
-    logger.info(f"Using input file: {input_file}")
-    logger.info(f"From location: {used_path}")
-    
-    return input_file, used_path
+        if not input_files:
+            logger.error("No Excel files found in any input location.")
+            return None, None
+        input_file = max(input_files, key=os.path.getmtime)
+        return input_file, used_path
+    except Exception as e:
+        print(f"Error in find_input_file: {str(e)}")
+        raise
 
 def open_spider_process(market_player, input_file=None):
     """Opens a new process to run the specified market spider"""
@@ -231,21 +218,13 @@ def open_spider_process(market_player, input_file=None):
             # creationflags=subprocess.CREATE_NEW_CONSOLE
         )
     else:
-        # Linux: use subprocess.Popen with setsid for detached process
-        # Redirect output to log files
-        log_dir = os.path.join(os.path.dirname(script_path), 'logs', 'processes')
-        os.makedirs(log_dir, exist_ok=True)
-        
-        stdout_file = os.path.join(log_dir, f"{market_player.lower().replace(' ', '_')}_out.log")
-        stderr_file = os.path.join(log_dir, f"{market_player.lower().replace(' ', '_')}_err.log")
-        
-        with open(stdout_file, 'w') as stdout, open(stderr_file, 'w') as stderr:
-            process = subprocess.Popen(
-                cmd,
-                stdout=stdout,
-                stderr=stderr,
-                preexec_fn=os.setsid  # Run in a new process group
-            )
+        process = subprocess.Popen(
+            cmd,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            preexec_fn=os.setsid
+        )
+        print(f"Started process PID: {process.pid}")
     
     logger.info(f"Process started for {market_player}")
     return process
