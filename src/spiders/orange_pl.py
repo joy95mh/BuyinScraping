@@ -132,18 +132,6 @@ class Orange(BaseSpider):
         price_link = row["PriceLink"]
         url_id = response.meta.get("url_id", row.get("BNCode", "unknown"))
         retry_count = response.meta.get("retry_count", 0)
-        if response.status == 404:
-            # Create product item with default values for missing product
-            item = ProductItem()
-            item["price_link"] = row["PriceLink"]
-            item["xpath_result"] = "0.00"
-            item["out_of_stock"] = "Outstock"
-            item["market_player"] = self.market_player
-            if "BNCode" in row:
-                item["bn_code"] = row["BNCode"]
-            
-            self.log_info(f"Setting default values for 404 {url_id}: price=0.00, status=Outstock")
-            yield item
         # Log the response status
         self.log_info(f"📋 Response for {url_id} | Status: {response.status} | Size: {len(response.body)} bytes")
         
@@ -155,8 +143,8 @@ class Orange(BaseSpider):
                 # Return product as out of stock when we can't process it
                 item = ProductItem()
                 item["price_link"] = price_link
-                item["xpath_result"] = "0.00"
-                item["out_of_stock"] = "Outstock"
+                item["xpath_result"] = ""
+                item["out_of_stock"] = ""
                 item["market_player"] = self.market_player
                 if "BNCode" in row:
                     item["bn_code"] = row["BNCode"]

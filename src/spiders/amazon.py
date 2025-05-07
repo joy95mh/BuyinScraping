@@ -113,14 +113,14 @@ class Amazon(BaseSpider):
     use_human_like_delay = True
 
     # Custom sleep time range for human-like delays
-    min_sleep_time = 20  # Increase minimum sleep time in seconds
-    max_sleep_time = 25  # Increase maximum sleep time in seconds
+    min_sleep_time = 30  # Increase minimum sleep time in seconds
+    max_sleep_time = 40  # Increase maximum sleep time in seconds
     between_products_delay = 1  # Increase delay between products
     between_retries_delay = 1  # Increase delay before retrying with a new proxy
 
     custom_settings = {
         **BaseSpider.custom_settings,
-        'DOWNLOAD_DELAY': 3,  # Increase delay
+        'DOWNLOAD_DELAY': 5,  # Increase delay
         'DOWNLOAD_TIMEOUT': 30,  # Increase timeout
         'HTTPERROR_ALLOW_ALL': False,
         'HTTPERROR_ALLOWED_CODES': [202, 404, 410, 429, 503],
@@ -178,6 +178,20 @@ class Amazon(BaseSpider):
         # Use the base implementation first
         if super().is_validation_page(response):
             return True
+
+        # Check for Amazon's redirect to verification page (often has these keywords)
+        if "validateCaptcha" in response.url or "opfcaptcha" in response.url:
+            self.log_warning("⚠️ Amazon CAPTCHA URL detected")
+            return True
+            
+        # Polish Amazon validation messages
+        if "Wprowadź znaki, które widzisz poniżej" in response.text:
+            self.log_warning("⚠️ Polish Amazon validation page detected")
+            return True
+        
+        if 'validateCaptcha' in response.text:
+            self.log_warning("⚠️ Amazon CAPTCHA detected")
+            return True
             
         return False
 
@@ -230,15 +244,6 @@ class Amazon(BaseSpider):
                 if response.meta.get("using_emergency_proxy"):
                     self.log_error(f"⚠️ Even proxy approach failed for {url_id}")
                 
-                # Fallback: return as unavailable
-                item = ProductItem()
-                item["price_link"] = price_link
-                item["xpath_result"] = "0.00"
-                item["out_of_stock"] = "Outstock"
-                item["market_player"] = self.market_player
-                if "BNCode" in row:
-                    item["bn_code"] = row["BNCode"]
-                yield item
                 return
                 
             # Calculate exponential backoff delay - the more retries, the longer the wait
@@ -319,15 +324,6 @@ class Amazon(BaseSpider):
                     )
                     return
                 
-                # Fallback: return as unavailable
-                item = ProductItem()
-                item["price_link"] = price_link
-                item["xpath_result"] = "0.00"
-                item["out_of_stock"] = "Outstock"
-                item["market_player"] = self.market_player
-                if "BNCode" in row:
-                    item["bn_code"] = row["BNCode"]
-                yield item
                 return
 
         try:

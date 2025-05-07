@@ -136,18 +136,7 @@ class RtvEuroAgd(BaseSpider):
         row = product_rows[product_index]
         url = row["PriceLink"]
         url_id = row.get("BNCode", "unknown")
-        if response.status == 404:
-            # Create product item with default values for missing product
-            item = ProductItem()
-            item["price_link"] = row["PriceLink"]
-            item["xpath_result"] = "0.00"
-            item["out_of_stock"] = "Outstock"
-            item["market_player"] = self.market_player
-            if "BNCode" in row:
-                item["bn_code"] = row["BNCode"]
-            
-            self.log_info(f"Setting default values for 404 {url_id}: price=0.00, status=Outstock")
-            yield item
+        
         # Add human-like delay
         if self.use_human_like_delay:
             sleep_time = random.uniform(self.min_sleep_time, self.max_sleep_time)
@@ -204,7 +193,7 @@ class RtvEuroAgd(BaseSpider):
                     try:
                         data = json.loads(json_ld_elements[0])
                         price = 'offers' in data and data['offers']['price'] or ""
-                        price = self.format_pl_price(str(price))
+                        price = format_pl_price(str(price))
 
                         # Check if availability indicates out of stock
                         if 'offers' in data and 'availability' in data['offers']:
@@ -228,7 +217,7 @@ class RtvEuroAgd(BaseSpider):
                         elements = tree.xpath(selector)
                         if elements:
                             price_element = elements[0]
-                            price = self.format_pl_price(price_element)
+                            price = format_pl_price(price_element)
                             if price:
                                 break
                 

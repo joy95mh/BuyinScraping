@@ -14,8 +14,8 @@ class Komputronik(BaseSpider):
     use_human_like_delay = True
     
     # Custom sleep time range for human-like delays
-    min_sleep_time = 20  # Minimum sleep time in seconds
-    max_sleep_time = 30  # Maximum sleep time in seconds
+    min_sleep_time = 10  # Minimum sleep time in seconds
+    max_sleep_time = 20  # Maximum sleep time in seconds
     between_products_delay = 5  # Additional delay between products when using proxy manager
     between_retries_delay = 3  # Delay before retrying with a new proxy after failure
     
@@ -121,32 +121,12 @@ class Komputronik(BaseSpider):
         
         # Log the response status
         self.log_info(f"📋 Response for {url_id} | Status: {response.status} | Size: {len(response.body)} bytes")
-        if response.status == 404:
-            # Create product item with default values for missing product
-            item = ProductItem()
-            item["price_link"] = row["PriceLink"]
-            item["xpath_result"] = "0.00"
-            item["out_of_stock"] = "Outstock"
-            item["market_player"] = self.market_player
-            if "BNCode" in row:
-                item["bn_code"] = row["BNCode"]
-            
-            self.log_info(f"Setting default values for 404 {url_id}: price=0.00, status=Outstock")
-            yield item
+        
         # Handle 429 Too Many Requests - implement exponential backoff
         if response.status == 429:
             # Max retries to prevent infinite loops
             if retry_count >= 3:
-                self.log_error(f"⚠️ Max retries exceeded for {url_id} after 429 status code")
-                # Return product as out of stock when we can't process it
-                item = ProductItem()
-                item["price_link"] = price_link
-                item["xpath_result"] = "0.00"
-                item["out_of_stock"] = "Outstock"
-                item["market_player"] = self.market_player
-                if "BNCode" in row:
-                    item["bn_code"] = row["BNCode"]
-                yield item
+                
                 return
                 
             # Calculate exponential backoff delay - the more retries, the longer the wait
@@ -207,9 +187,6 @@ class Komputronik(BaseSpider):
             if self.element_exists(response, "//button[@data-name='addToCartButton'][@disabled]"):
                 stock_status = "Outstock"
                 price = "0.00"
-            elif response.xpath("//button[not(@data-name='addToCartButton')]"):
-                stock_status = "Outstock"  # Match Excel file's existing value
-                price = "0.00"  # Format as 0.00 for consistency
             else:
                 stock_status = "Instock"
                 

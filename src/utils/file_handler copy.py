@@ -10,11 +10,7 @@ import shutil
 import re
 import time
 import random
-from queue import Queue, Empty
-
-# Create a global Queue to simulate lock (acts as a semaphore with 1 token)
-file_queue = Queue(maxsize=1)
-file_queue.put(True)  # initialize with a token
+from filelock import FileLock
 
 # Configure module-level logger with a simplified name
 logger = logging.getLogger("file_handler")
@@ -143,14 +139,8 @@ def update_input_file(input_file, items):
     max_retries = 5
     base_retry_delay = 20  # seconds
     
-    # Try to acquire file access using Queue (acts like lock)
-    try:
-        file_queue.get(timeout=300)  # Block up to 5 minutes
-    except Empty:
-        logger.error("Could not acquire access to the file (timeout).")
-        return 0
-    
-    try:
+    lock_path = input_file + ".lock"
+    with FileLock(lock_path, timeout=300):  # Wait up to 5 minutes for the lock
         # Try multiple times to update the file in case of concurrent access
         for attempt in range(1, max_retries + 1):
             try:
@@ -533,8 +523,6 @@ def update_input_file(input_file, items):
                     import traceback
                     logger.error(traceback.format_exc())
                     return 0
-    finally:
-        file_queue.put(True)  # Release lock after work
     
     # If we reach here without a return, it means we successfully updated the file on one of the retries
     return updated_count

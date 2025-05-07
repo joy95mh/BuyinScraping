@@ -1,0 +1,99 @@
+2025-05-06 11:25:22,820 [amazon] INFO: 🕷️ Initializing amazon spider
+2025-05-06 11:25:22,820 [amazon] INFO: 🔄 Proxy Manager: Enabled
+2025-05-06 11:25:22,821 [amazon] INFO: 🕒 Human-like delays: Enabled
+2025-05-06 11:25:23,801 [amazon] INFO: 🕷️ Starting Amazon spider
+2025-05-06 11:25:23,802 [amazon] INFO: 🔍 Total products to scrape: 1
+2025-05-06 11:25:23,802 [amazon] INFO: Using proxy manager with your own proxy first
+2025-05-06 11:25:23,803 [amazon] INFO: 🔄 Getting proxies from https://free-proxy-list.net/
+2025-05-06 11:25:25,607 [amazon] INFO: 🔍 Found 24 HTTPS proxies out of 300 total proxies
+2025-05-06 11:25:25,607 [amazon] INFO:   Proxy #1: 213.226.119.120:4857 (HTTPS)
+2025-05-06 11:25:25,608 [amazon] INFO:   Proxy #2: 200.174.198.86:8888 (HTTPS)
+2025-05-06 11:25:25,609 [amazon] INFO:   Proxy #3: 103.240.60.217:8080 (HTTPS)
+2025-05-06 11:25:25,610 [amazon] INFO:   Proxy #4: 119.156.195.173:3128 (HTTPS)
+2025-05-06 11:25:25,611 [amazon] INFO:   Proxy #5: 8.219.97.248:80 (HTTPS)
+2025-05-06 11:25:25,611 [amazon] INFO:   ... and 19 more
+2025-05-06 11:25:25,611 [amazon] INFO: Added your own proxy + 24 public proxies (limited to 100 total)
+2025-05-06 11:25:25,613 [amazon] INFO: 🔄 Starting with your own proxy: 192.168.101.27:8080 (1/25)
+2025-05-06 11:25:25,618 [amazon] INFO: Using proxy URL: http://192.168.101.27:8080
+2025-05-06 11:25:46,765 [amazon] ERROR: ❌ Error [unknown]: TCPTimedOutError occurred with http://192.168.101.27:8080: TCP connection timed out: 10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond..
+2025-05-06 11:25:46,767 [amazon] INFO: 🔄 Moving to next proxy (1/25)
+2025-05-06 11:25:46,769 [amazon] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from amazon's settings)
+2025-05-06 11:25:47,775 [amazon] INFO: 🔄 Trying with public HTTPS proxy: 213.226.119.120:4857
+2025-05-06 11:25:49,101 [amazon] ERROR: ❌ Error [unknown]: TunnelError occurred with https://213.226.119.120:4857: Could not open CONNECT tunnel with proxy 213.226.119.120:4857 [{'status': 503, 'reason': b'Service Unavailable'}]
+2025-05-06 11:25:49,102 [amazon] INFO: 🔄 Moving to next proxy (2/25)
+2025-05-06 11:25:49,103 [amazon] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from amazon's settings)
+2025-05-06 11:25:50,112 [amazon] INFO: 🔄 Trying with public HTTPS proxy: 200.174.198.86:8888
+2025-05-06 11:26:20,433 [amazon] ERROR: ❌ Error [unknown]: TimeoutError occurred with https://200.174.198.86:8888: User timeout caused connection failure: Getting https://www.amazon.pl/dp/B07V6MB49Q/ref=olp_aod_early_redir?_encoding=UTF8&aod=1&th=1 took longer than 30.0 seconds..
+2025-05-06 11:26:20,435 [amazon] INFO: 🔄 Moving to next proxy (3/25)
+2025-05-06 11:26:20,436 [amazon] INFO: ⏱️ Waiting 1 seconds before trying next proxy (from amazon's settings)
+2025-05-06 11:26:21,444 [amazon] INFO: 🔄 Trying with public HTTPS proxy: 103.240.60.217:8080
+2025-05-06 11:26:21,452 [amazon] INFO: ==================================================
+2025-05-06 11:26:21,453 [amazon] INFO: SPIDER RUN COMPLETED: amazon
+2025-05-06 11:26:21,453 [amazon] INFO: Items processed: 0
+2025-05-06 11:26:21,453 [amazon] INFO: Duration: 00:00:58
+2025-05-06 11:26:21,454 [amazon] INFO: Performance: 0.00 items/minute
+2025-05-06 11:26:21,455 [amazon] INFO: ==================================================
+2025-05-06 11:56:52,121 [amazon] INFO: 🕷️ Initializing amazon spider
+2025-05-06 11:56:52,122 [amazon] INFO: 🔄 Proxy Manager: Enabled
+2025-05-06 11:56:52,123 [amazon] INFO: 🕒 Human-like delays: Enabled
+2025-05-06 11:56:52,473 [amazon] INFO: 🕷️ Starting Amazon spider
+2025-05-06 11:56:52,473 [amazon] INFO: 🔍 Total products to scrape: 1
+2025-05-06 11:56:52,474 [amazon] INFO: Using proxy manager with your own proxy first
+2025-05-06 11:56:52,474 [amazon] INFO: 🔄 Getting proxies from https://free-proxy-list.net/
+2025-05-06 11:56:52,948 [amazon] INFO: 🔍 Found 17 HTTPS proxies out of 300 total proxies
+2025-05-06 11:56:52,949 [amazon] INFO:   Proxy #1: 119.156.195.173:3128 (HTTPS)
+2025-05-06 11:56:52,950 [amazon] INFO:   Proxy #2: 3.26.71.155:80 (HTTPS)
+2025-05-06 11:56:52,951 [amazon] INFO:   Proxy #3: 43.156.38.109:988 (HTTPS)
+2025-05-06 11:56:52,951 [amazon] INFO:   Proxy #4: 8.219.97.248:80 (HTTPS)
+2025-05-06 11:56:52,952 [amazon] INFO:   Proxy #5: 52.194.186.70:1080 (HTTPS)
+2025-05-06 11:56:52,952 [amazon] INFO:   ... and 12 more
+2025-05-06 11:56:52,952 [amazon] INFO: Added your own proxy + 17 public proxies (limited to 100 total)
+2025-05-06 11:56:52,953 [amazon] INFO: 🔄 Starting with your own proxy: 192.168.101.27:8080 (1/18)
+2025-05-06 11:56:52,959 [amazon] INFO: Using proxy URL: http://192.168.101.27:8080
+2025-05-06 11:56:56,096 [amazon] INFO: ✅ Successfully got 200 response for TM71005312 (Size: 783442 bytes)
+2025-05-06 11:56:56,118 [amazon] INFO: Searching for sold and shipped by Amazon (AOD): False
+2025-05-06 11:56:56,118 [amazon] INFO: Searching for sold and shipped by Amazon (Buybox): True
+2025-05-06 11:56:56,126 [amazon] INFO: [1/1] TM71005312: 361.13 PLN | InStock | 0 remaining
+2025-05-06 11:56:56,128 [amazon] INFO: ✅ All products processed!
+2025-05-06 11:56:56,130 [amazon] INFO: ✅ Spider amazon completed
+2025-05-06 11:56:56,131 [amazon] INFO: 🕒 Total time: 00:00:04
+2025-05-06 11:56:56,131 [amazon] INFO: 📊 Processed 1 items
+2025-05-06 11:56:56,132 [amazon] INFO: ⚡ Performance: 14.97 items/minute
+2025-05-06 11:56:59,857 [amazon] INFO: ==================================================
+2025-05-06 11:56:59,858 [amazon] INFO: SPIDER RUN COMPLETED: amazon
+2025-05-06 11:56:59,858 [amazon] INFO: Items processed: 1
+2025-05-06 11:56:59,859 [amazon] INFO: Duration: 00:00:07
+2025-05-06 11:56:59,859 [amazon] INFO: Performance: 7.76 items/minute
+2025-05-06 11:56:59,861 [amazon] INFO: ==================================================
+2025-05-06 11:58:21,130 [amazon] INFO: 🕷️ Initializing amazon spider
+2025-05-06 11:58:21,131 [amazon] INFO: 🔄 Proxy Manager: Enabled
+2025-05-06 11:58:21,132 [amazon] INFO: 🕒 Human-like delays: Enabled
+2025-05-06 11:58:21,230 [amazon] INFO: 🕷️ Starting Amazon spider
+2025-05-06 11:58:21,230 [amazon] INFO: 🔍 Total products to scrape: 1
+2025-05-06 11:58:21,231 [amazon] INFO: Using proxy manager with your own proxy first
+2025-05-06 11:58:21,231 [amazon] INFO: 🔄 Getting proxies from https://free-proxy-list.net/
+2025-05-06 11:58:21,644 [amazon] INFO: 🔍 Found 17 HTTPS proxies out of 300 total proxies
+2025-05-06 11:58:21,645 [amazon] INFO:   Proxy #1: 40.76.69.94:8080 (HTTPS)
+2025-05-06 11:58:21,645 [amazon] INFO:   Proxy #2: 159.69.57.20:8880 (HTTPS)
+2025-05-06 11:58:21,647 [amazon] INFO:   Proxy #3: 128.140.113.110:3128 (HTTPS)
+2025-05-06 11:58:21,647 [amazon] INFO:   Proxy #4: 72.10.160.91:30895 (HTTPS)
+2025-05-06 11:58:21,647 [amazon] INFO:   Proxy #5: 3.110.60.103:80 (HTTPS)
+2025-05-06 11:58:21,648 [amazon] INFO:   ... and 12 more
+2025-05-06 11:58:21,648 [amazon] INFO: Added your own proxy + 17 public proxies (limited to 100 total)
+2025-05-06 11:58:21,648 [amazon] INFO: 🔄 Starting with your own proxy: 192.168.101.27:8080 (1/18)
+2025-05-06 11:58:21,655 [amazon] INFO: Using proxy URL: http://192.168.101.27:8080
+2025-05-06 11:58:24,361 [amazon] INFO: ✅ Successfully got 200 response for TM71005312 (Size: 948443 bytes)
+2025-05-06 11:58:24,386 [amazon] INFO: Searching for sold and shipped by Amazon (AOD): False
+2025-05-06 11:58:24,387 [amazon] INFO: Searching for sold and shipped by Amazon (Buybox): True
+2025-05-06 11:58:24,393 [amazon] INFO: [1/1] TM71005312: 361.13 PLN | InStock | 0 remaining
+2025-05-06 11:58:24,395 [amazon] INFO: ✅ All products processed!
+2025-05-06 11:58:24,397 [amazon] INFO: ✅ Spider amazon completed
+2025-05-06 11:58:24,398 [amazon] INFO: 🕒 Total time: 00:00:03
+2025-05-06 11:58:24,398 [amazon] INFO: 📊 Processed 1 items
+2025-05-06 11:58:24,399 [amazon] INFO: ⚡ Performance: 18.38 items/minute
+2025-05-06 11:58:27,957 [amazon] INFO: ==================================================
+2025-05-06 11:58:27,957 [amazon] INFO: SPIDER RUN COMPLETED: amazon
+2025-05-06 11:58:27,957 [amazon] INFO: Items processed: 1
+2025-05-06 11:58:27,959 [amazon] INFO: Duration: 00:00:06
+2025-05-06 11:58:27,959 [amazon] INFO: Performance: 8.79 items/minute
+2025-05-06 11:58:27,959 [amazon] INFO: ==================================================

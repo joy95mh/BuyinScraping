@@ -36,27 +36,27 @@ import json
 
 # Enable or disable markets by uncommenting or commenting
 ENABLED_MARKETS = [
-    "Oleole", 
-    "Amazon",
-    "Komputronik",
-    # "Media Expert", # ProtonVPN
-    "Neonet",
-    "Orange",
-    "Play",
-    "Play S",
-    "Play M",
-    "Play L",
-    # "RTV Euro AGD", # ProtonVPN
-    "T-Mobile",
-    "XiaomiPL",
-    "Zadowolenie",
-    # "Mediamarkt", # ProtonVPN
-    "Morele",
-    # "Plus",
-    "SamsungPL",
-    "Sferis",
-    "Vobis",
-    # "x-kom",
+#     "Oleole", 
+#     "Amazon",
+#     "Komputronik",
+    "Media Expert", # ProtonVPN
+#     "Neonet",
+#     "Orange",
+#     "Play",
+#     "Play S",
+#     "Play M",
+#     "Play L",
+    "RTV Euro AGD", # ProtonVPN
+#     "T-Mobile",
+#     "XiaomiPL",
+#     "Zadowolenie",
+    "Mediamarkt", # ProtonVPN
+#     "Morele",
+#     "Plus",
+#     "SamsungPL",
+#     "Sferis",
+#     "Vobis",
+#     "x-kom",
 ]
 
 # Define spider mapping
@@ -207,13 +207,12 @@ def open_spider_process(market_player, input_file=None):
     # Build command
     cmd = [sys.executable, script_path, run_arg]
     
-    # Platform specific process creation
     if sys.platform == 'win32':
         # Windows: use subprocess.Popen with appropriate settings
         process = subprocess.Popen(
             cmd,
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
+            stdout=None,
+            stderr=None,
             # Uncomment for separate console window on Windows
             # creationflags=subprocess.CREATE_NEW_CONSOLE
         )
@@ -232,8 +231,12 @@ def open_spider_process(market_player, input_file=None):
 def execute_spider_in_current_window(market_player):
     """Executes the spider directly in the current console window"""
     logger = setup_logging()
-    # Set up the spider-specific logger too
-    spider_logger = setup_spider_logger(market_player.lower().replace(" ", "_"))
+    
+    # Get the spider class
+    spider_class = SPIDER_MAPPING[market_player]
+    
+    # Set up the spider-specific logger using the class name instead of market name
+    spider_logger = setup_spider_logger(spider_class.name.lower())
     
     logger.info(f"Running {market_player} spider...")
     
@@ -309,9 +312,6 @@ def execute_spider_in_current_window(market_player):
     # Create process
     process = CrawlerProcess(settings)
     
-    # Get the spider class
-    spider_class = SPIDER_MAPPING[market_player]
-    
     # Add spider to the crawler process
     if market_player in ["Play S", "Play M", "Play L"]:
         process.crawl(spider_class, input_data=filtered_data, market_player=market_player, input_file=input_file)
@@ -324,101 +324,22 @@ def execute_spider_in_current_window(market_player):
     logger.info(f"{market_player} spider completed")
     
     # Check the log file
-    log_file_info = get_log_file_path(market_player.lower().replace(" ", "_"))
+    log_file_info = get_log_file_path(spider_class.name.lower())
     if log_file_info:
         logger.info(f"Detailed log available at: {log_file_info}")
 
-def open_all_spider_processes():
-    """Opens separate processes for all enabled market spiders with smart scheduling"""
+def open_all_enabled_spiders():
     logger = setup_logging()
-    
-    # Find input file first to ensure it's passed to all spiders
-    input_file, input_location = find_input_file()
-    if not input_file:
-        logger.error("No input file found! Cannot run spiders.")
-        return
-    
-    logger.info(f"Using input file for all spiders: {input_file}")
-    
-    # Get markets to run
-    markets_to_run = [m for m in ENABLED_MARKETS if m in SPIDER_MAPPING]
-    
-    start_time = datetime.now()
-    logger.info(f"Starting all enabled markets at {start_time}")
-    logger.info(f"Will run {len(markets_to_run)} markets")
+    logger.info("Launching all enabled spiders in separate processes...")
 
-    # Define the optimal number of simultaneous spiders to run
-    # Use a higher number for better performance, but with safe file handling
-    CONCURRENT_SPIDERS = 20  # Adjust based on your system's capacity
-    
-    # Start all processes with monitoring
-    all_processes = []
-    running_processes = []
-    
-    for market in markets_to_run:
-        # If we already have max concurrent spiders running, wait for one to finish
-        while len(running_processes) >= CONCURRENT_SPIDERS:
-            # Check which processes have finished
-            finished_processes = []
-            for i, (m, p) in enumerate(running_processes):
-                if p.poll() is not None:  # Process has finished
-                    finished_processes.append(i)
-                    logger.info(f"Spider {m} completed")
-            
-            # Remove finished processes from running list (in reverse order to avoid index issues)
-            for i in sorted(finished_processes, reverse=True):
-                running_processes.pop(i)
-            
-            # If we still have max processes running, wait a bit
-            if len(running_processes) >= CONCURRENT_SPIDERS:
-                time.sleep(3)  # Short delay to check again
-                continue
-            else:
-                # Allow a short delay between finishing one spider and starting another
-                # This helps prevent file access conflicts
-                time.sleep(20)
-                break
-        
-        # Start new spider process
-        logger.info(f"Starting process for: {market} ({len(running_processes) + 1}/{CONCURRENT_SPIDERS} concurrent)")
-        
-        process = open_spider_process(market, input_file)
-        if process:
-            process_tuple = (market, process)
-            running_processes.append(process_tuple)
-            all_processes.append(process_tuple)
-            
-            # Small delay between starting new processes
-            time.sleep(10)
-    
-    # Wait for all remaining processes to complete
-    if running_processes:
-        logger.info(f"Waiting for remaining {len(running_processes)} processes to complete...")
-        
-        while running_processes:
-            # Check which processes have finished
-            finished_processes = []
-            for i, (m, p) in enumerate(running_processes):
-                if p.poll() is not None:  # Process has finished
-                    finished_processes.append(i)
-                    logger.info(f"Spider {m} completed")
-            
-            # Remove finished processes
-            for i in sorted(finished_processes, reverse=True):
-                running_processes.pop(i)
-            
-            # If we still have processes running, wait
-            if running_processes:
-                time.sleep(10)
-    
-    # Calculate and show elapsed time
-    end_time = datetime.now()
-    elapsed = end_time - start_time
-    logger.info(f"All {len(all_processes)} market processes have completed!")
-    logger.info(f"Total elapsed time: {elapsed}")
-    
-    # Show summaries of the logs
-    show_log_summaries(markets_to_run)
+    for market in ENABLED_MARKETS:
+        full_path = f"/home/itdev/BuyinScraping/buyin_run_without_vpn.sh {market}"
+        try:
+            logger.info(f"Launching spider for {market}...")
+            subprocess.Popen(full_path, shell=True)
+            time.sleep(1)  # Optional: slight delay between launches
+        except Exception as e:
+            logger.error(f"Failed to launch {market}: {str(e)}")
 
 def get_log_file_path(spider_name):
     """Get the path to the most recent log file for a spider"""
@@ -486,29 +407,17 @@ def show_log_summaries(spider_names):
             logger.info(f"Spider: {spider} - No log file found")
 
 if __name__ == "__main__":
-    # Check if a specific market player was provided via command line
+    # Example: python -m main_without_vpn Amazon
     if len(sys.argv) > 1:
-        arg = sys.argv[1].strip()
-        logger = setup_logging()
-        logger.info(f"Command line argument: {arg}")
-        
-        # Check if this is a direct run request with _run_ prefix
+        arg = sys.argv[1]
+
         if arg.startswith("_run_"):
-            # Extract the market player name and run directly
-            market_player = arg[5:]
-            logger.info(f"Running directly for market_player={market_player}")
-            # When running directly, find the input file and execute the spider
+            market_player = arg.replace("_run_", "")
             execute_spider_in_current_window(market_player)
+
+        elif arg == "all":
+            open_all_enabled_spiders()
         else:
-            # Simple direct command with market player name
-            market_player = arg
-            logger.info(f"Opening new process for market_player={market_player}")
-            # When opening a new process, find the input file here
-            input_file, _ = find_input_file()
-            if input_file:
-                open_spider_process(market_player, input_file)
-            else:
-                logger.error(f"No input file found! Cannot run {market_player} spider.")
+            open_spider_process(arg)
     else:
-        # Default behavior: run all enabled markets in separate processes
-        open_all_spider_processes() 
+        open_all_enabled_spiders()

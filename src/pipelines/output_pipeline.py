@@ -66,12 +66,11 @@ class OutputPipeline:
             logger.info("No rows were updated, skipping output copy creation")
 
     def _save_spider_stats(self, stats):
-        """Save spider statistics to a JSON file"""
+        """Save spider statistics to a JSON file, overwriting any existing file"""
         try:
-            # Create a filename with datetime
-            now = datetime.now().strftime("%Y%m%d_%H%M%S")
+            # Create a filename without datetime to allow overwriting old stats
             spider_name = stats.get("spider_name", "unknown")
-            filename = f"{now}_{spider_name}_stats.json"
+            filename = f"{spider_name}_stats.json"
             
             # Full path to the stats file
             stats_file = os.path.join(self.stats_dir, filename)
@@ -79,7 +78,7 @@ class OutputPipeline:
             # Add a timestamp to the stats
             stats["timestamp"] = datetime.now().isoformat()
             
-            # Save to file
+            # Save to file (overwriting any existing file)
             with open(stats_file, 'w') as f:
                 json.dump(stats, f, indent=2)
                 
@@ -88,30 +87,25 @@ class OutputPipeline:
             logger.error(f"Error saving spider stats: {str(e)}")
 
     def _rename_file_with_date(self, input_file):
-        """Create a copy of the input file with a date in the filename rather than renaming the original"""
         if not input_file or not os.path.exists(input_file):
-            return input_file  # Return original file path if it doesn't exist
-            
+            return input_file
+
         try:
-            # Get directory, filename and extension
             directory = os.path.dirname(input_file)
             basename = os.path.basename(input_file)
             filename, ext = os.path.splitext(basename)
-        
-            if filename.startswith("[Output ") and "]" in filename:
-                filename = filename[filename.find("]")+1:].strip()
-            
-            # Create new filename with current date
+
             current_date = datetime.now().strftime("%Y%m%d")
-            new_filename = f"[Output {current_date}] {filename}{ext}"
+            # Avoid brackets
+            new_filename = f"Output_{current_date}_{filename}{ext}"
             new_path = os.path.join(directory, new_filename)
-            
-            # Copy the file instead of renaming it
-            # This way, the original file will still exist for other spiders
+
+            # Ensure file is not being written to
+            time.sleep(1)
             shutil.copy2(input_file, new_path)
-            
+
             logger.info(f"Created output copy: {new_filename}")
             return new_path
         except Exception as e:
             logger.error(f"Error creating file copy: {str(e)}")
-            return input_file  # Return original path on error
+            return input_file

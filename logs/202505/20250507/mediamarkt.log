@@ -1,0 +1,748 @@
+2025-05-07 07:54:51,606 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-07 07:54:51,607 [mediamarkt] INFO: 🔄 Proxy Manager: Disabled
+2025-05-07 07:54:51,608 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-07 07:54:53,236 [mediamarkt] INFO: undetected_chromedriver is already installed
+2025-05-07 07:54:53,332 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider with Selenium WebDriver
+2025-05-07 07:54:53,333 [mediamarkt] INFO: 🔍 Total products to scrape: 302
+2025-05-07 07:54:53,333 [mediamarkt] INFO: Initializing undetected_chromedriver for MediaMarkt...
+2025-05-07 07:54:59,614 [mediamarkt] ERROR: Failed to initialize undetected_chromedriver: Message: session not created: cannot connect to chrome at 127.0.0.1:51342
+from session not created: This version of ChromeDriver only supports Chrome version 136
+Current browser version is 135.0.7049.115
+Stacktrace:
+	GetHandleVerifier [0x0092FC53+61635]
+	GetHandleVerifier [0x0092FC94+61700]
+	(No symbol) [0x007505D3]
+	(No symbol) [0x0078A04B]
+	(No symbol) [0x00789069]
+	(No symbol) [0x0077F7AF]
+	(No symbol) [0x0077F5E6]
+	(No symbol) [0x007C8DF3]
+	(No symbol) [0x007C880A]
+	(No symbol) [0x007BD096]
+	(No symbol) [0x0078C840]
+	(No symbol) [0x0078D6A4]
+	GetHandleVerifier [0x00BB4573+2701795]
+	GetHandleVerifier [0x00BAFCF6+2683238]
+	GetHandleVerifier [0x00BCAA3E+2793134]
+	GetHandleVerifier [0x00946915+155013]
+	GetHandleVerifier [0x0094CFFD+181357]
+	GetHandleVerifier [0x009374A8+92440]
+	GetHandleVerifier [0x00937650+92864]
+	GetHandleVerifier [0x00922040+5296]
+	BaseThreadInitThunk [0x76785D49+25]
+	RtlInitializeExceptionChain [0x773DCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x773DCE91+561]
+
+2025-05-07 07:54:59,618 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 07:55:01,072 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 07:55:02,465 [mediamarkt] INFO: Processing product: BN2007402 - URL: https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html
+2025-05-07 07:55:02,466 [mediamarkt] INFO: 😴 Sleeping for 2.85 seconds before processing BN2007402
+2025-05-07 07:55:05,335 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver... (Attempt 1/2)
+2025-05-07 07:55:21,468 [mediamarkt] WARNING: Timeout waiting for page elements for BN2007402
+2025-05-07 07:55:21,511 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 07:55:21,512 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_modem-tcl-ik41ve1-lte-cat-4-czarny-1487525.html with WebDriver... (Attempt 2/2)
+2025-05-07 07:55:21,517 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 07:55:23,655 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 07:55:25,056 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 07:55:40,950 [mediamarkt] WARNING: Timeout waiting for page elements for BN2007402
+2025-05-07 07:55:40,983 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 07:55:40,984 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2007402 after 2 attempts - marking for retry
+2025-05-07 07:55:41,880 [mediamarkt] INFO: Processing product: BN2008152 - URL: https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny
+2025-05-07 07:55:41,881 [mediamarkt] INFO: 😴 Sleeping for 2.13 seconds before processing BN2008152
+2025-05-07 07:55:44,026 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver... (Attempt 1/2)
+2025-05-07 07:55:56,393 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008152
+2025-05-07 07:55:56,429 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 07:55:56,429 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/router-tcl-link-zone-mw63vk-4g-lte-cat-6-czarny with WebDriver... (Attempt 2/2)
+2025-05-07 07:55:56,430 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 07:55:58,581 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 07:55:59,955 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 07:56:15,899 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008152
+2025-05-07 07:56:15,944 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 07:56:15,945 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2008152 after 2 attempts - marking for retry
+2025-05-07 07:56:17,059 [mediamarkt] INFO: Processing product: BN2008556 - URL: https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html
+2025-05-07 07:56:17,064 [mediamarkt] INFO: 😴 Sleeping for 1.96 seconds before processing BN2008556
+2025-05-07 07:56:19,028 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html with WebDriver... (Attempt 1/2)
+2025-05-07 07:56:31,864 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008556
+2025-05-07 07:56:31,930 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 07:56:31,931 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-tcl-40se-6256gb-szary-1473598.html with WebDriver... (Attempt 2/2)
+2025-05-07 07:56:31,931 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 07:56:34,113 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 07:56:35,699 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 07:56:51,449 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008556
+2025-05-07 07:56:51,490 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 07:56:51,491 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2008556 after 2 attempts - marking for retry
+2025-05-07 07:56:52,606 [mediamarkt] INFO: Processing product: BN2008555 - URL: https://mediamarkt.pl/telefony-i-smartfony/smartfon-tcl-403-2-32gb-czarny
+2025-05-07 07:56:52,606 [mediamarkt] INFO: 😴 Sleeping for 2.08 seconds before processing BN2008555
+2025-05-07 07:56:54,702 [mediamarkt] INFO: Loading https://mediamarkt.pl/telefony-i-smartfony/smartfon-tcl-403-2-32gb-czarny with WebDriver... (Attempt 1/2)
+2025-05-07 07:57:07,156 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008555
+2025-05-07 07:57:07,196 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 07:57:07,196 [mediamarkt] INFO: Loading https://mediamarkt.pl/telefony-i-smartfony/smartfon-tcl-403-2-32gb-czarny with WebDriver... (Attempt 2/2)
+2025-05-07 07:57:07,197 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 07:57:09,357 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 07:57:10,766 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 07:57:27,065 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008555
+2025-05-07 07:57:27,123 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 07:57:27,124 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2008555 after 2 attempts - marking for retry
+2025-05-07 07:57:28,243 [mediamarkt] INFO: Processing product: BN2008834 - URL: https://mediamarkt.pl/pl/product/_telefon-komorkowy-tcl-onetouch-4042s-szary-1479080.html
+2025-05-07 07:57:28,243 [mediamarkt] INFO: 😴 Sleeping for 1.66 seconds before processing BN2008834
+2025-05-07 07:57:29,906 [mediamarkt] INFO: Refreshing browser after 5 products
+2025-05-07 07:57:29,906 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 07:57:32,072 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 07:57:33,521 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 07:57:33,522 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_telefon-komorkowy-tcl-onetouch-4042s-szary-1479080.html with WebDriver... (Attempt 1/2)
+2025-05-07 07:57:50,304 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008834
+2025-05-07 07:57:50,339 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 07:57:50,339 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_telefon-komorkowy-tcl-onetouch-4042s-szary-1479080.html with WebDriver... (Attempt 2/2)
+2025-05-07 07:57:50,341 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 07:57:52,478 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 07:57:53,815 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 07:58:09,761 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008834
+2025-05-07 07:58:09,815 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 07:58:09,816 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2008834 after 2 attempts - marking for retry
+2025-05-07 07:58:10,935 [mediamarkt] INFO: Processing product: BN2009333 - URL: https://mediamarkt.pl/pl/product/_telefon-komorkowy-tcl-onetouch-4043-szary-1481103.html
+2025-05-07 07:58:10,936 [mediamarkt] INFO: 😴 Sleeping for 1.90 seconds before processing BN2009333
+2025-05-07 07:58:12,848 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_telefon-komorkowy-tcl-onetouch-4043-szary-1481103.html with WebDriver... (Attempt 1/2)
+2025-05-07 07:58:25,349 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009333
+2025-05-07 07:58:25,384 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 07:58:25,385 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_telefon-komorkowy-tcl-onetouch-4043-szary-1481103.html with WebDriver... (Attempt 2/2)
+2025-05-07 07:58:25,386 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 07:58:27,533 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 07:58:28,899 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 07:58:44,801 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009333
+2025-05-07 07:58:44,844 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 07:58:44,845 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2009333 after 2 attempts - marking for retry
+2025-05-07 07:58:45,701 [mediamarkt] INFO: Processing product: BN2009357 - URL: https://mediamarkt.pl/pl/product/_smartfon-tcl-505-8128gb-szary-1481818.html
+2025-05-07 07:58:45,701 [mediamarkt] INFO: 😴 Sleeping for 2.54 seconds before processing BN2009357
+2025-05-07 07:58:48,242 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-tcl-505-8128gb-szary-1481818.html with WebDriver... (Attempt 1/2)
+2025-05-07 07:59:00,729 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009357
+2025-05-07 07:59:00,770 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 07:59:00,770 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-tcl-505-8128gb-szary-1481818.html with WebDriver... (Attempt 2/2)
+2025-05-07 07:59:00,770 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 07:59:02,950 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 07:59:04,403 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 07:59:36,533 [mediamarkt] INFO: ✅ Spider mediamarkt completed
+2025-05-07 07:59:36,534 [mediamarkt] INFO: 🕒 Total time: 00:04:44
+2025-05-07 07:59:36,535 [mediamarkt] INFO: 📊 Processed 6 items
+2025-05-07 07:59:36,536 [mediamarkt] INFO: ⚡ Performance: 1.26 items/minute
+2025-05-07 07:59:55,738 [mediamarkt] INFO: ==================================================
+2025-05-07 07:59:55,739 [mediamarkt] INFO: SPIDER RUN COMPLETED: mediamarkt
+2025-05-07 07:59:55,740 [mediamarkt] INFO: Items processed: 6
+2025-05-07 07:59:55,740 [mediamarkt] INFO: Duration: 00:05:04
+2025-05-07 07:59:55,742 [mediamarkt] INFO: Performance: 1.18 items/minute
+2025-05-07 07:59:55,742 [mediamarkt] INFO: ==================================================
+2025-05-07 07:59:56,373 [mediamarkt] INFO: Closing WebDriver...
+2025-05-07 08:02:03,361 [mediamarkt] INFO: 🕷️ Initializing mediamarkt spider
+2025-05-07 08:02:03,363 [mediamarkt] INFO: 🔄 Proxy Manager: Disabled
+2025-05-07 08:02:03,365 [mediamarkt] INFO: 🕒 Human-like delays: Enabled
+2025-05-07 08:02:06,262 [mediamarkt] INFO: undetected_chromedriver is already installed
+2025-05-07 08:02:07,534 [mediamarkt] INFO: 🕷️ Starting Mediamarkt spider with Selenium WebDriver
+2025-05-07 08:02:07,535 [mediamarkt] INFO: 🔍 Total products to scrape: 302
+2025-05-07 08:02:07,536 [mediamarkt] INFO: Initializing undetected_chromedriver for MediaMarkt...
+2025-05-07 08:02:13,796 [mediamarkt] ERROR: Failed to initialize undetected_chromedriver: Message: session not created: cannot connect to chrome at 127.0.0.1:57668
+from session not created: This version of ChromeDriver only supports Chrome version 136
+Current browser version is 135.0.7049.115
+Stacktrace:
+	GetHandleVerifier [0x00D0FC53+61635]
+	GetHandleVerifier [0x00D0FC94+61700]
+	(No symbol) [0x00B305D3]
+	(No symbol) [0x00B6A04B]
+	(No symbol) [0x00B69069]
+	(No symbol) [0x00B5F7AF]
+	(No symbol) [0x00B5F5E6]
+	(No symbol) [0x00BA8DF3]
+	(No symbol) [0x00BA880A]
+	(No symbol) [0x00B9D096]
+	(No symbol) [0x00B6C840]
+	(No symbol) [0x00B6D6A4]
+	GetHandleVerifier [0x00F94573+2701795]
+	GetHandleVerifier [0x00F8FCF6+2683238]
+	GetHandleVerifier [0x00FAAA3E+2793134]
+	GetHandleVerifier [0x00D26915+155013]
+	GetHandleVerifier [0x00D2CFFD+181357]
+	GetHandleVerifier [0x00D174A8+92440]
+	GetHandleVerifier [0x00D17650+92864]
+	GetHandleVerifier [0x00D02040+5296]
+	BaseThreadInitThunk [0x76785D49+25]
+	RtlInitializeExceptionChain [0x773DCF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x773DCE91+561]
+
+2025-05-07 08:02:13,798 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:02:15,208 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:02:16,750 [mediamarkt] INFO: Processing product: BN2009357 - URL: https://mediamarkt.pl/pl/product/_smartfon-tcl-505-8128gb-szary-1481818.html
+2025-05-07 08:02:16,751 [mediamarkt] INFO: 😴 Sleeping for 2.36 seconds before processing BN2009357
+2025-05-07 08:02:19,117 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-tcl-505-8128gb-szary-1481818.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:02:34,973 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009357
+2025-05-07 08:02:35,005 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:02:35,006 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-tcl-505-8128gb-szary-1481818.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:02:35,007 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:02:37,123 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:02:38,444 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:02:54,306 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009357
+2025-05-07 08:02:54,337 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:02:54,338 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2009357 after 2 attempts - marking for retry
+2025-05-07 08:02:55,423 [mediamarkt] INFO: Processing product: AN00000007 - URL: https://mediamarkt.pl/pl/product/_sluchawki-apple-airpods-max-pomaranczowy-mww73zma-1484968.html
+2025-05-07 08:02:55,423 [mediamarkt] INFO: 😴 Sleeping for 2.43 seconds before processing AN00000007
+2025-05-07 08:02:57,862 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_sluchawki-apple-airpods-max-pomaranczowy-mww73zma-1484968.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:03:10,169 [mediamarkt] WARNING: Timeout waiting for page elements for AN00000007
+2025-05-07 08:03:10,199 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:03:10,199 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_sluchawki-apple-airpods-max-pomaranczowy-mww73zma-1484968.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:03:10,200 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:03:12,325 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:03:13,613 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:03:29,131 [mediamarkt] WARNING: Timeout waiting for page elements for AN00000007
+2025-05-07 08:03:29,161 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:03:29,162 [mediamarkt] ERROR: ❌ CloudFlare blocked AN00000007 after 2 attempts - marking for retry
+2025-05-07 08:03:30,262 [mediamarkt] INFO: Processing product: AN00000008 - URL: https://mediamarkt.pl/komputery-i-tablety/rysik-apple-pencil-2-generacji-mu8f2zm-a
+2025-05-07 08:03:30,263 [mediamarkt] INFO: 😴 Sleeping for 2.73 seconds before processing AN00000008
+2025-05-07 08:03:33,013 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/rysik-apple-pencil-2-generacji-mu8f2zm-a with WebDriver... (Attempt 1/2)
+2025-05-07 08:03:45,481 [mediamarkt] WARNING: Timeout waiting for page elements for AN00000008
+2025-05-07 08:03:45,510 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:03:45,510 [mediamarkt] INFO: Loading https://mediamarkt.pl/komputery-i-tablety/rysik-apple-pencil-2-generacji-mu8f2zm-a with WebDriver... (Attempt 2/2)
+2025-05-07 08:03:45,511 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:03:47,651 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:03:49,090 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:04:05,075 [mediamarkt] WARNING: Timeout waiting for page elements for AN00000008
+2025-05-07 08:04:05,107 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:04:05,108 [mediamarkt] ERROR: ❌ CloudFlare blocked AN00000008 after 2 attempts - marking for retry
+2025-05-07 08:04:06,214 [mediamarkt] INFO: Processing product: AN00000219 - URL: https://mediamarkt.pl/pl/product/_smartwatch-apple-watch-series-10-gps-cellular-koperta-42mm-z-aluminium-w-kolorze-onyksu-z-paskiem-sportowym-sm-w-kolorze-czarnym-mwx63eta-1484945.html
+2025-05-07 08:04:06,215 [mediamarkt] INFO: 😴 Sleeping for 2.01 seconds before processing AN00000219
+2025-05-07 08:04:08,238 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartwatch-apple-watch-series-10-gps-cellular-koperta-42mm-z-aluminium-w-kolorze-onyksu-z-paskiem-sportowym-sm-w-kolorze-czarnym-mwx63eta-1484945.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:04:20,526 [mediamarkt] WARNING: Timeout waiting for page elements for AN00000219
+2025-05-07 08:04:20,558 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:04:20,558 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartwatch-apple-watch-series-10-gps-cellular-koperta-42mm-z-aluminium-w-kolorze-onyksu-z-paskiem-sportowym-sm-w-kolorze-czarnym-mwx63eta-1484945.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:04:20,559 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:04:22,699 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:04:23,997 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:04:40,051 [mediamarkt] WARNING: Timeout waiting for page elements for AN00000219
+2025-05-07 08:04:40,078 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:04:40,079 [mediamarkt] ERROR: ❌ CloudFlare blocked AN00000219 after 2 attempts - marking for retry
+2025-05-07 08:04:41,186 [mediamarkt] INFO: Processing product: AN00000220 - URL: https://mediamarkt.pl/pl/product/_smartwatch-apple-watch-series-10-gps-cellular-koperta-46mm-z-aluminium-w-kolorze-onyksu-z-paskiem-sportowym-ml-w-kolorze-czarnym-mwy43eta-1484930.html
+2025-05-07 08:04:41,186 [mediamarkt] INFO: 😴 Sleeping for 1.96 seconds before processing AN00000220
+2025-05-07 08:04:43,158 [mediamarkt] INFO: Refreshing browser after 5 products
+2025-05-07 08:04:43,159 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:04:45,305 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:04:46,693 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:04:46,694 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartwatch-apple-watch-series-10-gps-cellular-koperta-46mm-z-aluminium-w-kolorze-onyksu-z-paskiem-sportowym-ml-w-kolorze-czarnym-mwy43eta-1484930.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:05:02,675 [mediamarkt] WARNING: Timeout waiting for page elements for AN00000220
+2025-05-07 08:05:02,703 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:05:02,704 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartwatch-apple-watch-series-10-gps-cellular-koperta-46mm-z-aluminium-w-kolorze-onyksu-z-paskiem-sportowym-ml-w-kolorze-czarnym-mwy43eta-1484930.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:05:02,705 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:05:04,840 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:05:06,126 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:05:22,170 [mediamarkt] WARNING: Timeout waiting for page elements for AN00000220
+2025-05-07 08:05:22,199 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:05:22,200 [mediamarkt] ERROR: ❌ CloudFlare blocked AN00000220 after 2 attempts - marking for retry
+2025-05-07 08:05:23,293 [mediamarkt] INFO: Processing product: BN2007993 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-mini-83-2021-256gb-wi-fi-ksiezycowa-poswiata-mk7v3fda-1455410.html
+2025-05-07 08:05:23,295 [mediamarkt] INFO: 😴 Sleeping for 2.27 seconds before processing BN2007993
+2025-05-07 08:05:25,565 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-mini-83-2021-256gb-wi-fi-ksiezycowa-poswiata-mk7v3fda-1455410.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:05:37,438 [mediamarkt] WARNING: Timeout waiting for page elements for BN2007993
+2025-05-07 08:05:37,465 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:05:37,465 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-mini-83-2021-256gb-wi-fi-ksiezycowa-poswiata-mk7v3fda-1455410.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:05:37,466 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:05:39,601 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:05:40,918 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:05:56,948 [mediamarkt] WARNING: Timeout waiting for page elements for BN2007993
+2025-05-07 08:05:56,993 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:05:56,993 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2007993 after 2 attempts - marking for retry
+2025-05-07 08:05:58,085 [mediamarkt] INFO: Processing product: BN2010111 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-11-a16-11-generacji-2025-wi-fi-128-gb-srebrny-1491313.html
+2025-05-07 08:05:58,086 [mediamarkt] INFO: 😴 Sleeping for 1.89 seconds before processing BN2010111
+2025-05-07 08:05:59,981 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-11-a16-11-generacji-2025-wi-fi-128-gb-srebrny-1491313.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:06:12,567 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010111
+2025-05-07 08:06:12,597 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:06:12,598 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-11-a16-11-generacji-2025-wi-fi-128-gb-srebrny-1491313.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:06:12,599 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:06:14,731 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:06:16,060 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:06:31,869 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010111
+2025-05-07 08:06:31,907 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:06:31,908 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2010111 after 2 attempts - marking for retry
+2025-05-07 08:06:33,014 [mediamarkt] INFO: Processing product: BN2010112 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-11-a16-11-generacji-2025-256-gb-wi-fi-niebieski-1491318.html
+2025-05-07 08:06:33,015 [mediamarkt] INFO: 😴 Sleeping for 1.77 seconds before processing BN2010112
+2025-05-07 08:06:34,801 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-11-a16-11-generacji-2025-256-gb-wi-fi-niebieski-1491318.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:06:46,558 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010112
+2025-05-07 08:06:46,586 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:06:46,586 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-11-a16-11-generacji-2025-256-gb-wi-fi-niebieski-1491318.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:06:46,587 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:06:48,717 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:06:50,001 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:07:06,031 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010112
+2025-05-07 08:07:06,056 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:07:06,058 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2010112 after 2 attempts - marking for retry
+2025-05-07 08:07:07,136 [mediamarkt] INFO: Processing product: BN2010115 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-11-a16-11-generacji-2025-256-gb-wi-fi-cellular-srebrny-1491326.html
+2025-05-07 08:07:07,137 [mediamarkt] INFO: 😴 Sleeping for 1.74 seconds before processing BN2010115
+2025-05-07 08:07:08,879 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-11-a16-11-generacji-2025-256-gb-wi-fi-cellular-srebrny-1491326.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:07:20,572 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010115
+2025-05-07 08:07:20,600 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:07:20,600 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-11-a16-11-generacji-2025-256-gb-wi-fi-cellular-srebrny-1491326.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:07:20,601 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:07:22,743 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:07:24,099 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:07:40,403 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010115
+2025-05-07 08:07:40,436 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:07:40,595 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2010115 after 2 attempts - marking for retry
+2025-05-07 08:07:42,196 [mediamarkt] INFO: Processing product: BN2009578 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-11-m2-128gb-wi-fi-cellular-niebieski-muxe3hca-1482488.html
+2025-05-07 08:07:42,196 [mediamarkt] INFO: 😴 Sleeping for 2.40 seconds before processing BN2009578
+2025-05-07 08:07:44,599 [mediamarkt] INFO: Refreshing browser after 5 products
+2025-05-07 08:07:44,599 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:07:46,770 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:07:48,049 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:07:48,050 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-11-m2-128gb-wi-fi-cellular-niebieski-muxe3hca-1482488.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:08:04,371 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009578
+2025-05-07 08:08:04,404 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:08:04,405 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-11-m2-128gb-wi-fi-cellular-niebieski-muxe3hca-1482488.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:08:04,405 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:08:06,558 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:08:07,920 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:08:23,776 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009578
+2025-05-07 08:08:23,806 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:08:23,807 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2009578 after 2 attempts - marking for retry
+2025-05-07 08:08:24,897 [mediamarkt] INFO: Processing product: BN2009589 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-11-m2-128gb-wi-fi-gwiezdna-szarosc-muwc3hca-1482411.html
+2025-05-07 08:08:24,898 [mediamarkt] INFO: 😴 Sleeping for 2.48 seconds before processing BN2009589
+2025-05-07 08:08:27,390 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-11-m2-128gb-wi-fi-gwiezdna-szarosc-muwc3hca-1482411.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:08:39,164 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009589
+2025-05-07 08:08:39,199 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:08:39,200 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-11-m2-128gb-wi-fi-gwiezdna-szarosc-muwc3hca-1482411.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:08:39,201 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:08:41,326 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:08:42,636 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:08:58,309 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009589
+2025-05-07 08:08:58,343 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:08:58,344 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2009589 after 2 attempts - marking for retry
+2025-05-07 08:08:59,473 [mediamarkt] INFO: Processing product: BN2009584 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-2024-11-m2-1tb-wi-fi-cellular-ksiezycowa-poswiata-muxu3hca-1482500.html
+2025-05-07 08:08:59,474 [mediamarkt] INFO: 😴 Sleeping for 1.58 seconds before processing BN2009584
+2025-05-07 08:09:01,059 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-2024-11-m2-1tb-wi-fi-cellular-ksiezycowa-poswiata-muxu3hca-1482500.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:09:12,923 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009584
+2025-05-07 08:09:12,958 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:09:12,958 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-2024-11-m2-1tb-wi-fi-cellular-ksiezycowa-poswiata-muxu3hca-1482500.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:09:12,960 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:09:15,114 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:09:16,410 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:09:32,360 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009584
+2025-05-07 08:09:32,389 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:09:32,389 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2009584 after 2 attempts - marking for retry
+2025-05-07 08:09:33,476 [mediamarkt] INFO: Processing product: BN2009582 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-2024-11-m2-256gb-wi-fi-cellular-niebieski-muxj3hca-1482492.html
+2025-05-07 08:09:33,476 [mediamarkt] INFO: 😴 Sleeping for 2.23 seconds before processing BN2009582
+2025-05-07 08:09:35,726 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-2024-11-m2-256gb-wi-fi-cellular-niebieski-muxj3hca-1482492.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:09:47,446 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009582
+2025-05-07 08:09:47,473 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:09:47,474 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-2024-11-m2-256gb-wi-fi-cellular-niebieski-muxj3hca-1482492.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:09:47,475 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:09:49,622 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:09:50,904 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:10:06,913 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009582
+2025-05-07 08:10:06,943 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:10:06,944 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2009582 after 2 attempts - marking for retry
+2025-05-07 08:10:08,041 [mediamarkt] INFO: Processing product: BN2009588 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-11-m2-256gb-wi-fi-niebieski-muwh3hca-1482416.html
+2025-05-07 08:10:08,041 [mediamarkt] INFO: 😴 Sleeping for 1.85 seconds before processing BN2009588
+2025-05-07 08:10:09,910 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-11-m2-256gb-wi-fi-niebieski-muwh3hca-1482416.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:10:21,674 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009588
+2025-05-07 08:10:21,702 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:10:21,703 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-11-m2-256gb-wi-fi-niebieski-muwh3hca-1482416.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:10:21,704 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:10:23,837 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:10:25,299 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:10:40,877 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009588
+2025-05-07 08:10:40,910 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:10:40,911 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2009588 after 2 attempts - marking for retry
+2025-05-07 08:10:41,996 [mediamarkt] INFO: Processing product: BN2009583 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-2024-11-m2-512gb-wi-fi-cellular-ksiezycowa-poswiata-muxp3hca-1482497.html
+2025-05-07 08:10:41,997 [mediamarkt] INFO: 😴 Sleeping for 1.88 seconds before processing BN2009583
+2025-05-07 08:10:43,878 [mediamarkt] INFO: Refreshing browser after 5 products
+2025-05-07 08:10:43,878 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:10:46,085 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:10:47,392 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:10:47,393 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-2024-11-m2-512gb-wi-fi-cellular-ksiezycowa-poswiata-muxp3hca-1482497.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:11:03,430 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009583
+2025-05-07 08:11:03,458 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:11:03,458 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-2024-11-m2-512gb-wi-fi-cellular-ksiezycowa-poswiata-muxp3hca-1482497.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:11:03,459 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:11:05,592 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:11:06,920 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:11:22,956 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009583
+2025-05-07 08:11:22,985 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:11:22,986 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2009583 after 2 attempts - marking for retry
+2025-05-07 08:11:24,087 [mediamarkt] INFO: Processing product: BN2010117 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-11-m3-2025-128gb-wi-fi-gwiezdna-szarosc-1491329.html
+2025-05-07 08:11:24,087 [mediamarkt] INFO: 😴 Sleeping for 2.40 seconds before processing BN2010117
+2025-05-07 08:11:26,492 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-11-m3-2025-128gb-wi-fi-gwiezdna-szarosc-1491329.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:11:38,239 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010117
+2025-05-07 08:11:38,269 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:11:38,269 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-11-m3-2025-128gb-wi-fi-gwiezdna-szarosc-1491329.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:11:38,269 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:11:40,411 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:11:41,707 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:11:57,747 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010117
+2025-05-07 08:11:57,781 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:11:57,781 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2010117 after 2 attempts - marking for retry
+2025-05-07 08:11:58,903 [mediamarkt] INFO: Processing product: BN2010121 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-11-m3-2025-128gb-wi-fi-cellular-gwiezdna-szarosc-1491341.html
+2025-05-07 08:11:58,904 [mediamarkt] INFO: 😴 Sleeping for 2.59 seconds before processing BN2010121
+2025-05-07 08:12:01,510 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-11-m3-2025-128gb-wi-fi-cellular-gwiezdna-szarosc-1491341.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:12:13,335 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010121
+2025-05-07 08:12:13,362 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:12:13,362 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-11-m3-2025-128gb-wi-fi-cellular-gwiezdna-szarosc-1491341.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:12:13,363 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:12:15,500 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:12:16,828 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:12:32,807 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010121
+2025-05-07 08:12:32,835 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:12:32,837 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2010121 after 2 attempts - marking for retry
+2025-05-07 08:12:33,913 [mediamarkt] INFO: Processing product: BN2010118 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-11-m3-2025-256gb-wi-fi-niebieski-1491334.html
+2025-05-07 08:12:33,913 [mediamarkt] INFO: 😴 Sleeping for 2.81 seconds before processing BN2010118
+2025-05-07 08:12:36,737 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-11-m3-2025-256gb-wi-fi-niebieski-1491334.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:12:48,420 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010118
+2025-05-07 08:12:48,448 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:12:48,448 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-11-m3-2025-256gb-wi-fi-niebieski-1491334.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:12:48,449 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:12:50,591 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:12:51,900 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:13:07,936 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010118
+2025-05-07 08:13:07,971 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:13:07,972 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2010118 after 2 attempts - marking for retry
+2025-05-07 08:13:09,066 [mediamarkt] INFO: Processing product: BN2010122 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-11-m3-2025-256gb-wi-fi-cellular-gwiezdna-szarosc-1491344.html
+2025-05-07 08:13:09,067 [mediamarkt] INFO: 😴 Sleeping for 2.37 seconds before processing BN2010122
+2025-05-07 08:13:11,442 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-11-m3-2025-256gb-wi-fi-cellular-gwiezdna-szarosc-1491344.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:13:23,329 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010122
+2025-05-07 08:13:23,364 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:13:23,364 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-11-m3-2025-256gb-wi-fi-cellular-gwiezdna-szarosc-1491344.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:13:23,365 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:13:25,495 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:13:26,779 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:13:42,799 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010122
+2025-05-07 08:13:42,836 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:13:42,837 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2010122 after 2 attempts - marking for retry
+2025-05-07 08:13:43,914 [mediamarkt] INFO: Processing product: BN2009579 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m2-128gb-wi-fi-cellular-gwiezdna-szarosc-mv6q3hca-1482502.html
+2025-05-07 08:13:43,915 [mediamarkt] INFO: 😴 Sleeping for 2.18 seconds before processing BN2009579
+2025-05-07 08:13:46,105 [mediamarkt] INFO: Refreshing browser after 5 products
+2025-05-07 08:13:46,106 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:13:48,227 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:13:49,530 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:13:49,531 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m2-128gb-wi-fi-cellular-gwiezdna-szarosc-mv6q3hca-1482502.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:14:05,604 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009579
+2025-05-07 08:14:05,632 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:14:05,633 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m2-128gb-wi-fi-cellular-gwiezdna-szarosc-mv6q3hca-1482502.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:14:05,633 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:14:07,777 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:14:09,109 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:14:25,131 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009579
+2025-05-07 08:14:25,160 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:14:25,161 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2009579 after 2 attempts - marking for retry
+2025-05-07 08:14:26,257 [mediamarkt] INFO: Processing product: BN2009597 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m2-128gb-wi-fi-gwiezdna-szarosc-mv273hca-1482428.html
+2025-05-07 08:14:26,258 [mediamarkt] INFO: 😴 Sleeping for 1.93 seconds before processing BN2009597
+2025-05-07 08:14:28,206 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m2-128gb-wi-fi-gwiezdna-szarosc-mv273hca-1482428.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:14:39,922 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009597
+2025-05-07 08:14:39,956 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:14:39,957 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m2-128gb-wi-fi-gwiezdna-szarosc-mv273hca-1482428.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:14:39,957 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:14:42,094 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:14:43,380 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:14:59,403 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009597
+2025-05-07 08:14:59,434 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:14:59,434 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2009597 after 2 attempts - marking for retry
+2025-05-07 08:15:00,520 [mediamarkt] INFO: Processing product: BN2009590 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-2024-13-m2-256gb-wi-fi-cellular-ksiezycowa-poswiata-mv6x3hca-1482507.html
+2025-05-07 08:15:00,521 [mediamarkt] INFO: 😴 Sleeping for 2.81 seconds before processing BN2009590
+2025-05-07 08:15:03,334 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-2024-13-m2-256gb-wi-fi-cellular-ksiezycowa-poswiata-mv6x3hca-1482507.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:15:15,249 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009590
+2025-05-07 08:15:15,282 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:15:15,282 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-2024-13-m2-256gb-wi-fi-cellular-ksiezycowa-poswiata-mv6x3hca-1482507.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:15:15,284 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:15:17,435 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:15:18,752 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:15:34,598 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009590
+2025-05-07 08:15:34,631 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:15:34,632 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2009590 after 2 attempts - marking for retry
+2025-05-07 08:15:35,793 [mediamarkt] INFO: Processing product: BN2009591 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-2024-13-m2-512gb-wi-fi-cellular-niebieski-mv713hca-1482510.html
+2025-05-07 08:15:35,794 [mediamarkt] INFO: 😴 Sleeping for 2.29 seconds before processing BN2009591
+2025-05-07 08:15:38,089 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-2024-13-m2-512gb-wi-fi-cellular-niebieski-mv713hca-1482510.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:15:49,955 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009591
+2025-05-07 08:15:49,984 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:15:49,986 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-2024-13-m2-512gb-wi-fi-cellular-niebieski-mv713hca-1482510.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:15:49,987 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:15:52,103 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:15:53,457 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:16:09,509 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009591
+2025-05-07 08:16:09,543 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:16:09,544 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2009591 after 2 attempts - marking for retry
+2025-05-07 08:16:10,634 [mediamarkt] INFO: Processing product: BN2009596 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m2-256gb-wi-fi-niebieski-mv2f3hca-1482433.html
+2025-05-07 08:16:10,634 [mediamarkt] INFO: 😴 Sleeping for 2.28 seconds before processing BN2009596
+2025-05-07 08:16:12,933 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m2-256gb-wi-fi-niebieski-mv2f3hca-1482433.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:16:24,836 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009596
+2025-05-07 08:16:24,868 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:16:24,868 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m2-256gb-wi-fi-niebieski-mv2f3hca-1482433.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:16:24,869 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:16:27,014 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:16:28,398 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:16:44,116 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009596
+2025-05-07 08:16:44,147 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:16:44,147 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2009596 after 2 attempts - marking for retry
+2025-05-07 08:16:45,245 [mediamarkt] INFO: Processing product: BN2010125 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m3-2025-128gb-wi-fi-ksiezycowa-poswiata-1491348.html
+2025-05-07 08:16:45,245 [mediamarkt] INFO: 😴 Sleeping for 2.06 seconds before processing BN2010125
+2025-05-07 08:16:47,319 [mediamarkt] INFO: Refreshing browser after 5 products
+2025-05-07 08:16:47,319 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:16:49,448 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:16:50,751 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:16:50,752 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m3-2025-128gb-wi-fi-ksiezycowa-poswiata-1491348.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:17:06,749 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010125
+2025-05-07 08:17:06,776 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:17:06,777 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m3-2025-128gb-wi-fi-ksiezycowa-poswiata-1491348.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:17:06,778 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:17:08,913 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:17:10,229 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:17:25,833 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010125
+2025-05-07 08:17:25,862 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:17:25,862 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2010125 after 2 attempts - marking for retry
+2025-05-07 08:17:27,025 [mediamarkt] INFO: Processing product: BN2010129 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m3-2025-128gb-wi-fi-cellular-niebieski-1491359.html
+2025-05-07 08:17:27,027 [mediamarkt] INFO: 😴 Sleeping for 1.61 seconds before processing BN2010129
+2025-05-07 08:17:28,646 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m3-2025-128gb-wi-fi-cellular-niebieski-1491359.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:17:40,228 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010129
+2025-05-07 08:17:40,257 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:17:40,258 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m3-2025-128gb-wi-fi-cellular-niebieski-1491359.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:17:40,259 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:17:42,404 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:17:43,691 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:17:59,955 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010129
+2025-05-07 08:17:59,986 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:17:59,987 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2010129 after 2 attempts - marking for retry
+2025-05-07 08:18:01,085 [mediamarkt] INFO: Processing product: BN2010126 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m3-2025-256gb-wi-fi-ksiezycowa-poswiata-1491352.html
+2025-05-07 08:18:01,086 [mediamarkt] INFO: 😴 Sleeping for 1.51 seconds before processing BN2010126
+2025-05-07 08:18:02,610 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m3-2025-256gb-wi-fi-ksiezycowa-poswiata-1491352.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:18:14,356 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010126
+2025-05-07 08:18:14,389 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:18:14,390 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m3-2025-256gb-wi-fi-ksiezycowa-poswiata-1491352.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:18:14,390 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:18:16,531 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:18:17,817 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:18:33,836 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010126
+2025-05-07 08:18:33,869 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:18:33,870 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2010126 after 2 attempts - marking for retry
+2025-05-07 08:18:34,955 [mediamarkt] INFO: Processing product: BN2010130 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m3-2025-256gb-wi-fi-cellular-niebieski-1491361.html
+2025-05-07 08:18:34,955 [mediamarkt] INFO: 😴 Sleeping for 1.81 seconds before processing BN2010130
+2025-05-07 08:18:36,777 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m3-2025-256gb-wi-fi-cellular-niebieski-1491361.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:18:48,578 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010130
+2025-05-07 08:18:48,622 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:18:48,623 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m3-2025-256gb-wi-fi-cellular-niebieski-1491361.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:18:48,624 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:18:50,766 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:18:52,089 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:19:08,127 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010130
+2025-05-07 08:19:08,161 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:19:08,161 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2010130 after 2 attempts - marking for retry
+2025-05-07 08:19:09,245 [mediamarkt] INFO: Processing product: BN2010131 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m3-2025-512gb-wi-fi-cellular-gwiezdna-szarosc-1491376.html
+2025-05-07 08:19:09,246 [mediamarkt] INFO: 😴 Sleeping for 2.81 seconds before processing BN2010131
+2025-05-07 08:19:12,060 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m3-2025-512gb-wi-fi-cellular-gwiezdna-szarosc-1491376.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:19:24,310 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010131
+2025-05-07 08:19:24,339 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:19:24,340 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-air-13-m3-2025-512gb-wi-fi-cellular-gwiezdna-szarosc-1491376.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:19:24,340 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:19:26,496 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:19:27,852 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:19:43,899 [mediamarkt] WARNING: Timeout waiting for page elements for BN2010131
+2025-05-07 08:19:43,925 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:19:43,926 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2010131 after 2 attempts - marking for retry
+2025-05-07 08:19:45,003 [mediamarkt] INFO: Processing product: BN2009599 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-2024-11-m4-1tb-wi-fi-cellular-srebrny-mvw63hca-1482455.html
+2025-05-07 08:19:45,003 [mediamarkt] INFO: 😴 Sleeping for 2.59 seconds before processing BN2009599
+2025-05-07 08:19:47,597 [mediamarkt] INFO: Refreshing browser after 5 products
+2025-05-07 08:19:47,598 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:19:49,744 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:19:51,045 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:19:51,046 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-2024-11-m4-1tb-wi-fi-cellular-srebrny-mvw63hca-1482455.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:20:07,030 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009599
+2025-05-07 08:20:07,064 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:20:07,064 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-2024-11-m4-1tb-wi-fi-cellular-srebrny-mvw63hca-1482455.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:20:07,065 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:20:09,201 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:20:10,515 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:20:26,757 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009599
+2025-05-07 08:20:26,784 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:20:26,784 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2009599 after 2 attempts - marking for retry
+2025-05-07 08:20:27,893 [mediamarkt] INFO: Processing product: BN2009580 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-2024-11-m4-256gb-wi-fi-cellular-srebrny-mvw23hca-1482453.html
+2025-05-07 08:20:27,894 [mediamarkt] INFO: 😴 Sleeping for 1.79 seconds before processing BN2009580
+2025-05-07 08:20:29,695 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-2024-11-m4-256gb-wi-fi-cellular-srebrny-mvw23hca-1482453.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:20:41,413 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009580
+2025-05-07 08:20:41,444 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:20:41,444 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-2024-11-m4-256gb-wi-fi-cellular-srebrny-mvw23hca-1482453.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:20:41,445 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:20:43,575 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:20:44,863 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:21:00,881 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009580
+2025-05-07 08:21:00,934 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:21:00,935 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2009580 after 2 attempts - marking for retry
+2025-05-07 08:21:02,024 [mediamarkt] INFO: Processing product: BN2009605 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-11-m4-256gb-wi-fi-srebrny-mvv93hca-1482446.html
+2025-05-07 08:21:02,025 [mediamarkt] INFO: 😴 Sleeping for 2.25 seconds before processing BN2009605
+2025-05-07 08:21:04,287 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-11-m4-256gb-wi-fi-srebrny-mvv93hca-1482446.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:21:15,956 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009605
+2025-05-07 08:21:15,988 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:21:15,988 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-11-m4-256gb-wi-fi-srebrny-mvv93hca-1482446.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:21:15,989 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:21:18,111 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:21:19,421 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:21:35,468 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009605
+2025-05-07 08:21:35,496 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:21:35,498 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2009605 after 2 attempts - marking for retry
+2025-05-07 08:21:36,604 [mediamarkt] INFO: Processing product: BN2009598 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-2024-11-m4-512gb-wi-fi-cellular-srebrny-mvw43hca-1482454.html
+2025-05-07 08:21:36,605 [mediamarkt] INFO: 😴 Sleeping for 1.93 seconds before processing BN2009598
+2025-05-07 08:21:38,551 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-2024-11-m4-512gb-wi-fi-cellular-srebrny-mvw43hca-1482454.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:21:50,837 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009598
+2025-05-07 08:21:50,866 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:21:50,867 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-2024-11-m4-512gb-wi-fi-cellular-srebrny-mvw43hca-1482454.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:21:50,868 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:21:53,003 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:21:54,314 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:22:10,098 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009598
+2025-05-07 08:22:10,130 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:22:10,132 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2009598 after 2 attempts - marking for retry
+2025-05-07 08:22:11,233 [mediamarkt] INFO: Processing product: BN2008657 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-129-6-gen-128gb-wi-fi-gwiezdna-szarosc-mnxp3fda-1471014.html
+2025-05-07 08:22:11,234 [mediamarkt] INFO: 😴 Sleeping for 1.85 seconds before processing BN2008657
+2025-05-07 08:22:13,092 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-129-6-gen-128gb-wi-fi-gwiezdna-szarosc-mnxp3fda-1471014.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:22:25,383 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008657
+2025-05-07 08:22:25,418 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:22:25,419 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-129-6-gen-128gb-wi-fi-gwiezdna-szarosc-mnxp3fda-1471014.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:22:25,419 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:22:27,555 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:22:28,856 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:22:44,909 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008657
+2025-05-07 08:22:44,936 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:22:44,937 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2008657 after 2 attempts - marking for retry
+2025-05-07 08:22:46,032 [mediamarkt] INFO: Processing product: BN2008659 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-129-6-gen-256gb-wi-fi-srebrny-mnxt3fda-1471017.html
+2025-05-07 08:22:46,032 [mediamarkt] INFO: 😴 Sleeping for 3.00 seconds before processing BN2008659
+2025-05-07 08:22:49,046 [mediamarkt] INFO: Refreshing browser after 5 products
+2025-05-07 08:22:49,047 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:22:51,180 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:22:52,483 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:22:52,484 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-129-6-gen-256gb-wi-fi-srebrny-mnxt3fda-1471017.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:23:08,249 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008659
+2025-05-07 08:23:08,283 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:23:08,284 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-129-6-gen-256gb-wi-fi-srebrny-mnxt3fda-1471017.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:23:08,284 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:23:10,402 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:23:11,698 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:23:27,697 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008659
+2025-05-07 08:23:27,732 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:23:27,733 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2008659 after 2 attempts - marking for retry
+2025-05-07 08:23:28,823 [mediamarkt] INFO: Processing product: BN2008661 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-129-6-gen-512gb-wi-fi-srebrny-mnxv3fda-1471022.html
+2025-05-07 08:23:28,824 [mediamarkt] INFO: 😴 Sleeping for 2.09 seconds before processing BN2008661
+2025-05-07 08:23:30,927 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-129-6-gen-512gb-wi-fi-srebrny-mnxv3fda-1471022.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:23:43,028 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008661
+2025-05-07 08:23:43,059 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:23:43,060 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-129-6-gen-512gb-wi-fi-srebrny-mnxv3fda-1471022.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:23:43,060 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:23:45,194 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:23:46,511 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:24:02,496 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008661
+2025-05-07 08:24:02,528 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:24:02,529 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2008661 after 2 attempts - marking for retry
+2025-05-07 08:24:03,613 [mediamarkt] INFO: Processing product: BN2009581 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-13-m4-256gb-wi-fi-cellular-gwiezdna-czern-mvxr3hca-1482520.html
+2025-05-07 08:24:03,614 [mediamarkt] INFO: 😴 Sleeping for 1.92 seconds before processing BN2009581
+2025-05-07 08:24:05,542 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-13-m4-256gb-wi-fi-cellular-gwiezdna-czern-mvxr3hca-1482520.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:24:17,366 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009581
+2025-05-07 08:24:17,411 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:24:17,411 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-13-m4-256gb-wi-fi-cellular-gwiezdna-czern-mvxr3hca-1482520.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:24:17,412 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:24:19,544 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:24:20,854 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:24:36,873 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009581
+2025-05-07 08:24:36,901 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:24:36,902 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2009581 after 2 attempts - marking for retry
+2025-05-07 08:24:38,003 [mediamarkt] INFO: Processing product: BN2009613 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-13-m4-256gb-wi-fi-gwiezdna-czern-mvx23hca-1482457.html
+2025-05-07 08:24:38,004 [mediamarkt] INFO: 😴 Sleeping for 2.40 seconds before processing BN2009613
+2025-05-07 08:24:40,414 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-13-m4-256gb-wi-fi-gwiezdna-czern-mvx23hca-1482457.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:24:52,798 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009613
+2025-05-07 08:24:52,834 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:24:52,834 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-13-m4-256gb-wi-fi-gwiezdna-czern-mvx23hca-1482457.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:24:52,835 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:24:54,985 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:24:56,287 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:25:12,306 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009613
+2025-05-07 08:25:12,336 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:25:12,337 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2009613 after 2 attempts - marking for retry
+2025-05-07 08:25:13,445 [mediamarkt] INFO: Processing product: BN2009606 - URL: https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-13-m4-512gb-wi-fi-cellular-gwiezdna-czern-mvxu3hca-1482521.html
+2025-05-07 08:25:13,446 [mediamarkt] INFO: 😴 Sleeping for 2.58 seconds before processing BN2009606
+2025-05-07 08:25:16,042 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-13-m4-512gb-wi-fi-cellular-gwiezdna-czern-mvxu3hca-1482521.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:25:28,206 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009606
+2025-05-07 08:25:28,240 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:25:28,241 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_tablet-apple-ipad-pro-13-m4-512gb-wi-fi-cellular-gwiezdna-czern-mvxu3hca-1482521.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:25:28,241 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:25:30,385 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:25:31,674 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:25:47,655 [mediamarkt] WARNING: Timeout waiting for page elements for BN2009606
+2025-05-07 08:25:47,684 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:25:47,685 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2009606 after 2 attempts - marking for retry
+2025-05-07 08:25:48,775 [mediamarkt] INFO: Processing product: BN2007614 - URL: https://mediamarkt.pl/pl/product/_smartfon-apple-iphone-12-256gb-zielony-mgjl3pma-1435127.html
+2025-05-07 08:25:48,776 [mediamarkt] INFO: 😴 Sleeping for 2.00 seconds before processing BN2007614
+2025-05-07 08:25:50,783 [mediamarkt] INFO: Refreshing browser after 5 products
+2025-05-07 08:25:50,784 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:25:52,927 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:25:54,254 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:25:54,255 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-apple-iphone-12-256gb-zielony-mgjl3pma-1435127.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:26:10,096 [mediamarkt] WARNING: Timeout waiting for page elements for BN2007614
+2025-05-07 08:26:10,125 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:26:10,126 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-apple-iphone-12-256gb-zielony-mgjl3pma-1435127.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:26:10,126 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:26:12,262 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:26:13,548 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:26:29,343 [mediamarkt] WARNING: Timeout waiting for page elements for BN2007614
+2025-05-07 08:26:29,374 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:26:29,375 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2007614 after 2 attempts - marking for retry
+2025-05-07 08:26:30,448 [mediamarkt] INFO: Processing product: BN2007612 - URL: https://mediamarkt.pl/pl/product/_smartfon-apple-iphone-12-64gb-productred-mgj73pma-1435115.html
+2025-05-07 08:26:30,448 [mediamarkt] INFO: 😴 Sleeping for 2.91 seconds before processing BN2007612
+2025-05-07 08:26:33,365 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-apple-iphone-12-64gb-productred-mgj73pma-1435115.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:26:45,157 [mediamarkt] WARNING: Timeout waiting for page elements for BN2007612
+2025-05-07 08:26:45,205 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:26:45,205 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-apple-iphone-12-64gb-productred-mgj73pma-1435115.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:26:45,206 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:26:47,363 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:26:48,652 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:27:04,454 [mediamarkt] WARNING: Timeout waiting for page elements for BN2007612
+2025-05-07 08:27:04,490 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:27:04,490 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2007612 after 2 attempts - marking for retry
+2025-05-07 08:27:05,620 [mediamarkt] INFO: Processing product: BN2007979 - URL: https://mediamarkt.pl/pl/product/_smartfon-apple-iphone-13-128gb-ksiezycowa-poswiata-mlpg3pma-1455325.html
+2025-05-07 08:27:05,621 [mediamarkt] INFO: 😴 Sleeping for 1.62 seconds before processing BN2007979
+2025-05-07 08:27:07,254 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-apple-iphone-13-128gb-ksiezycowa-poswiata-mlpg3pma-1455325.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:27:19,056 [mediamarkt] WARNING: Timeout waiting for page elements for BN2007979
+2025-05-07 08:27:19,092 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:27:19,093 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-apple-iphone-13-128gb-ksiezycowa-poswiata-mlpg3pma-1455325.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:27:19,094 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:27:21,256 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:27:22,551 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:27:38,572 [mediamarkt] WARNING: Timeout waiting for page elements for BN2007979
+2025-05-07 08:27:38,602 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:27:38,603 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2007979 after 2 attempts - marking for retry
+2025-05-07 08:27:39,730 [mediamarkt] INFO: Processing product: BN2007981 - URL: https://mediamarkt.pl/pl/product/_smartfon-apple-iphone-13-512gb-ksiezycowa-poswiata-mlqd3pma-1455335.html
+2025-05-07 08:27:39,730 [mediamarkt] INFO: 😴 Sleeping for 2.54 seconds before processing BN2007981
+2025-05-07 08:27:42,289 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-apple-iphone-13-512gb-ksiezycowa-poswiata-mlqd3pma-1455335.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:27:54,964 [mediamarkt] WARNING: Timeout waiting for page elements for BN2007981
+2025-05-07 08:27:54,994 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:27:54,995 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-apple-iphone-13-512gb-ksiezycowa-poswiata-mlqd3pma-1455335.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:27:54,995 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:27:57,121 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:27:58,422 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:28:14,707 [mediamarkt] WARNING: Timeout waiting for page elements for BN2007981
+2025-05-07 08:28:14,737 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:28:14,738 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2007981 after 2 attempts - marking for retry
+2025-05-07 08:28:15,873 [mediamarkt] INFO: Processing product: BN2008517 - URL: https://mediamarkt.pl/pl/product/_smartfon-apple-iphone-14-128gb-fioletowy-mpv03pxa-1469041.html
+2025-05-07 08:28:15,874 [mediamarkt] INFO: 😴 Sleeping for 2.24 seconds before processing BN2008517
+2025-05-07 08:28:18,124 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-apple-iphone-14-128gb-fioletowy-mpv03pxa-1469041.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:28:30,426 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008517
+2025-05-07 08:28:30,456 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:28:30,457 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-apple-iphone-14-128gb-fioletowy-mpv03pxa-1469041.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:28:30,458 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:28:32,597 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:28:33,891 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:28:49,894 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008517
+2025-05-07 08:28:49,922 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:28:49,923 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2008517 after 2 attempts - marking for retry
+2025-05-07 08:28:51,014 [mediamarkt] INFO: Processing product: BN2008518 - URL: https://mediamarkt.pl/pl/product/_smartfon-apple-iphone-14-256gb-polnoc-mpvx3pxa-1469044.html
+2025-05-07 08:28:51,015 [mediamarkt] INFO: 😴 Sleeping for 2.83 seconds before processing BN2008518
+2025-05-07 08:28:53,856 [mediamarkt] INFO: Refreshing browser after 5 products
+2025-05-07 08:28:53,856 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:28:56,005 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:28:57,289 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:28:57,290 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-apple-iphone-14-256gb-polnoc-mpvx3pxa-1469044.html with WebDriver... (Attempt 1/2)
+2025-05-07 08:29:13,335 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008518
+2025-05-07 08:29:13,366 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 1
+2025-05-07 08:29:13,367 [mediamarkt] INFO: Loading https://mediamarkt.pl/pl/product/_smartfon-apple-iphone-14-256gb-polnoc-mpvx3pxa-1469044.html with WebDriver... (Attempt 2/2)
+2025-05-07 08:29:13,368 [mediamarkt] INFO: Refreshing Chrome WebDriver to prevent memory leaks
+2025-05-07 08:29:15,512 [mediamarkt] INFO: Initializing regular Chrome WebDriver for MediaMarkt...
+2025-05-07 08:29:16,814 [mediamarkt] INFO: WebDriver initialized successfully
+2025-05-07 08:29:32,736 [mediamarkt] WARNING: Timeout waiting for page elements for BN2008518
+2025-05-07 08:29:32,773 [mediamarkt] WARNING: ❌ Detected CloudFlare protection on attempt 2
+2025-05-07 08:29:32,773 [mediamarkt] ERROR: ❌ CloudFlare blocked BN2008518 after 2 attempts - marking for retry
+2025-05-07 08:29:33,983 [mediamarkt] INFO: Processing product: BN2008519 - URL: https://mediamarkt.pl/pl/product/_smartfon-apple-iphone-14-512gb-ksiezycowa-poswiata-mpx33pxa-1469050.html
+2025-05-07 08:29:33,985 [mediamarkt] INFO: 😴 Sleeping for 2.88 seconds before processing BN2008519

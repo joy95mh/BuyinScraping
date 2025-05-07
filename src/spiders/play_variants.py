@@ -133,18 +133,6 @@ class PlayVariants(BaseSpider):
         price_link = row["PriceLink"]
         url_id = row.get("BNCode", "unknown")
         market_player = row.get("MarketPlayer", self.market_player)
-        if response.status == 404:
-            # Create product item with default values for missing product
-            item = ProductItem()
-            item["price_link"] = row["PriceLink"]
-            item["xpath_result"] = "0.00"
-            item["out_of_stock"] = "Outstock"
-            item["market_player"] = self.market_player
-            if "BNCode" in row:
-                item["bn_code"] = row["BNCode"]
-            
-            self.log_info(f"Setting default values for 404 {url_id}: price=0.00, status=Outstock")
-            yield item
         try:
             price = ""
             stock_status = ""

@@ -1,0 +1,27 @@
+2025-05-07 07:53:11,385 [oleole] INFO: 🕷️ Initializing oleole spider
+2025-05-07 07:53:11,387 [oleole] INFO: 🔄 Proxy Manager: Enabled
+2025-05-07 07:53:11,387 [oleole] INFO: 🕒 Human-like delays: Enabled
+2025-05-07 07:53:12,517 [oleole] INFO: 🕷️ Starting Oleole spider with custom headers
+2025-05-07 07:53:12,518 [oleole] INFO: 🔍 Total products to scrape: 274
+2025-05-07 07:53:12,518 [oleole] INFO: Using proxy manager with your own proxy first
+2025-05-07 07:53:12,519 [oleole] INFO: 🔄 Getting proxies from https://free-proxy-list.net/
+2025-05-07 07:53:13,049 [oleole] INFO: 🔍 Found 22 HTTPS proxies out of 300 total proxies
+2025-05-07 07:53:13,050 [oleole] INFO:   Proxy #1: 213.230.110.143:3128 (HTTPS)
+2025-05-07 07:53:13,050 [oleole] INFO:   Proxy #2: 114.35.177.252:8089 (HTTPS)
+2025-05-07 07:53:13,051 [oleole] INFO:   Proxy #3: 8.217.124.178:49440 (HTTPS)
+2025-05-07 07:53:13,051 [oleole] INFO:   Proxy #4: 47.251.122.81:8888 (HTTPS)
+2025-05-07 07:53:13,052 [oleole] INFO:   Proxy #5: 159.69.57.20:8880 (HTTPS)
+2025-05-07 07:53:13,052 [oleole] INFO:   ... and 17 more
+2025-05-07 07:53:13,052 [oleole] INFO: Added your own proxy + 22 public proxies (limited to 100 total)
+2025-05-07 07:53:13,054 [oleole] INFO: 🔄 Starting with your own proxy: 192.168.101.27:8080 (1/23)
+2025-05-07 07:53:13,059 [oleole] INFO: Using proxy URL: http://192.168.101.27:8080
+2025-05-07 07:53:25,598 [oleole] ERROR: ❌ Error [unknown]: ConnectError occurred with http://192.168.101.27:8080: An error occurred while connecting: 10053: An established connection was aborted by the software in your host machine..
+2025-05-07 07:53:25,599 [oleole] INFO: 🔄 Moving to next proxy (1/23)
+2025-05-07 07:53:25,600 [oleole] INFO: ⏱️ Waiting 2 seconds before trying next proxy (from oleole's settings)
+2025-05-07 07:53:27,616 [oleole] INFO: 🔄 Trying with public HTTPS proxy: 213.230.110.143:3128
+2025-05-07 07:53:27,624 [oleole] INFO: ==================================================
+2025-05-07 07:53:27,625 [oleole] INFO: SPIDER RUN COMPLETED: oleole
+2025-05-07 07:53:27,626 [oleole] INFO: Items processed: 0
+2025-05-07 07:53:27,627 [oleole] INFO: Duration: 00:00:16
+2025-05-07 07:53:27,627 [oleole] INFO: Performance: 0.00 items/minute
+2025-05-07 07:53:27,628 [oleole] INFO: ==================================================
